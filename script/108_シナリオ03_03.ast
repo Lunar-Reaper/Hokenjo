@@ -1288,7 +1288,7 @@ en={
 vo={
 {"vo",file="fem_y06_00011",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「あの、風見先生……。悩みを聞いてもらって、いいですか？」",
@@ -1317,7 +1317,7 @@ en={
 vo={
 {"vo",file="fem_y07_00013",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「キャー！」",
@@ -1333,7 +1333,7 @@ en={
 vo={
 {"vo",file="fem_y08_00012",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「ありがとうございます！」",
@@ -1397,7 +1397,7 @@ en={
 vo={
 {"vo",file="fem_y06_00012",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「じゃあ、先生……。これから話すこと、誰にも言わないでくださいね？」",
@@ -1461,7 +1461,7 @@ en={
 vo={
 {"vo",file="fem_y06_00013",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「えっと……これから話すのは、私じゃなくて、友だちのことなんですけど……」",
@@ -1501,7 +1501,7 @@ en={
 vo={
 {"vo",file="fem_y06_00014",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「実は、その友だちは……恋をしているみたいなんです」",
@@ -1541,7 +1541,7 @@ en={
 vo={
 {"vo",file="fem_y06_00015",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「友だちには、好きな人がいるんですけど……でもそれは、決して結ばれない恋なんです」",
@@ -1557,7 +1557,7 @@ en={
 vo={
 {"vo",file="fem_y06_00016",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「だから悩んでいるんです……」",
@@ -1586,7 +1586,7 @@ en={
 vo={
 {"vo",file="fem_y06_00017",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「それは……身分違いと言いますか……」",
@@ -1615,7 +1615,7 @@ en={
 vo={
 {"vo",file="fem_y06_00018",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「え、えっと……」",
@@ -1631,7 +1631,7 @@ en={
 vo={
 {"vo",file="fem_y06_00019",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「あうう……」",
@@ -1647,7 +1647,7 @@ en={
 vo={
 {"vo",file="fem_y07_00014",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「がんばって！」",
@@ -1663,7 +1663,7 @@ en={
 vo={
 {"vo",file="fem_y08_00013",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「恋の悩み、先生にちゃんと聞いてもらおう！」",
@@ -1679,7 +1679,7 @@ en={
 vo={
 {"vo",file="fem_y07_00015",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「そうすれば、その恋が脈ありかどうかわかるし！」",
@@ -1695,7 +1695,7 @@ en={
 vo={
 {"vo",file="fem_y08_00014",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「私たち、応援してるから！」",
@@ -1747,7 +1747,7 @@ en={
 vo={
 {"vo",file="fem_y06_00020",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「あ、あの、先生！」",
@@ -1763,7 +1763,7 @@ en={
 vo={
 {"vo",file="fem_y06_00021",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「身分違いというのは……先生と生徒の関係のことなんです！」",
@@ -1803,7 +1803,7 @@ en={
 vo={
 {"vo",file="fem_y06_00022",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「風見先生は……先生と生徒の間で、恋愛してもいいって思いますか！」",
@@ -1832,7 +1832,7 @@ en={
 vo={
 {"vo",file="fem_y07_00016",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「先生、困惑してる……」",
@@ -1848,7 +1848,7 @@ en={
 vo={
 {"vo",file="fem_y08_00015",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「さすがにあからさま過ぎた……？」",
@@ -1901,7 +1901,7 @@ en={
 vo={
 {"vo",file="fem_y06_00023",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「せ、先生……」",
@@ -1917,7 +1917,7 @@ en={
 vo={
 {"vo",file="fem_y06_00024",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「ほんとですかっ、先生！！」",
@@ -1984,7 +1984,7 @@ en={
 vo={
 {"vo",file="fem_y06_00025",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「……え？　片想いの場合は？」",
@@ -2013,7 +2013,7 @@ en={
 vo={
 {"vo",file="fem_y06_00026",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「た、たしかに……」",
@@ -2029,7 +2029,7 @@ en={
 vo={
 {"vo",file="fem_y07_00017",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「じゃあ、両想いになったあとの問題点を教えてください！」",
@@ -2045,7 +2045,7 @@ en={
 vo={
 {"vo",file="fem_y08_00016",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「その解決方法も教えてください！」",
@@ -2294,7 +2294,7 @@ en={
 vo={
 {"vo",file="fem_y06_00027",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「風見先生……！」",
@@ -2310,7 +2310,7 @@ en={
 vo={
 {"vo",file="fem_y07_00018",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「じゃあ先生も、生徒と恋愛ができるんですね！」",
@@ -2326,7 +2326,7 @@ en={
 vo={
 {"vo",file="fem_y08_00017",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「いつでもウェルカムってことでいいんですね！？」",
@@ -2355,7 +2355,7 @@ en={
 vo={
 {"vo",file="fem_y06_00028",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「たとえばの話でいいんです！」",
@@ -2371,7 +2371,7 @@ en={
 vo={
 {"vo",file="fem_y07_00019",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「風見先生はこの学校の女子生徒と恋愛できるのかどうか、それを聞かせてください！」",
@@ -2387,7 +2387,7 @@ en={
 vo={
 {"vo",file="fem_y08_00018",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「ここで聞いたことは内緒にします！　ここだけの話にしておきますから！」",
@@ -2455,7 +2455,7 @@ en={
 vo={
 {"vo",file="fem_y06_00029",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「キャー！」",
@@ -2471,7 +2471,7 @@ en={
 vo={
 {"vo",file="fem_y07_00020",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「キャー！」",
@@ -2487,7 +2487,7 @@ en={
 vo={
 {"vo",file="fem_y08_00019",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「キャー！」",
@@ -2537,7 +2537,7 @@ en={
 vo={
 {"vo",file="fem_y06_00031",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「ありがとうございます、先生！」",
@@ -2553,7 +2553,7 @@ en={
 vo={
 {"vo",file="fem_y07_00022",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「生きる希望が湧きました！」",
@@ -2569,7 +2569,7 @@ en={
 vo={
 {"vo",file="fem_y08_00021",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「生きる希望っていうか、私たちはもう……」",
@@ -2585,7 +2585,7 @@ en={
 vo={
 {"vo",file="fem_y08_00022",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「って、ううん、なんでもない！」",
@@ -2601,7 +2601,7 @@ en={
 vo={
 {"vo",file="fem_y06_00032",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「あ、あはは。野暮なことは言いっこなし！」",
@@ -2617,7 +2617,7 @@ en={
 vo={
 {"vo",file="fem_y07_00023",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「ま、保健の先生になんでも話しそうになる気持ち、わかるけどね」",
@@ -2633,7 +2633,7 @@ en={
 vo={
 {"vo",file="fem_y08_00023",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「保健室ってなんだか、ホッとするっていうか。私たちのありのままを、受け入れてくれそうで……」",
@@ -2649,7 +2649,7 @@ en={
 vo={
 {"vo",file="fem_y07_00024",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「うん。そんなふうに、すごく落ち着くから……言わなくていいことまで、言いそうになるんだよね」",
@@ -2665,7 +2665,7 @@ en={
 vo={
 {"vo",file="fem_y06_00033",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「先生。私たち、もう行きますね」",
@@ -2681,7 +2681,7 @@ en={
 vo={
 {"vo",file="fem_y06_00034",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「相談に乗ってもらって、ありがとうございました！」",
@@ -3556,7 +3556,7 @@ en={
 vo={
 {"vo",file="fem_y06_00035",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「はい！」",
@@ -3572,7 +3572,7 @@ en={
 vo={
 {"vo",file="fem_y07_00025",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「はい！」",
@@ -3588,7 +3588,7 @@ en={
 vo={
 {"vo",file="fem_y08_00024",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「はい！」",
@@ -3679,7 +3679,7 @@ vo={
 {"vo",file="fem_y07_00026",ch="fem"},
 {"vo",file="fem_y08_00025",ch="fem"},
 },
-name={name="かしまし三人娘,ja="かしまし三人娘",en="Noisy trio"},
+name={name="かしまし三人娘",ja="かしまし三人娘",en="Noisy trio"},
 ja={
 {
 {"exfont",size="f5"},
@@ -3717,7 +3717,7 @@ vo={
 {"vo",file="fem_y07_00026",ch="fem"},
 {"vo",file="fem_y08_00025",ch="fem"},
 },
-name={name="かしまし三人娘,ja="かしまし三人娘",en="Noisy trio"},
+name={name="かしまし三人娘",ja="かしまし三人娘",en="Noisy trio"},
 ja={
 {
 {"exfont",size="f5"},
@@ -3796,7 +3796,7 @@ vo={
 {"vo",file="fem_y07_00026",ch="fem"},
 {"vo",file="fem_y08_00025",ch="fem"},
 },
-name={name="かしまし三人娘,ja="かしまし三人娘",en="Noisy trio"},
+name={name="かしまし三人娘",ja="かしまし三人娘",en="Noisy trio"},
 ja={
 {
 {"exfont",size="f5"},
@@ -3892,7 +3892,7 @@ vo={
 {"vo",file="fem_y07_00027",ch="fem"},
 {"vo",file="fem_y08_00026",ch="fem"},
 },
-name={name="かしまし三人娘,ja="かしまし三人娘",en="Noisy trio"},
+name={name="かしまし三人娘",ja="かしまし三人娘",en="Noisy trio"},
 ja={
 {
 {"exfont",size="f4"},
@@ -3940,7 +3940,7 @@ en={
 vo={
 {"vo",file="fem_y06_00038",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「私も質問！　先生の初体験はいつですか！」",
@@ -3956,7 +3956,7 @@ en={
 vo={
 {"vo",file="fem_y07_00028",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「相手は誰ですか！」",
@@ -3972,7 +3972,7 @@ en={
 vo={
 {"vo",file="fem_y08_00027",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「教え子だったりするんですか！」",
@@ -4016,7 +4016,7 @@ en={
 vo={
 {"vo",file="fem_y06_00039",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A",
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「くっ、時間切れ！」",
@@ -4032,7 +4032,7 @@ en={
 vo={
 {"vo",file="fem_y07_00029",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B",
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「これ以上は迷惑になっちゃう！　マジメに保健体育を勉強しないと！」",
@@ -4048,7 +4048,7 @@ en={
 vo={
 {"vo",file="fem_y08_00028",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C",
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「私たちは涙を呑んで質問を取り下げます！」",
