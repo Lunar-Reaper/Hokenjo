@@ -1446,7 +1446,7 @@ ja={
 },
 en={
 {
-"As ordered, I'll have to teaches classes starting today.",
+"As ordered, I'll have to teach classes starting today.",
 },
 },
 },
@@ -1581,7 +1581,7 @@ ja={
 },
 en={
 {
-"「So I would like you all to correct me when I do something wrong. If there's anything you would like to say, don't hesistate to say it.」",
+"「So I would like you all to correct me when I do something wrong. If there's anything you would like to say, don't hesitate to say it.」",
 },
 },
 },
@@ -2133,7 +2133,7 @@ ja={
 },
 en={
 {
-"「But she's right. I'm a bit embarassed to say this...but I don't have any complaints.」",
+"「But she's right. I'm a bit embarrassed to say this...but I don't have any complaints.」",
 },
 },
 },
@@ -2395,7 +2395,9 @@ ja={
 },
 en={
 {
+{"exfont",size="f2"},
 "「O-Okay ladies...I'm fully aware you have some misgivings, and I'll humbly take your concerns to heart. Inexperienced as I am, I'll begin the lesson with everyone's permission.」",
+{"exfont"},
 },
 },
 },
@@ -3190,7 +3192,7 @@ ja={
 },
 en={
 {
-"「F helping with my work this morning.」",
+"「For helping with my work this morning.」",
 },
 },
 },

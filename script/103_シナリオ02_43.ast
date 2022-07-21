@@ -1420,7 +1420,7 @@ ja={
 },
 en={
 {
-"「A class for that is fine and dandy, but could you change the contents at lease?!」",
+"「A class for that is fine and dandy, but could you change the contents at least?!」",
 },
 },
 },
@@ -1551,7 +1551,9 @@ ja={
 },
 en={
 {
+{"exfont",size="f1"},
 "「The goal of sex ed is to lay the intellectual groundwork for understanding matters of sex and systematically bolster the associated thinking and decision-making skills from ethical and scientific standpoints so students can make the proper choices.」",
+{"exfont"},
 },
 },
 },
@@ -1567,7 +1569,9 @@ ja={
 },
 en={
 {
+{"exfont",size="f2"},
 "「It's especially important in this modern age where sexual information runs rampant that students are given proper instruction on sexual awareness and behavior.」",
+{"exfont"},
 },
 },
 },
