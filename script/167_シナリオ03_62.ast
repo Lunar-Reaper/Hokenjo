@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夜・次の目的地",ja="夜・次の目的地",en="Night-"},
+{"savetitle",text="夜・次の目的地",ja="夜・次の目的地",en="Night-The next destination"},
 {"msg",no=1},
 {"bg",file="bg22d",path=":bg/",rule="wipe_10",vague=40,zone="night"},
 {"bgm",file="bgm04"},
@@ -324,7 +324,7 @@ ja={
 },
 en={
 {
-"",
+"After seeing Yuka-neesan off.",
 },
 },
 },
@@ -336,7 +336,7 @@ ja={
 },
 en={
 {
-"",
+"I walked Nana back to the dorm and headed home with Shiro.",
 },
 },
 },
@@ -348,7 +348,7 @@ ja={
 },
 en={
 {
-"",
+"With so many tamabito students and staff members having returned, the school is bound to be hectic for a while.",
 },
 },
 },
@@ -360,7 +360,7 @@ ja={
 },
 en={
 {
-"",
+"I too intend to do my utmost as the school nurse.",
 },
 },
 },
@@ -372,7 +372,7 @@ ja={
 },
 en={
 {
-"",
+"I may only be working for one term, but it isn't over yet.",
 },
 },
 },
@@ -385,7 +385,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Once the term ends, it'll be summer break...」",
 },
 },
 },
@@ -401,7 +401,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Sora?」",
 },
 },
 },
@@ -414,7 +414,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I think I'll go on another journey once it starts.」",
 },
 },
 },
@@ -427,7 +427,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro. You wanna leave town together?」",
 },
 },
 },
@@ -439,7 +439,7 @@ ja={
 },
 en={
 {
-"",
+"She blinked in surprise.",
 },
 },
 },
@@ -455,7 +455,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Are you sure...?」",
 },
 },
 },
@@ -468,7 +468,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Well yeah, I promised my sister too.」",
 },
 },
 },
@@ -484,7 +484,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We don't have to leave town to go on a new journey.」",
 },
 },
 },
@@ -500,7 +500,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You can work at the school for longer if you want.」",
 },
 },
 },
@@ -512,7 +512,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro...?",
 },
 },
 },
@@ -524,7 +524,7 @@ ja={
 },
 en={
 {
-"",
+"The principal did say that I could work there for the next term or longer if I asked.",
 },
 },
 },
@@ -536,7 +536,7 @@ ja={
 },
 en={
 {
-"",
+"But I didn't expect Shiro to bring that up, which put me at a loss.",
 },
 },
 },
@@ -552,7 +552,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You saw your sister off... You sent her back with your kotodama.」",
 },
 },
 },
@@ -568,7 +568,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So you don't have to go looking for tamabito or travel between placee anymore...」",
 },
 },
 },
@@ -584,7 +584,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You can keep on being an okuribito while living here.」",
 },
 },
 },
@@ -596,7 +596,7 @@ ja={
 },
 en={
 {
-"",
+"That's certainly an option...",
 },
 },
 },
@@ -608,7 +608,7 @@ ja={
 },
 en={
 {
-"",
+"But what would Shiro do if I make that choice...?",
 },
 },
 },
@@ -624,7 +624,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora... You don't have to answer right away.」",
 },
 },
 },
@@ -640,7 +640,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The semester isn't over...you can decide on your next goal in the meantime.」",
 },
 },
 },
@@ -652,7 +652,7 @@ ja={
 },
 en={
 {
-"",
+"My next goal...",
 },
 },
 },
@@ -664,7 +664,7 @@ ja={
 },
 en={
 {
-"",
+"My new destination...",
 },
 },
 },
@@ -680,7 +680,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I won't stop you, no matter what you choose.」",
 },
 },
 },
@@ -696,7 +696,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because I'm your partner.」",
 },
 },
 },
@@ -712,7 +712,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Maybe I'll be by your side, or maybe I won't...but I'll support you either way.」",
 },
 },
 },
@@ -724,7 +724,7 @@ ja={
 },
 en={
 {
-"",
+"Sploosh...",
 },
 },
 },
@@ -736,7 +736,7 @@ ja={
 },
 en={
 {
-"",
+"We got back to the inn, ate dinner, and soaked in the open-air bath.",
 },
 },
 },
@@ -748,7 +748,7 @@ ja={
 },
 en={
 {
-"",
+"We nestled close together, sharing each others' warmth.",
 },
 },
 },
@@ -760,7 +760,7 @@ ja={
 },
 en={
 {
-"",
+"With how relaxed that I can voice my honest feelings now.",
 },
 },
 },
@@ -773,7 +773,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hey, Shiro.」",
 },
 },
 },
@@ -786,7 +786,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Now that my sister's returned...I really do think think I need a new destination.」",
 },
 },
 },
@@ -799,7 +799,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But...」",
 },
 },
 },
@@ -815,7 +815,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I told you not to stress about it. You only just sent her back.」",
 },
 },
 },
@@ -831,7 +831,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Now's not the time for worrying...relax.」",
 },
 },
 },
@@ -847,7 +847,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...you did good.」",
 },
 },
 },
@@ -863,7 +863,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You worked so hard...」",
 },
 },
 },
@@ -879,7 +879,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You did it...you saw her off with a smile.」",
 },
 },
 },
@@ -895,7 +895,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You were a pathetic mess of tears...」",
 },
 },
 },
@@ -911,7 +911,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But...you were awesome.」",
 },
 },
 },
@@ -923,7 +923,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro...",
 },
 },
 },
@@ -935,7 +935,7 @@ ja={
 },
 en={
 {
-"",
+"I don't view Shiro as the older one of us.",
 },
 },
 },
@@ -947,7 +947,7 @@ ja={
 },
 en={
 {
-"",
+"But that only goes for normal occassions.",
 },
 },
 },
@@ -959,7 +959,7 @@ ja={
 },
 en={
 {
-"",
+"Special ones like when we bath or sleep together are another story.",
 },
 },
 },
@@ -971,7 +971,7 @@ ja={
 },
 en={
 {
-"",
+"I can sense something motherly from her...",
 },
 },
 },
@@ -987,7 +987,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...you're the one and only human I love...」",
 },
 },
 },
@@ -1003,7 +1003,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm here as a tamabito because of you...」",
 },
 },
 },
@@ -1019,7 +1019,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll help you relax.」",
 },
 },
 },
@@ -1031,7 +1031,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro beckoned me to the wash area.",
 },
 },
 },
@@ -1043,7 +1043,7 @@ ja={
 },
 en={
 {
-"",
+"She let her hair down as a sign that she intended to wash me.",
 },
 },
 },

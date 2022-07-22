@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夜・夢の少女の正体",ja="夜・夢の少女の正体",en="Night-"},
+{"savetitle",text="夜・夢の少女の正体",ja="夜・夢の少女の正体",en="Night-The dream girl's identity"},
 {"msg",no=1},
 {"bg",file="bg01d",path=":bg/",time=2000,zone="lightsout"},
 {"text"},
@@ -391,7 +391,7 @@ ja={
 },
 en={
 {
-"",
+"After our passionate lovemaking, we tucked ourselves into the same futon.",
 },
 },
 },
@@ -407,7 +407,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora... I'll gonna think out loud.」",
 },
 },
 },
@@ -420,7 +420,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Think out loud?」",
 },
 },
 },
@@ -436,7 +436,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah... You don't need to respond.」",
 },
 },
 },
@@ -452,7 +452,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Just get some sleep.」",
 },
 },
 },
@@ -464,7 +464,7 @@ ja={
 },
 en={
 {
-"",
+"I see what she's getting at.",
 },
 },
 },
@@ -476,7 +476,7 @@ ja={
 },
 en={
 {
-"",
+"She'll be saying things that will bother me.",
 },
 },
 },
@@ -488,7 +488,7 @@ ja={
 },
 en={
 {
-"",
+"She told me in advance so I could mull over what she's about to say.",
 },
 },
 },
@@ -504,7 +504,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...do you...」",
 },
 },
 },
@@ -520,7 +520,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Want to send me back...?」",
 },
 },
 },
@@ -549,7 +549,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Or do you want me to stay...?」",
 },
 },
 },
@@ -561,7 +561,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro...",
 },
 },
 },
@@ -577,7 +577,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Your sister returned...so maybe I...」",
 },
 },
 },
@@ -589,7 +589,7 @@ ja={
 },
 en={
 {
-"",
+"I pulled her in close.",
 },
 },
 },
@@ -601,7 +601,7 @@ ja={
 },
 en={
 {
-"",
+"She was faintly trembling.",
 },
 },
 },
@@ -614,7 +614,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Shiro. I want you to know.」",
 },
 },
 },
@@ -627,7 +627,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm all better, thanks to you.」",
 },
 },
 },
@@ -640,7 +640,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So...I'll give you an answer.」",
 },
 },
 },
@@ -653,7 +653,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want you to be with me.」",
 },
 },
 },
@@ -666,7 +666,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want us to keep traveling together.」",
 },
 },
 },
@@ -679,7 +679,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My journey isn't over yet...because yours is still ongoing.」",
 },
 },
 },
@@ -708,7 +708,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm not sending you back until it is.」",
 },
 },
 },
@@ -720,7 +720,7 @@ ja={
 },
 en={
 {
-"",
+"Her trembling increased in intensity.",
 },
 },
 },
@@ -736,7 +736,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The end of my journey...the terminus.」",
 },
 },
 },
@@ -752,7 +752,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Is already so close, it's within reach...」",
 },
 },
 },
@@ -768,7 +768,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Within your dreams...」",
 },
 },
 },
@@ -780,7 +780,7 @@ ja={
 },
 en={
 {
-"",
+"My dreams...",
 },
 },
 },
@@ -792,7 +792,7 @@ ja={
 },
 en={
 {
-"",
+"Does that mean...?",
 },
 },
 },
@@ -808,7 +808,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...」",
 },
 },
 },
@@ -824,7 +824,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That will be the destination for our next journey.」",
 },
 },
 },
@@ -840,7 +840,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If we make it there...」",
 },
 },
 },
@@ -856,7 +856,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My...my regret will...」",
 },
 },
 },
@@ -868,7 +868,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro cut herself off.",
 },
 },
 },
@@ -880,7 +880,7 @@ ja={
 },
 en={
 {
-"",
+"We stayed silent for a while afterwards.",
 },
 },
 },
@@ -892,7 +892,7 @@ ja={
 },
 en={
 {
-"",
+"Within this quiet world, her unrelenting trembling spoke to the intense conflict raging within her.",
 },
 },
 },
@@ -908,7 +908,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Yeah.」",
 },
 },
 },
@@ -920,7 +920,7 @@ ja={
 },
 en={
 {
-"",
+"She finally broke the silence.",
 },
 },
 },
@@ -936,7 +936,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Seeing your sister return with a smile meant a lot to me too...」",
 },
 },
 },
@@ -952,7 +952,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I should learn from her...」",
 },
 },
 },
@@ -968,7 +968,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So...I won't run away anymore.」",
 },
 },
 },
@@ -980,7 +980,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro got out of the futon and pulled out a photograph from the luggage.",
 },
 },
 },
@@ -996,7 +996,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora... Do you know what this is a photo of?」",
 },
 },
 },
@@ -1008,7 +1008,7 @@ ja={
 },
 en={
 {
-"",
+"Only one possibility came to mind.",
 },
 },
 },
@@ -1021,7 +1021,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Our two-shot Harunashi-san took?」",
 },
 },
 },
@@ -1037,7 +1037,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah, but no.」",
 },
 },
 },
@@ -1053,7 +1053,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Only I showed up in it.」",
 },
 },
 },
@@ -1069,7 +1069,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Just me, my past self...」",
 },
 },
 },
@@ -1098,7 +1098,7 @@ ja={
 },
 en={
 {
-"「」",
+"「She said that her spirit photography made your memories appear on the photo.」",
 },
 },
 },
@@ -1110,7 +1110,7 @@ ja={
 },
 en={
 {
-"",
+"Dreams are linked to memories.",
 },
 },
 },
@@ -1122,7 +1122,7 @@ ja={
 },
 en={
 {
-"",
+"And now my memories are in Shiro's hands...",
 },
 },
 },
@@ -1134,7 +1134,7 @@ ja={
 },
 en={
 {
-"",
+"So then the girl that my pneumaosis has been causing me to dream about would be...",
 },
 },
 },
@@ -1150,7 +1150,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora. I'll let you see it.」",
 },
 },
 },
@@ -1166,7 +1166,7 @@ ja={
 },
 en={
 {
-"「」",
+"「This photo will awaken the memories you've lost.」",
 },
 },
 },
@@ -1182,7 +1182,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I've finally worked up the courage.」",
 },
 },
 },
@@ -1194,7 +1194,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro handed it to me.",
 },
 },
 },
@@ -1206,7 +1206,7 @@ ja={
 },
 en={
 {
-"",
+"It depicted the scene that's been showing up in my dreams.",
 },
 },
 },
@@ -1218,7 +1218,7 @@ ja={
 },
 en={
 {
-"",
+"And there, clear as crystal was----.",
 },
 },
 },
@@ -1234,7 +1234,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ready Sora...? It's time to set out.」",
 },
 },
 },
@@ -1250,7 +1250,7 @@ ja={
 },
 en={
 {
-"「」",
+"「On a new journey...」",
 },
 },
 },
@@ -1266,7 +1266,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Let's go...on a quest to find yourself.」",
 },
 },
 },
@@ -1278,7 +1278,7 @@ ja={
 },
 en={
 {
-"",
+"My memories rewind.",
 },
 },
 },
@@ -1290,7 +1290,7 @@ ja={
 },
 en={
 {
-"",
+"That which is irreversible becomes reversible.",
 },
 },
 },
@@ -1302,7 +1302,7 @@ ja={
 },
 en={
 {
-"",
+"Time rewinds to a day long forgotten----.",
 },
 },
 },

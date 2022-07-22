@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夜・オトヒメの思い",ja="夜・オトヒメの思い",en="Night-"},
+{"savetitle",text="夜・オトヒメの思い",ja="夜・オトヒメの思い",en="Night-Otohime's thoughts"},
 {"msg",no=2},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
@@ -458,7 +458,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Welcome back, Reiko.」",
 },
 },
 },
@@ -474,7 +474,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Otohime-san, I didn't think you'd still be here.」",
 },
 },
 },
@@ -490,7 +490,7 @@ ja={
 },
 en={
 {
-"「」",
+"「How cold. It's a special day, as you know.」",
 },
 },
 },
@@ -506,7 +506,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Even I like to be intoxicated by emotions once in a while.」",
 },
 },
 },
@@ -522,7 +522,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I thought only alcohol intoxicates you.」",
 },
 },
 },
@@ -538,7 +538,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ku ku. I see you're calm enough to make jokes.」",
 },
 },
 },
@@ -554,7 +554,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I assume this means you've organized your thoughts?」",
 },
 },
 },
@@ -570,7 +570,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Who can say? After this incident, I'll need to do more than just organizing.」",
 },
 },
 },
@@ -586,7 +586,7 @@ ja={
 },
 en={
 {
-"「」",
+"「This will undoubtedly cause a major upheaval. Though I'm glad to see you're back to your old self.」",
 },
 },
 },
@@ -602,7 +602,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Now I can make my report.」",
 },
 },
 },
@@ -618,7 +618,7 @@ ja={
 },
 en={
 {
-"「」",
+"「On Awayuki Mizumi's condition I presume?」",
 },
 },
 },
@@ -634,7 +634,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Indeed. With so many tamabito having returned, she should be on the path to recovery without needing to leave town.」",
 },
 },
 },
@@ -650,7 +650,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But that's not to say that the current sparsity of tamabito is the only factor.」",
 },
 },
 },
@@ -666,7 +666,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The thoughts and prayers of the tamabito protected her from the disease.」",
 },
 },
 },
@@ -682,7 +682,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Their thoughts protected her...? It's not like you to be so artistic.」",
 },
 },
 },
@@ -698,7 +698,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Oh, don't you know? You can't be a doctor without a sense for the artistic.」",
 },
 },
 },
@@ -714,7 +714,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Many diseases come from the mind, and likewise, there's no better medicine than hope and the will to live.」",
 },
 },
 },
@@ -726,7 +726,7 @@ ja={
 },
 en={
 {
-"",
+"----Ding.",
 },
 },
 },
@@ -738,7 +738,7 @@ ja={
 },
 en={
 {
-"",
+"Otohime smirked and took out a bell.",
 },
 },
 },
@@ -754,7 +754,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What's that?」",
 },
 },
 },
@@ -770,7 +770,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The bell Mizumi returned to me.」",
 },
 },
 },
@@ -786,7 +786,7 @@ ja={
 },
 en={
 {
-"「」",
+"「She won't be needing it anymore.」",
 },
 },
 },
@@ -802,7 +802,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The real bell is alive and well within her.」",
 },
 },
 },
@@ -834,7 +834,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Incidentally, when do you suppose a bell rings?」",
 },
 },
 },
@@ -850,7 +850,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...When you shake it.」",
 },
 },
 },
@@ -866,7 +866,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Is that all? When would it ring if it were attached to one's person?」",
 },
 },
 },
@@ -882,7 +882,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...When they stumble, perhaps?」",
 },
 },
 },
@@ -898,7 +898,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Precisely.」",
 },
 },
 },
@@ -914,7 +914,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The bell won't ring if you walk on a flat road. It's only when you go down a bumpy path that it does.」",
 },
 },
 },
@@ -930,7 +930,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Much like how happiness comes only once you overcome an obstable.」",
 },
 },
 },
@@ -946,7 +946,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The same can be said of human life.」",
 },
 },
 },
@@ -962,7 +962,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The act of living creates a beautiful melody only after one walks a life full of obstacles.」",
 },
 },
 },
@@ -974,7 +974,7 @@ ja={
 },
 en={
 {
-"",
+"Otohime gave the bell in her hand one more chime.",
 },
 },
 },
@@ -990,7 +990,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The same can be said of me...」",
 },
 },
 },
@@ -1006,7 +1006,7 @@ ja={
 },
 en={
 {
-"「」",
+"「When I see a tamabito returning...I'm always reminded.」",
 },
 },
 },
@@ -1022,7 +1022,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Of how incomplete I am...」",
 },
 },
 },
@@ -1038,7 +1038,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...What do you mean by that?」",
 },
 },
 },
@@ -1054,7 +1054,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Think about that bell talk we just had, and you'll likely figure it out. You're as sharp as a tack. 」",
 },
 },
 },
@@ -1070,7 +1070,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You can't be serious...」",
 },
 },
 },
@@ -1082,7 +1082,7 @@ ja={
 },
 en={
 {
-"",
+"If she links that bell allegory to her daughter Rin...",
 },
 },
 },
@@ -1098,7 +1098,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're...a crossbreed too...?」",
 },
 },
 },
@@ -1114,7 +1114,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Indeed. Just like your daughter.」",
 },
 },
 },
@@ -1130,7 +1130,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I was born between a tamabito and a human.」",
 },
 },
 },
@@ -1146,7 +1146,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Perhaps that's why the offering for my miracle is sexual.」",
 },
 },
 },
@@ -1162,7 +1162,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The thought of how such acts between a human and tamabito led to my conception disgusted me to no end.」",
 },
 },
 },
@@ -1178,7 +1178,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So I lived while eschewing romance.」",
 },
 },
 },
@@ -1194,7 +1194,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I convinced myself I'm an incomplete being and lived.」",
 },
 },
 },
@@ -1210,7 +1210,7 @@ ja={
 },
 en={
 {
-"「」",
+"「As you can see, my development is much slower than that of humans. It's been over 100 years and I still look this young.」",
 },
 },
 },
@@ -1226,7 +1226,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But your daughter is different than me. She's closer to human than tamabito.」",
 },
 },
 },
@@ -1242,7 +1242,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Perhaps the human blood she inherited is more dense.」",
 },
 },
 },
@@ -1258,7 +1258,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I haven't seen her use a miracle, and she's been developing at the same speed as a human.」",
 },
 },
 },
@@ -1274,7 +1274,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Goodness, I'm so jealous... I would kill to have a figure like hers.」",
 },
 },
 },
@@ -1290,7 +1290,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Otohime-san.」",
 },
 },
 },
@@ -1306,7 +1306,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You haven't told this to the nation, have you?」",
 },
 },
 },
@@ -1322,7 +1322,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Of course not.」",
 },
 },
 },
@@ -1338,7 +1338,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So then...why me?」",
 },
 },
 },
@@ -1354,7 +1354,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What other reason could there be?」",
 },
 },
 },
@@ -1370,7 +1370,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want us to exchange sake cups.」",
 },
 },
 },
@@ -1386,7 +1386,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I swear, you're simply...」",
 },
 },
 },
@@ -1402,7 +1402,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's a special day, so how about it? You likely won't have the time for it after today.」",
 },
 },
 },
@@ -1414,7 +1414,7 @@ ja={
 },
 en={
 {
-"",
+"With the loss of numerous tamabito student and staff members, it was about to get very busy at the school.",
 },
 },
 },
@@ -1426,7 +1426,7 @@ ja={
 },
 en={
 {
-"",
+"It's hard to tell how long it will take to get things back under control.",
 },
 },
 },
@@ -1438,7 +1438,7 @@ ja={
 },
 en={
 {
-"",
+"But neither of them was dejected.",
 },
 },
 },
@@ -1450,7 +1450,7 @@ ja={
 },
 en={
 {
-"",
+"It was time for the principal of the school and the physician supporting it from the shadows to show their mettle.",
 },
 },
 },
@@ -1466,7 +1466,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Heh...very well, Otohime-san.」",
 },
 },
 },
@@ -1482,7 +1482,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll accompany you just for today.」",
 },
 },
 },
@@ -1498,7 +1498,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I promised Sahara that I would become a better drinker.」",
 },
 },
 },

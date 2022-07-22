@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="回想・過去編１",ja="回想・過去編１",en=""},
+{"savetitle",text="回想・過去編１",ja="回想・過去編１",en="Recollection-Past 1"},
 {"msg",no=3},
 {"cgdel",id=-1},
 {"bg",file="black",path=":bg/",time=1000},
@@ -601,7 +601,7 @@ ja={
 },
 en={
 {
-"",
+"----In spring, one sleeps a sleep that knows no dawn.",
 },
 },
 },
@@ -613,7 +613,7 @@ ja={
 },
 en={
 {
-"",
+"In other words, I oversleep in spring.",
 },
 },
 },
@@ -625,7 +625,7 @@ ja={
 },
 en={
 {
-"",
+"I was enjoying my morning slumber when mom whacked me awake with a smile on her face.",
 },
 },
 },
@@ -637,7 +637,7 @@ ja={
 },
 en={
 {
-"",
+"I forced back a yawn as I headed off to school.",
 },
 },
 },
@@ -649,7 +649,7 @@ ja={
 },
 en={
 {
-"",
+"The spring breeze wasn't the only source of my sleepiness.",
 },
 },
 },
@@ -661,7 +661,7 @@ ja={
 },
 en={
 {
-"",
+"The calm, peaceful atmosphere of this rural village was just as guilty.",
 },
 },
 },
@@ -673,7 +673,7 @@ ja={
 },
 en={
 {
-"",
+"We have sea and mountains for days, but no retail stores. Amusement parks, movie theaters, and arcades are distance dreams.",
 },
 },
 },
@@ -685,7 +685,7 @@ ja={
 },
 en={
 {
-"",
+"The only entertainment offered to kids here is the clunky game machine at the candy store.",
 },
 },
 },
@@ -697,7 +697,7 @@ ja={
 },
 en={
 {
-"",
+"Being surrounded by the beauties of nature sounds good on paper.",
 },
 },
 },
@@ -709,7 +709,7 @@ ja={
 },
 en={
 {
-"",
+"But having lived here my whole life, I'm sick and tired of the monotony.",
 },
 },
 },
@@ -728,7 +728,7 @@ ja={
 },
 en={
 {
-"",
+"So I, Konohana Ao resolved myself.",
 },
 },
 },
@@ -740,7 +740,7 @@ ja={
 },
 en={
 {
-"",
+"I'm moving to the city someday!",
 },
 },
 },
@@ -748,7 +748,7 @@ en={
 vo={
 {"vo",file="fem_z02_00001",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……まあ、学校を卒業するのだって、当分先の話なんだけど」",
@@ -756,7 +756,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...It'll be a while before I graduate though.」",
 },
 },
 },
@@ -764,7 +764,7 @@ en={
 vo={
 {"vo",file="fem_z02_00002",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「でも卒業したあと、この町の学校に進学するくらいなら、都会に働きに出たいよなあ」",
@@ -772,7 +772,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But I'd rather go work in the city than move up to high school here.」",
 },
 },
 },
@@ -784,7 +784,7 @@ ja={
 },
 en={
 {
-"",
+"Exemplary students may be recommended for schools in the city, but I don't possess that kind of academic ability.",
 },
 },
 },
@@ -792,7 +792,7 @@ en={
 vo={
 {"vo",file="fem_z02_00003",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「なんにしろ卒業までに、ひとり暮らしの準備くらいはしとかないと」",
@@ -800,7 +800,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And there's a lot I need to do before graduation if I plan on living on my own.」",
 },
 },
 },
@@ -808,7 +808,7 @@ en={
 vo={
 {"vo",file="fem_z02_00004",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「僕が町を出るなんて言い出したら、母さんは絶対に反対するし……」",
@@ -816,7 +816,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If I tell Mom, she'll totally shoot me down...」",
 },
 },
 },
@@ -824,7 +824,7 @@ en={
 vo={
 {"vo",file="fem_z02_00005",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「どうせ笑顔で僕をボコってくるに決まってるし……精神的な意味合いで」",
@@ -832,7 +832,7 @@ ja={
 },
 en={
 {
-"「」",
+"「She already beats me silly with a big smile...I don't need that mental damage too.」",
 },
 },
 },
@@ -844,7 +844,7 @@ ja={
 },
 en={
 {
-"",
+"I heaved a sigh and hurried along.",
 },
 },
 },
@@ -856,7 +856,7 @@ ja={
 },
 en={
 {
-"",
+"I can't allow myself to be late for school.",
 },
 },
 },
@@ -868,7 +868,7 @@ ja={
 },
 en={
 {
-"",
+"Despite everything, I'm the class representative as of this year.",
 },
 },
 },
@@ -880,7 +880,7 @@ ja={
 },
 en={
 {
-"",
+"I nominated myself, by the way.",
 },
 },
 },
@@ -892,7 +892,7 @@ ja={
 },
 en={
 {
-"",
+"I'm not the most academically-inclined, but playing the model student should earn me brownie points with Mom.",
 },
 },
 },
@@ -904,7 +904,7 @@ ja={
 },
 en={
 {
-"",
+"She'll see that I'm capable of making it in the city.",
 },
 },
 },
@@ -916,7 +916,7 @@ ja={
 },
 en={
 {
-"",
+"School ended.",
 },
 },
 },
@@ -928,7 +928,7 @@ ja={
 },
 en={
 {
-"",
+"Being Saturday, today was a half day.",
 },
 },
 },
@@ -940,7 +940,7 @@ ja={
 },
 en={
 {
-"",
+"The last class was PE, so several girl students were still wearing their gym clothes.",
 },
 },
 },
@@ -952,7 +952,7 @@ ja={
 },
 en={
 {
-"",
+"A throng of shy boys were shooting glances at them from out of sight.",
 },
 },
 },
@@ -964,7 +964,7 @@ ja={
 },
 en={
 {
-"",
+"I should mention that the girls' sailer uniforms are a hit with the guys. Again, due to lack of other sources of entertainment here in the boonies.",
 },
 },
 },
@@ -976,7 +976,7 @@ ja={
 },
 en={
 {
-"",
+"I can't overstate how hard it is to buy an adult book around here!",
 },
 },
 },
@@ -984,7 +984,7 @@ en={
 vo={
 {"vo",file="fem_z02_00006",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "（でも僕は、同年代の女子に興奮なんかしない）",
@@ -992,7 +992,7 @@ ja={
 },
 en={
 {
-"",
+"(Not that I care about girls my age.)",
 },
 },
 },
@@ -1000,7 +1000,7 @@ en={
 vo={
 {"vo",file="fem_z02_00007",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "（時代はやっぱ、女教師だろ！）",
@@ -1008,7 +1008,7 @@ ja={
 },
 en={
 {
-"",
+"(The age of hot female teachers is upon us!)",
 },
 },
 },
@@ -1020,7 +1020,7 @@ ja={
 },
 en={
 {
-"",
+"Don't get the wrong idea. While I do prefer older girls, I'm not into ones that act motherly.",
 },
 },
 },
@@ -1032,7 +1032,7 @@ ja={
 },
 en={
 {
-"",
+"That would make it sound like I dig my mom! I'm not insane enough to be into that smiling demon!",
 },
 },
 },
@@ -1044,7 +1044,7 @@ ja={
 },
 en={
 {
-"",
+"I don't have an Oedipus complex, I swear!",
 },
 },
 },
@@ -1056,7 +1056,7 @@ ja={
 },
 en={
 {
-"",
+"While the students were heading home or doing club activities, I had my class rep duties to do.",
 },
 },
 },
@@ -1068,7 +1068,7 @@ ja={
 },
 en={
 {
-"",
+"It's a pain in the butt, but it's a necessary effort for my goal. Just gotta grit my teeth and bear it.",
 },
 },
 },
@@ -1080,7 +1080,7 @@ ja={
 },
 en={
 {
-"",
+"My homeroom teacher caught me while I was in the classroom preparing.",
 },
 },
 },
@@ -1092,7 +1092,7 @@ ja={
 },
 en={
 {
-"",
+"And assigned me to a new job.",
 },
 },
 },
@@ -1104,7 +1104,7 @@ ja={
 },
 en={
 {
-"",
+"She wanted me to deliver something to a classmate's house.",
 },
 },
 },
@@ -1120,7 +1120,7 @@ ja={
 },
 en={
 {
-"",
+"Said classmate's name being Shiroka.",
 },
 },
 },
@@ -1132,7 +1132,7 @@ ja={
 },
 en={
 {
-"",
+"We share the same classroom, but I've never seen her even once.",
 },
 },
 },
@@ -1144,7 +1144,7 @@ ja={
 },
 en={
 {
-"",
+"So her seat was always empty.",
 },
 },
 },
@@ -1156,7 +1156,7 @@ ja={
 },
 en={
 {
-"",
+"We've never been in the same class until now, so I don't know a thing about her.",
 },
 },
 },
@@ -1168,7 +1168,7 @@ ja={
 },
 en={
 {
-"",
+"And that made me all the more interested in her and why she's always absent.",
 },
 },
 },
@@ -1180,7 +1180,7 @@ ja={
 },
 en={
 {
-"",
+"According to my teacher, she has a weak constitution and could rarely ever come to school.",
 },
 },
 },
@@ -1192,7 +1192,7 @@ ja={
 },
 en={
 {
-"",
+"So as student representative, I was asked to help her make acclimate to the classroom once she gets better.",
 },
 },
 },
@@ -1204,7 +1204,7 @@ ja={
 },
 en={
 {
-"",
+"Part of that involves delivering the printout of contact information we students received in homeroom.",
 },
 },
 },
@@ -1216,7 +1216,7 @@ ja={
 },
 en={
 {
-"",
+"I was given her home address, and as it wasn't too far, I decided to swing by on my way home.",
 },
 },
 },
@@ -1228,7 +1228,7 @@ ja={
 },
 en={
 {
-"",
+"I wonder what this Shiroka girl is like.",
 },
 },
 },
@@ -1240,7 +1240,7 @@ ja={
 },
 en={
 {
-"",
+"A sickly　girl like her must be the dainty type. No doubt she's as sweet and lovely as her name meaning white flower suggests.",
 },
 },
 },
@@ -1252,7 +1252,7 @@ ja={
 },
 en={
 {
-"",
+"She's out of my romantic strike zone since I'm into older girls, but that means I can take care of her without any salacious thoughts.",
 },
 },
 },
@@ -1264,7 +1264,7 @@ ja={
 },
 en={
 {
-"",
+"It didn't take long before I was looking forward to meeting her.",
 },
 },
 },
@@ -1276,7 +1276,7 @@ ja={
 },
 en={
 {
-"",
+"The sun was already going down by the time I left school.",
 },
 },
 },
@@ -1288,7 +1288,7 @@ ja={
 },
 en={
 {
-"",
+"My student rep work sure took a while.",
 },
 },
 },
@@ -1300,7 +1300,7 @@ ja={
 },
 en={
 {
-"",
+"I hotfooted it to Shiroka's place following the directions I was given.",
 },
 },
 },
@@ -1312,7 +1312,7 @@ ja={
 },
 en={
 {
-"",
+"The sun had fallen below the horizon by the time I arrived.",
 },
 },
 },
@@ -1324,7 +1324,7 @@ ja={
 },
 en={
 {
-"",
+"...I curse my lack of direction.",
 },
 },
 },
@@ -1336,7 +1336,7 @@ ja={
 },
 en={
 {
-"",
+"Mom has it too, so I must have inherited it. I can't beat genetics, so I've learned to live with it.",
 },
 },
 },
@@ -1348,7 +1348,7 @@ ja={
 },
 en={
 {
-"",
+"There was some light pouring out from her house. Looks like someone's home.",
 },
 },
 },
@@ -1360,7 +1360,7 @@ ja={
 },
 en={
 {
-"",
+"But I didn't want to bother anyone at this hour. I need to show at least some manners if I want to maintain my model student impression.",
 },
 },
 },
@@ -1372,7 +1372,7 @@ ja={
 },
 en={
 {
-"",
+"But thinking about meeting her's got me nervous.",
 },
 },
 },
@@ -1384,7 +1384,7 @@ ja={
 },
 en={
 {
-"",
+"I couldn't bring myself to ring the doorbell.",
 },
 },
 },
@@ -1396,7 +1396,7 @@ ja={
 },
 en={
 {
-"",
+"...Maybe I should put this off until tomorrow morning?",
 },
 },
 },
@@ -1408,7 +1408,7 @@ ja={
 },
 en={
 {
-"",
+"But then I'd have to leave home even earlier and miss an extra few minutes of sleep.",
 },
 },
 },
@@ -1420,7 +1420,7 @@ ja={
 },
 en={
 {
-"",
+"Argh, what do I do?!",
 },
 },
 },
@@ -1428,7 +1428,7 @@ en={
 vo={
 {"vo",file="fem_z02_00008",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "（……あれ？）",
@@ -1436,7 +1436,7 @@ ja={
 },
 en={
 {
-"",
+"(...Huh?)",
 },
 },
 },
@@ -1448,7 +1448,7 @@ ja={
 },
 en={
 {
-"",
+"As I groaned and tore at my hair, a voice reached my ears.",
 },
 },
 },
@@ -1460,7 +1460,7 @@ ja={
 },
 en={
 {
-"",
+"It was coming from right in front of me.",
 },
 },
 },
@@ -1472,7 +1472,7 @@ ja={
 },
 en={
 {
-"",
+"It must be one of the inhabitants.",
 },
 },
 },
@@ -1484,7 +1484,7 @@ ja={
 },
 en={
 {
-"",
+"One of the windows must be open for me to hear them.",
 },
 },
 },
@@ -1496,7 +1496,7 @@ ja={
 },
 en={
 {
-"",
+"Judging by the voice, it's a girl around my age.",
 },
 },
 },
@@ -1508,7 +1508,7 @@ ja={
 },
 en={
 {
-"",
+"...Could it be Shiroka?",
 },
 },
 },
@@ -1520,7 +1520,7 @@ ja={
 },
 en={
 {
-"",
+"If the open window's in her room, maybe I can sneakily get a look at her.",
 },
 },
 },
@@ -1532,7 +1532,7 @@ ja={
 },
 en={
 {
-"",
+"I circled around and approached the room.",
 },
 },
 },
@@ -1544,7 +1544,7 @@ ja={
 },
 en={
 {
-"",
+"As I thought, there's an open window.",
 },
 },
 },
@@ -1556,7 +1556,7 @@ ja={
 },
 en={
 {
-"",
+"The curtains were drawn open, giving me a full view of the inside.",
 },
 },
 },
@@ -1568,7 +1568,7 @@ ja={
 },
 en={
 {
-"",
+"A girl stood near the window.",
 },
 },
 },
@@ -1580,7 +1580,7 @@ ja={
 },
 en={
 {
-"",
+"She must be Shiroka.",
 },
 },
 },
@@ -1592,7 +1592,7 @@ ja={
 },
 en={
 {
-"",
+"I can see she's just as pale and dainty as I'd imagined.",
 },
 },
 },
@@ -1604,7 +1604,7 @@ ja={
 },
 en={
 {
-"",
+"And...much cuter than I expected.",
 },
 },
 },
@@ -1616,7 +1616,7 @@ ja={
 },
 en={
 {
-"",
+"The other girls at school can't even compare to this beauty.",
 },
 },
 },
@@ -1624,7 +1624,7 @@ en={
 vo={
 {"vo",file="fem_z02_00009",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "（時代は女教師じゃなかった……）",
@@ -1632,7 +1632,7 @@ ja={
 },
 en={
 {
-"",
+"(I stand corrected. This isn't the age of female teachers...)",
 },
 },
 },
@@ -1640,7 +1640,7 @@ en={
 vo={
 {"vo",file="fem_z02_00010",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "（病弱な女の子だったんだ……！）",
@@ -1648,7 +1648,7 @@ ja={
 },
 en={
 {
-"",
+"(But of sickly girls...!)",
 },
 },
 },
@@ -1656,7 +1656,7 @@ en={
 vo={
 {"vo",file="fem_z03_00001",ch="shi"},
 },
-name={name="シロバナ",ja="病弱な女の子"},
+name={name="シロバナ",ja="病弱な女の子",en="Sickly girl"},
 ja={
 {
 "「っ……」",
@@ -1664,7 +1664,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...!」",
 },
 },
 },
@@ -1672,7 +1672,7 @@ en={
 vo={
 {"vo",file="fem_z03_00002",ch="shi"},
 },
-name={name="シロバナ",ja="病弱な女の子"},
+name={name="シロバナ",ja="病弱な女の子",en="Sickly girl"},
 ja={
 {
 "「あなたは……？」",
@@ -1680,7 +1680,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hello...?」",
 },
 },
 },
@@ -1692,7 +1692,7 @@ ja={
 },
 en={
 {
-"",
+"I didn't voice my thoughts.",
 },
 },
 },
@@ -1704,7 +1704,7 @@ ja={
 },
 en={
 {
-"",
+"Her eyes simply happened to fall on me.",
 },
 },
 },
@@ -1716,7 +1716,7 @@ ja={
 },
 en={
 {
-"",
+"I was so taken by her that I forgot to hide.",
 },
 },
 },
@@ -1728,7 +1728,7 @@ ja={
 },
 en={
 {
-"",
+"Our eyes met.",
 },
 },
 },
@@ -1736,7 +1736,7 @@ en={
 vo={
 {"vo",file="fem_z03_00003",ch="shi"},
 },
-name={name="シロバナ",ja="病弱な女の子"},
+name={name="シロバナ",ja="病弱な女の子",en="Sickly girl"},
 ja={
 {
 "「あなたは……幽霊？」",
@@ -1744,7 +1744,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Are you...a ghost?」",
 },
 },
 },
@@ -1756,7 +1756,7 @@ ja={
 },
 en={
 {
-"",
+"Huh?",
 },
 },
 },
@@ -1768,7 +1768,7 @@ ja={
 },
 en={
 {
-"",
+"She's asking if I'm a ghost...?",
 },
 },
 },
@@ -1776,7 +1776,7 @@ en={
 vo={
 {"vo",file="fem_z03_00004",ch="shi"},
 },
-name={name="シロバナ",ja="病弱な女の子"},
+name={name="シロバナ",ja="病弱な女の子",en="Sickly girl"},
 ja={
 {
 "「もし幽霊じゃないのなら、消えて」",
@@ -1784,7 +1784,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If not, then get lost.」",
 },
 },
 },
@@ -1792,7 +1792,7 @@ en={
 vo={
 {"vo",file="fem_z03_00005",ch="shi"},
 },
-name={name="シロバナ",ja="病弱な女の子"},
+name={name="シロバナ",ja="病弱な女の子",en="Sickly girl"},
 ja={
 {
 "「私の前から今すぐ消えて」",
@@ -1800,7 +1800,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Go jump in a lake.」",
 },
 },
 },
@@ -1808,7 +1808,7 @@ en={
 vo={
 {"vo",file="fem_z03_00006",ch="shi"},
 },
-name={name="シロバナ",ja="病弱な女の子"},
+name={name="シロバナ",ja="病弱な女の子",en="Sickly girl"},
 ja={
 {
 "「私、人間に興味はないから」",
@@ -1816,7 +1816,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't bother with humans.」",
 },
 },
 },
@@ -1828,7 +1828,7 @@ ja={
 },
 en={
 {
-"",
+"W-What the...?",
 },
 },
 },
@@ -1840,7 +1840,7 @@ ja={
 },
 en={
 {
-"",
+"She certainly is dainty and cute even when glaring at me in anger.",
 },
 },
 },
@@ -1852,7 +1852,7 @@ ja={
 },
 en={
 {
-"",
+"Something isn't right here...",
 },
 },
 },
@@ -1864,7 +1864,7 @@ ja={
 },
 en={
 {
-"",
+"She not a sickly girl so much as...",
 },
 },
 },
@@ -1876,7 +1876,7 @@ ja={
 },
 en={
 {
-"",
+"A space case...?",
 },
 },
 },
@@ -1884,7 +1884,7 @@ en={
 vo={
 {"vo",file="fem_z02_00011",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "（電波な子は、僕には早すぎる……）",
@@ -1892,7 +1892,7 @@ ja={
 },
 en={
 {
-"",
+"(I'm not ready for her archetype...)",
 },
 },
 },
@@ -1900,7 +1900,7 @@ en={
 vo={
 {"vo",file="fem_z02_00012",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "（時代は……まだ、女教師でいいや）",
@@ -1908,7 +1908,7 @@ ja={
 },
 en={
 {
-"",
+"(The age of hot female teachers isn't over yet.)",
 },
 },
 },
@@ -1920,7 +1920,7 @@ ja={
 },
 en={
 {
-"",
+"And that was how the two of us met for the first time.",
 },
 },
 },

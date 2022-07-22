@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夕方～夜・夢歌の最期２",ja="夕方～夜・夢歌の最期２",en=""},
+{"savetitle",text="夕方～夜・夢歌の最期２",ja="夕方～夜・夢歌の最期２",en="Yuka's farewell 2"},
 {"msg",no=1},
 {"bg",file="bg22b",path=":bg/",zone="even_out"},
 {"se",loop=1,id=2,time=1500,file="se747"},
@@ -1441,7 +1441,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Hey, Sora.」",
 },
 },
 },
@@ -1457,7 +1457,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Are you sure you're ready?」",
 },
 },
 },
@@ -1473,7 +1473,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Did you pluck up your courage?」",
 },
 },
 },
@@ -1485,7 +1485,7 @@ ja={
 },
 en={
 {
-"",
+"I can feel it.",
 },
 },
 },
@@ -1497,7 +1497,7 @@ ja={
 },
 en={
 {
-"",
+"That my journey was approaching its end.",
 },
 },
 },
@@ -1509,7 +1509,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro sensed it too, hence her final words of encouragement.",
 },
 },
 },
@@ -1525,7 +1525,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you're still in doubt...I'll give you the kick in the rear you need.」",
 },
 },
 },
@@ -1538,7 +1538,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I'm okay.」",
 },
 },
 },
@@ -1551,7 +1551,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'd be an failure of an okuribito if I chickened out now.」",
 },
 },
 },
@@ -1564,7 +1564,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And...a failure of a brother.」",
 },
 },
 },
@@ -1577,7 +1577,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'd never be able to look her in the eye again...」",
 },
 },
 },
@@ -1589,7 +1589,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro and I entered the dandelion field in the town outskirts.",
 },
 },
 },
@@ -1601,7 +1601,7 @@ ja={
 },
 en={
 {
-"",
+"I knew she would be here.",
 },
 },
 },
@@ -1613,7 +1613,7 @@ ja={
 },
 en={
 {
-"",
+"Yuka-neesan...",
 },
 },
 },
@@ -1629,7 +1629,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kazami-sensei...」",
 },
 },
 },
@@ -1641,7 +1641,7 @@ ja={
 },
 en={
 {
-"",
+"She's not alone. Nana's here too.",
 },
 },
 },
@@ -1657,7 +1657,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I've...finished saying my goodbyes.」",
 },
 },
 },
@@ -1673,7 +1673,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm leaving the rest to you.」",
 },
 },
 },
@@ -1689,7 +1689,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So please...」",
 },
 },
 },
@@ -1701,7 +1701,7 @@ ja={
 },
 en={
 {
-"",
+"Nana moved back without finishing her sentence.",
 },
 },
 },
@@ -1713,7 +1713,7 @@ ja={
 },
 en={
 {
-"",
+"She probably wanted to to say 'So please, see her off with a smile.'",
 },
 },
 },
@@ -1741,7 +1741,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro silently withdrew alongside Nana.",
 },
 },
 },
@@ -1753,7 +1753,7 @@ ja={
 },
 en={
 {
-"",
+"That's her way of telling me that this is my time.",
 },
 },
 },
@@ -1765,7 +1765,7 @@ ja={
 },
 en={
 {
-"",
+"Yeah...it's up to me.",
 },
 },
 },
@@ -1777,7 +1777,7 @@ ja={
 },
 en={
 {
-"",
+"I delayed this for so long out of weakness.",
 },
 },
 },
@@ -1789,7 +1789,7 @@ ja={
 },
 en={
 {
-"",
+"And I finally found the determination.",
 },
 },
 },
@@ -1801,7 +1801,7 @@ ja={
 },
 en={
 {
-"",
+"Like how the principal had done.",
 },
 },
 },
@@ -1813,7 +1813,7 @@ ja={
 },
 en={
 {
-"",
+"And like my tamabito students had done.",
 },
 },
 },
@@ -1825,7 +1825,7 @@ ja={
 },
 en={
 {
-"",
+"I made it here because everyone was with me.",
 },
 },
 },
@@ -1833,7 +1833,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00356",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「蒼空……」",
@@ -1841,7 +1841,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...」",
 },
 },
 },
@@ -1849,7 +1849,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00357",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私の弟……」",
@@ -1857,7 +1857,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My baby brother...」",
 },
 },
 },
@@ -1865,7 +1865,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00358",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私は記憶を取り戻して……それでもなお、現世に留まっていたのは、あなたが気がかりだったから……」",
@@ -1873,7 +1873,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I got my memories back...but stayed in this world out of concern for you.」",
 },
 },
 },
@@ -1881,7 +1881,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00359",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたは、私の死を後悔していたから……」",
@@ -1889,7 +1889,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You felt remorse over my death...」",
 },
 },
 },
@@ -1897,7 +1897,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00360",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私は死の間際に、それを悟った……」",
@@ -1905,7 +1905,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I realized that when I died...」",
 },
 },
 },
@@ -1913,7 +1913,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00361",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「それは、私の責任……」",
@@ -1921,7 +1921,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's my fault...」",
 },
 },
 },
@@ -1929,7 +1929,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00362",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私はいつだって、笑顔で着飾って……だけど、それが逆にあなたを苦しめた……」",
@@ -1937,7 +1937,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I always forced a smaile...but that made you suffer more...」",
 },
 },
 },
@@ -1945,7 +1945,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00363",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私の笑顔は、私が気づかないうちに、無理や我慢の象徴になっていた……」",
@@ -1953,7 +1953,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My smile had become a symbol of my overwork and restraint...」",
 },
 },
 },
@@ -1961,7 +1961,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00364",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私も、弟をひとり置いて、死にたくはなかった……」",
@@ -1969,7 +1969,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I didn't want to die and leave you behind...」",
 },
 },
 },
@@ -1977,7 +1977,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00365",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「なのに、私は無理をして、我慢をして、平気なフリをしていた……」",
@@ -1985,7 +1985,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But I pushed myself, kept everything bottled up, and acted like nothing was wrong...」",
 },
 },
 },
@@ -1993,7 +1993,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00366",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「そんな私の愚かさが、あなたの心に影を落とした……」",
@@ -2001,7 +2001,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My stupidity cast a dark shadow over your heart...」",
 },
 },
 },
@@ -2009,7 +2009,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00367",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたの心にまで、後悔が残ってしまった……」",
@@ -2017,7 +2017,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Your heart was filled with regret...」",
 },
 },
 },
@@ -2025,7 +2025,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00368",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私だけではなく、あなたにまで、心残りが生まれてしまった……」",
@@ -2033,7 +2033,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Both me and you came to hold regrets...」",
 },
 },
 },
@@ -2045,7 +2045,7 @@ ja={
 },
 en={
 {
-"",
+"That regret being...",
 },
 },
 },
@@ -2057,7 +2057,7 @@ ja={
 },
 en={
 {
-"",
+"How I couldn't smile when tending to her on her deathbed...",
 },
 },
 },
@@ -2069,7 +2069,7 @@ ja={
 },
 en={
 {
-"",
+"I couldn't see her off happily...",
 },
 },
 },
@@ -2077,7 +2077,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00369",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「ごめんね……蒼空」",
@@ -2085,7 +2085,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm sorry...Sora.」",
 },
 },
 },
@@ -2097,7 +2097,7 @@ ja={
 },
 en={
 {
-"",
+"She apologized to me.",
 },
 },
 },
@@ -2109,7 +2109,7 @@ ja={
 },
 en={
 {
-"",
+"With the same, stubborn smile...",
 },
 },
 },
@@ -2121,7 +2121,7 @@ ja={
 },
 en={
 {
-"",
+"Even now, she's smiling...",
 },
 },
 },
@@ -2129,7 +2129,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00370",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「もう、いいのよ……」",
@@ -2137,7 +2137,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You can stop now...」",
 },
 },
 },
@@ -2145,7 +2145,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00371",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私のことを引きずることはないのよ……」",
@@ -2153,7 +2153,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Don't let me weigh you down anymore...」",
 },
 },
 },
@@ -2161,7 +2161,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00372",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたには、自分の道を歩んで欲しい」",
@@ -2169,7 +2169,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want you to walk you own path.」",
 },
 },
 },
@@ -2177,7 +2177,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00373",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私のための旅じゃなくて……」",
@@ -2185,7 +2185,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Instead of a journey for me...」",
 },
 },
 },
@@ -2193,7 +2193,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00374",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「自分のための旅……自分のための道……自分のための人生を、歩んで欲しい」",
@@ -2201,7 +2201,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Go on one for yourself...walk your own path...your own life.」",
 },
 },
 },
@@ -2209,7 +2209,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00375",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私のことは……もう、忘れていいのよ……」",
@@ -2217,7 +2217,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You can forget about me...」",
 },
 },
 },
@@ -2229,7 +2229,7 @@ ja={
 },
 en={
 {
-"",
+"Yuka-neesan...",
 },
 },
 },
@@ -2241,7 +2241,7 @@ ja={
 },
 en={
 {
-"",
+"She hasn't changed...it's just like the last time we parted...",
 },
 },
 },
@@ -2253,7 +2253,7 @@ ja={
 },
 en={
 {
-"",
+"She forces herself and holds everything in with a smile...",
 },
 },
 },
@@ -2266,7 +2266,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yuka-neesan...」",
 },
 },
 },
@@ -2279,7 +2279,7 @@ ja={
 },
 en={
 {
-"「」",
+"「There's no way I could forget you...」",
 },
 },
 },
@@ -2292,7 +2292,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can't...」",
 },
 },
 },
@@ -2305,7 +2305,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can't forget...」",
 },
 },
 },
@@ -2318,7 +2318,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can't forget your death...」",
 },
 },
 },
@@ -2331,7 +2331,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I won't run away from your death...not again...」",
 },
 },
 },
@@ -2344,7 +2344,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I won't avert my eyes and lose my way...」",
 },
 },
 },
@@ -2357,7 +2357,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll face it head-on...」",
 },
 },
 },
@@ -2370,7 +2370,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And accept it without regrets...」",
 },
 },
 },
@@ -2383,7 +2383,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's what my journey has been about...」",
 },
 },
 },
@@ -2395,7 +2395,7 @@ ja={
 },
 en={
 {
-"",
+"Any the support of my trusted companion Shiro has given me this opportunity...",
 },
 },
 },
@@ -2408,7 +2408,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My goal was to see my you off...」",
 },
 },
 },
@@ -2421,7 +2421,7 @@ ja={
 },
 en={
 {
-"「」",
+"「With a smile...」",
 },
 },
 },
@@ -2434,7 +2434,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll push myself...hold it all in...and force a smile like you're doing...」",
 },
 },
 },
@@ -2442,7 +2442,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00376",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「…………」",
@@ -2463,7 +2463,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I used to hate the way you smiled while keeping everything bottled up...」",
 },
 },
 },
@@ -2476,7 +2476,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But you didn't do anything wrong...」",
 },
 },
 },
@@ -2489,7 +2489,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I was just immature...」",
 },
 },
 },
@@ -2502,7 +2502,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Both humans and tamabito have a hard time showing their true feelings...that goes without saying...」",
 },
 },
 },
@@ -2514,7 +2514,7 @@ ja={
 },
 en={
 {
-"",
+"It's just as hard to open up about your worries.",
 },
 },
 },
@@ -2526,7 +2526,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro's a perfect example of that.",
 },
 },
 },
@@ -2538,7 +2538,7 @@ ja={
 },
 en={
 {
-"",
+"And Yuka-neesan was just as obstinate...no, even more so.",
 },
 },
 },
@@ -2550,7 +2550,7 @@ ja={
 },
 en={
 {
-"",
+"I didn't understand her.",
 },
 },
 },
@@ -2562,7 +2562,7 @@ ja={
 },
 en={
 {
-"",
+"I failed to see her true feelings.",
 },
 },
 },
@@ -2574,7 +2574,7 @@ ja={
 },
 en={
 {
-"",
+"I was neglectful...",
 },
 },
 },
@@ -2586,7 +2586,7 @@ ja={
 },
 en={
 {
-"",
+"I never tried to understand what she really felt and let myself be spoiled by her...",
 },
 },
 },
@@ -2599,7 +2599,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I figured that out while being an okuribito...」",
 },
 },
 },
@@ -2612,7 +2612,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And while being a health teacher...」",
 },
 },
 },
@@ -2625,7 +2625,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I've learned how to empathize with other peoples' feelings...」",
 },
 },
 },
@@ -2638,7 +2638,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And...I'm not done learning yet...」",
 },
 },
 },
@@ -2651,7 +2651,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because I'm still living...」",
 },
 },
 },
@@ -2664,7 +2664,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And I'll keep on living...」",
 },
 },
 },
@@ -2677,7 +2677,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My journey can only continue after I overcome your death...」",
 },
 },
 },
@@ -2689,7 +2689,7 @@ ja={
 },
 en={
 {
-"",
+"It's only then...",
 },
 },
 },
@@ -2701,7 +2701,7 @@ ja={
 },
 en={
 {
-"",
+"That I can set off on a new journey.",
 },
 },
 },
@@ -2713,7 +2713,7 @@ ja={
 },
 en={
 {
-"",
+"Because my lifespan isn't over yet.",
 },
 },
 },
@@ -2721,7 +2721,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00377",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「蒼空……」",
@@ -2729,7 +2729,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...」",
 },
 },
 },
@@ -2737,7 +2737,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00378",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたは、強い子ね……私よりも、ずっと」",
@@ -2745,7 +2745,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're really strong...much stronger than me.」",
 },
 },
 },
@@ -2753,7 +2753,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00379",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私は、逃げてしまった……」",
@@ -2761,7 +2761,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'd been running away...」",
 },
 },
 },
@@ -2769,7 +2769,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00380",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「だからこそ、私の奇跡の代償は、あなたを忘れることだった……」",
@@ -2777,7 +2777,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's why the cost of my miracle was forgetting about you...」",
 },
 },
 },
@@ -2785,7 +2785,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00381",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「今はもう、生前に抱いていたはずのあなたとの想い出は、ほとんど残っていない……」",
@@ -2793,7 +2793,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I hardly have any memories of you from when I was alive anymore...」",
 },
 },
 },
@@ -2801,7 +2801,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00382",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「なぜ私の奇跡が、花を咲かせることなのかも、思い出せずにいる……」",
@@ -2809,7 +2809,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can't remember why my miracle is to make flowers bloom either...」",
 },
 },
 },
@@ -2817,7 +2817,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00383",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたにはもう、姉らしいことはなにもしてあげられない……」",
@@ -2825,7 +2825,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can't play the big sister to you anymore...」",
 },
 },
 },
@@ -2833,7 +2833,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00384",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「でもね……この気持ちだけは、忘れなかった」",
@@ -2841,7 +2841,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But...there's one thing I could never forget.」",
 },
 },
 },
@@ -2849,7 +2849,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00385",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私が愛する、たったひとりの弟……」",
@@ -2857,7 +2857,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That you're my beloved, one and only little brother...」",
 },
 },
 },
@@ -2865,7 +2865,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00386",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたへの愛だけは、忘れなかった……」",
@@ -2873,7 +2873,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I couldn't forget how much I love you...」",
 },
 },
 },
@@ -2881,7 +2881,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00387",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「だから、たとえ私が、過去を忘れたのだとしても……」",
@@ -2889,7 +2889,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So it doesn't matter if I forgot my past...」",
 },
 },
 },
@@ -2897,7 +2897,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00388",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「未来へと歩むあなたを、応援できる……」",
@@ -2905,7 +2905,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll cheer for you as you step into the future...」",
 },
 },
 },
@@ -2913,7 +2913,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00389",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「さあ……蒼空。この旅は、もう終わり」",
@@ -2921,7 +2921,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Come on...Sora. This journey of yours is over.」",
 },
 },
 },
@@ -2929,7 +2929,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00390",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私を目指す旅は、もう終わり……」",
@@ -2937,7 +2937,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Your journey for me is over...」",
 },
 },
 },
@@ -2945,7 +2945,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00391",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「そろそろ、新しい旅に出発しなさい」",
@@ -2953,7 +2953,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's time you set off on a new journey.」",
 },
 },
 },
@@ -2961,7 +2961,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00392",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「新しい道を歩み始めなさい……」",
@@ -2969,7 +2969,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Take the first step...」",
 },
 },
 },
@@ -2981,7 +2981,7 @@ ja={
 },
 en={
 {
-"",
+"Sis...",
 },
 },
 },
@@ -2993,7 +2993,7 @@ ja={
 },
 en={
 {
-"",
+"Yuka-neesan...",
 },
 },
 },
@@ -3005,7 +3005,7 @@ ja={
 },
 en={
 {
-"",
+"That smile of yours...",
 },
 },
 },
@@ -3017,7 +3017,7 @@ ja={
 },
 en={
 {
-"",
+"The one I hated so much...",
 },
 },
 },
@@ -3029,7 +3029,7 @@ ja={
 },
 en={
 {
-"",
+"You may be forcing it; you may be bottling everything up...",
 },
 },
 },
@@ -3041,7 +3041,7 @@ ja={
 },
 en={
 {
-"",
+"But she wants her smile to come from the heart...",
 },
 },
 },
@@ -3053,7 +3053,7 @@ ja={
 },
 en={
 {
-"",
+"Those are doubtlessly her true feelings...",
 },
 },
 },
@@ -3065,7 +3065,7 @@ ja={
 },
 en={
 {
-"",
+"Then I should smile too...",
 },
 },
 },
@@ -3077,7 +3077,7 @@ ja={
 },
 en={
 {
-"",
+"Even if I have to force it...even if I have to push my emotions down...",
 },
 },
 },
@@ -3089,7 +3089,7 @@ ja={
 },
 en={
 {
-"",
+"Just like she taught me to...!",
 },
 },
 },
@@ -3097,7 +3097,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00393",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「蒼空……。旅の準備は、しっかりね」",
@@ -3105,7 +3105,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora... Take care on your travels.」",
 },
 },
 },
@@ -3113,7 +3113,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00394",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「今日は、早めに休みなさいね」",
@@ -3121,7 +3121,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll be going to bed early today.」",
 },
 },
 },
@@ -3129,7 +3129,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00395",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「歯磨きを忘れずにね」",
@@ -3137,7 +3137,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Be sure to brush your teeth.」",
 },
 },
 },
@@ -3145,7 +3145,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00396",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「朝になったら、ちゃんと起きなさい」",
@@ -3153,7 +3153,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And wake up on time.」",
 },
 },
 },
@@ -3161,7 +3161,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00397",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「寝坊しては、ダメよ」",
@@ -3169,7 +3169,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Don't stay up late.」",
 },
 },
 },
@@ -3177,7 +3177,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00398",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「身体には気をつけてね」",
@@ -3185,7 +3185,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And watch your health.」",
 },
 },
 },
@@ -3193,7 +3193,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00399",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「カゼなんか、引かないようにね」",
@@ -3201,7 +3201,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You don't want to catch a cold.」",
 },
 },
 },
@@ -3213,7 +3213,7 @@ ja={
 },
 en={
 {
-"",
+"Those are things she's told me so many times when I was young...",
 },
 },
 },
@@ -3221,7 +3221,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00400",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「元気でね……蒼空……」",
@@ -3229,7 +3229,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Be safe...Sora...」",
 },
 },
 },
@@ -3241,7 +3241,7 @@ ja={
 },
 en={
 {
-"",
+"Sis...",
 },
 },
 },
@@ -3253,7 +3253,7 @@ ja={
 },
 en={
 {
-"",
+"Yuka-neesan...!",
 },
 },
 },
@@ -3265,7 +3265,7 @@ ja={
 },
 en={
 {
-"",
+"A wordless shout echoed in my chest.",
 },
 },
 },
@@ -3277,7 +3277,7 @@ ja={
 },
 en={
 {
-"",
+"As if in response, my vision blurred and a wet sensation tricked down my cheeks.",
 },
 },
 },
@@ -3289,7 +3289,7 @@ ja={
 },
 en={
 {
-"",
+"I tried blinking them back, but they wouldn't stop.",
 },
 },
 },
@@ -3301,7 +3301,7 @@ ja={
 },
 en={
 {
-"",
+"With each tear, a memory of my sister would resurface.",
 },
 },
 },
@@ -3313,7 +3313,7 @@ ja={
 },
 en={
 {
-"",
+"I...never knew.",
 },
 },
 },
@@ -3325,7 +3325,7 @@ ja={
 },
 en={
 {
-"",
+"I thought people only see their lives flash before their eyes before they die.",
 },
 },
 },
@@ -3337,7 +3337,7 @@ ja={
 },
 en={
 {
-"",
+"But I'm experiencing it while seeing off the deceased...",
 },
 },
 },
@@ -3349,7 +3349,7 @@ ja={
 },
 en={
 {
-"",
+"We lost our parents when we were very young.",
 },
 },
 },
@@ -3361,7 +3361,7 @@ ja={
 },
 en={
 {
-"",
+"Without any relatives to take care of us, we lived while receiving support from an orphanage.",
 },
 },
 },
@@ -3373,7 +3373,7 @@ ja={
 },
 en={
 {
-"",
+"But she worked hard to raise me while I was young, and lost her life.",
 },
 },
 },
@@ -3385,7 +3385,7 @@ ja={
 },
 en={
 {
-"",
+"And became a tamabito.",
 },
 },
 },
@@ -3397,7 +3397,7 @@ ja={
 },
 en={
 {
-"",
+"The sight of her leaving me left mental scars that never faded. It was like tredding through a deep fog.",
 },
 },
 },
@@ -3409,7 +3409,7 @@ ja={
 },
 en={
 {
-"",
+"Not long later, the orphanage took me in.",
 },
 },
 },
@@ -3421,7 +3421,7 @@ ja={
 },
 en={
 {
-"",
+"Towa-sensei was heading that place as a Shinto priest.",
 },
 },
 },
@@ -3433,7 +3433,7 @@ ja={
 },
 en={
 {
-"",
+"She taught me about okuribito and tamabito after I insisted I saw my sister's ghost. ",
 },
 },
 },
@@ -3445,7 +3445,7 @@ ja={
 },
 en={
 {
-"",
+"She determined that I possessed a spiritual sense.",
 },
 },
 },
@@ -3457,7 +3457,7 @@ ja={
 },
 en={
 {
-"",
+"And so I decided to become an okuribito.",
 },
 },
 },
@@ -3469,7 +3469,7 @@ ja={
 },
 en={
 {
-"",
+"In order see my sister off happily----.",
 },
 },
 },
@@ -3477,7 +3477,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00401",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「嫌……」",
@@ -3485,7 +3485,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No...」",
 },
 },
 },
@@ -3497,7 +3497,7 @@ ja={
 },
 en={
 {
-"",
+"I heard her say something.",
 },
 },
 },
@@ -3509,7 +3509,7 @@ ja={
 },
 en={
 {
-"",
+"I could see her.",
 },
 },
 },
@@ -3521,7 +3521,7 @@ ja={
 },
 en={
 {
-"",
+"It might be due to the memories...",
 },
 },
 },
@@ -3533,7 +3533,7 @@ ja={
 },
 en={
 {
-"",
+"But, she's not smiling.",
 },
 },
 },
@@ -3545,7 +3545,7 @@ ja={
 },
 en={
 {
-"",
+"She's not wearing her mask.",
 },
 },
 },
@@ -3557,7 +3557,7 @@ ja={
 },
 en={
 {
-"",
+"That's when I saw them.",
 },
 },
 },
@@ -3569,7 +3569,7 @@ ja={
 },
 en={
 {
-"",
+"Her true feelings.",
 },
 },
 },
@@ -3581,7 +3581,7 @@ ja={
 },
 en={
 {
-"",
+"Her soul...",
 },
 },
 },
@@ -3589,7 +3589,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00402",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「嫌なの……」",
@@ -3597,7 +3597,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No...」",
 },
 },
 },
@@ -3609,7 +3609,7 @@ ja={
 },
 en={
 {
-"",
+"The voice of the soul that transcends kotodama.",
 },
 },
 },
@@ -3621,7 +3621,7 @@ ja={
 },
 en={
 {
-"",
+"Her heart laid bare...",
 },
 },
 },
@@ -3633,7 +3633,7 @@ ja={
 },
 en={
 {
-"",
+"This is a miracle that could only happen because she's a tamabito and I'm an okuribito that can use kotodama...",
 },
 },
 },
@@ -3641,7 +3641,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00403",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「還りたくない……」",
@@ -3649,7 +3649,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't want to go...」",
 },
 },
 },
@@ -3657,7 +3657,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00404",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「弟と別れたくない……」",
@@ -3665,7 +3665,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't want to leave him...」",
 },
 },
 },
@@ -3673,7 +3673,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00405",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「いつまでも……弟のそばにいたい……」",
@@ -3681,7 +3681,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want to stay with Sora...forever...」",
 },
 },
 },
@@ -3689,7 +3689,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00406",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「蒼空と一緒に……生きたかったようっ……！」",
@@ -3697,7 +3697,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I wanted to live with him...!」",
 },
 },
 },
@@ -3705,7 +3705,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00407",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「蒼空……」",
@@ -3713,7 +3713,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...」",
 },
 },
 },
@@ -3721,7 +3721,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00408",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「泣いては、ダメよ……」",
@@ -3729,7 +3729,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No crying...」",
 },
 },
 },
@@ -3737,7 +3737,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00409",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「笑って……」",
@@ -3745,7 +3745,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Smile...」",
 },
 },
 },
@@ -3753,7 +3753,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00410",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私を……笑顔で見送って……」",
@@ -3761,7 +3761,7 @@ ja={
 },
 en={
 {
-"「」",
+"「See me off...with a smile...」",
 },
 },
 },
@@ -3769,7 +3769,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00411",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「蒼空のそばにいたい……蒼空と一緒に生きたい……」",
@@ -3777,7 +3777,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want to be with him...I want to live with him...」",
 },
 },
 },
@@ -3785,7 +3785,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00412",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「だけど……もう、逃げたくない……」",
@@ -3793,7 +3793,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But...I don't want to run away anymore...」",
 },
 },
 },
@@ -3801,7 +3801,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00413",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「ここで勇気を持てなかったら……」",
@@ -3809,7 +3809,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I have to be brave...」",
 },
 },
 },
@@ -3817,7 +3817,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00414",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私はまた、後悔する……」",
@@ -3825,7 +3825,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Or I'll regret it again...」",
 },
 },
 },
@@ -3833,7 +3833,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00415",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「蒼空もまた、後悔することになる……」",
@@ -3841,7 +3841,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And Sora will too...」",
 },
 },
 },
@@ -3849,7 +3849,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00416",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「心残りは、いつまでもなくならない……」",
@@ -3857,7 +3857,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My regrets will never disappear...」",
 },
 },
 },
@@ -3865,7 +3865,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00417",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「これ以上、過ちを繰り返したくはない……」",
@@ -3873,7 +3873,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It'll be a repeat of last time...」",
 },
 },
 },
@@ -3881,7 +3881,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00418",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「きっと……同じ過ちをしないよう、生き直すこと……それが、魂人の意義……」",
@@ -3889,7 +3889,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I believe...tamabito are given life in order to keep others from repeating their mistakes...」",
 },
 },
 },
@@ -3897,7 +3897,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00419",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「魂人は、まだ生きている者のために、この世に留まることを許された……」",
@@ -3905,7 +3905,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Tamabito stay in this world to help the living...」",
 },
 },
 },
@@ -3913,7 +3913,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00420",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「それは、道しるべ……」",
@@ -3921,7 +3921,7 @@ ja={
 },
 en={
 {
-"「」",
+"「To act as guides...」",
 },
 },
 },
@@ -3929,7 +3929,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00421",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「死者は、生者にとっての、未来そのもの――――」",
@@ -3937,7 +3937,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The dead guide the living to the future----.」",
 },
 },
 },
@@ -3945,7 +3945,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00422",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「さあ……蒼空」",
@@ -3953,7 +3953,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Come on...Sora.」",
 },
 },
 },
@@ -3961,7 +3961,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00423",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたの笑顔を……私に見せて……？」",
@@ -3969,7 +3969,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Show me your smile...」",
 },
 },
 },
@@ -3982,7 +3982,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah...aah...」",
 },
 },
 },
@@ -3994,7 +3994,7 @@ ja={
 },
 en={
 {
-"",
+"Nee...san...",
 },
 },
 },
@@ -4002,7 +4002,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00424",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「蒼空……。泣いてはダメって、言ったじゃない」",
@@ -4010,7 +4010,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora... I told you, no crying.」",
 },
 },
 },
@@ -4018,7 +4018,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00425",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「姉さんの言うことが、聞けないの……？」",
@@ -4026,7 +4026,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Are you ignoring your big sister...?」",
 },
 },
 },
@@ -4034,7 +4034,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00426",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「これじゃあ、安心して還れない……」",
@@ -4042,7 +4042,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can't go back in peace if you are...」",
 },
 },
 },
@@ -4050,7 +4050,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00427",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「また……未練が残ってしまうじゃない……」",
@@ -4058,7 +4058,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll...have another regret to deal with...」",
 },
 },
 },
@@ -4071,7 +4071,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nee...san...」",
 },
 },
 },
@@ -4084,7 +4084,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm not crying...」",
 },
 },
 },
@@ -4097,7 +4097,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm smiling...」",
 },
 },
 },
@@ -4110,7 +4110,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sloppy, I know...but it's always looked like this...」",
 },
 },
 },
@@ -4118,7 +4118,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00428",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「そっか……うん……」",
@@ -4126,7 +4126,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Really...yeah...」",
 },
 },
 },
@@ -4134,7 +4134,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00429",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたは、不格好で……不器用で……方向音痴で……」",
@@ -4142,7 +4142,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You really are sloppy...awkward...and always get lost...」",
 },
 },
 },
@@ -4150,7 +4150,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00430",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「だけど、誰よりも優しくて、人を思いやれる心を持っていて……」",
@@ -4158,7 +4158,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But you're kinder than anyone, and cares so much about others.」",
 },
 },
 },
@@ -4166,7 +4166,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00431",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私の、自慢の弟だった……」",
@@ -4174,7 +4174,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're my pride and joy...」",
 },
 },
 },
@@ -4182,7 +4182,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00432",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「そんなあなただから……私はきっと、誰かに恋をすることもなかった」",
@@ -4190,7 +4190,7 @@ ja={
 },
 en={
 {
-"「」",
+"「With a brother like you...how could I have fallen in love with anyone?」",
 },
 },
 },
@@ -4198,7 +4198,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00433",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「恋をする暇があったら、弟のそばにいたかった。あなたに寄り添っていたかった」",
@@ -4206,7 +4206,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I didn't care about romance, I wanted to be with you. To take care of you.」",
 },
 },
 },
@@ -4214,7 +4214,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00434",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたは、私の幸せ、そのものだった……」",
@@ -4222,7 +4222,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You were my happiness.」",
 },
 },
 },
@@ -4230,7 +4230,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00435",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたは、私の未来、そのものだった……」",
@@ -4238,7 +4238,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You were my future...」",
 },
 },
 },
@@ -4246,7 +4246,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00436",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「だから……私の分まで、生きて」",
@@ -4254,7 +4254,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So live the life I couldn't」",
 },
 },
 },
@@ -4262,7 +4262,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00437",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「生きてくれるだけで、うれしいの」",
@@ -4270,7 +4270,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's all I need to be happy.」",
 },
 },
 },
@@ -4278,7 +4278,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00438",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「生きてくれるだけで、心残りがなくなるの」",
@@ -4286,7 +4286,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's all I need for my regrets to disappear.」",
 },
 },
 },
@@ -4294,7 +4294,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00439",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたは、私を見送ったあとに、新たな旅に出ると言ってくれた……」",
@@ -4302,7 +4302,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You said you would go off on a new journey once I'm gone...」",
 },
 },
 },
@@ -4310,7 +4310,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00440",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「だから私は、笑顔で還ることができるのよ」",
@@ -4318,7 +4318,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So I know I can go back with a smile.」",
 },
 },
 },
@@ -4331,7 +4331,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sis...!」",
 },
 },
 },
@@ -4343,7 +4343,7 @@ ja={
 },
 en={
 {
-"",
+"I suppress my urge to run to her...",
 },
 },
 },
@@ -4355,7 +4355,7 @@ ja={
 },
 en={
 {
-"",
+"Desperately reigning in my urge to hug her...",
 },
 },
 },
@@ -4367,7 +4367,7 @@ ja={
 },
 en={
 {
-"",
+"Because if I do, she would think I still have regrets...",
 },
 },
 },
@@ -4379,7 +4379,7 @@ ja={
 },
 en={
 {
-"",
+"I have to...",
 },
 },
 },
@@ -4391,7 +4391,7 @@ ja={
 },
 en={
 {
-"",
+"Send her back with my words as the kotodama-using okuribito I am...",
 },
 },
 },
@@ -4404,7 +4404,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yuka-neesan...there's something I need to say...」",
 },
 },
 },
@@ -4417,7 +4417,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Thank you living...」",
 },
 },
 },
@@ -4430,7 +4430,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Thank you for being there for me...」",
 },
 },
 },
@@ -4443,7 +4443,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Just you being by my side...」",
 },
 },
 },
@@ -4456,7 +4456,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Was enough for me...」",
 },
 },
 },
@@ -4469,7 +4469,7 @@ ja={
 },
 en={
 {
-"「」",
+"「There was meaning in it...」",
 },
 },
 },
@@ -4482,7 +4482,7 @@ ja={
 },
 en={
 {
-"「」",
+"「In living...」",
 },
 },
 },
@@ -4495,7 +4495,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And in dying too...」",
 },
 },
 },
@@ -4507,7 +4507,7 @@ ja={
 },
 en={
 {
-"",
+"We ask ourselves, where do we find the meaning in our lives?",
 },
 },
 },
@@ -4519,7 +4519,7 @@ ja={
 },
 en={
 {
-"",
+"The answer being, in death.",
 },
 },
 },
@@ -4531,7 +4531,7 @@ ja={
 },
 en={
 {
-"",
+"For it is when humans die.",
 },
 },
 },
@@ -4543,7 +4543,7 @@ ja={
 },
 en={
 {
-"",
+"It is when tamabito return.",
 },
 },
 },
@@ -4555,7 +4555,7 @@ ja={
 },
 en={
 {
-"",
+"That we can say that we have lived...",
 },
 },
 },
@@ -4568,7 +4568,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nee-san.」",
 },
 },
 },
@@ -4580,7 +4580,7 @@ ja={
 },
 en={
 {
-"",
+"Welcome back...",
 },
 },
 },
@@ -4592,7 +4592,7 @@ ja={
 },
 en={
 {
-"",
+"No...",
 },
 },
 },
@@ -4609,7 +4609,7 @@ ja={
 },
 en={
 {
-"「」",
+"「HAVE A SAFE TRIP, nee-san.」",
 },
 },
 },
@@ -4617,7 +4617,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00441",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「うん……」",
@@ -4625,7 +4625,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Okay...」",
 },
 },
 },
@@ -4633,7 +4633,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00442",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「いってきます、蒼空」",
@@ -4641,7 +4641,7 @@ ja={
 },
 en={
 {
-"「」",
+"「See you later, Sora.」",
 },
 },
 },
@@ -4653,7 +4653,7 @@ ja={
 },
 en={
 {
-"",
+"Thank you, nee-san.",
 },
 },
 },
@@ -4666,7 +4666,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Thank you for living----!」",
 },
 },
 },
@@ -4678,7 +4678,7 @@ ja={
 },
 en={
 {
-"",
+"Yuka-neesan returned to the heavens.",
 },
 },
 },
@@ -4690,7 +4690,7 @@ ja={
 },
 en={
 {
-"",
+"With a smile.",
 },
 },
 },
@@ -4702,7 +4702,7 @@ ja={
 },
 en={
 {
-"",
+"The smile I hated, and loved so much.",
 },
 },
 },
@@ -4714,7 +4714,7 @@ ja={
 },
 en={
 {
-"",
+"The sun had already set.",
 },
 },
 },
@@ -4726,7 +4726,7 @@ ja={
 },
 en={
 {
-"",
+"Amidst the starry sky, a single light flickered and vanished.",
 },
 },
 },
@@ -4738,7 +4738,7 @@ ja={
 },
 en={
 {
-"",
+"And the dandelion field that she loved...",
 },
 },
 },
@@ -4750,7 +4750,7 @@ ja={
 },
 en={
 {
-"",
+"Shone like the star-filled canopy one last time, as though blessing her on her new journey.",
 },
 },
 },
