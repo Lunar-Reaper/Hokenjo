@@ -1945,7 +1945,9 @@ ja={
 },
 en={
 {
+{"exfont",size="f1"},
 "「With tax revenue on the decline due to the declining birthrates and the cost of social security on the rise with the aging population, taxes are high enough as they are. We can't squeeze the populace any further.」",
+{"exfont"},
 },
 },
 },
@@ -2041,7 +2043,7 @@ ja={
 },
 en={
 {
-"「You're as pallid as when we had that dream told this morning.」",
+"「You look as pallid as you were when we were talking about that dream this morning.」",
 },
 },
 },
@@ -2740,7 +2742,7 @@ ja={
 },
 en={
 {
-"「But okuribito have a tempered spititual sense that most people lack. Meaning, they have strong resistance to spiritual energy.」",
+"「But okuribito have a tempered spiritual sense that most people lack. Meaning, they have strong resistance to spiritual energy.」",
 },
 },
 },
@@ -3066,7 +3068,7 @@ ja={
 },
 en={
 {
-"Looks like she was tryint to use her spirit factor manipulation on me.",
+"Looks like she was trying to use her spirit factor manipulation on me.",
 },
 },
 },
@@ -3342,7 +3344,7 @@ ja={
 },
 en={
 {
-"She eventually separated from me with a sweet sigh, her miracle seeminly finished.",
+"She eventually separated from me with a sweet sigh, her miracle seemingly finished.",
 },
 },
 },
@@ -4122,7 +4124,7 @@ ja={
 },
 en={
 {
-"She can control lightning--and in a broader scope, electricity and elecromagnetic waves.",
+"She can control lightning--and in a broader scope, electricity and electromagnetic waves.",
 },
 },
 },
@@ -4134,7 +4136,7 @@ ja={
 },
 en={
 {
-"Elecromagnetic waves have a major effect on the human brain...",
+"Electromagnetic waves have a major effect on the human brain...",
 },
 },
 },
@@ -4282,7 +4284,7 @@ ja={
 },
 en={
 {
-"That would mean the path I've travelled--and the path I'm on now are the right ones.",
+"That would mean the path I've traveled--and the path I'm on now are the right ones.",
 },
 },
 },
