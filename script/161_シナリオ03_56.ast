@@ -1219,7 +1219,7 @@ vo={
 {"vo",file="fem_y07_00032",ch="fem"},
 {"vo",file="fem_y08_00031",ch="fem"},
 },
-name={name="かしまし三人娘"},
+name={name="かしまし三人娘",ja="かしまし三人娘",en="All Three"},
 ja={
 {
 "「先生、さようなら！」",
@@ -1765,7 +1765,7 @@ vo={
 {"vo",file="fem_y07_00039",ch="fem"},
 {"vo",file="fem_y08_00038",ch="fem"},
 },
-name={name="かしまし三人娘"},
+name={name="かしまし三人娘",ja="かしまし三人娘",en="All Three"},
 ja={
 {
 "「キャ～～～～～～っっっ！！！」",
@@ -1843,7 +1843,7 @@ vo={
 {"vo",file="fem_y07_00041",ch="fem"},
 {"vo",file="fem_y08_00040",ch="fem"},
 },
-name={name="かしまし三人娘",ja="かしまし三人娘",en="Noisy trio"},
+name={name="かしまし三人娘",ja="かしまし三人娘",en="All Three"},
 ja={
 {
 "「先生、さようなら！」",
