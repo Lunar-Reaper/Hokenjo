@@ -768,7 +768,9 @@ ja={
 },
 en={
 {
+{"exfont",size="f2"},
 "With rates of birth being the lowest they've ever been, coupled with a low population resulting in a tax revenue shortfall, the nation has been forced to rely on imported labor.",
+{"exfont"},
 },
 },
 },
