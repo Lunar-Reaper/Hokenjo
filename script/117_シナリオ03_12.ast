@@ -2096,7 +2096,9 @@ ja={
 },
 en={
 {
+{"exfont",size="f2"},
 "「That is why's we've prepared countermeasure for it. As I said earlier, Otohime-sensei was dispatched here in the capacity of a national tamabito and is doing her utmost.」",
+{"exfont"},
 },
 },
 },
@@ -3095,7 +3097,7 @@ ja={
 },
 en={
 {
-"「She's been a bit help to me.」",
+"「She's been a big help to me.」",
 },
 },
 },
