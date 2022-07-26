@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼・蒼空の霊障",ja="昼・蒼空の霊障",en="Noon-Sora's pneumaosis"},
+{"savetitle",text="昼・蒼空の霊障",ja="昼・蒼空の霊障",en="Noon-Sora's spiritosis"},
 {"se",file="se305",id=1},
 {"bg",file="bg10e",path=":bg/",rule=300,vague=40},
 {"fg",ch="オトヒメ",face="a0001",file="oto_noa0100",head="oto_noa",id=37,lv=2,mode=3,mx=-40,my=0,path=":fg/oto/no/",resize=1,size="no"},
@@ -1509,7 +1509,7 @@ ja={
 },
 en={
 {
-"As I expected, her pneumaosis has gotten worse.",
+"As I expected, her spiritosis has gotten worse.",
 },
 },
 },
@@ -1833,7 +1833,7 @@ ja={
 },
 en={
 {
-"「Those afflicted with pneumaosis have their medical costs covered by the nation, but that doesn't include costs of living.」",
+"「Those afflicted with spiritosis have their medical costs covered by the nation, but that doesn't include costs of living.」",
 },
 },
 },
@@ -2698,7 +2698,7 @@ ja={
 },
 en={
 {
-"「Have you ever contracted pneumaosis in the past?」",
+"「Have you ever contracted spiritosis in the past?」",
 },
 },
 },
@@ -2787,7 +2787,7 @@ ja={
 },
 en={
 {
-"「No...I don't think so. I've never had pneumaosis.」",
+"「No...I don't think so. I've never had spiritosis.」",
 },
 },
 },
@@ -2835,7 +2835,7 @@ ja={
 },
 en={
 {
-"「Being faced with a patient like Mizumi won't give you firsthand experience as to what pneumaosis feels like.」",
+"「Being faced with a patient like Mizumi won't give you firsthand experience as to what spiritosis feels like.」",
 },
 },
 },
@@ -2867,7 +2867,7 @@ ja={
 },
 en={
 {
-"「And if I told you your dreams are caused by pneumaosis, you wouldn't be able to contest it.」",
+"「And if I told you your dreams are caused by spiritosis, you wouldn't be able to contest it.」",
 },
 },
 },
@@ -2936,7 +2936,7 @@ ja={
 },
 en={
 {
-"「And nightmares are none other than pneumaosis...」",
+"「And nightmares are none other than spiritosis...」",
 },
 },
 },
@@ -2968,7 +2968,7 @@ ja={
 },
 en={
 {
-"「Sora. there's a good chance you've come down with pneumaosis through your interactions with the many tamabito in this town.」",
+"「Sora. there's a good chance you've come down with spiritosis through your interactions with the many tamabito in this town.」",
 },
 },
 },
@@ -3773,7 +3773,7 @@ ja={
 },
 en={
 {
-"「You're currently suffering from pneumaosis.」",
+"「You're currently suffering from spiritosis.」",
 },
 },
 },
@@ -3830,7 +3830,7 @@ ja={
 },
 en={
 {
-"That let to me getting pneumaosis...?",
+"That let to me getting spiritosis...?",
 },
 },
 },
@@ -3862,7 +3862,7 @@ ja={
 },
 en={
 {
-"「You're pneumaosis is a badge of honor.」",
+"「You're spiritosis is a badge of honor.」",
 },
 },
 },
@@ -3918,7 +3918,7 @@ ja={
 },
 en={
 {
-"「As an okuribito, your pneumaosis is mild, unlike Mizumi's.」",
+"「As an okuribito, your spiritosis is mild, unlike Mizumi's.」",
 },
 },
 },
@@ -3998,7 +3998,7 @@ ja={
 },
 en={
 {
-"「If you want to learn the truth behind them, you'll have to confront your pneumaosis.」",
+"「If you want to learn the truth behind them, you'll have to confront your spiritosis.」",
 },
 },
 },
@@ -4010,7 +4010,7 @@ ja={
 },
 en={
 {
-"Confront my pneumaosis...?",
+"Confront my spiritosis...?",
 },
 },
 },

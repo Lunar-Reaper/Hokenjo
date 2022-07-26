@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼・瑞海の霊障３",ja="昼・瑞海の霊障３",en="Noon-Mizumi's pneumaosis 3"},
+{"savetitle",text="昼・瑞海の霊障３",ja="昼・瑞海の霊障３",en="Noon-Mizumi's spiritosis 3"},
 {"msg",no=1},
 {"bg",file="bg22a",path=":bg/",rule="wipe_10",vague=40},
 {"text"},
@@ -433,7 +433,7 @@ ja={
 },
 en={
 {
-"They'd all be up in arms if somebody told them about pneumaosis and how crazy a disease it is.",
+"They'd all be up in arms if somebody told them about spiritosis and how crazy a disease it is.",
 },
 },
 },

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼・瑞海の霊障１",ja="昼・瑞海の霊障１",en="Noon-Mizumi's pneumaosis 1"},
+{"savetitle",text="昼・瑞海の霊障１",ja="昼・瑞海の霊障１",en="Noon-Mizumi's spiritosis 1"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg22a",path=":bg/",speed=70000,x=100,x2=100,y=360,y2=-360},
 {"bgm",file="bgm45"},
 {"text"},

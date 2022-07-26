@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夕方・瑞海の霊障３",ja="夕方・瑞海の霊障３",en="Evening-Mizumi's pneumaosis 3"},
+{"savetitle",text="夕方・瑞海の霊障３",ja="夕方・瑞海の霊障３",en="Evening-Mizumi's spiritosis 3"},
 {"msg",no=2},
 {"msgoff"},
 {"bg",file="bg02b",path=":bg/",sync=0,zone="even_in"},

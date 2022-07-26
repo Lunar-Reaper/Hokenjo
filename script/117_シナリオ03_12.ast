@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼・瑞海の霊障２",ja="昼・瑞海の霊障２",en="Noon-Mizumi'a pneumaosis 2"},
+{"savetitle",text="昼・瑞海の霊障２",ja="昼・瑞海の霊障２",en="Noon-Mizumi'a spiritosis 2"},
 {"msg",no=1},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg22a",path=":bg/",rule="wipe_10",speed=70000,vague=40,x=100,x2=100,y=360,y2=-360},
 {"bgm",file="bgm11"},
@@ -1623,7 +1623,7 @@ ja={
 },
 en={
 {
-"「Yes. It concerns pneumaosis.」",
+"「Yes. It concerns spiritosis.」",
 },
 },
 },
@@ -1652,7 +1652,7 @@ ja={
 },
 en={
 {
-"「Hmm...pneumaosis, huh.」",
+"「Hmm...spiritosis, huh.」",
 },
 },
 },
@@ -1732,7 +1732,7 @@ ja={
 },
 en={
 {
-"「There's no general cure for pneumaosis.」",
+"「There's no general cure for spiritosis.」",
 },
 },
 },
@@ -1780,7 +1780,7 @@ ja={
 },
 en={
 {
-"「She has been suppressing onsets of pneumaosis under the guise of patrolling the town.」",
+"「She has been suppressing onsets of spiritosis under the guise of patrolling the town.」",
 },
 },
 },
@@ -1816,7 +1816,7 @@ ja={
 },
 en={
 {
-"With all the tamabito around, there's bound to be a higher rate of pneumaosis than the norm.",
+"With all the tamabito around, there's bound to be a higher rate of spiritosis than the norm.",
 },
 },
 },
@@ -1860,7 +1860,7 @@ ja={
 },
 en={
 {
-"「We've had one student come down with pneumaosis, and we should have been equipped to deal with it.」",
+"「We've had one student come down with spiritosis, and we should have been equipped to deal with it.」",
 },
 },
 },
@@ -2080,7 +2080,7 @@ ja={
 },
 en={
 {
-"「But given the high density of tamabito here, it's expected that cases of pneumaosis might come up, rare as the disease may be.」",
+"「But given the high density of tamabito here, it's expected that cases of spiritosis might come up, rare as the disease may be.」",
 },
 },
 },
@@ -2130,7 +2130,7 @@ ja={
 },
 en={
 {
-"「She stated that Mizumi-san's pneumaosis may be too severe for her to handle...」",
+"「She stated that Mizumi-san's spiritosis may be too severe for her to handle...」",
 },
 },
 },
@@ -2845,7 +2845,7 @@ ja={
 },
 en={
 {
-"Overcoming her pneumaosis will necessitate effective treament, immune strength, and of course, spiritual power.",
+"Overcoming her spiritosis will necessitate effective treament, immune strength, and of course, spiritual power.",
 },
 },
 },
@@ -2934,7 +2934,7 @@ ja={
 },
 en={
 {
-"「Kazami-sensei. Mizumi's pneumaosis is inconvenient to both the nation, and to madam principal personally.」",
+"「Kazami-sensei. Mizumi's spiritosis is inconvenient to both the nation, and to madam principal personally.」",
 },
 },
 },
