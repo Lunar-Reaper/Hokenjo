@@ -1243,7 +1243,7 @@ ja={
 },
 en={
 {
-""Yamashiro raised the spear he'd been shouldering.,
+"Yamashiro raised the spear he'd been shouldering.",
 },
 },
 },
@@ -2382,7 +2382,7 @@ ja={
 {
 "横薙ぎされた",
 {"ruby",text="ほこ"},
-"鉾"
+"鉾",
 {"/ruby"},
 "によって暴風は鎮まったが、その穂先はシロバナの首に届かなかった。",
 },
