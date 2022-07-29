@@ -535,7 +535,7 @@ ja={
 },
 en={
 {
-"\"Slightly abnormal.\"",
+"'Slight abnormalities.'",
 },
 },
 },
@@ -547,7 +547,7 @@ ja={
 },
 en={
 {
-"\"Requires further observation.\"",
+"'Requires further observation.'",
 },
 },
 },
@@ -559,7 +559,7 @@ ja={
 },
 en={
 {
-"\"No additional examinations necessary.\"",
+"'No additional examinations necessary.'",
 },
 },
 },
@@ -644,7 +644,7 @@ ja={
 },
 en={
 {
-"Or to be precise, \"suspected anemia.\"",
+"Or to be precise, 'suspected anemia.'",
 },
 },
 },
