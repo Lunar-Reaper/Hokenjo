@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="回想・永遠の夢",ja="回想・永遠の夢",en=""},
+{"savetitle",text="回想・永遠の夢",ja="回想・永遠の夢",en="Recollection-Dreaming of Towa"},
 {"ntclear"},
 {"bg",file="eyecatch03",path=":cg/",time=2000},
 {"sysvo",name="titlecall",com="shi"},
@@ -249,7 +249,7 @@ text={
 vo={
 {"vo",file="fem_twa_00130",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「蒼空。よくお聞きなさい」",
@@ -257,7 +257,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora. Listen closely.」",
 },
 },
 },
@@ -265,7 +265,7 @@ en={
 vo={
 {"vo",file="fem_twa_00131",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「今日もまた、送り人にとって避けては通れない、死生観についてお話ししたいと思います」",
@@ -273,7 +273,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Today, we'll continue our talk on views towards life an death, a topic which okuribito must not avert their eyes from.」",
 },
 },
 },
@@ -281,7 +281,7 @@ en={
 vo={
 {"vo",file="fem_twa_00132",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「私が抱く死生観のほとんどは、過去に終末医療に携わっていた経験がもとになっています」",
@@ -289,7 +289,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My own view comes from my past experiences working in terminal care.」",
 },
 },
 },
@@ -297,7 +297,7 @@ en={
 vo={
 {"vo",file="fem_twa_00133",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「言わば、私なりの考えに過ぎません」",
@@ -305,7 +305,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It is nothing more than my personal opinion.」",
 },
 },
 },
@@ -313,7 +313,7 @@ en={
 vo={
 {"vo",file="fem_twa_00134",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「ですから、私の話を聞いた上で、あなたにも自分の頭で考えてもらいたい」",
@@ -321,7 +321,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But in listening to it, I would like for you to use your own brain.」",
 },
 },
 },
@@ -329,7 +329,7 @@ en={
 vo={
 {"vo",file="fem_twa_00135",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「私の経験上、人は健やかに生き、安らかに旅立ちたいと願っているものです」",
@@ -337,7 +337,7 @@ ja={
 },
 en={
 {
-"「」",
+"「From my experience, humans wish to live healthy and pass on in peace.」",
 },
 },
 },
@@ -345,7 +345,7 @@ en={
 vo={
 {"vo",file="fem_twa_00136",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「とはいえ、この国では約８５％の人が、病院や施設で最期を迎えてしまうのです」",
@@ -353,7 +353,7 @@ ja={
 },
 en={
 {
-"「」",
+"「However, the lives of approximately 85% of our nation's population end in hospitals or care institutions.」",
 },
 },
 },
@@ -361,7 +361,7 @@ en={
 vo={
 {"vo",file="fem_twa_00137",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「よって人生の終わりには、治療や療養をどこまで望むのかの判断をせまられる場面が少なくありません」",
@@ -369,7 +369,7 @@ ja={
 },
 en={
 {
-"「」",
+"「As such, there are many cases where you're forced to decide how much treament they should be given.」",
 },
 },
 },
@@ -377,7 +377,7 @@ en={
 vo={
 {"vo",file="fem_twa_00138",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「その判断とは、本人だけではなく、本人の周囲――とりわけ家族にも及びます」",
@@ -385,7 +385,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The choice rests not with the person in question, but those close to them--particularly their family members.」",
 },
 },
 },
@@ -393,7 +393,7 @@ en={
 vo={
 {"vo",file="fem_twa_00139",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「終末期にある本人は、自分の力だけで意志決定ができる状態にない場合が、多々あるためです」",
@@ -401,7 +401,7 @@ ja={
 },
 en={
 {
-"「」",
+"「There are no shortage of cases where terminal care patients are in no condition to make rational decisions.」",
 },
 },
 },
@@ -409,7 +409,7 @@ en={
 vo={
 {"vo",file="fem_twa_00140",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「それゆえに、昨今ではＡＣＰの議論が注目され始めています」",
@@ -417,7 +417,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That is why the argument for ACP has been under scrutiny as of late.」",
 },
 },
 },
@@ -425,7 +425,7 @@ en={
 vo={
 {"vo",file="fem_twa_00141",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「ＡＣＰとは、アドバンス・ケア・プランニング」",
@@ -433,7 +433,7 @@ ja={
 },
 en={
 {
-"「」",
+"「ACP stands for Advance Care Planning.」",
 },
 },
 },
@@ -441,7 +441,7 @@ en={
 vo={
 {"vo",file="fem_twa_00142",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「最後の時間を、どう生きたいか――それを事前に家族や専門家と共に話し合うことを指します」",
@@ -449,7 +449,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It refers to discussing how one plans to live their final moments with their family and specialists beforehand.」",
 },
 },
 },
@@ -457,7 +457,7 @@ en={
 vo={
 {"vo",file="fem_twa_00143",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「人が健やかに生き、安らかに旅立つためには、自分の力だけでは叶いません。周囲の助けが必要になるのです」",
@@ -465,7 +465,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Living a healthy live and passing on peacefully is not possible alone. The assistance of others is a necessity.」",
 },
 },
 },
@@ -473,7 +473,7 @@ en={
 vo={
 {"vo",file="fem_twa_00144",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「人と人とのつながりが求められるのです」",
@@ -481,7 +481,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We need connections with others.」",
 },
 },
 },
@@ -489,7 +489,7 @@ en={
 vo={
 {"vo",file="fem_twa_00145",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「そのつながりを求めるには、なによりも、家族と話し合うことが必要なのです」",
@@ -497,7 +497,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And as such, talking with one's family members is especially important.」",
 },
 },
 },
@@ -505,7 +505,7 @@ en={
 vo={
 {"vo",file="fem_twa_00146",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「終末医療の現場では、阿吽の呼吸など成立しません」",
@@ -513,7 +513,7 @@ ja={
 },
 en={
 {
-"「」",
+"「In terminal care, you cannot assume their desires.」",
 },
 },
 },
@@ -521,7 +521,7 @@ en={
 vo={
 {"vo",file="fem_twa_00147",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「医者は患者の意思を、容態を診るだけでは汲み取ることなどできません」",
@@ -529,7 +529,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A doctor cannot understand a patient's wishes through mere examinations.」",
 },
 },
 },
@@ -537,7 +537,7 @@ en={
 vo={
 {"vo",file="fem_twa_00148",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「そしてそれは、家族にも言えること」",
@@ -545,7 +545,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The same goes for family.」",
 },
 },
 },
@@ -553,7 +553,7 @@ en={
 vo={
 {"vo",file="fem_twa_00149",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「私は、死にゆく母の気持ちを、その様子を見ているだけではわかりませんでした」",
@@ -561,7 +561,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I couldn't understand my dying mother's wishes simply by looking at her.」",
 },
 },
 },
@@ -569,7 +569,7 @@ en={
 vo={
 {"vo",file="fem_twa_00150",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「もしわかったように感じたとしても、その多くの場合は、幻想に過ぎません」",
@@ -577,7 +577,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Those that felt they did were just deluding themselves in the majority of cases.」",
 },
 },
 },
@@ -585,7 +585,7 @@ en={
 vo={
 {"vo",file="fem_twa_00151",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「見送る者の都合の良い解釈でしかないのです」",
@@ -593,7 +593,7 @@ ja={
 },
 en={
 {
-"「」",
+"「They came up with whatever suited them as they saw their loved one off.」",
 },
 },
 },
@@ -601,7 +601,7 @@ en={
 vo={
 {"vo",file="fem_twa_00152",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「蒼空。あなたが送り人を目指すのならば、なによりも魂人との会話を大切にしなさい」",
@@ -609,7 +609,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora. If you intend to become an okuribito, you must value your conversations with tamabito above all else.」",
 },
 },
 },
@@ -617,7 +617,7 @@ en={
 vo={
 {"vo",file="fem_twa_00153",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「言霊を大切にしなさい」",
@@ -625,7 +625,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Value your kotodama.」",
 },
 },
 },
@@ -633,7 +633,7 @@ en={
 vo={
 {"vo",file="fem_twa_00154",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「終末医療の考え方は、魂人にも当てはまると、私は考えているのです」",
@@ -641,7 +641,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I believe my philosophy for terminal care is applicable to tamabito as well.」",
 },
 },
 },
@@ -649,7 +649,7 @@ en={
 vo={
 {"vo",file="fem_twa_00155",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「人が、無理な延命治療を望まず、安らかに旅立ちたいのならば」",
@@ -657,7 +657,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If humans desire a peaceful death over a forced life-prolonging treatment...」",
 },
 },
 },
@@ -665,7 +665,7 @@ en={
 vo={
 {"vo",file="fem_twa_00156",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「私は、この国では禁止されている尊厳死や安楽死を、肯定します」",
@@ -673,7 +673,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then I am in favor of euthanasia and allowing natural deaths, which are forbidden in this country.」",
 },
 },
 },
@@ -681,7 +681,7 @@ en={
 vo={
 {"vo",file="fem_twa_00157",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「だからこそ、魂人を長く現世に留まらせることもまた同様に、懐疑的なのです」",
@@ -689,7 +689,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I likewise have my doubts on keeping tamabito here in the living world.」",
 },
 },
 },
@@ -697,7 +697,7 @@ en={
 vo={
 {"vo",file="fem_twa_00158",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「それは、無理な延命治療となにが違うのか……と」",
@@ -705,7 +705,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I would argue that that's no different from forcibly prolonging a life.」",
 },
 },
 },
@@ -717,7 +717,7 @@ ja={
 },
 en={
 {
-"",
+"In which case.",
 },
 },
 },
@@ -729,7 +729,7 @@ ja={
 },
 en={
 {
-"",
+"Is it wrong to force tamabito to stay in this world?",
 },
 },
 },
@@ -741,7 +741,7 @@ ja={
 },
 en={
 {
-"",
+"Is it only right to send them back?",
 },
 },
 },
@@ -753,7 +753,7 @@ ja={
 },
 en={
 {
-"",
+"Towa-sensei told me to use my own brain.",
 },
 },
 },
@@ -765,7 +765,7 @@ ja={
 },
 en={
 {
-"",
+"I've spent a long time together with Shiro.",
 },
 },
 },
@@ -777,7 +777,7 @@ ja={
 },
 en={
 {
-"",
+"And I've met a lot of tamabito in Saika.",
 },
 },
 },
@@ -789,7 +789,7 @@ ja={
 },
 en={
 {
-"",
+"After all of that, a single answer began taking shape within me.",
 },
 },
 },
@@ -801,7 +801,7 @@ ja={
 },
 en={
 {
-"",
+"That tamabito have just as much right to live as humans...",
 },
 },
 },
@@ -813,7 +813,7 @@ ja={
 },
 en={
 {
-"",
+"It's just as she said.",
 },
 },
 },
@@ -825,7 +825,7 @@ ja={
 },
 en={
 {
-"",
+"Just as Shiroka once said to me.",
 },
 },
 },
@@ -837,7 +837,7 @@ ja={
 },
 en={
 {
-"",
+"Even ghosts are living beings----.",
 },
 },
 },

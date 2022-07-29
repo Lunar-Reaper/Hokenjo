@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夜・記憶の謎",ja="夜・記憶の謎",en="Night-"},
+{"savetitle",text="夜・記憶の謎",ja="夜・記憶の謎",en="Night-Mystery of the memories"},
 {"msg",no=1},
 {"cgdel",id=-1},
 {"bg",file="black",path=":bg/",time=1000},
@@ -218,7 +218,7 @@ ja={
 },
 en={
 {
-"",
+"Splish...",
 },
 },
 },
@@ -230,7 +230,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro and I once again soaked in the open-air bath together.",
 },
 },
 },
@@ -242,7 +242,7 @@ ja={
 },
 en={
 {
-"",
+"I reflected on my freshy-revived memories while enjoying its warmth.",
 },
 },
 },
@@ -254,7 +254,7 @@ ja={
 },
 en={
 {
-"",
+"...How long ago did that take place?",
 },
 },
 },
@@ -266,7 +266,7 @@ ja={
 },
 en={
 {
-"",
+"With all the talk about school, it must have been when I was a student.",
 },
 },
 },
@@ -278,7 +278,7 @@ ja={
 },
 en={
 {
-"",
+"And Shiroka is Shiro when she was alive.",
 },
 },
 },
@@ -290,7 +290,7 @@ ja={
 },
 en={
 {
-"",
+"But...",
 },
 },
 },
@@ -303,7 +303,7 @@ ja={
 },
 en={
 {
-"",
+"(Who's Konohana Ao?)",
 },
 },
 },
@@ -315,7 +315,7 @@ ja={
 },
 en={
 {
-"",
+"Is it...me?",
 },
 },
 },
@@ -328,7 +328,7 @@ ja={
 },
 en={
 {
-"",
+"(But my name is Kazami Sora...)",
 },
 },
 },
@@ -340,7 +340,7 @@ ja={
 },
 en={
 {
-"",
+"I've never changed the name I was given. I was Kazami Sora back when I was a student too.",
 },
 },
 },
@@ -352,7 +352,7 @@ ja={
 },
 en={
 {
-"",
+"And yet...",
 },
 },
 },
@@ -365,7 +365,7 @@ ja={
 },
 en={
 {
-"",
+"(What's this all about...?)",
 },
 },
 },
@@ -377,7 +377,7 @@ ja={
 },
 en={
 {
-"",
+"If Konohana Ao and Kazami Sora are the same person...",
 },
 },
 },
@@ -389,7 +389,7 @@ ja={
 },
 en={
 {
-"",
+"The why have I forgotten all of this?",
 },
 },
 },
@@ -401,7 +401,7 @@ ja={
 },
 en={
 {
-"",
+"Why haven't I realized I lacked these memories until now...?",
 },
 },
 },
@@ -417,7 +417,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...」",
 },
 },
 },
@@ -429,7 +429,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro's voice brought me back to the present.",
 },
 },
 },
@@ -445,7 +445,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You contracted spiritosis while interacting with all the tamabito here...」",
 },
 },
 },
@@ -461,7 +461,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No... It might also be because I'm always with you...」",
 },
 },
 },
@@ -477,7 +477,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So you've been having dreams of me when I was alive...」",
 },
 },
 },
@@ -506,7 +506,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's my fault you've been having those mysterious, incomprehensible dreams.」",
 },
 },
 },
@@ -522,7 +522,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But I can't do anything about it.」",
 },
 },
 },
@@ -538,7 +538,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Except...say that I want you to get all your memories back.」",
 },
 },
 },
@@ -554,7 +554,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then, our journey will be over.」",
 },
 },
 },
@@ -570,7 +570,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It will be the end of my regrets.」",
 },
 },
 },
@@ -586,7 +586,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can finally be happy...」",
 },
 },
 },
@@ -599,7 +599,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro...」",
 },
 },
 },
@@ -611,7 +611,7 @@ ja={
 },
 en={
 {
-"",
+"She's giving me another kick in the rear.",
 },
 },
 },
@@ -623,7 +623,7 @@ ja={
 },
 en={
 {
-"",
+"Telling me not to run away from this.",
 },
 },
 },
@@ -635,7 +635,7 @@ ja={
 },
 en={
 {
-"",
+"I should work on remembering, bit by bit.",
 },
 },
 },
@@ -647,7 +647,7 @@ ja={
 },
 en={
 {
-"",
+"While holding Shiro tight.",
 },
 },
 },
@@ -659,7 +659,7 @@ ja={
 },
 en={
 {
-"",
+"While yearning to be connected with her----.",
 },
 },
 },

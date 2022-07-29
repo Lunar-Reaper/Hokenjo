@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼・自分探しの旅",ja="昼・自分探しの旅",en="Noon-"},
+{"savetitle",text="昼・自分探しの旅",ja="昼・自分探しの旅",en="Noon-Journey of self-discovery"},
 {"bg",file="bg07a",path=":bg/"},
 {"bgm",file="bgm02"},
 {"text"},
@@ -554,7 +554,7 @@ ja={
 },
 en={
 {
-"",
+"I finished my work and left the school behind me, Shiro in tow.",
 },
 },
 },
@@ -566,7 +566,7 @@ ja={
 },
 en={
 {
-"",
+"A refreshing breeze blew across the land bridge.",
 },
 },
 },
@@ -578,7 +578,7 @@ ja={
 },
 en={
 {
-"",
+"It's become our routine to go on a leisurely stroll after school ends.",
 },
 },
 },
@@ -590,7 +590,7 @@ ja={
 },
 en={
 {
-"",
+"That hasn't changed even after seeing Yuka-neesan off.",
 },
 },
 },
@@ -603,7 +603,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro.」",
 },
 },
 },
@@ -616,7 +616,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Do you mind if I have another look at that photo?」",
 },
 },
 },
@@ -632,7 +632,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Here.」",
 },
 },
 },
@@ -644,7 +644,7 @@ ja={
 },
 en={
 {
-"",
+"She always keeps that photo on her.",
 },
 },
 },
@@ -656,7 +656,7 @@ ja={
 },
 en={
 {
-"",
+"I could see the girl from my dreams on it.",
 },
 },
 },
@@ -668,7 +668,7 @@ ja={
 },
 en={
 {
-"",
+"It's Shiro, back when her name was Shiroka.",
 },
 },
 },
@@ -680,7 +680,7 @@ ja={
 },
 en={
 {
-"",
+"Likely from when she was alive...",
 },
 },
 },
@@ -692,7 +692,7 @@ ja={
 },
 en={
 {
-"",
+"My memories have ties to this Shiro from the past.",
 },
 },
 },
@@ -704,7 +704,7 @@ ja={
 },
 en={
 {
-"",
+"The two of them are identical, leaving no room for doubt.",
 },
 },
 },
@@ -716,7 +716,7 @@ ja={
 },
 en={
 {
-"",
+"But I still can't remember.",
 },
 },
 },
@@ -728,7 +728,7 @@ ja={
 },
 en={
 {
-"",
+"I saw fragments of memories the first time I saw this photo, but that's all.",
 },
 },
 },
@@ -740,7 +740,7 @@ ja={
 },
 en={
 {
-"",
+"Nothing else has resurfaced since then...",
 },
 },
 },
@@ -756,7 +756,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Maybe...you need something else to trigger your memories.」",
 },
 },
 },
@@ -768,7 +768,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro's voice brought me back to reality.",
 },
 },
 },
@@ -784,7 +784,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Like how tamabito need a trigger to remember their regrets from life...」",
 },
 },
 },
@@ -800,7 +800,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We should search that out...」",
 },
 },
 },
@@ -816,7 +816,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're lost because you don't know what that may be.」",
 },
 },
 },
@@ -832,7 +832,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But we'll find it. It might take a while, but I know you'll remember.」",
 },
 },
 },
@@ -848,7 +848,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Just like how tamabito are bound to remember their regrets and return to the heavens...」",
 },
 },
 },
@@ -864,7 +864,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's the kind of journey this is.」",
 },
 },
 },
@@ -876,7 +876,7 @@ ja={
 },
 en={
 {
-"",
+"A thought came to mind.",
 },
 },
 },
@@ -888,7 +888,7 @@ ja={
 },
 en={
 {
-"",
+"If my memories have to do with Shiro, then I could have asked her about them upfront.",
 },
 },
 },
@@ -900,7 +900,7 @@ ja={
 },
 en={
 {
-"",
+"But in all this time, I never have.",
 },
 },
 },
@@ -912,7 +912,7 @@ ja={
 },
 en={
 {
-"",
+"...I wonder why?",
 },
 },
 },
@@ -924,7 +924,7 @@ ja={
 },
 en={
 {
-"",
+"Because I don't want to?",
 },
 },
 },
@@ -936,7 +936,7 @@ ja={
 },
 en={
 {
-"",
+"Is there some reason for that?",
 },
 },
 },
@@ -948,7 +948,7 @@ ja={
 },
 en={
 {
-"",
+"Could it be...that I'm scared?",
 },
 },
 },
@@ -960,7 +960,7 @@ ja={
 },
 en={
 {
-"",
+"Scared of facing the memories I've lost...",
 },
 },
 },
@@ -972,7 +972,7 @@ ja={
 },
 en={
 {
-"",
+"Like tamabito that wander the living world, lacking the courage to return...",
 },
 },
 },
@@ -988,7 +988,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Sora.」",
 },
 },
 },
@@ -1000,7 +1000,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro shot me a knowing look.",
 },
 },
 },
@@ -1016,7 +1016,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can't use kotodama like you.」",
 },
 },
 },
@@ -1032,7 +1032,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Even if I told you, you wouldn't understand. You wouldn't feel the reality of it...」",
 },
 },
 },
@@ -1048,7 +1048,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You have to remember through your own efforts or there's no point.」",
 },
 },
 },
@@ -1064,7 +1064,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So...let's keep going.」",
 },
 },
 },
@@ -1080,7 +1080,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You may be lost, but moving forward is better than not moving at all...」",
 },
 },
 },
@@ -1096,7 +1096,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You'll find a new trigger along the way.」",
 },
 },
 },
@@ -1108,7 +1108,7 @@ ja={
 },
 en={
 {
-"",
+"We made it to the dandelion field.",
 },
 },
 },
@@ -1120,7 +1120,7 @@ ja={
 },
 en={
 {
-"",
+"The flowers were no longer in bloom.",
 },
 },
 },
@@ -1132,7 +1132,7 @@ ja={
 },
 en={
 {
-"",
+"The unseasonal blooming left along with Yuka-neesan.",
 },
 },
 },
@@ -1144,7 +1144,7 @@ ja={
 },
 en={
 {
-"",
+"Instead, a field of dandelion fluff spread out before us.",
 },
 },
 },
@@ -1172,7 +1172,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro silently reached out and picked a dandelion off.",
 },
 },
 },
@@ -1184,7 +1184,7 @@ ja={
 },
 en={
 {
-"",
+"She brought to her lips and blew.",
 },
 },
 },
@@ -1196,7 +1196,7 @@ ja={
 },
 en={
 {
-"",
+"Fluff scattered through the sky.",
 },
 },
 },
@@ -1208,7 +1208,7 @@ ja={
 },
 en={
 {
-"",
+"Like bubbles being blown.",
 },
 },
 },
@@ -1220,7 +1220,7 @@ ja={
 },
 en={
 {
-"",
+"One after another, systematically, in turn.",
 },
 },
 },
@@ -1232,7 +1232,7 @@ ja={
 },
 en={
 {
-"",
+"They rose up, carried by the wind.",
 },
 },
 },
@@ -1244,7 +1244,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro controlled the wind and directed them.",
 },
 },
 },
@@ -1260,7 +1260,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Wind...」",
 },
 },
 },
@@ -1276,7 +1276,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Windmills...」",
 },
 },
 },
@@ -1292,7 +1292,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Windmills atop the ocean...」",
 },
 },
 },
@@ -1308,7 +1308,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Thank you...」",
 },
 },
 },
@@ -1324,7 +1324,7 @@ ja={
 },
 en={
 {
-"「」",
+"「For...bringing me.」",
 },
 },
 },
@@ -1340,7 +1340,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Beyond the ocean breeze----.」",
 },
 },
 },
@@ -1352,7 +1352,7 @@ ja={
 },
 en={
 {
-"",
+"A scene flashed before my eyes.",
 },
 },
 },
@@ -1364,7 +1364,7 @@ ja={
 },
 en={
 {
-"",
+"Something from deep within my memories.",
 },
 },
 },
@@ -1376,7 +1376,7 @@ ja={
 },
 en={
 {
-"",
+"While gazing at Shiro blowing the dandelion fluff, I thought back.",
 },
 },
 },
@@ -1388,7 +1388,7 @@ ja={
 },
 en={
 {
-"",
+"I recall our relationship.",
 },
 },
 },
@@ -1400,7 +1400,7 @@ ja={
 },
 en={
 {
-"",
+"She's my travel companion, my partner, and my assistant.",
 },
 },
 },
@@ -1412,7 +1412,7 @@ ja={
 },
 en={
 {
-"",
+"And I can say we have a romantic relationship.",
 },
 },
 },
@@ -1424,7 +1424,7 @@ ja={
 },
 en={
 {
-"",
+"But we never formally established being lovers.",
 },
 },
 },
@@ -1436,7 +1436,7 @@ ja={
 },
 en={
 {
-"",
+"I wonder why?",
 },
 },
 },
@@ -1448,7 +1448,7 @@ ja={
 },
 en={
 {
-"",
+"Did neither of us want to think too much about it?",
 },
 },
 },
@@ -1460,7 +1460,7 @@ ja={
 },
 en={
 {
-"",
+"Is it because I'm a human and she's a tamabito?",
 },
 },
 },
@@ -1472,7 +1472,7 @@ ja={
 },
 en={
 {
-"",
+"Is it because we're destined to part from one another?",
 },
 },
 },
@@ -1484,7 +1484,7 @@ ja={
 },
 en={
 {
-"",
+"No. That goes for humans as well.",
 },
 },
 },
@@ -1496,7 +1496,7 @@ ja={
 },
 en={
 {
-"",
+"I knew that from the get-go.",
 },
 },
 },
@@ -1508,7 +1508,7 @@ ja={
 },
 en={
 {
-"",
+"I parted ways from my sister when she was human, and when she was a tamabito.",
 },
 },
 },
@@ -1520,7 +1520,7 @@ ja={
 },
 en={
 {
-"",
+"So I know that saying farewell to tamabito is no different than doing so to humans.",
 },
 },
 },
@@ -1532,7 +1532,7 @@ ja={
 },
 en={
 {
-"",
+"So I might have been trying not to think about it despite us being romantically involved.",
 },
 },
 },
@@ -1544,7 +1544,7 @@ ja={
 },
 en={
 {
-"",
+"We were just close enough that we didn't need to put it to words.",
 },
 },
 },
@@ -1556,7 +1556,7 @@ ja={
 },
 en={
 {
-"",
+"Our feelings for each other have persisted from far into the past, into the present day...",
 },
 },
 },
@@ -1568,7 +1568,7 @@ ja={
 },
 en={
 {
-"",
+"So then...",
 },
 },
 },
@@ -1580,7 +1580,7 @@ ja={
 },
 en={
 {
-"",
+"I've likely avoided asking about her background for the same reason.",
 },
 },
 },
@@ -1592,7 +1592,7 @@ ja={
 },
 en={
 {
-"",
+"There was never a need to.",
 },
 },
 },
@@ -1604,7 +1604,7 @@ ja={
 },
 en={
 {
-"",
+"Because all the answers were already inside me...",
 },
 },
 },
@@ -1616,7 +1616,7 @@ ja={
 },
 en={
 {
-"",
+"Why she loves bubbles.",
 },
 },
 },
@@ -1628,7 +1628,7 @@ ja={
 },
 en={
 {
-"",
+"Why she hates dandelions.",
 },
 },
 },
@@ -1640,7 +1640,7 @@ ja={
 },
 en={
 {
-"",
+"She she became a tamabito.",
 },
 },
 },
@@ -1652,7 +1652,7 @@ ja={
 },
 en={
 {
-"",
+"What her regret is----.",
 },
 },
 },
@@ -1668,7 +1668,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Come on, Sora...let's set out.」",
 },
 },
 },
@@ -1684,7 +1684,7 @@ ja={
 },
 en={
 {
-"「」",
+"「On your journey of self-discovery...」",
 },
 },
 },
@@ -1700,7 +1700,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Our destination is the memories you have lost...」",
 },
 },
 },
@@ -1712,7 +1712,7 @@ ja={
 },
 en={
 {
-"",
+"Time rewinds to a day long forgotten.",
 },
 },
 },
@@ -1724,7 +1724,7 @@ ja={
 },
 en={
 {
-"",
+"With Shiro leading the way on our journey----.",
 },
 },
 },

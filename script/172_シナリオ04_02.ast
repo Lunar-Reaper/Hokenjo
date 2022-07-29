@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="朝・転機のあと１",ja="朝・転機のあと１",en="Morning-"},
+{"savetitle",text="朝・転機のあと１",ja="朝・転機のあと１",en="Morning-After the turning point 1"},
 {"bg",file="bg22a",path=":bg/"},
 {"se",file="se767",loop=1,id=1},
 {"text"},
@@ -781,7 +781,7 @@ ja={
 },
 en={
 {
-"",
+"We entered July.",
 },
 },
 },
@@ -793,7 +793,7 @@ ja={
 },
 en={
 {
-"",
+"There's less than a month left before my term as school nurse ends.",
 },
 },
 },
@@ -805,7 +805,7 @@ ja={
 },
 en={
 {
-"",
+"But today I was met with a different kind of farewell.",
 },
 },
 },
@@ -821,7 +821,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hah...good weather for settin' out.」",
 },
 },
 },
@@ -834,7 +834,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yamashiro, are you leaving?」",
 },
 },
 },
@@ -850,7 +850,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You bet. No point in stickin' around with my job all done.」",
 },
 },
 },
@@ -866,7 +866,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Most all the tamabito here've returned...I reported everythin' to the top already, but there's nothin' more I can add.」",
 },
 },
 },
@@ -882,7 +882,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Things've calmed down 'round here too.」",
 },
 },
 },
@@ -894,7 +894,7 @@ ja={
 },
 en={
 {
-"",
+"Reiko was the first to report the return of the town's tamabito to the main shrine.",
 },
 },
 },
@@ -906,7 +906,7 @@ ja={
 },
 en={
 {
-"",
+"A run-of-the-mill okuribito such as myself won't be told how they and the nation will be picking up the pieces.",
 },
 },
 },
@@ -918,7 +918,7 @@ ja={
 },
 en={
 {
-"",
+"But knowing Reiko, she'll find a way to make things work in her favor.",
 },
 },
 },
@@ -934,7 +934,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Welp, that's how it goes. I'm headin' back to HQ.」",
 },
 },
 },
@@ -950,7 +950,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Didn't you get fired for going against orders?」",
 },
 },
 },
@@ -966,7 +966,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Hell no. They raked me over the coals though.」",
 },
 },
 },
@@ -986,7 +986,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I know your faction is aggressive towards tamabito, but it seems they're soft on their members.」",
 },
 },
 },
@@ -1002,7 +1002,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Well, with okuribito in short supply, they'd have a harder time without me.」",
 },
 },
 },
@@ -1018,7 +1018,7 @@ ja={
 },
 en={
 {
-"「」",
+"「One bad apple spoils the barrel. You'll turn rotten if you keep sticking around with them.」",
 },
 },
 },
@@ -1034,7 +1034,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Haha! I'm gonna miss that lip of yours!」",
 },
 },
 },
@@ -1050,7 +1050,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll be thinkin' real hard about how I'll do things from now on.」",
 },
 },
 },
@@ -1066,7 +1066,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But first things first. I've gotta settle things back at base.」",
 },
 },
 },
@@ -1079,7 +1079,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Want me to give you a hand?」",
 },
 },
 },
@@ -1095,7 +1095,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Don't bother. I don't want a dude bailin' me out anyway.」",
 },
 },
 },
@@ -1111,7 +1111,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm a girl, but I wouldn't help a pain in the neck like you if it killed me.」",
 },
 },
 },
@@ -1127,7 +1127,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I knew you'd say that.」",
 },
 },
 },
@@ -1143,7 +1143,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then how about me?」",
 },
 },
 },
@@ -1159,7 +1159,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...The goth loli's here.」",
 },
 },
 },
@@ -1175,7 +1175,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Otohime-san. I gotta admit, you and your authority certainly are enticin'.」",
 },
 },
 },
@@ -1191,7 +1191,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But I ain't about to beg a tamabito for help.」",
 },
 },
 },
@@ -1207,7 +1207,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I see. I'll honor that pride of yours.」",
 },
 },
 },
@@ -1223,7 +1223,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yamashiro-san. Is there anything I can do to help?」",
 },
 },
 },
@@ -1235,7 +1235,7 @@ ja={
 },
 en={
 {
-"",
+"Maiko-san came to see him off.",
 },
 },
 },
@@ -1251,7 +1251,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ha! Now that's an enticing offer.」",
 },
 },
 },
@@ -1267,7 +1267,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Alright, miss proprietress. The next time I pass through town, would you mind lettin' me stay here again?」",
 },
 },
 },
@@ -1283,7 +1283,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'd be happy to.」",
 },
 },
 },
@@ -1299,7 +1299,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So long as you don't make passes at my daughters...get the picture?」",
 },
 },
 },
@@ -1315,7 +1315,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Haha! I hear ya. They're beauties, but I ain't into kids.」",
 },
 },
 },
@@ -1331,7 +1331,7 @@ ja={
 },
 en={
 {
-"「」",
+"「How can you say that with a straight face after hitting on students?」",
 },
 },
 },
@@ -1347,7 +1347,7 @@ ja={
 },
 en={
 {
-"「」",
+"「They looked like kids, but they were adults on the inside. Get what I'm saying? 'Course you do.」",
 },
 },
 },
@@ -1363,7 +1363,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...You're screwed up in the head.」",
 },
 },
 },
@@ -1379,7 +1379,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're one to tak, miss obstinate. But as partin' words, I'll take it.」",
 },
 },
 },
@@ -1395,7 +1395,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Let's meet again if opportunity permits.」",
 },
 },
 },
@@ -1411,7 +1411,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm fine if we don't.」",
 },
 },
 },
@@ -1427,7 +1427,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Haha, figures. You prefer one-time meetings.」",
 },
 },
 },
@@ -1443,7 +1443,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Doesn't matter if it's with humans or tamabito.」",
 },
 },
 },
@@ -1455,7 +1455,7 @@ ja={
 },
 en={
 {
-"",
+"He turned to us one last time and grinned.",
 },
 },
 },
@@ -1467,7 +1467,7 @@ ja={
 },
 en={
 {
-"",
+"Unlike his usual wicked smile, this one was filled with sincerity.",
 },
 },
 },
@@ -1483,7 +1483,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm...glad I came to this town.」",
 },
 },
 },
@@ -1499,7 +1499,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I gained a lot from bein' here...」",
 },
 },
 },
@@ -1515,7 +1515,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Later all. Take care.」",
 },
 },
 },
@@ -1528,7 +1528,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah. You too.」",
 },
 },
 },
@@ -1544,7 +1544,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yep, stay well.」",
 },
 },
 },
@@ -1560,7 +1560,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Have a safe trip, Yamashiro-san.」",
 },
 },
 },
@@ -1576,7 +1576,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I wish you happiness on your journey.」",
 },
 },
 },
@@ -1588,7 +1588,7 @@ ja={
 },
 en={
 {
-"",
+"And so, Yamashiro departed.",
 },
 },
 },
@@ -1600,7 +1600,7 @@ ja={
 },
 en={
 {
-"",
+"The inn's guest count was now reduced to me, Shiro, and Otohime-san.",
 },
 },
 },
@@ -1612,7 +1612,7 @@ ja={
 },
 en={
 {
-"",
+"And Shiro and I will be leaving here soon too. My term as school nurse was nearly over.",
 },
 },
 },
@@ -1624,7 +1624,7 @@ ja={
 },
 en={
 {
-"",
+"Sure, I could opt for working another term or so...",
 },
 },
 },
@@ -1636,7 +1636,7 @@ ja={
 },
 en={
 {
-"",
+"I haven't made a decision on the matter yet.",
 },
 },
 },
@@ -1648,7 +1648,7 @@ ja={
 },
 en={
 {
-"",
+"That'll likely depend on how my journey of self-discovery with Shiro goes.",
 },
 },
 },
@@ -1664,7 +1664,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kazami-sensei!」",
 },
 },
 },
@@ -1676,7 +1676,7 @@ ja={
 },
 en={
 {
-"",
+"I returned to the lobby to see a pale-faced Sakiha bearing down on me.",
 },
 },
 },
@@ -1692,7 +1692,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You weren't in your room when I brought breakfast! Don't throw my schedule out of wack like that!」",
 },
 },
 },
@@ -1705,7 +1705,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Oh, sorry. I was just seeing Yamashiro off.」",
 },
 },
 },
@@ -1721,7 +1721,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah...he already checked out? This early?」",
 },
 },
 },
@@ -1737,7 +1737,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But you should have told me that beforehand! Then I could have included that in the schedule and found the ideal time to deliver breakfast!」",
 },
 },
 },
@@ -1753,7 +1753,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kuku, a secretary's work is never done.」",
 },
 },
 },
@@ -1769,7 +1769,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My eternal rival.」",
 },
 },
 },
@@ -1785,7 +1785,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sakiha, don't tie him down. We need to respect our guests' privacy.」",
 },
 },
 },
@@ -1801,7 +1801,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, y-yeah. I know that...」",
 },
 },
 },
@@ -1817,7 +1817,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I won't stop you if you form a relationship where you're part of his private life though.」",
 },
 },
 },
@@ -1833,7 +1833,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What's that supposed to mean?!」",
 },
 },
 },
@@ -1849,7 +1849,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It means your private life will intermingle with his.」",
 },
 },
 },
@@ -1865,7 +1865,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That sounds so suggestive...!」",
 },
 },
 },
@@ -1881,7 +1881,7 @@ ja={
 },
 en={
 {
-"「」",
+"「T-That would never happen! Why would you even suggest that?!」",
 },
 },
 },
@@ -1897,7 +1897,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Okay, I'm getting back to work.」",
 },
 },
 },
@@ -1909,7 +1909,7 @@ ja={
 },
 en={
 {
-"",
+"Instead of answering, Maiko-san gave a meaningful smile and left.",
 },
 },
 },
@@ -1925,7 +1925,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kuku, looks like you have parental approval. Isn't that great?」",
 },
 },
 },
@@ -1941,7 +1941,7 @@ ja={
 },
 en={
 {
-"「」",
+"「C-Come on! It's not like that...!」",
 },
 },
 },
@@ -1970,7 +1970,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Stop with the bubble attack!」",
 },
 },
 },
@@ -1986,7 +1986,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I should get back to work too.」",
 },
 },
 },
@@ -1999,7 +1999,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, Sakiha. Can I ask something first?」",
 },
 },
 },
@@ -2015,7 +2015,7 @@ ja={
 },
 en={
 {
-"「」",
+"「S-Sensei, you want to get involved in my private life...?」",
 },
 },
 },
@@ -2028,7 +2028,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No!」",
 },
 },
 },
@@ -2057,7 +2057,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We'll never get anywhere like this so stop!」",
 },
 },
 },
@@ -2073,7 +2073,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shirobana. If you don't calm down, I'll plug that bubble-blowing mouth of yours with alcohol from my own.」",
 },
 },
 },
@@ -2089,7 +2089,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...That would be awful for many reasons.」",
 },
 },
 },
@@ -2105,7 +2105,7 @@ ja={
 },
 en={
 {
-"「」",
+"「O-Okay, sensei...what is it?」",
 },
 },
 },
@@ -2117,7 +2117,7 @@ ja={
 },
 en={
 {
-"",
+"Sakiha asked while taking a step back.",
 },
 },
 },
@@ -2130,7 +2130,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Loosen up... I just wanted to ask how Mizumi is doing.」",
 },
 },
 },
@@ -2146,7 +2146,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah...she's been feeling better recently.」",
 },
 },
 },
@@ -2162,7 +2162,7 @@ ja={
 },
 en={
 {
-"「」",
+"「From what I can tell, she's getting better with each passing day.」",
 },
 },
 },
@@ -2178,7 +2178,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's thanks to the tamabito of Saika having returned. The ones in Nakatomino haven't, but that shouldn't affect her spiritosis considering the distance.」",
 },
 },
 },
@@ -2194,7 +2194,7 @@ ja={
 },
 en={
 {
-"「」",
+"「She no longer has to move away. She'll recover just fine by resting here in the inn.」",
 },
 },
 },
@@ -2210,7 +2210,7 @@ ja={
 },
 en={
 {
-"「」",
+"「At this rate, she'll be fit for school by the time the new term starts, at the latest.」",
 },
 },
 },
@@ -2226,7 +2226,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's...such a relief. Otohime-sensei, I can't thank you enough.」",
 },
 },
 },
@@ -2242,7 +2242,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You should give your thanks to the person most deserves it.」",
 },
 },
 },
@@ -2258,7 +2258,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kazami-sensei...thank you.」",
 },
 },
 },
@@ -2270,7 +2270,7 @@ ja={
 },
 en={
 {
-"",
+"Wait, me?",
 },
 },
 },
@@ -2299,7 +2299,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Stop it, would you!」",
 },
 },
 },
@@ -2315,7 +2315,7 @@ ja={
 },
 en={
 {
-"「」",
+"「W-Well, I'll be going.」",
 },
 },
 },
@@ -2327,7 +2327,7 @@ ja={
 },
 en={
 {
-"",
+"She hurried back to work, hiding how she was red up to her ears.",
 },
 },
 },
@@ -2343,7 +2343,7 @@ ja={
 },
 en={
 {
-"「」",
+"「She really is my rival...」",
 },
 },
 },
@@ -2359,7 +2359,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kuku. That would make for a amusing route, but let's save it for a sequel.」",
 },
 },
 },
@@ -2375,7 +2375,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Unexpected as it is, we're down to just the three of us. I would like to take this opportunity to say something.」",
 },
 },
 },
@@ -2391,7 +2391,7 @@ ja={
 },
 en={
 {
-"「」",
+"「As you're aware, Saika has been affected by the tamabito returning.」",
 },
 },
 },
@@ -2407,7 +2407,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Each individual will have their own response to what happened.」",
 },
 },
 },
@@ -2423,7 +2423,7 @@ ja={
 },
 en={
 {
-"「」",
+"「At the very least...I don't want anyone to think that they sacrificed themselves.」",
 },
 },
 },
@@ -2439,7 +2439,7 @@ ja={
 },
 en={
 {
-"「」",
+"「They all willingly made the choice to return.」",
 },
 },
 },
@@ -2455,7 +2455,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't want those left behind to defile their pride and courage with selfish thoughts.」",
 },
 },
 },

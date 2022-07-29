@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼・６回目Ｈ",ja="昼・６回目Ｈ",en="Noon-"},
+{"savetitle",text="昼・６回目Ｈ",ja="昼・６回目Ｈ",en="Noon-6th H"},
 {"bg",file="ev_shi_22a",path=":ev/ev_shi_22/",set="ev_shi_22",time=2000},
 {"bgm",file="bgm31"},
 {"text"},
@@ -1616,7 +1616,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Alright...let's begin the exam.」",
 },
 },
 },
@@ -1632,7 +1632,7 @@ ja={
 },
 en={
 {
-"「」",
+"「O-Okay.」",
 },
 },
 },
@@ -1644,7 +1644,7 @@ ja={
 },
 en={
 {
-"",
+"She was the one that invited me, but I'm nervous.",
 },
 },
 },
@@ -1656,7 +1656,7 @@ ja={
 },
 en={
 {
-"",
+"...It's my first time playing doctor.",
 },
 },
 },
@@ -1672,7 +1672,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So...what will we do first?」",
 },
 },
 },
@@ -1685,7 +1685,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll use something you're familiar with.」",
 },
 },
 },
@@ -1697,7 +1697,7 @@ ja={
 },
 en={
 {
-"",
+"I picked up the stethoscope while Shiro lifted up her dress.",
 },
 },
 },
@@ -1713,7 +1713,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Stethoscopes...are used to listen to the heartbeat, right?」",
 },
 },
 },
@@ -1726,7 +1726,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah.」",
 },
 },
 },
@@ -1742,7 +1742,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So you're gonna...touch it to my chest.」",
 },
 },
 },
@@ -1754,7 +1754,7 @@ ja={
 },
 en={
 {
-"",
+"She must have experienced this when she was alive.",
 },
 },
 },
@@ -1766,7 +1766,7 @@ ja={
 },
 en={
 {
-"",
+"Her face reddened from imagining it.",
 },
 },
 },
@@ -1778,7 +1778,7 @@ ja={
 },
 en={
 {
-"",
+"It'll get more embarrassing the longer we drag this out, so I focus on the examination.",
 },
 },
 },
@@ -1794,7 +1794,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nn...」",
 },
 },
 },
@@ -1806,7 +1806,7 @@ ja={
 },
 en={
 {
-"",
+"She gave a small gasp as I touched the stethoscope to her chest.",
 },
 },
 },
@@ -1818,7 +1818,7 @@ ja={
 },
 en={
 {
-"",
+"I could hear her rapid heartbeat echoing in my ears.",
 },
 },
 },
@@ -1834,7 +1834,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's kinda cold...」",
 },
 },
 },
@@ -1846,7 +1846,7 @@ ja={
 },
 en={
 {
-"",
+"The pressure converted to sexual pleasure, increasing her heart rate.",
 },
 },
 },
@@ -1862,7 +1862,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...how do I sound?」",
 },
 },
 },
@@ -1878,7 +1878,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Can you hear...my heartbeat?」",
 },
 },
 },
@@ -1891,7 +1891,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah. Loud and clear.」",
 },
 },
 },
@@ -1903,7 +1903,7 @@ ja={
 },
 en={
 {
-"",
+"Tamabito have heartbeats too.",
 },
 },
 },
@@ -1919,7 +1919,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Do I...sound funny?」",
 },
 },
 },
@@ -1932,7 +1932,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Not at all. If anything, it's just faster than normal.」",
 },
 },
 },
@@ -1948,7 +1948,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So...is the exam done?」",
 },
 },
 },
@@ -1961,7 +1961,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nope.」",
 },
 },
 },
@@ -1973,7 +1973,7 @@ ja={
 },
 en={
 {
-"",
+"I've come this far, might as well enjoy it.",
 },
 },
 },
@@ -1985,7 +1985,7 @@ ja={
 },
 en={
 {
-"",
+"And Shiro wants my attention.",
 },
 },
 },
@@ -1998,7 +1998,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll do a few more tests for good measure.」",
 },
 },
 },
@@ -2011,7 +2011,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Like a medical interview.」",
 },
 },
 },
@@ -2027,7 +2027,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Interview...so you'll ask questions, and I answer them?」",
 },
 },
 },
@@ -2040,7 +2040,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah. Ready?」",
 },
 },
 },
@@ -2053,7 +2053,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro, are you turned on right now?」",
 },
 },
 },
@@ -2069,7 +2069,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I dunno.」",
 },
 },
 },
@@ -2082,7 +2082,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You need to give clear answers.」",
 },
 },
 },
@@ -2095,7 +2095,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're my patient at the moment. You have to listen to what the doctor says.」",
 },
 },
 },
@@ -2111,7 +2111,7 @@ ja={
 },
 en={
 {
-"「」",
+"「C-Cut the crap.」",
 },
 },
 },
@@ -2124,7 +2124,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Want to stop?」",
 },
 },
 },
@@ -2140,7 +2140,7 @@ ja={
 },
 en={
 {
-"「」",
+"「N-no.」",
 },
 },
 },
@@ -2153,7 +2153,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then give a clear answer.」",
 },
 },
 },
@@ -2166,7 +2166,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Are you turned on right now?」",
 },
 },
 },
@@ -2182,7 +2182,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Not really.」",
 },
 },
 },
@@ -2194,7 +2194,7 @@ ja={
 },
 en={
 {
-"",
+"The usual song and dance it is.",
 },
 },
 },
@@ -2207,7 +2207,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll just have to run more tests to be sure.」",
 },
 },
 },
@@ -2223,7 +2223,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nha...」",
 },
 },
 },
@@ -2235,7 +2235,7 @@ ja={
 },
 en={
 {
-"",
+"I pressed the stethoscope against her right breast.",
 },
 },
 },
@@ -2247,7 +2247,7 @@ ja={
 },
 en={
 {
-"",
+"Her heartbeat sounds farther off from here, but I can still tell how fast it is.",
 },
 },
 },
@@ -2260,7 +2260,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro, I can hear your heart beating from other other side. You must be really turned on.」",
 },
 },
 },
@@ -2276,7 +2276,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I-I'm not...」",
 },
 },
 },
@@ -2289,7 +2289,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So you're a pervert that gets horny from a stethoscope?」",
 },
 },
 },
@@ -2305,7 +2305,7 @@ ja={
 },
 en={
 {
-"「」",
+"「O-Of course not...」",
 },
 },
 },
@@ -2318,7 +2318,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Let's test and see if you're telling the truth.」",
 },
 },
 },
@@ -2330,7 +2330,7 @@ ja={
 },
 en={
 {
-"",
+"I slid the stethoscope around her chest.",
 },
 },
 },
@@ -2346,7 +2346,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nn, ah, it tickles...fwaa...」",
 },
 },
 },
@@ -2358,7 +2358,7 @@ ja={
 },
 en={
 {
-"",
+"Her small mounds squished under the pressure.",
 },
 },
 },
@@ -2370,7 +2370,7 @@ ja={
 },
 en={
 {
-"",
+"This medical examination quickly became a lewd spectacle.",
 },
 },
 },
@@ -2386,7 +2386,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, haah...S-Sora...stop teasing...」",
 },
 },
 },
@@ -2399,7 +2399,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So you admit to getting turned on by a stethoscope?」",
 },
 },
 },
@@ -2415,7 +2415,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I-I'm not that kind of pervert...」",
 },
 },
 },
@@ -2428,7 +2428,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But your body doesn't lie.」",
 },
 },
 },
@@ -2444,7 +2444,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Huh...?」",
 },
 },
 },
@@ -2457,7 +2457,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're hard here.」",
 },
 },
 },
@@ -2473,7 +2473,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwaaah...!」",
 },
 },
 },
@@ -2485,7 +2485,7 @@ ja={
 },
 en={
 {
-"",
+"I pressed the stethoscope against her pointed nipple.",
 },
 },
 },
@@ -2501,7 +2501,7 @@ ja={
 },
 en={
 {
-"「」",
+"「S-Sora...not there...」",
 },
 },
 },
@@ -2514,7 +2514,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Why not?」",
 },
 },
 },
@@ -2526,7 +2526,7 @@ ja={
 },
 en={
 {
-"",
+"I rubbed it in.",
 },
 },
 },
@@ -2542,7 +2542,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nhuuu! Stop it...」",
 },
 },
 },
@@ -2555,7 +2555,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Looks like you're enjoying it.」",
 },
 },
 },
@@ -2571,7 +2571,7 @@ ja={
 },
 en={
 {
-"「」",
+"「'C-Cuz you're...!」",
 },
 },
 },
@@ -2584,7 +2584,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm just doing a medical exam.」",
 },
 },
 },
@@ -2600,7 +2600,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Y-You liar...」",
 },
 },
 },
@@ -2616,7 +2616,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwaa...! My nipple again...!」",
 },
 },
 },
@@ -2629,7 +2629,7 @@ ja={
 },
 en={
 {
-"「」",
+"「This one's just as perky.」",
 },
 },
 },
@@ -2645,7 +2645,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I-It's your fault...I'm sensitive...」",
 },
 },
 },
@@ -2658,7 +2658,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Don't blame me, it's because you're a pervert.」",
 },
 },
 },
@@ -2674,7 +2674,7 @@ ja={
 },
 en={
 {
-"「」",
+"「N-no...fwaaah! Don't grind it around...! I-It's too much...!」",
 },
 },
 },
@@ -2687,7 +2687,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I knew you were feeling it.」",
 },
 },
 },
@@ -2703,7 +2703,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're the perv here...!」",
 },
 },
 },
@@ -2715,7 +2715,7 @@ ja={
 },
 en={
 {
-"",
+"As I continued playing doctor with my stubborn patient, her heartbeat skyrocketed in volume.",
 },
 },
 },
@@ -2727,7 +2727,7 @@ ja={
 },
 en={
 {
-"",
+"Her legs were rubbing against each other too.",
 },
 },
 },
@@ -2740,7 +2740,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro...did you get wet?」",
 },
 },
 },
@@ -2756,7 +2756,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...」",
 },
 },
 },
@@ -2769,7 +2769,7 @@ ja={
 },
 en={
 {
-"「」",
+"「This is part of the interview. Are you wet right now?」",
 },
 },
 },
@@ -2785,7 +2785,7 @@ ja={
 },
 en={
 {
-"「」",
+"「O-Of course not.」",
 },
 },
 },
@@ -2798,7 +2798,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Guess I have to check for myself.」",
 },
 },
 },
@@ -2814,7 +2814,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Huh...?」",
 },
 },
 },
@@ -2827,7 +2827,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Doctor's orders.」",
 },
 },
 },
@@ -2839,7 +2839,7 @@ ja={
 },
 en={
 {
-"",
+"I then moved Shiro into an obscene position, insisting it was necessary for the exam.",
 },
 },
 },
@@ -2851,7 +2851,7 @@ ja={
 },
 en={
 {
-"",
+"The way she obeyed me despite her stubbornness was unbearably charming.",
 },
 },
 },
@@ -2863,7 +2863,7 @@ ja={
 },
 en={
 {
-"",
+"We moved to the bed, and as ordered, she spread her legs out.",
 },
 },
 },
@@ -2879,7 +2879,7 @@ ja={
 },
 en={
 {
-"「」",
+"「N-No way...this is so embarrassing...」",
 },
 },
 },
@@ -2891,7 +2891,7 @@ ja={
 },
 en={
 {
-"",
+"Having a full view of her privates was embarrassing even for me.",
 },
 },
 },
@@ -2903,7 +2903,7 @@ ja={
 },
 en={
 {
-"",
+"But I can't wimp out now.",
 },
 },
 },
@@ -2919,7 +2919,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...d-don't look...」",
 },
 },
 },
@@ -2932,7 +2932,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...The point is for me to examine you.」",
 },
 },
 },
@@ -2948,7 +2948,7 @@ ja={
 },
 en={
 {
-"「」",
+"「W-Where do you think you're examining...?」",
 },
 },
 },
@@ -2960,7 +2960,7 @@ ja={
 },
 en={
 {
-"",
+"While afraid, she maintained her posture. She's must have a good idea of what's coming next.",
 },
 },
 },
@@ -2972,7 +2972,7 @@ ja={
 },
 en={
 {
-"",
+"Meaning, she wants it too.",
 },
 },
 },
@@ -2985,7 +2985,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro, last question. Are you wet?」",
 },
 },
 },
@@ -3001,7 +3001,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Dunno.」",
 },
 },
 },
@@ -3014,7 +3014,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then I'll check you directly.」",
 },
 },
 },
@@ -3030,7 +3030,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...No.」",
 },
 },
 },
@@ -3042,7 +3042,7 @@ ja={
 },
 en={
 {
-"",
+"Obstinate as always.",
 },
 },
 },
@@ -3055,7 +3055,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then how about you check for yourself?」",
 },
 },
 },
@@ -3071,7 +3071,7 @@ ja={
 },
 en={
 {
-"「」",
+"「huh...?」",
 },
 },
 },
@@ -3084,7 +3084,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Touch yourself over your panties and tell me if it's wet.」",
 },
 },
 },
@@ -3100,7 +3100,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...N-No.」",
 },
 },
 },
@@ -3113,7 +3113,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then I guess we're done here. I'll get back to work.」",
 },
 },
 },
@@ -3129,7 +3129,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A-Absolutely not...」",
 },
 },
 },
@@ -3142,7 +3142,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Will you check yourself then?」",
 },
 },
 },
@@ -3158,7 +3158,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Y-Yeah...」",
 },
 },
 },
@@ -3170,7 +3170,7 @@ ja={
 },
 en={
 {
-"",
+"Her eyes wet with shame, she placed her fingertips atop her panties.",
 },
 },
 },
@@ -3183,7 +3183,7 @@ ja={
 },
 en={
 {
-"「」",
+"「How is it?」",
 },
 },
 },
@@ -3199,7 +3199,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I can't tell.」",
 },
 },
 },
@@ -3212,7 +3212,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Try rubbing it until you can.」",
 },
 },
 },
@@ -3228,7 +3228,7 @@ ja={
 },
 en={
 {
-"「」",
+"「O-Okay.」",
 },
 },
 },
@@ -3240,7 +3240,7 @@ ja={
 },
 en={
 {
-"",
+"She hesitantly moved her fingers.",
 },
 },
 },
@@ -3252,7 +3252,7 @@ ja={
 },
 en={
 {
-"",
+"In other words, masturbating.",
 },
 },
 },
@@ -3268,7 +3268,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nn...huu...haah...」",
 },
 },
 },
@@ -3280,7 +3280,7 @@ ja={
 },
 en={
 {
-"",
+"She shuddered with each stroke.",
 },
 },
 },
@@ -3296,7 +3296,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I-It...feels weird....doing it myself...」",
 },
 },
 },
@@ -3309,7 +3309,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...You've never done it before?」",
 },
 },
 },
@@ -3325,7 +3325,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I know what self-pleasuring is...but this is my first time doing it.」",
 },
 },
 },
@@ -3337,7 +3337,7 @@ ja={
 },
 en={
 {
-"",
+"...I didn't know that.",
 },
 },
 },
@@ -3353,7 +3353,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're always with me...so I never needed to do it myself.」",
 },
 },
 },
@@ -3366,7 +3366,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro...」",
 },
 },
 },
@@ -3378,7 +3378,7 @@ ja={
 },
 en={
 {
-"",
+"My love for her exploded and I wanted nothing more than to stop this act and take her.",
 },
 },
 },
@@ -3394,7 +3394,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora, bad.」",
 },
 },
 },
@@ -3410,7 +3410,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Do your job right and finish the examination.」",
 },
 },
 },
@@ -3426,7 +3426,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's your fault I'm in this ridiculous position...I won't let you call this off partway.」",
 },
 },
 },
@@ -3438,7 +3438,7 @@ ja={
 },
 en={
 {
-"",
+"...I swear.",
 },
 },
 },
@@ -3451,7 +3451,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Is that any way to talk to your doctor?」",
 },
 },
 },
@@ -3467,7 +3467,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you want respect, how about acting like a doctor?」",
 },
 },
 },
@@ -3480,7 +3480,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fine then. I hope you're ready.」",
 },
 },
 },
@@ -3496,7 +3496,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fufu...that's the spirit.」",
 },
 },
 },
@@ -3508,7 +3508,7 @@ ja={
 },
 en={
 {
-"",
+"I nearly had the initiative taken from me.",
 },
 },
 },
@@ -3521,7 +3521,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then I'll teach you how to masturbate.」",
 },
 },
 },
@@ -3537,7 +3537,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fine, I'll let you teach me.」",
 },
 },
 },
@@ -3550,7 +3550,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll end it here if you don't act more obedient.」",
 },
 },
 },
@@ -3566,7 +3566,7 @@ ja={
 },
 en={
 {
-"「」",
+"「D-Don't...」",
 },
 },
 },
@@ -3578,7 +3578,7 @@ ja={
 },
 en={
 {
-"",
+"I've taken the lead.",
 },
 },
 },
@@ -3591,7 +3591,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We'll keep going if you do what I say.」",
 },
 },
 },
@@ -3607,7 +3607,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...F-Fine.」",
 },
 },
 },
@@ -3623,7 +3623,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...What do I do next?」",
 },
 },
 },
@@ -3636,7 +3636,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Move your fingers up and down.」",
 },
 },
 },
@@ -3652,7 +3652,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nn...mnn...ngh...aah...haaah...」",
 },
 },
 },
@@ -3665,7 +3665,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Can you tell if you're wet yet?」",
 },
 },
 },
@@ -3681,7 +3681,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I-I still...fwaah...can't tell...」",
 },
 },
 },
@@ -3693,7 +3693,7 @@ ja={
 },
 en={
 {
-"",
+"There's no way she can't tell.",
 },
 },
 },
@@ -3705,7 +3705,7 @@ ja={
 },
 en={
 {
-"",
+"Even I could see the stain spreading across her panties.",
 },
 },
 },
@@ -3718,7 +3718,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Alright, next exam.」",
 },
 },
 },
@@ -3734,7 +3734,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Another one...?」",
 },
 },
 },
@@ -3747,7 +3747,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Take your panties off.」",
 },
 },
 },
@@ -3776,7 +3776,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro. Take them off.」",
 },
 },
 },
@@ -3792,7 +3792,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...No.」",
 },
 },
 },
@@ -3805,7 +3805,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We ending this?」",
 },
 },
 },
@@ -3821,7 +3821,7 @@ ja={
 },
 en={
 {
-"「」",
+"「N-No...?」",
 },
 },
 },
@@ -3834,7 +3834,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then take them off.」",
 },
 },
 },
@@ -3850,7 +3850,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kuh...t-this is so embarrassing...」",
 },
 },
 },
@@ -3863,7 +3863,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's part of the treatment process.」",
 },
 },
 },
@@ -3879,7 +3879,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're talking nonsense...」",
 },
 },
 },
@@ -3892,7 +3892,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ready to quit?」",
 },
 },
 },
@@ -3908,7 +3908,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...No.」",
 },
 },
 },
@@ -3921,7 +3921,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then if you would.」",
 },
 },
 },
@@ -3937,7 +3937,7 @@ ja={
 },
 en={
 {
-"「」",
+"「J-just...don't stare...」",
 },
 },
 },
@@ -3953,7 +3953,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's my first time...masturbating...」",
 },
 },
 },
@@ -3965,7 +3965,7 @@ ja={
 },
 en={
 {
-"",
+"Hearing that sent a surge of emotion through me.",
 },
 },
 },
@@ -3977,7 +3977,7 @@ ja={
 },
 en={
 {
-"",
+"Her most precious spot came into view.",
 },
 },
 },
@@ -3989,7 +3989,7 @@ ja={
 },
 en={
 {
-"",
+"No matter how many time I see it, I can never pull my eyes way. It goes to show how attractive she is.",
 },
 },
 },
@@ -4001,7 +4001,7 @@ ja={
 },
 en={
 {
-"",
+"And this unusual sense of excitement must from anticipation of what's to come.",
 },
 },
 },
@@ -4013,7 +4013,7 @@ ja={
 },
 en={
 {
-"",
+"The sleek wetness of her privates is proof that she's feeling the same way.",
 },
 },
 },
@@ -4026,7 +4026,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I knew it, you're soaked.」",
 },
 },
 },
@@ -4042,7 +4042,7 @@ ja={
 },
 en={
 {
-"「」",
+"「D-Don't say it...」",
 },
 },
 },
@@ -4054,7 +4054,7 @@ ja={
 },
 en={
 {
-"",
+"She rubbed her thighs together, unable to bear her shame.",
 },
 },
 },
@@ -4066,7 +4066,7 @@ ja={
 },
 en={
 {
-"",
+"Her lewd gesture made her look even sexier.",
 },
 },
 },
@@ -4082,7 +4082,7 @@ ja={
 },
 en={
 {
-"「」",
+"「S-Sora...say something...」",
 },
 },
 },
@@ -4095,7 +4095,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You just told me not to say things.」",
 },
 },
 },
@@ -4111,7 +4111,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You staying quiet...feels scary...」",
 },
 },
 },
@@ -4123,7 +4123,7 @@ ja={
 },
 en={
 {
-"",
+"In that case.",
 },
 },
 },
@@ -4136,7 +4136,7 @@ ja={
 },
 en={
 {
-"「」",
+"「To make absolutely sure, could you spread yourself open?」",
 },
 },
 },
@@ -4152,7 +4152,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...My legs are already open.」",
 },
 },
 },
@@ -4165,7 +4165,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I mean your pussy.」",
 },
 },
 },
@@ -4177,7 +4177,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro face immediately reddened like an apple.",
 },
 },
 },
@@ -4193,7 +4193,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Y-You can already tell how wet it is.」",
 },
 },
 },
@@ -4206,7 +4206,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No I can't. This could just be sweat.」",
 },
 },
 },
@@ -4222,7 +4222,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kuuh...you're way more perverted than me.」",
 },
 },
 },
@@ -4235,7 +4235,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We can stop if you want.」",
 },
 },
 },
@@ -4251,7 +4251,7 @@ ja={
 },
 en={
 {
-"「」",
+"「N-No...」",
 },
 },
 },
@@ -4267,7 +4267,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Please...pay attention to me...」",
 },
 },
 },
@@ -4279,7 +4279,7 @@ ja={
 },
 en={
 {
-"",
+"...She's being unusually meek.",
 },
 },
 },
@@ -4291,7 +4291,7 @@ ja={
 },
 en={
 {
-"",
+"It might be due to the shame, but I'm not letting this opportunity pass me by.",
 },
 },
 },
@@ -4304,7 +4304,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I won't threaten to quit anymore. So could you do what I ask?」",
 },
 },
 },
@@ -4320,7 +4320,7 @@ ja={
 },
 en={
 {
-"「」",
+"「O-Okay...I'll do my best.」",
 },
 },
 },
@@ -4333,7 +4333,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Could you spread it open?」",
 },
 },
 },
@@ -4349,7 +4349,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You want to see that badly...?」",
 },
 },
 },
@@ -4362,7 +4362,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You bet.」",
 },
 },
 },
@@ -4375,7 +4375,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Especially since it's the pussy of the girl I love.」",
 },
 },
 },
@@ -4391,7 +4391,7 @@ ja={
 },
 en={
 {
-"「」",
+"「D-Dummy...pervert...」",
 },
 },
 },
@@ -4407,7 +4407,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're the only one...I'll show...」",
 },
 },
 },
@@ -4419,7 +4419,7 @@ ja={
 },
 en={
 {
-"",
+"She brought her fingers to the shiny, wet folds and spread them wide.",
 },
 },
 },
@@ -4431,7 +4431,7 @@ ja={
 },
 en={
 {
-"",
+"I could see deep into her pussy.",
 },
 },
 },
@@ -4443,7 +4443,7 @@ ja={
 },
 en={
 {
-"",
+"It was colored a lovely shade of pink all the way through.",
 },
 },
 },
@@ -4455,7 +4455,7 @@ ja={
 },
 en={
 {
-"",
+"I couldn't look away from its salacious twitching.",
 },
 },
 },
@@ -4467,7 +4467,7 @@ ja={
 },
 en={
 {
-"",
+"In response to my gaze, sweet nectar overflowed from within.",
 },
 },
 },
@@ -4483,7 +4483,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah...haah...you're staring... You're looking...into my precious place...my pussy...」",
 },
 },
 },
@@ -4496,7 +4496,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah...I sure am.」",
 },
 },
 },
@@ -4509,7 +4509,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can see how wet it is.」",
 },
 },
 },
@@ -4525,7 +4525,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Stupid...dummy...hate you...」",
 },
 },
 },
@@ -4541,7 +4541,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But...I love you...so much...」",
 },
 },
 },
@@ -4557,7 +4557,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I couldn't get like this...if I didn't love you...」",
 },
 },
 },
@@ -4569,7 +4569,7 @@ ja={
 },
 en={
 {
-"",
+"More love fluids dripped out of her as she whispered sweet nothings.",
 },
 },
 },
@@ -4581,7 +4581,7 @@ ja={
 },
 en={
 {
-"",
+"It flowed onto the bedsheets, forming a stain.",
 },
 },
 },
@@ -4597,7 +4597,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...what do I do next...?」",
 },
 },
 },
@@ -4613,7 +4613,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It doesn't end with knowing I'm wet, right...?」",
 },
 },
 },
@@ -4629,7 +4629,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Aren't you gonna teach me how to masturbate...?」",
 },
 },
 },
@@ -4642,7 +4642,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Y-Yeah, sure am.」",
 },
 },
 },
@@ -4654,7 +4654,7 @@ ja={
 },
 en={
 {
-"",
+"I was so captivated by how lewd she was that I couldn't respond immediately.",
 },
 },
 },
@@ -4667,7 +4667,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Right...try putting a finger in next.」",
 },
 },
 },
@@ -4683,7 +4683,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A finger...?」",
 },
 },
 },
@@ -4696,7 +4696,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah. Take it slow and careful.」",
 },
 },
 },
@@ -4712,7 +4712,7 @@ ja={
 },
 en={
 {
-"「」",
+"「'Kay...I'll try」",
 },
 },
 },
@@ -4728,7 +4728,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ngh...!」",
 },
 },
 },
@@ -4740,7 +4740,7 @@ ja={
 },
 en={
 {
-"",
+"The tip of her finger buried its way inside with a squish.",
 },
 },
 },
@@ -4756,7 +4756,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Haah...I can't believe...I'm doing this...」",
 },
 },
 },
@@ -4769,7 +4769,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because it's your first time?」",
 },
 },
 },
@@ -4785,7 +4785,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Right...I've never masturbated before...」",
 },
 },
 },
@@ -4801,7 +4801,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And it's my first time have you watch me do it...」",
 },
 },
 },
@@ -4813,7 +4813,7 @@ ja={
 },
 en={
 {
-"",
+"Her words were music to my ears.",
 },
 },
 },
@@ -4829,7 +4829,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...what's next...?」",
 },
 },
 },
@@ -4842,7 +4842,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Move your finger around with small movements.」",
 },
 },
 },
@@ -4854,7 +4854,7 @@ ja={
 },
 en={
 {
-"",
+"She followed my directions and moved it back and forth.",
 },
 },
 },
@@ -4870,7 +4870,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwaah...ah, ah...nghah...!」",
 },
 },
 },
@@ -4882,7 +4882,7 @@ ja={
 },
 en={
 {
-"",
+"Her movements were lax and I could barely hear any wet sounds.",
 },
 },
 },
@@ -4895,7 +4895,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro, keep up the pace and keep going.」",
 },
 },
 },
@@ -4911,7 +4911,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Aah...huu...nn, ah...fwaaah...!」",
 },
 },
 },
@@ -4924,7 +4924,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Once you get used to it, try putting it in deeper.」",
 },
 },
 },
@@ -4940,7 +4940,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Haah...'kay...」",
 },
 },
 },
@@ -4952,7 +4952,7 @@ ja={
 },
 en={
 {
-"",
+"She nodded and...stuck her finger in to the base.",
 },
 },
 },
@@ -4968,7 +4968,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hyaaaaah?!」",
 },
 },
 },
@@ -4980,7 +4980,7 @@ ja={
 },
 en={
 {
-"",
+"She violently arched back.",
 },
 },
 },
@@ -4996,7 +4996,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, aah, fwah...! N-no...!」",
 },
 },
 },
@@ -5009,7 +5009,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...You alright?」",
 },
 },
 },
@@ -5025,7 +5025,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwah...haah...y-yeah...」",
 },
 },
 },
@@ -5037,7 +5037,7 @@ ja={
 },
 en={
 {
-"",
+"Looks like she nearly came.",
 },
 },
 },
@@ -5050,7 +5050,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Now try moving it out and in.」",
 },
 },
 },
@@ -5066,7 +5066,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fue...?」",
 },
 },
 },
@@ -5082,7 +5082,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No...if I do, then...」",
 },
 },
 },
@@ -5095,7 +5095,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Go ahead and come.」",
 },
 },
 },
@@ -5111,7 +5111,7 @@ ja={
 },
 en={
 {
-"「」",
+"「N-No...it'll feel like I lost...」",
 },
 },
 },
@@ -5123,7 +5123,7 @@ ja={
 },
 en={
 {
-"",
+"...How very like her.",
 },
 },
 },
@@ -5136,7 +5136,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The point of masturbation is to come. Don't hold back on my account.」",
 },
 },
 },
@@ -5152,7 +5152,7 @@ ja={
 },
 en={
 {
-"「」",
+"「B-But...」",
 },
 },
 },
@@ -5165,7 +5165,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want to see you come.」",
 },
 },
 },
@@ -5194,7 +5194,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Could you let me see?」",
 },
 },
 },
@@ -5210,7 +5210,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...You're truly a pervert.」",
 },
 },
 },
@@ -5226,7 +5226,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And I'm...a pervert for loving you.」",
 },
 },
 },
@@ -5238,7 +5238,7 @@ ja={
 },
 en={
 {
-"",
+"She may be right.",
 },
 },
 },
@@ -5254,7 +5254,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fine...I'll humor you...」",
 },
 },
 },
@@ -5270,7 +5270,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll...let you...see me come...」",
 },
 },
 },
@@ -5286,7 +5286,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, ah...nn...huu, hah, aah...fwaah! Aah, aah, ahn...ah haaa!」",
 },
 },
 },
@@ -5298,7 +5298,7 @@ ja={
 },
 en={
 {
-"",
+"Squish squish squish, squish squish squish.",
 },
 },
 },
@@ -5310,7 +5310,7 @@ ja={
 },
 en={
 {
-"",
+"An obscene, wet rhythm echoed.",
 },
 },
 },
@@ -5322,7 +5322,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro lost herself in the deed, unable to say a word.",
 },
 },
 },
@@ -5334,7 +5334,7 @@ ja={
 },
 en={
 {
-"",
+"She was being overcome by the pleasure her finger was providing, her sweat scattering and hair flying wildly.",
 },
 },
 },
@@ -5346,7 +5346,7 @@ ja={
 },
 en={
 {
-"",
+"There's no need for further instructions.",
 },
 },
 },
@@ -5358,7 +5358,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro sped up, heading towards the pinnacle of pleasure.",
 },
 },
 },
@@ -5374,7 +5374,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, ah, ah, ah, haaah...! Ah, ahn, aaah! Nn, aaah, fwaaah!」",
 },
 },
 },
@@ -5386,7 +5386,7 @@ ja={
 },
 en={
 {
-"",
+"Squish squish squish, squish squish squish!",
 },
 },
 },
@@ -5398,7 +5398,7 @@ ja={
 },
 en={
 {
-"",
+"Wet sounds and her moans continuously resonated as though she had forgotten that I'm watching her.",
 },
 },
 },
@@ -5410,7 +5410,7 @@ ja={
 },
 en={
 {
-"",
+"Love fluids poured out without end and sprayed out with her sweat, raising the infirmary temperature.",
 },
 },
 },
@@ -5426,7 +5426,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, aah, haaah, fwaaaa, hyaaaa! No, I can't! I caaan't!」",
 },
 },
 },
@@ -5438,7 +5438,7 @@ ja={
 },
 en={
 {
-"",
+"Despite her protests, she didn't stop.",
 },
 },
 },
@@ -5450,7 +5450,7 @@ ja={
 },
 en={
 {
-"",
+"Now at her limit, she entered the final stretch.",
 },
 },
 },
@@ -5462,7 +5462,7 @@ ja={
 },
 en={
 {
-"",
+"Her movements, moans, and spray of fluids had reached their apex.",
 },
 },
 },
@@ -5478,7 +5478,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Coming, coming, coming! I'm coming! Aaaaaaaaahhhh, aaaaahhhh----!!!」",
 },
 },
 },
@@ -5490,7 +5490,7 @@ ja={
 },
 en={
 {
-"",
+"She squirted.",
 },
 },
 },
@@ -5502,7 +5502,7 @@ ja={
 },
 en={
 {
-"",
+"Arching back as far as she could and stretching her limbs taut, Shiro squirted from her first masturbation.",
 },
 },
 },
@@ -5514,7 +5514,7 @@ ja={
 },
 en={
 {
-"",
+"Her climax was that intense.",
 },
 },
 },
@@ -5530,7 +5530,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hya...! Aah...! Au...! Huu...! Auu...nkh...fuhaa...!」",
 },
 },
 },
@@ -5542,7 +5542,7 @@ ja={
 },
 en={
 {
-"",
+"She convulsed countless times as the massive wave of pleasure engulfed her.",
 },
 },
 },
@@ -5554,7 +5554,7 @@ ja={
 },
 en={
 {
-"",
+"Splashes of fluids intermittently sprayed out.",
 },
 },
 },
@@ -5570,7 +5570,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah...ah...hyah...huu...hauu...」",
 },
 },
 },
@@ -5582,7 +5582,7 @@ ja={
 },
 en={
 {
-"",
+"While the climax was long, so too was the afterglow.",
 },
 },
 },
@@ -5594,7 +5594,7 @@ ja={
 },
 en={
 {
-"",
+"She slowly returned to the real world from the depths of pleasure.",
 },
 },
 },
@@ -5610,7 +5610,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Aah...aaah...Soraa...」",
 },
 },
 },
@@ -5623,7 +5623,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro. What'd you think?」",
 },
 },
 },
@@ -5639,7 +5639,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My head's white...everything's white... I can't think...」",
 },
 },
 },
@@ -5652,7 +5652,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Did it feel good?」",
 },
 },
 },
@@ -5668,7 +5668,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah...so good...」",
 },
 },
 },
@@ -5684,7 +5684,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because...you were watching...」",
 },
 },
 },
@@ -5700,7 +5700,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I wouldn't feel this good...by myself...」",
 },
 },
 },
@@ -5716,7 +5716,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So it felt...just as good...as when we have sex...」",
 },
 },
 },
@@ -5732,7 +5732,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hey...Sora.」",
 },
 },
 },
@@ -5748,7 +5748,7 @@ ja={
 },
 en={
 {
-"「」",
+"「How did the exam go?」",
 },
 },
 },
@@ -5761,7 +5761,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...It went great.」",
 },
 },
 },
@@ -5773,7 +5773,7 @@ ja={
 },
 en={
 {
-"",
+"In multiple senses.",
 },
 },
 },
@@ -5786,7 +5786,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It went so well, I want to drop everything and take you right here.」",
 },
 },
 },
@@ -5802,7 +5802,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You can't, Sora.」",
 },
 },
 },
@@ -5818,7 +5818,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's almost break time. Some students might come visit.」",
 },
 },
 },
@@ -5834,7 +5834,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If they see us doing it, you'll probably be fired.」",
 },
 },
 },
@@ -5850,7 +5850,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So hold on, okay?」",
 },
 },
 },
@@ -5866,7 +5866,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hold onto that feeling and get through the rest of the day.」",
 },
 },
 },
@@ -5882,7 +5882,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you can't endure it...I'll suck you when nobody's watching.」",
 },
 },
 },
@@ -5898,7 +5898,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you still can't endure it...we'll continue at the inn.」",
 },
 },
 },
@@ -5914,7 +5914,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Next time, it'll be my turn to watch you.」",
 },
 },
 },
@@ -5930,7 +5930,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fufu...I wonder what kind of kink we'll do next?」",
 },
 },
 },
@@ -5942,7 +5942,7 @@ ja={
 },
 en={
 {
-"",
+"...Looks like Shiro winded up taking the initiative.",
 },
 },
 },

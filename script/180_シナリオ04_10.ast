@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼・タンポポの綿毛１",ja="昼・タンポポの綿毛１",en="Noon-"},
+{"savetitle",text="昼・タンポポの綿毛１",ja="昼・タンポポの綿毛１",en="Noon-Dandelion fluff 1"},
 {"bg",file="bg22a",path=":bg/"},
 {"text"},
 crc="cddbc1eb",
@@ -175,7 +175,7 @@ ja={
 },
 en={
 {
-"",
+"Some stuff happened, but I finished my work.",
 },
 },
 },
@@ -187,7 +187,7 @@ ja={
 },
 en={
 {
-"",
+"The two of us made our way over the land bridge towards the dandelion field.",
 },
 },
 },
@@ -203,7 +203,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwoo.」",
 },
 },
 },
@@ -219,7 +219,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The wind's strong today. It's hard to make them fly nicely.」",
 },
 },
 },
@@ -235,7 +235,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I wouldn't be surprised...if all the dandelion fluff got blown away.」",
 },
 },
 },
@@ -247,7 +247,7 @@ ja={
 },
 en={
 {
-"",
+"We entered the field.",
 },
 },
 },
@@ -259,7 +259,7 @@ ja={
 },
 en={
 {
-"",
+"And a sea of fluff spread out before us.",
 },
 },
 },
@@ -275,7 +275,7 @@ ja={
 },
 en={
 {
-"「」",
+"「They should just fly away already...」",
 },
 },
 },
@@ -291,7 +291,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You all should return already...」",
 },
 },
 },
@@ -307,7 +307,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No...dandelions don't return.」",
 },
 },
 },
@@ -323,7 +323,7 @@ ja={
 },
 en={
 {
-"「」",
+"「They're reborn as a new life...」",
 },
 },
 },
@@ -335,7 +335,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro broke off a dandelion and gently blew at it.",
 },
 },
 },
@@ -347,7 +347,7 @@ ja={
 },
 en={
 {
-"",
+"The fluff flew through the air.",
 },
 },
 },
@@ -359,7 +359,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro once told me she hated dandelions for how they spread.",
 },
 },
 },
@@ -371,7 +371,7 @@ ja={
 },
 en={
 {
-"",
+"But she wouldn't be sending the fluff flying if she truly believed that.",
 },
 },
 },
@@ -383,7 +383,7 @@ ja={
 },
 en={
 {
-"",
+"There must be some other reason why she hates them...",
 },
 },
 },
@@ -399,7 +399,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Dandelion fluff needs wind to fly...」",
 },
 },
 },
@@ -415,7 +415,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It lets them pass their life onto the next...」",
 },
 },
 },
@@ -431,7 +431,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Wind is a blessing to them...」",
 },
 },
 },
@@ -447,7 +447,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Humans are the same...」",
 },
 },
 },
@@ -463,7 +463,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The wind blesses humans with abundance...」",
 },
 },
 },
@@ -479,7 +479,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You taught me that...」",
 },
 },
 },
@@ -495,7 +495,7 @@ ja={
 },
 en={
 {
-"「」",
+"「To me...」",
 },
 },
 },
@@ -511,7 +511,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The past you, to the past me----.」",
 },
 },
 },

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夕方・タンポポの綿毛２",ja="夕方・タンポポの綿毛２",en=""},
+{"savetitle",text="夕方・タンポポの綿毛２",ja="夕方・タンポポの綿毛２",en="Evening-Dandelion fluff 2"},
 {"msg",no=1},
 {"cgdel",id=-1},
 {"bg",file="black",path=":bg/",time=1000},
@@ -263,7 +263,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The wind...」",
 },
 },
 },
@@ -279,7 +279,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sure feels nice...」",
 },
 },
 },
@@ -295,7 +295,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It calms down in the evening.」",
 },
 },
 },
@@ -307,7 +307,7 @@ ja={
 },
 en={
 {
-"",
+"I stood in the dandelion field, having returned from my encounter with that girl.",
 },
 },
 },
@@ -319,7 +319,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro had set the dandelions aside to send her bubbles flying.",
 },
 },
 },
@@ -335,7 +335,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwoo...」",
 },
 },
 },
@@ -347,7 +347,7 @@ ja={
 },
 en={
 {
-"",
+"Seeing her blowing bubbles brought back memories of Shiroka...",
 },
 },
 },
@@ -363,7 +363,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah...」",
 },
 },
 },
@@ -379,7 +379,7 @@ ja={
 },
 en={
 {
-"「」",
+"「They're...not flying nicely anymore.」",
 },
 },
 },
@@ -395,7 +395,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Just when it got time to head home...」",
 },
 },
 },
@@ -411,7 +411,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora.」",
 },
 },
 },
@@ -423,7 +423,7 @@ ja={
 },
 en={
 {
-"",
+"I stepped forward in response.",
 },
 },
 },
@@ -435,7 +435,7 @@ ja={
 },
 en={
 {
-"",
+"As if by instinct.",
 },
 },
 },
@@ -448,7 +448,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll carry you.」",
 },
 },
 },
@@ -464,7 +464,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Thanks.」",
 },
 },
 },
@@ -480,7 +480,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Come on, Sora.」",
 },
 },
 },
@@ -496,7 +496,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Be my legs...」",
 },
 },
 },
@@ -504,7 +504,7 @@ en={
 vo={
 {"vo",file="fem_z03_00540",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「行きましょう、蒼」",
@@ -512,7 +512,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Come on, Ao.」",
 },
 },
 },
@@ -520,7 +520,7 @@ en={
 vo={
 {"vo",file="fem_z03_00540a",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「私の足になりなさい……」",
@@ -528,7 +528,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Be my legs...」",
 },
 },
 },
@@ -536,7 +536,7 @@ en={
 vo={
 {"vo",file="fem_z03_00541",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「この風の向こうまで、連れていって……」",
@@ -544,7 +544,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Bring me beyond this wind...」",
 },
 },
 },
@@ -552,7 +552,7 @@ en={
 vo={
 {"vo",file="fem_z03_00542",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そして、海を見ましょう」",
@@ -560,7 +560,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So we can see the ocean.」",
 },
 },
 },
@@ -568,7 +568,7 @@ en={
 vo={
 {"vo",file="fem_z03_00543",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「海に建つ風車を、ふたりで眺めましょう――――」",
@@ -576,7 +576,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Let's watch the windmills by the sea----.」",
 },
 },
 },
@@ -588,7 +588,7 @@ ja={
 },
 en={
 {
-"",
+"I held Shiro tight.",
 },
 },
 },
@@ -600,7 +600,7 @@ ja={
 },
 en={
 {
-"",
+"As past and present overlapped.",
 },
 },
 },
@@ -616,7 +616,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yep...good boy, Sora.」",
 },
 },
 },
@@ -632,7 +632,7 @@ ja={
 },
 en={
 {
-"「」",
+"「In the past...you couldn't carry me like this.」",
 },
 },
 },
@@ -648,7 +648,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You grew up...」",
 },
 },
 },
@@ -664,7 +664,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You got strong...」",
 },
 },
 },
@@ -680,7 +680,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I should give you a reward...」",
 },
 },
 },
@@ -696,7 +696,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Here's your payment----.」",
 },
 },
 },
@@ -708,7 +708,7 @@ ja={
 },
 en={
 {
-"",
+"In the center of the dandelion field filled with fluff.",
 },
 },
 },
@@ -720,7 +720,7 @@ ja={
 },
 en={
 {
-"",
+"The two of us held each other close.",
 },
 },
 },
@@ -732,7 +732,7 @@ ja={
 },
 en={
 {
-"",
+"And my lips met hers.",
 },
 },
 },
@@ -744,7 +744,7 @@ ja={
 },
 en={
 {
-"",
+"The sensation was just like when Shiroka kissed me...",
 },
 },
 },
@@ -756,7 +756,7 @@ ja={
 },
 en={
 {
-"",
+"It made me yearn for her.",
 },
 },
 },
@@ -768,7 +768,7 @@ ja={
 },
 en={
 {
-"",
+"So I want to remember everything about Shiro--about Shiroka.",
 },
 },
 },

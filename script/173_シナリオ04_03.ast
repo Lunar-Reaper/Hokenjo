@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼・転機のあと２",ja="昼・転機のあと２",en="Noon-"},
+{"savetitle",text="昼・転機のあと２",ja="昼・転機のあと２",en="Noon-After the turning point 2"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg22a",path=":bg/",speed=70000,x=100,x2=100,y=360,y2=-360},
 {"bgm",file="bgm01"},
 {"text"},
@@ -550,7 +550,7 @@ ja={
 },
 en={
 {
-"",
+"I finished my morning sanitation duties and began my infirmary work.",
 },
 },
 },
@@ -562,7 +562,7 @@ ja={
 },
 en={
 {
-"",
+"With the sun now bearing down, the temperature steadily rose.",
 },
 },
 },
@@ -574,7 +574,7 @@ ja={
 },
 en={
 {
-"",
+"With the rainy season here, it really feels like summer has arrived.",
 },
 },
 },
@@ -586,7 +586,7 @@ ja={
 },
 en={
 {
-"",
+"But summers here up north really aren't that bad.",
 },
 },
 },
@@ -598,7 +598,7 @@ ja={
 },
 en={
 {
-"",
+"It's a world of difference when compared to my hometown. Although, Towa-sensei always maintained her frosty attitude no matter how scorching it may be.",
 },
 },
 },
@@ -610,7 +610,7 @@ ja={
 },
 en={
 {
-"",
+"It's the time of year where students change to their summer uniforms, though there were plenty that still wear their long-sleeves.",
 },
 },
 },
@@ -626,7 +626,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yoohoo~, I beseech thee!」",
 },
 },
 },
@@ -638,7 +638,7 @@ ja={
 },
 en={
 {
-"",
+"Rin drops by on pretty much every lunch break.",
 },
 },
 },
@@ -654,7 +654,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei! Let's have lunch together!」",
 },
 },
 },
@@ -666,7 +666,7 @@ ja={
 },
 en={
 {
-"",
+"I've told her this isn't the cafeteria countless times, but she never listens, so this is her daily routine now.",
 },
 },
 },
@@ -682,7 +682,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's gotten noisy again...」",
 },
 },
 },
@@ -698,7 +698,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro-chan, squeeze!」",
 },
 },
 },
@@ -714,7 +714,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Stop with the hug attacks!」",
 },
 },
 },
@@ -730,7 +730,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Rin-senpai, I've got you now!」",
 },
 },
 },
@@ -742,7 +742,7 @@ ja={
 },
 en={
 {
-"",
+"And now Nana's here.",
 },
 },
 },
@@ -758,7 +758,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's gotten even noisier...」",
 },
 },
 },
@@ -774,7 +774,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Rin-senpai, I already told you we have a meeting in the student council room during lunch break!」",
 },
 },
 },
@@ -790,7 +790,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You wanna have lunch here too?」",
 },
 },
 },
@@ -806,7 +806,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I sure do!」",
 },
 },
 },
@@ -819,7 +819,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Seriously?」",
 },
 },
 },
@@ -835,7 +835,7 @@ ja={
 },
 en={
 {
-"「」",
+"「E-Ehehe. I actually brought my lunch with me.」",
 },
 },
 },
@@ -851,7 +851,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I was planning on having it in the student council room, but I can always go to the meeting after enjoying lunch here!」",
 },
 },
 },
@@ -867,7 +867,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's not like anything I say will make her leave anyway...」",
 },
 },
 },
@@ -883,7 +883,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You know me so well, Nana-chan. Such a wise, worldly adult.」",
 },
 },
 },
@@ -899,7 +899,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Thanks for the compliment!」",
 },
 },
 },
@@ -915,7 +915,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Adult? Only a kid could be that much of a sap.」",
 },
 },
 },
@@ -931,7 +931,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...A kid.」",
 },
 },
 },
@@ -943,7 +943,7 @@ ja={
 },
 en={
 {
-"",
+"Nana twitched at those words.",
 },
 },
 },
@@ -955,7 +955,7 @@ ja={
 },
 en={
 {
-"",
+"Being treated like kid when she's trying to be recognized by her parents must have touched a nerve.",
 },
 },
 },
@@ -971,7 +971,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can let it slide if Kazami-sensei or Rin-senpai says it, but I don't want to hear it from you!」",
 },
 },
 },
@@ -987,7 +987,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Why's that? I'm more mature than you.」",
 },
 },
 },
@@ -1003,7 +1003,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Heh...」",
 },
 },
 },
@@ -1019,7 +1019,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Why the nihilistic laugh?」",
 },
 },
 },
@@ -1035,7 +1035,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shirobana-san, how tall are you?」",
 },
 },
 },
@@ -1051,7 +1051,7 @@ ja={
 },
 en={
 {
-"「」",
+"「144 centimeters.」",
 },
 },
 },
@@ -1067,7 +1067,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And your bust size?」",
 },
 },
 },
@@ -1083,7 +1083,7 @@ ja={
 },
 en={
 {
-"「」",
+"「71 centimeters.」",
 },
 },
 },
@@ -1099,7 +1099,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Heh...」",
 },
 },
 },
@@ -1115,7 +1115,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...There it is again.」",
 },
 },
 },
@@ -1131,7 +1131,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I win on all counts. That makes me more mature!」",
 },
 },
 },
@@ -1147,7 +1147,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Guh, curse this generation...!」",
 },
 },
 },
@@ -1159,7 +1159,7 @@ ja={
 },
 en={
 {
-"",
+"I remember this happening with Otohime-san too...",
 },
 },
 },
@@ -1175,7 +1175,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Permission to slice this wannabe adult to pieces.」",
 },
 },
 },
@@ -1188,7 +1188,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Denied.」",
 },
 },
 },
@@ -1201,7 +1201,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And Nana. You can't blame her for calling you a kid if you're priding yourself over a few measurements.」",
 },
 },
 },
@@ -1217,7 +1217,7 @@ ja={
 },
 en={
 {
-"「」",
+"「W-Was that immmature of me?」",
 },
 },
 },
@@ -1233,7 +1233,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's what's on the inside that counts. Like which of you is better at a job.」",
 },
 },
 },
@@ -1249,7 +1249,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm good enough to be made a special-case student council member.」",
 },
 },
 },
@@ -1265,7 +1265,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Truly incompetent.」",
 },
 },
 },
@@ -1281,7 +1281,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Say what...!」",
 },
 },
 },
@@ -1297,7 +1297,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm good enough to be a special-case infirmary assistant.」",
 },
 },
 },
@@ -1313,7 +1313,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kuh...why's a munchkin being given the staff member treatment anyway?!」",
 },
 },
 },
@@ -1329,7 +1329,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Was that an low-key insult?」",
 },
 },
 },
@@ -1341,7 +1341,7 @@ ja={
 },
 en={
 {
-"",
+"Nothing low-key about it.",
 },
 },
 },
@@ -1357,7 +1357,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But are you actually doing your job? I for one have never seen anything of the sort!」",
 },
 },
 },
@@ -1373,7 +1373,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Don't mock me. Only a mature adult like me can do this job.」",
 },
 },
 },
@@ -1389,7 +1389,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I've only ever seen you blow bubbles!」",
 },
 },
 },
@@ -1421,7 +1421,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Don't blow them in my face! My eyes are burning!」",
 },
 },
 },
@@ -1437,7 +1437,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Bubble-blowing Shiro-chan's so cute!」",
 },
 },
 },
@@ -1453,7 +1453,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Stop with the hugs!」",
 },
 },
 },
@@ -1466,7 +1466,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...What a mess.」",
 },
 },
 },
@@ -1478,7 +1478,7 @@ ja={
 },
 en={
 {
-"",
+"There's no peace once Rin and Nana enter the picture.",
 },
 },
 },
@@ -1494,7 +1494,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei, is that a smile I see?」",
 },
 },
 },
@@ -1506,7 +1506,7 @@ ja={
 },
 en={
 {
-"",
+"...W-Well, this isn't so bad.",
 },
 },
 },
@@ -1519,7 +1519,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shouldn't you two be getting to your meeting? You should eat while you still have time.」",
 },
 },
 },
@@ -1532,7 +1532,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Let's dig in.」",
 },
 },
 },
@@ -1548,7 +1548,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Digging in!」",
 },
 },
 },
@@ -1564,7 +1564,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Me too!」",
 },
 },
 },
@@ -1580,7 +1580,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I'll join in.」",
 },
 },
 },
@@ -1592,7 +1592,7 @@ ja={
 },
 en={
 {
-"",
+"Despite their disputes, Shiro had come to accept them.",
 },
 },
 },
