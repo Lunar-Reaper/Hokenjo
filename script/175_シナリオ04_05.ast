@@ -2441,7 +2441,9 @@ ja={
 },
 en={
 {
+{"exfont",size="f2"},
 "「I may have been taken by surprise yesterday, and maybe I freaked out from her suddenly showing up just now too! But I won't make the same mistake a third time!」",
+{"exfont"},
 },
 },
 },
@@ -3217,7 +3219,7 @@ ja={
 },
 en={
 {
-"She led me a sparcely-decorated room, lacking in anything girly.",
+"She led me a sparsely-decorated room, lacking in anything girly.",
 },
 },
 },
