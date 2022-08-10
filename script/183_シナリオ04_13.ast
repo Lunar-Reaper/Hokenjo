@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="回想・永遠の夢",ja="回想・永遠の夢",en=""},
+{"savetitle",text="回想・永遠の夢",ja="回想・永遠の夢",en="Recollection-Dreaming of Towa"},
 {"ntclear"},
 {"bg",file="eyecatch03",path=":cg/",time=2000},
 {"sysvo",name="titlecall",com="shi"},
@@ -339,7 +339,7 @@ text={
 vo={
 {"vo",file="fem_twa_00189",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「蒼空」",
@@ -347,7 +347,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora.」",
 },
 },
 },
@@ -355,7 +355,7 @@ en={
 vo={
 {"vo",file="fem_twa_00190",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「これまであなたには、送り人の心得を教えてきました」",
@@ -363,7 +363,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Up until now, I've been teaching you the principles of being an okuribito.」",
 },
 },
 },
@@ -371,7 +371,7 @@ en={
 vo={
 {"vo",file="fem_twa_00191",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「魂人を幸せに還すこと――そのために、心のつながりが求められることを説いてきました」",
@@ -379,7 +379,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I've explained how connecting to their heart will help in sending a tamabito back happily.」",
 },
 },
 },
@@ -387,7 +387,7 @@ en={
 vo={
 {"vo",file="fem_twa_00192",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「では、そもそも、つながりとはなんなのか？」",
@@ -395,7 +395,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But what do I mean by connection?」",
 },
 },
 },
@@ -403,7 +403,7 @@ en={
 vo={
 {"vo",file="fem_twa_00193",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「つながりとは――信頼性の根源と呼べるその関係とは、どこから生まれるものなのか？」",
@@ -411,7 +411,7 @@ ja={
 },
 en={
 {
-"「」",
+"「From where does that sense of trust we know as a connection originate?」",
 },
 },
 },
@@ -419,7 +419,7 @@ en={
 vo={
 {"vo",file="fem_twa_00194",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「理屈も根拠もなく、一切の説明を抜きにして、信頼を得ることができる関係……」",
@@ -427,7 +427,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A relationship of pure trust, groundless and lacking in reason, defying all explanation...",
 },
 },
 },
@@ -435,7 +435,7 @@ en={
 vo={
 {"vo",file="fem_twa_00195",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「無条件で自分の存在を認めてくれる関係……」",
@@ -443,7 +443,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Where your existance is unconditionally accepted...」",
 },
 },
 },
@@ -451,7 +451,7 @@ en={
 vo={
 {"vo",file="fem_twa_00196",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「それは、命というものが、母から生まれることによるという学説があります」",
@@ -459,7 +459,7 @@ ja={
 },
 en={
 {
-"「」",
+"「One theory posits that it comes from being given life by our mothers.」",
 },
 },
 },
@@ -467,7 +467,7 @@ en={
 vo={
 {"vo",file="fem_twa_00197",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「私たちにとって最も基本的な信頼感とは、生まれる前も、生まれた後も、母がそばについていることなのです」",
@@ -475,7 +475,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Our most fundamental sense of trust is our mother being with us before and after our births.」",
 },
 },
 },
@@ -483,7 +483,7 @@ en={
 vo={
 {"vo",file="fem_twa_00198",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「私の力では、その学説――遺伝学としての理論までは説明できませんが、代わりに心療内科医としての見解を述べましょう」",
@@ -491,7 +491,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I cannot explain this theory from a genetic standpoint, but I can give you my thoughts on it as a psychosomatic physician.」",
 },
 },
 },
@@ -499,7 +499,7 @@ en={
 vo={
 {"vo",file="fem_twa_00199",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「私は、つながりというものは、血のつながりだけを指すのではないと考えています」",
@@ -507,7 +507,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I believe connections are not limited to blood relations.」",
 },
 },
 },
@@ -515,7 +515,7 @@ en={
 vo={
 {"vo",file="fem_twa_00200",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「家族に限らず、友人だったり、恋人だったり……」",
@@ -523,7 +523,7 @@ ja={
 },
 en={
 {
-"「」",
+"「They extend beyond family, to friends, to lovers...」",
 },
 },
 },
@@ -531,7 +531,7 @@ en={
 vo={
 {"vo",file="fem_twa_00201",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「血のつながりを越えた、命のつながりというものもまた存在することを、私は肯定したいのです」",
@@ -539,7 +539,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want to believe that life connections superior to blood connections exist.」",
 },
 },
 },
@@ -547,7 +547,7 @@ en={
 vo={
 {"vo",file="fem_twa_00202",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「人は、人から生まれたからこそ、死ぬときもまた人から見送られることを望み……」",
@@ -555,7 +555,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It is because we are born from humans that we wish to be seen off by humans when we die...」",
 },
 },
 },
@@ -563,7 +563,7 @@ en={
 vo={
 {"vo",file="fem_twa_00203",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「そして人は、人と触れあって生きるからこそ、死ぬときもまた人と触れあいたいと望んでいる……」",
@@ -571,7 +571,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And it is because humans live through interacting that we wish for human interaction when we die...」",
 },
 },
 },
@@ -579,7 +579,7 @@ en={
 vo={
 {"vo",file="fem_twa_00204",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「そこに、送り人の意義はあるのだと思います」",
@@ -587,7 +587,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I believe that is where the purpose of okuribito lie.」",
 },
 },
 },
@@ -595,7 +595,7 @@ en={
 vo={
 {"vo",file="fem_twa_00205",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「送り人と魂人は、表裏一体」",
@@ -603,7 +603,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Okuribito and tamabito are two halves of a whole.」",
 },
 },
 },
@@ -611,7 +611,7 @@ en={
 vo={
 {"vo",file="fem_twa_00206",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「人間と魂人は、表裏一体……」",
@@ -619,7 +619,7 @@ ja={
 },
 en={
 {
-"「」",
+"「As are humans and tamabito...」",
 },
 },
 },
@@ -627,7 +627,7 @@ en={
 vo={
 {"vo",file="fem_twa_00207",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「それは、生と死が表裏一体だからこそ――生と死が同一の概念だからこそ、成り立つのでしょう」",
@@ -635,7 +635,7 @@ ja={
 },
 en={
 {
-"「」",
+"「This holds true because life and death are two halves of a whole--the concepts are one and the same.」",
 },
 },
 },
@@ -643,7 +643,7 @@ en={
 vo={
 {"vo",file="fem_twa_00208",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「人は、死ぬために生き、生きるために死ぬ……」",
@@ -651,7 +651,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Humans live in order to die, and die in order to live...」",
 },
 },
 },
@@ -659,7 +659,7 @@ en={
 vo={
 {"vo",file="fem_twa_00209",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「蒼空。まるで禅問答のようで、今の言葉の意味を計りかねますか？」",
@@ -667,7 +667,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora. It may sound like a zen riddle, but do you understand the meaning of what I said?」",
 },
 },
 },
@@ -675,7 +675,7 @@ en={
 vo={
 {"vo",file="fem_twa_00210",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「たしかに、生と死が同じなら、生きることになんの意味もないように聞こえるかもしれません」",
@@ -683,7 +683,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It may sound as though life and death being the same means that there is no meaning in living.」",
 },
 },
 },
@@ -691,7 +691,7 @@ en={
 vo={
 {"vo",file="fem_twa_00211",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「ですが、ある有名な思想家が、このような言葉を残しています」",
@@ -699,7 +699,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But a certain famous philosopher left these words for us.」",
 },
 },
 },
@@ -707,7 +707,7 @@ en={
 vo={
 {"vo",file="fem_twa_00212",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「生にはなんの意味もないという事実は、生きる理由のひとつになる、と」",
@@ -715,7 +715,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The fact that life has no meaning is a reason to live - moreover, the only one.」",
 },
 },
 },
@@ -723,7 +723,7 @@ en={
 vo={
 {"vo",file="fem_twa_00213",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「蒼空。あなたは、この言葉をどのように受け止めますか？」",
@@ -731,7 +731,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora. How do you interpret this?」",
 },
 },
 },
@@ -739,7 +739,7 @@ en={
 vo={
 {"vo",file="fem_twa_00214",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「……私ですか？　私は、この言葉をこのように受け止めています」",
@@ -747,7 +747,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Me? Since you asked, I'll tell you.」",
 },
 },
 },
@@ -755,7 +755,7 @@ en={
 vo={
 {"vo",file="fem_twa_00215",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「わけがわからない、と」",
@@ -763,7 +763,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I have no idea.」",
 },
 },
 },
@@ -771,7 +771,7 @@ en={
 vo={
 {"vo",file="fem_twa_00216",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「……蒼空、なんですかその顔は。白い目を向けないでください」",
@@ -779,7 +779,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Sora, why are you looking at me like that? That's quite the glare.」",
 },
 },
 },
@@ -787,7 +787,7 @@ en={
 vo={
 {"vo",file="fem_twa_00217",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「最近、私に対して反抗的ではないでしょうか……。反抗期の子どもの相手には、苦労させられますね」",
@@ -795,7 +795,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You've been cold to me as of late... A child in his rebellious phase certainly is hard to deal with.」",
 },
 },
 },
@@ -803,7 +803,7 @@ en={
 vo={
 {"vo",file="fem_twa_00218",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「もう子どもじゃない？　たしかに、あなたを引き取った頃と比べたらずいぶんと成長しましたね」",
@@ -811,7 +811,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're not a child anymore, you say? Well, you certainly are taller than when I picked you up from that orphanage.」",
 },
 },
 },
@@ -819,7 +819,7 @@ en={
 vo={
 {"vo",file="fem_twa_00219",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「ですが、私から見たらまだまだ子どもです。むしろ、私にとってはいつまでも子どもですよ」",
@@ -827,7 +827,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But you're still a child in my eyes. In fact, you always will be.」",
 },
 },
 },
@@ -835,7 +835,7 @@ en={
 vo={
 {"vo",file="fem_twa_00220",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「なぜなら、あなたが私の歳を越すことはないのですから。私が生きている限りはね」",
@@ -843,7 +843,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Why? Because you'll never be older than me so long as I'm alive.」",
 },
 },
 },
@@ -851,7 +851,7 @@ en={
 vo={
 {"vo",file="fem_twa_00221",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「その上で、あなたに告げておきましょう」",
@@ -859,7 +859,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And one more thing.」",
 },
 },
 },
@@ -867,7 +867,7 @@ en={
 vo={
 {"vo",file="fem_twa_00222",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「蒼空、ゆめゆめ忘れないように。大人だからといって、子どもより賢いとは限らないのです」",
@@ -875,7 +875,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora, take care not to forget this. Adults are not necessarily smarter than children.」",
 },
 },
 },
@@ -883,7 +883,7 @@ en={
 vo={
 {"vo",file="fem_twa_00223",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「それは、師匠と弟子の関係にも当てはまります」",
@@ -891,7 +891,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That goes for mentor and disciple as well.」",
 },
 },
 },
@@ -899,7 +899,7 @@ en={
 vo={
 {"vo",file="fem_twa_00224",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「青は藍より出でて、藍より青し……」",
@@ -907,7 +907,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Blue dye comes from the indigo plant, but is bluer than indigo. It means the student may surpass the teacher...」",
 },
 },
 },
@@ -915,7 +915,7 @@ en={
 vo={
 {"vo",file="fem_twa_00225",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「蒼空。あなたの名前にぴったりではないですか」",
@@ -923,7 +923,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora. Your name meaning 'blue sky' may be a perfect fit for you.」",
 },
 },
 },
@@ -931,7 +931,7 @@ en={
 vo={
 {"vo",file="fem_twa_00226",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「あなたは、師匠の私を越えていきなさい」",
@@ -939,7 +939,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Go and surpass me.」",
 },
 },
 },
@@ -947,7 +947,7 @@ en={
 vo={
 {"vo",file="fem_twa_00227",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「越えた先にこそ、あなたが求める答えが待っているのだと、私は信じたいのですよ」",
@@ -955,7 +955,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I believe the answer you're searching for will come from doing so.」",
 },
 },
 },
@@ -967,7 +967,7 @@ ja={
 },
 en={
 {
-"",
+"With that, the tedious lecture came to an end. Next came the practical lesson.",
 },
 },
 },
@@ -979,7 +979,7 @@ ja={
 },
 en={
 {
-"",
+"Towa-sensei glanced outside the shrine on a whim.",
 },
 },
 },
@@ -987,7 +987,7 @@ en={
 vo={
 {"vo",file="fem_twa_00228",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「私と目が合った途端……いなくなりましたね」",
@@ -995,7 +995,7 @@ ja={
 },
 en={
 {
-"「」",
+"「She vanished as soon as our eyes met...」",
 },
 },
 },
@@ -1003,7 +1003,7 @@ en={
 vo={
 {"vo",file="fem_twa_00229",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「……誰を見ていたのか？　魂人ですよ」",
@@ -1011,7 +1011,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Who did I see? A tamabito.」",
 },
 },
 },
@@ -1019,7 +1019,7 @@ en={
 vo={
 {"vo",file="fem_twa_00230",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「最近、神社の外に魂人の少女が立っているんです」",
@@ -1027,7 +1027,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A young girl tamabito has been loitering outside the shrine recently.」",
 },
 },
 },
@@ -1035,7 +1035,7 @@ en={
 vo={
 {"vo",file="fem_twa_00231",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「この境内に入りたいのかもしれませんが……穢れから守られているため、彼女には難しいでしょう」",
@@ -1043,7 +1043,7 @@ ja={
 },
 en={
 {
-"「」",
+"「She likely wants to come in...but that won't be possible since shrines are protected against impurity.」",
 },
 },
 },
@@ -1051,7 +1051,7 @@ en={
 vo={
 {"vo",file="fem_twa_00232",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「だから逆に、私から声をかけたこともありました」",
@@ -1059,7 +1059,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So I tried calling out to her before.」",
 },
 },
 },
@@ -1067,7 +1067,7 @@ en={
 vo={
 {"vo",file="fem_twa_00233",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「神社が心残りに関係しているのかどうか、さりげなく聞き出そうとしたのです」",
@@ -1075,7 +1075,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I thought I would ask if the shrine had to do with her regret.」",
 },
 },
 },
@@ -1083,7 +1083,7 @@ en={
 vo={
 {"vo",file="fem_twa_00234",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「ですが今回のように、彼女は一言も発さずに、目の前から消えてしまうのです」",
@@ -1091,7 +1091,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But she would always run off without a word, as you've just seen.」",
 },
 },
 },
@@ -1099,7 +1099,7 @@ en={
 vo={
 {"vo",file="fem_twa_00235",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「どうも、人間を警戒……正確には、大人の人間を警戒しているようなのです」",
@@ -1107,7 +1107,7 @@ ja={
 },
 en={
 {
-"「」",
+"「She may be cautious of humans...or rather, of adult humans.」",
 },
 },
 },
@@ -1115,7 +1115,7 @@ en={
 vo={
 {"vo",file="fem_twa_00236",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「生前、そのような経験をしていたのだと思います」",
@@ -1123,7 +1123,7 @@ ja={
 },
 en={
 {
-"「」",
+"「She must have had negative experiences with them in while alive.」",
 },
 },
 },
@@ -1131,7 +1131,7 @@ en={
 vo={
 {"vo",file="fem_twa_00237",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「いつか、心を開いてくれたらいいのですが……」",
@@ -1139,7 +1139,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It would be nice if she opened up...」",
 },
 },
 },
@@ -1147,7 +1147,7 @@ en={
 vo={
 {"vo",file="fem_twa_00238",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「……蒼空？　先ほどの魂人が気になるのですか？」",
@@ -1155,7 +1155,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Sora? Are you interested in her?」",
 },
 },
 },
@@ -1163,7 +1163,7 @@ en={
 vo={
 {"vo",file="fem_twa_00239",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「でしたら、蒼空。あなたはもうじき、旅立ちのときを迎えます」",
@@ -1171,7 +1171,7 @@ ja={
 },
 en={
 {
-"「」",
+"「In that case. It may soon be time for you to set out.」",
 },
 },
 },
@@ -1179,7 +1179,7 @@ en={
 vo={
 {"vo",file="fem_twa_00240",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「そのときに、魂人の少女と出会ったら、力になってあげなさい」",
@@ -1187,7 +1187,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you meet her when the time comes, become her strength.」",
 },
 },
 },
@@ -1195,7 +1195,7 @@ en={
 vo={
 {"vo",file="fem_twa_00241",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「あなたはまだまだ、大人とは呼べませんからね。大人嫌いの彼女も心を許してくれるかもしれません」",
@@ -1203,7 +1203,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're still too young to be called an adult. Perhaps she will lower her guard with you.」",
 },
 },
 },
@@ -1211,7 +1211,7 @@ en={
 vo={
 {"vo",file="fem_twa_00242",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「それに、あなたはもう何度か魂人を送り還しています。そのすべては私の指導によるものでしたが……」",
@@ -1219,7 +1219,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And you've already sent many tamabito back, though under my guidance...」",
 },
 },
 },
@@ -1227,7 +1227,7 @@ en={
 vo={
 {"vo",file="fem_twa_00243",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「姉を探す旅に出てしまえば、あなたはひとりで魂人を送らなければなりません」",
@@ -1235,7 +1235,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Once you begin your search for your sister, you will have to send tamabito back on your own.」",
 },
 },
 },
@@ -1243,7 +1243,7 @@ en={
 vo={
 {"vo",file="fem_twa_00244",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「だから、彼女の存在は……あなたが初めて、自分の力で送り還す魂人になるのかもしれませんね」",
@@ -1251,7 +1251,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So...she may be the first tamabito you send back with your own power.」",
 },
 },
 },

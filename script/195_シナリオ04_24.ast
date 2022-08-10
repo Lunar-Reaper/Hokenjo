@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="回想・事後",ja="回想・事後",en=""},
+{"savetitle",text="回想・事後",ja="回想・事後",en="Recollection-Afterwards"},
 {"bg",file="bg22a",path=":bg/"},
 {"bgm",file="bgm04"},
 {"text"},
@@ -505,7 +505,7 @@ ja={
 },
 en={
 {
-"",
+"I made love to Shiro.",
 },
 },
 },
@@ -517,7 +517,7 @@ ja={
 },
 en={
 {
-"",
+"With this, she should happily return...",
 },
 },
 },
@@ -533,7 +533,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Making love...is amazing.」",
 },
 },
 },
@@ -549,7 +549,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Intercourse...sex...is amazing.」",
 },
 },
 },
@@ -565,7 +565,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm so hot...I'm burning up.」",
 },
 },
 },
@@ -577,7 +577,7 @@ ja={
 },
 en={
 {
-"",
+"...Huh?",
 },
 },
 },
@@ -589,7 +589,7 @@ ja={
 },
 en={
 {
-"",
+"She's not returning.",
 },
 },
 },
@@ -601,7 +601,7 @@ ja={
 },
 en={
 {
-"",
+"And isn't showing any sign of doing so.",
 },
 },
 },
@@ -614,7 +614,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Errm...what's going on?」",
 },
 },
 },
@@ -630,7 +630,7 @@ ja={
 },
 en={
 {
-"「」",
+"「With what?」",
 },
 },
 },
@@ -643,7 +643,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You said you'd return if I took you.」",
 },
 },
 },
@@ -656,7 +656,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What happened with your regret...?」",
 },
 },
 },
@@ -672,7 +672,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora. You have the wrong idea in your head.」",
 },
 },
 },
@@ -688,7 +688,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't have just one regret.」",
 },
 },
 },
@@ -701,7 +701,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...What?」",
 },
 },
 },
@@ -717,7 +717,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That regret just now was the weakest of the Four Heavenly Regrets.」",
 },
 },
 },
@@ -729,7 +729,7 @@ ja={
 },
 en={
 {
-"",
+"I'm facing off against the Four Heavenly Kings now?!",
 },
 },
 },
@@ -742,7 +742,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What does that even mean?!」",
 },
 },
 },
@@ -758,7 +758,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My regret still has several more transformations! The show doesn't end after taking it out once.」",
 },
 },
 },
@@ -770,7 +770,7 @@ ja={
 },
 en={
 {
-"",
+"Towa-sensei never told me that's a thing!",
 },
 },
 },
@@ -786,7 +786,7 @@ ja={
 },
 en={
 {
-"「」",
+"「To put it simply, I have several regrets.」",
 },
 },
 },
@@ -799,7 +799,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Tell me that from the start!」",
 },
 },
 },
@@ -815,7 +815,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You didn't ask.」",
 },
 },
 },
@@ -828,7 +828,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're unbelievable...」",
 },
 },
 },
@@ -844,7 +844,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm not like any old tamabito.」",
 },
 },
 },
@@ -860,7 +860,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm unreasonable.」",
 },
 },
 },
@@ -876,7 +876,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Especially when it comes to you.」",
 },
 },
 },
@@ -888,7 +888,7 @@ ja={
 },
 en={
 {
-"",
+"I feel a headache coming on.",
 },
 },
 },
@@ -901,7 +901,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...So you have three more regrets then?」",
 },
 },
 },
@@ -917,7 +917,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nope, two.」",
 },
 },
 },
@@ -930,7 +930,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That makes a total of three...so much for the Four Heavenly Kings.」",
 },
 },
 },
@@ -950,7 +950,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The living world is an illogical place. It's like how a school's Seven Mysteries don't always total up to seven.」",
 },
 },
 },
@@ -963,7 +963,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Sure, whatever. Tell me the other two then.」",
 },
 },
 },
@@ -979,7 +979,7 @@ ja={
 },
 en={
 {
-"「」",
+"「One is receiving a straw hat from you.」",
 },
 },
 },
@@ -995,7 +995,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Since I lost the last one...」",
 },
 },
 },
@@ -1007,7 +1007,7 @@ ja={
 },
 en={
 {
-"",
+"...I have a bad feeling about this.",
 },
 },
 },
@@ -1020,7 +1020,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're not using regrets as an excuse to sponge off me, are you?」",
 },
 },
 },
@@ -1036,7 +1036,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What nonsense. You're truly incompetent.」",
 },
 },
 },
@@ -1049,7 +1049,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I have to say...a straw hat would look good on you.」",
 },
 },
 },
@@ -1065,7 +1065,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...You think?」",
 },
 },
 },
@@ -1078,7 +1078,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah. And you have fair skin, so it would come in handy.」",
 },
 },
 },
@@ -1091,7 +1091,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's so pretty that it'd be a waste if it got damaged.」",
 },
 },
 },
@@ -1104,7 +1104,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Even as a tamabito, lingering memories from life could still give you sunburns.」",
 },
 },
 },
@@ -1117,7 +1117,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll get you one to keep the sunlight off.」",
 },
 },
 },
@@ -1133,7 +1133,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah!」",
 },
 },
 },
@@ -1145,7 +1145,7 @@ ja={
 },
 en={
 {
-"",
+"She gave a dazzling smile.",
 },
 },
 },
@@ -1157,7 +1157,7 @@ ja={
 },
 en={
 {
-"",
+"So she really can honestly express her emotions like the young girl she is...",
 },
 },
 },
@@ -1170,7 +1170,7 @@ ja={
 },
 en={
 {
-"",
+"(...What the?)",
 },
 },
 },
@@ -1182,7 +1182,7 @@ ja={
 },
 en={
 {
-"",
+"My pulse is going crazy.",
 },
 },
 },
@@ -1194,7 +1194,7 @@ ja={
 },
 en={
 {
-"",
+"Her smile is making something within me cry out.",
 },
 },
 },
@@ -1206,7 +1206,7 @@ ja={
 },
 en={
 {
-"",
+"My heart is shaking.",
 },
 },
 },
@@ -1218,7 +1218,7 @@ ja={
 },
 en={
 {
-"",
+"As though I'd fallen in love...",
 },
 },
 },
@@ -1231,7 +1231,7 @@ ja={
 },
 en={
 {
-"",
+"(I had sex with her...)",
 },
 },
 },
@@ -1244,7 +1244,7 @@ ja={
 },
 en={
 {
-"",
+"(I wouldn't have done that...if I didn't like her...)",
 },
 },
 },
@@ -1256,7 +1256,7 @@ ja={
 },
 en={
 {
-"",
+"Is this for real?",
 },
 },
 },
@@ -1268,7 +1268,7 @@ ja={
 },
 en={
 {
-"",
+"Did I fell in love with her at first sight...?",
 },
 },
 },
@@ -1280,7 +1280,7 @@ ja={
 },
 en={
 {
-"",
+"No...that's not quite right...",
 },
 },
 },
@@ -1292,7 +1292,7 @@ ja={
 },
 en={
 {
-"",
+"It's more like...a dream of mine had come true...",
 },
 },
 },
@@ -1304,7 +1304,7 @@ ja={
 },
 en={
 {
-"",
+"A regret I harbored had been absolved...",
 },
 },
 },
@@ -1320,7 +1320,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Sora? What're you spacing out for?」",
 },
 },
 },
@@ -1333,7 +1333,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, sorry. It's nothing.」",
 },
 },
 },
@@ -1345,7 +1345,7 @@ ja={
 },
 en={
 {
-"",
+"I recomposed myself.",
 },
 },
 },
@@ -1358,7 +1358,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Right, so what's your final regret?」",
 },
 },
 },
@@ -1374,7 +1374,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Did you expect me to make it that easy for you?」",
 },
 },
 },
@@ -1390,7 +1390,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're truly incompetent.」",
 },
 },
 },
@@ -1406,7 +1406,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're a full-fledged okuribito and an adult, aren't you?」",
 },
 },
 },
@@ -1419,7 +1419,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Are you telling me to use my kotodama to make you tell me?」",
 },
 },
 },
@@ -1435,7 +1435,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nope. I hate adults, and since you're an adult, I don't wanna tell you.」",
 },
 },
 },
@@ -1447,7 +1447,7 @@ ja={
 },
 en={
 {
-"",
+"I've never met such an unreasonable tamabito!",
 },
 },
 },
@@ -1460,7 +1460,7 @@ ja={
 },
 en={
 {
-"",
+"(I thought sending her back would be my first job too...)",
 },
 },
 },
@@ -1472,7 +1472,7 @@ ja={
 },
 en={
 {
-"",
+"Towa-sensei, I'm in for a rough journey.",
 },
 },
 },
@@ -1488,7 +1488,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora. You'd better put in the work.」",
 },
 },
 },
@@ -1504,7 +1504,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You might absolve my final regret someday.」",
 },
 },
 },
@@ -1520,7 +1520,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll travel alongside you until then.」",
 },
 },
 },
@@ -1536,7 +1536,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll protect you, since I'm a powerful tamabito and you're a wimpy human.」",
 },
 },
 },
@@ -1552,7 +1552,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Got it?」",
 },
 },
 },
@@ -1568,7 +1568,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm the older one, so you have to do what I say.」",
 },
 },
 },

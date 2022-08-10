@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼・散策",ja="昼・散策",en="Noon-"},
+{"savetitle",text="昼・散策",ja="昼・散策",en="Noon-patrolling"},
 {"bg",file="bg22a",path=":bg/",time=2000},
 {"text"},
 crc="f5608eb0",
@@ -933,7 +933,7 @@ ja={
 },
 en={
 {
-"",
+"It's the weekend.",
 },
 },
 },
@@ -945,7 +945,7 @@ ja={
 },
 en={
 {
-"",
+"Meaning no school or work today.",
 },
 },
 },
@@ -961,7 +961,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Good morning, sensei.」",
 },
 },
 },
@@ -977,7 +977,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And Shirobana-chan.」",
 },
 },
 },
@@ -989,7 +989,7 @@ ja={
 },
 en={
 {
-"",
+"And unexpected someone greeted us in the lobby.",
 },
 },
 },
@@ -1001,7 +1001,7 @@ ja={
 },
 en={
 {
-"",
+"It feels like it's been forever since I last saw Mizumi up and about.",
 },
 },
 },
@@ -1017,7 +1017,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei, are you going for a stroll? Saki-chan told me that's your routine during weekends.」",
 },
 },
 },
@@ -1030,7 +1030,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Before we get to that, are you well enough to be out of bed?」",
 },
 },
 },
@@ -1046,7 +1046,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yep, I'm all good. The pinnacle of health.」",
 },
 },
 },
@@ -1062,7 +1062,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What a blockhead.」",
 },
 },
 },
@@ -1078,7 +1078,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Shirobana-chan's being mean to me.」",
 },
 },
 },
@@ -1094,7 +1094,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You can't recover from spiritosis that quickly.」",
 },
 },
 },
@@ -1110,7 +1110,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shirobana-chan...do you know a lot about my disease?」",
 },
 },
 },
@@ -1126,7 +1126,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...What does it matter?」",
 },
 },
 },
@@ -1142,7 +1142,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you were just saying that, I would appreciate if you respected my judgement.」",
 },
 },
 },
@@ -1158,7 +1158,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kuh...you're more stubborn than you look.」",
 },
 },
 },
@@ -1174,7 +1174,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Well, I am Saki-chan's sister.」",
 },
 },
 },
@@ -1190,7 +1190,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Sora, tell her off. You're good at sweet-talking.」",
 },
 },
 },
@@ -1202,7 +1202,7 @@ ja={
 },
 en={
 {
-"",
+"It's my time to shine.",
 },
 },
 },
@@ -1218,7 +1218,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll trust in your natural playboy skills.」",
 },
 },
 },
@@ -1230,7 +1230,7 @@ ja={
 },
 en={
 {
-"",
+"...Are you telling me to hit on her?",
 },
 },
 },
@@ -1243,7 +1243,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mizumi.」",
 },
 },
 },
@@ -1255,7 +1255,7 @@ ja={
 },
 en={
 {
-"",
+"I approached and placed my hand against her forehead.",
 },
 },
 },
@@ -1268,7 +1268,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're temperature's a bit high. You're pushing yourself again, aren't you?」",
 },
 },
 },
@@ -1281,7 +1281,7 @@ ja={
 },
 en={
 {
-"「」",
+"「As a recovering student, can you respect my judgement as your health teacher?」",
 },
 },
 },
@@ -1297,7 +1297,7 @@ ja={
 },
 en={
 {
-"「」",
+"「T-That's not fair...sensei.」",
 },
 },
 },
@@ -1313,7 +1313,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can't...hide anything from you.」",
 },
 },
 },
@@ -1326,7 +1326,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then why're you forcing yourself out of bed then?」",
 },
 },
 },
@@ -1342,7 +1342,7 @@ ja={
 },
 en={
 {
-"「」",
+"「U-umm...I wanted to help with the inn work...」",
 },
 },
 },
@@ -1355,7 +1355,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Rest and recovery is the best help you can do.」",
 },
 },
 },
@@ -1368,7 +1368,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Or you might still be sick when the new term rolls around.」",
 },
 },
 },
@@ -1384,7 +1384,7 @@ ja={
 },
 en={
 {
-"「」",
+"「T-That would be terrible...」",
 },
 },
 },
@@ -1397,7 +1397,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Better get back to bed then.」",
 },
 },
 },
@@ -1410,7 +1410,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll carry you there myself if you complain.」",
 },
 },
 },
@@ -1426,7 +1426,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A-Alright.」",
 },
 },
 },
@@ -1442,7 +1442,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei...go ahead and take me.」",
 },
 },
 },
@@ -1471,7 +1471,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Stop! You'll get Mizumi!」",
 },
 },
 },
@@ -1487,7 +1487,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My retribution by bubbles hits your eyes 16 times per second with pinpoint accuracy.」",
 },
 },
 },
@@ -1499,7 +1499,7 @@ ja={
 },
 en={
 {
-"",
+"What are you, some master gamer?!",
 },
 },
 },
@@ -1515,7 +1515,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah yeah. We all saw this comming.」",
 },
 },
 },
@@ -1527,7 +1527,7 @@ ja={
 },
 en={
 {
-"",
+"Sakiha approached with icy-cold eyes.",
 },
 },
 },
@@ -1543,7 +1543,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But he's right. You're a good girl, so it's time for beddy-bye.」",
 },
 },
 },
@@ -1559,7 +1559,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Is that any way to speak to your big sister?」",
 },
 },
 },
@@ -1575,7 +1575,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll stop if you behave.」",
 },
 },
 },
@@ -1591,7 +1591,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We're fine as we are. There's not as much work as there used to be.」",
 },
 },
 },
@@ -1603,7 +1603,7 @@ ja={
 },
 en={
 {
-"",
+"Sakiha was wearing her casual clothes instead of her work uniform. She must be heading out.",
 },
 },
 },
@@ -1619,7 +1619,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll come up with an itinerary for your return to school. Make sure you follow it.」",
 },
 },
 },
@@ -1635,7 +1635,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Saki-chan, you were born to be a secretary.」",
 },
 },
 },
@@ -1651,7 +1651,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fine, I'll get some rest, but what about you? Are you heading out?」",
 },
 },
 },
@@ -1667,7 +1667,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yes, to feed the goldfish.」",
 },
 },
 },
@@ -1680,7 +1680,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can do that for you.」",
 },
 },
 },
@@ -1696,7 +1696,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Not happening. Patrolling is part of your schedule, so don't throw the itinerary I made out of wack.」",
 },
 },
 },
@@ -1709,7 +1709,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Oh, come on. It's just a stroll.」",
 },
 },
 },
@@ -1725,7 +1725,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Don't say things you don't mean.」",
 },
 },
 },
@@ -1741,7 +1741,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I've long known how important your patrols are to you.」",
 },
 },
 },
@@ -1757,7 +1757,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's what makes her your secretary.」",
 },
 },
 },
@@ -1773,7 +1773,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You know it.」",
 },
 },
 },
@@ -1789,7 +1789,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's become an established fact...」",
 },
 },
 },
@@ -1805,7 +1805,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And Shirobana-chan getting jealous and attacking sensei with bubbles is also part of the itinerary.」",
 },
 },
 },
@@ -1821,7 +1821,7 @@ ja={
 },
 en={
 {
-"「」",
+"「L-Like I'd do that.」",
 },
 },
 },
@@ -1837,7 +1837,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora, let's get outta here.」",
 },
 },
 },
@@ -1849,7 +1849,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro grabbed my arm and dragged me outside.",
 },
 },
 },
@@ -1865,7 +1865,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yep. She denied it, said the line, and dragged sensei away.」",
 },
 },
 },
@@ -1881,7 +1881,7 @@ ja={
 },
 en={
 {
-"「」",
+"「All according to plan.」",
 },
 },
 },
@@ -1893,7 +1893,7 @@ ja={
 },
 en={
 {
-"",
+"I heard that.",
 },
 },
 },
@@ -1905,7 +1905,7 @@ ja={
 },
 en={
 {
-"",
+"...Her schedules have become a future diary.",
 },
 },
 },
@@ -1921,7 +1921,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, sensei!」",
 },
 },
 },
@@ -1937,7 +1937,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Good day!」",
 },
 },
 },
@@ -1949,7 +1949,7 @@ ja={
 },
 en={
 {
-"",
+"While in the hot spring district, the hyperactive duo caught me.",
 },
 },
 },
@@ -1965,7 +1965,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kuh...a tragic encounter.」",
 },
 },
 },
@@ -1981,7 +1981,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Were you looking forward to my killer glomps?」",
 },
 },
 },
@@ -1997,7 +1997,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Your glomps will never strike true so long as I see them coming.」",
 },
 },
 },
@@ -2013,7 +2013,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I know how much you enjoy them~, my bosom takes you straight to Shangri-La.」",
 },
 },
 },
@@ -2029,7 +2029,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Straight to Hell you mean...」",
 },
 },
 },
@@ -2045,7 +2045,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're as obstinate as every today.」",
 },
 },
 },
@@ -2061,7 +2061,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't wanna hear from the sap.」",
 },
 },
 },
@@ -2077,7 +2077,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Heh, a dig like that doesn't bother an adult like me. Nothing you say or do can shake my indomitable cool.」",
 },
 },
 },
@@ -2093,7 +2093,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I used the wind to swipe your purification rod.」",
 },
 },
 },
@@ -2109,7 +2109,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Give it back! You demon! I'll take you down, evil spirit!!」",
 },
 },
 },
@@ -2122,7 +2122,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Shiro. Give it back, or we'll never get back to our patrol.」",
 },
 },
 },
@@ -2138,7 +2138,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I swear. Here, take the thing.」",
 },
 },
 },
@@ -2154,7 +2154,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Don't toss it into the distance! Don't give it a tailwind! I knew you were a demonic, evil spirit!」",
 },
 },
 },
@@ -2166,7 +2166,7 @@ ja={
 },
 en={
 {
-"",
+"The purification rod flew through the air like a bubble, and Nana chased after it like a puppy playing fetch while wagging its tail.",
 },
 },
 },
@@ -2182,7 +2182,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I know she doesn't mean what she said, but sorry, Shiro-chan.」",
 },
 },
 },
@@ -2198,7 +2198,7 @@ ja={
 },
 en={
 {
-"「」",
+"「About calling me an evil spirit? I don't mind.」",
 },
 },
 },
@@ -2214,7 +2214,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Compared to humans, evil spirits are pretty cute.」",
 },
 },
 },
@@ -2230,7 +2230,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're such a good girl.」",
 },
 },
 },
@@ -2246,7 +2246,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...You're spouting incompetence.」",
 },
 },
 },
@@ -2262,7 +2262,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Gotcha!」",
 },
 },
 },
@@ -2278,7 +2278,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I saw that coming!」",
 },
 },
 },
@@ -2290,7 +2290,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro easily avoided Rin's glomp attack.",
 },
 },
 },
@@ -2306,7 +2306,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're not getting one over on me again. Learn your lesson and give up.」",
 },
 },
 },
@@ -2322,7 +2322,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The more difficult the challenge, the greater the reward when I succeed...!」",
 },
 },
 },
@@ -2338,7 +2338,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Keep trying to run, I'll never give up...!」",
 },
 },
 },
@@ -2354,7 +2354,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Oh god, save me.」",
 },
 },
 },
@@ -2367,7 +2367,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Where're you two heading anyway?」",
 },
 },
 },
@@ -2383,7 +2383,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The inn. We're gonna have a dip in the hot spring together.」",
 },
 },
 },
@@ -2399,7 +2399,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll invite Saki-chan and Mizu-chan too~!」",
 },
 },
 },
@@ -2411,7 +2411,7 @@ ja={
 },
 en={
 {
-"",
+"Sakiha's gone to feed the goldfish, but that wouldn't take long.",
 },
 },
 },
@@ -2423,7 +2423,7 @@ ja={
 },
 en={
 {
-"",
+"Mizumi's still recovering, but a warm soak won't do any harm. Quite the opposite.",
 },
 },
 },
@@ -2435,7 +2435,7 @@ ja={
 },
 en={
 {
-"",
+"The four of them can enjoy the open-air bath together.",
 },
 },
 },
@@ -2451,7 +2451,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora. What's going on in that head of yours?」",
 },
 },
 },
@@ -2464,7 +2464,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...What? Don't jump to the conclusion I'm thinking something I shouldn't.」",
 },
 },
 },
@@ -2480,7 +2480,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei, how about joining us?」",
 },
 },
 },
@@ -2493,7 +2493,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're making it worse. Let's go, Shiro.」",
 },
 },
 },
@@ -2509,7 +2509,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Off to the dandelion fields?」",
 },
 },
 },
@@ -2522,7 +2522,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's right.」",
 },
 },
 },
@@ -2534,7 +2534,7 @@ ja={
 },
 en={
 {
-"",
+"That's the destination I had in mind.",
 },
 },
 },
@@ -2546,7 +2546,7 @@ ja={
 },
 en={
 {
-"",
+"Most of my memories came back when I was there.",
 },
 },
 },
@@ -2562,7 +2562,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei, do you know what happened with the lavender field in Nakatomino?」",
 },
 },
 },
@@ -2574,7 +2574,7 @@ ja={
 },
 en={
 {
-"",
+"Rin asked all of a sudden.",
 },
 },
 },
@@ -2590,7 +2590,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Looks like that's a no.」",
 },
 },
 },
@@ -2606,7 +2606,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The flowers bloomed unnaturally early this year...and now's the season that they're originally supposed to.」",
 },
 },
 },
@@ -2622,7 +2622,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei, what do think it looks like over there?」",
 },
 },
 },
@@ -2634,7 +2634,7 @@ ja={
 },
 en={
 {
-"",
+"Right...I'd forgotten that the neighboring town's lavender field also bloomed early.",
 },
 },
 },
@@ -2646,7 +2646,7 @@ ja={
 },
 en={
 {
-"",
+"Was that also because of Yuka-neesan's miracle...?",
 },
 },
 },
@@ -2658,7 +2658,7 @@ ja={
 },
 en={
 {
-"",
+"There's no way to be sure.",
 },
 },
 },
@@ -2674,7 +2674,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Well? You curious?」",
 },
 },
 },
@@ -2687,7 +2687,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I'd be lying if I said I wasn't.」",
 },
 },
 },
@@ -2700,7 +2700,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Rin. How are the lavender fields now?」",
 },
 },
 },
@@ -2716,7 +2716,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Not telling.」",
 },
 },
 },
@@ -2728,7 +2728,7 @@ ja={
 },
 en={
 {
-"",
+"...Oh, come on.",
 },
 },
 },
@@ -2741,7 +2741,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Why did you bring it up then?」",
 },
 },
 },
@@ -2757,7 +2757,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because girls with a secret or two are more charming.」",
 },
 },
 },
@@ -2773,7 +2773,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That goes for flowers too...」",
 },
 },
 },
@@ -2789,7 +2789,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Blooming flowers are more charming with a secret or two.」",
 },
 },
 },

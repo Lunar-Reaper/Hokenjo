@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼・邂逅",ja="昼・邂逅",en="Noon-"},
+{"savetitle",text="昼・邂逅",ja="昼・邂逅",en="Noon-Fated encounter"},
 {"cgdel",id=-1},
 {"bg",file="black",path=":bg/",time=1000},
 {"se",file="se811",id=1},
@@ -1011,7 +1011,7 @@ text={
 vo={
 {"vo",file="fem_twa_00245",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「……旅に出て、十年以上も戻ってこないだなんて」",
@@ -1019,7 +1019,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...It's been over 10 years since you set out, and you never once paid me a visit.」",
 },
 },
 },
@@ -1027,7 +1027,7 @@ en={
 vo={
 {"vo",file="fem_twa_00246",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「しかも連絡すら満足に寄越さないだなんて……いくら仏の顔を持つ私でも、堪忍袋の緒が切れますよ？」",
@@ -1035,7 +1035,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You hardly ever called either...I may have have the patience of a saint, but I'm at the end of my rope.」",
 },
 },
 },
@@ -1048,7 +1048,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I-I profusely apologize, Towa-sensei.」",
 },
 },
 },
@@ -1061,7 +1061,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm glad to see you haven't changed. You're still young, lovely, wise, and not a day over 29.」",
 },
 },
 },
@@ -1069,7 +1069,7 @@ en={
 vo={
 {"vo",file="fem_twa_00247",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「わ、私にそのような甘言は通じませんよ？」",
@@ -1077,7 +1077,7 @@ ja={
 },
 en={
 {
-"「」",
+"「C-Come on, do you really think that lip-service will do you any good?」",
 },
 },
 },
@@ -1089,7 +1089,7 @@ ja={
 },
 en={
 {
-"",
+"Yeah, I do actually.",
 },
 },
 },
@@ -1097,7 +1097,7 @@ en={
 vo={
 {"vo",file="fem_twa_00248",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「ま、まあ、叱るのはあとに取っておきましょう」",
@@ -1105,7 +1105,7 @@ ja={
 },
 en={
 {
-"「」",
+"「F-Forget it, I'll save the scolding for another day.」",
 },
 },
 },
@@ -1113,7 +1113,7 @@ en={
 vo={
 {"vo",file="fem_twa_00249",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「先に、聞かせてください。あなたの旅は、終わったのですか？」",
@@ -1121,7 +1121,7 @@ ja={
 },
 en={
 {
-"「」",
+"「First things first. Have you finished your journey?」",
 },
 },
 },
@@ -1134,7 +1134,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...No. Not yet.」",
 },
 },
 },
@@ -1147,7 +1147,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My journey's still ongoing.」",
 },
 },
 },
@@ -1155,7 +1155,7 @@ en={
 vo={
 {"vo",file="fem_twa_00250",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「そうですか」",
@@ -1163,7 +1163,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Is that so.」",
 },
 },
 },
@@ -1171,7 +1171,7 @@ en={
 vo={
 {"vo",file="fem_twa_00251",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「では……また、旅立つのですね」",
@@ -1179,7 +1179,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I suppose...that means you'll be setting off again.」",
 },
 },
 },
@@ -1192,7 +1192,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yes.」",
 },
 },
 },
@@ -1200,7 +1200,7 @@ en={
 vo={
 {"vo",file="fem_twa_00252",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「ここに立ち寄った理由は、なんですか？」",
@@ -1208,7 +1208,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So to what do I owe this visit?」",
 },
 },
 },
@@ -1221,7 +1221,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want to tell you the answer I've found during my journey.」",
 },
 },
 },
@@ -1234,7 +1234,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You see...」",
 },
 },
 },
@@ -1242,7 +1242,7 @@ en={
 vo={
 {"vo",file="fem_twa_00253",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「待ちなさい、蒼空」",
@@ -1250,7 +1250,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hold it, Sora.」",
 },
 },
 },
@@ -1258,7 +1258,7 @@ en={
 vo={
 {"vo",file="fem_twa_00254",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「あなたはまだ、旅の途中なのでしょう？」",
@@ -1266,7 +1266,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Didn't you say you're still in the midst of your journey?」",
 },
 },
 },
@@ -1274,7 +1274,7 @@ en={
 vo={
 {"vo",file="fem_twa_00255",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「であれば、あなたの答えは、旅が終わったあとに聞くことにします」",
@@ -1282,7 +1282,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll hear your answer once it's well and truly finished.」",
 },
 },
 },
@@ -1290,7 +1290,7 @@ en={
 vo={
 {"vo",file="fem_twa_00256",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「代わりに、私の説法を聞いていきなさい」",
@@ -1298,7 +1298,7 @@ ja={
 },
 en={
 {
-"「」",
+"「In exchange, I'll give you a sermon.」",
 },
 },
 },
@@ -1310,7 +1310,7 @@ ja={
 },
 en={
 {
-"",
+"...Is she mad that I haven't dropped by to say hi?",
 },
 },
 },
@@ -1318,7 +1318,7 @@ en={
 vo={
 {"vo",file="fem_twa_00257",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「蒼空、あなたに問いましょう」",
@@ -1326,7 +1326,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora, consider this.」",
 },
 },
 },
@@ -1334,7 +1334,7 @@ en={
 vo={
 {"vo",file="fem_twa_00258",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「送り人は、魂人を送り還すことを生業とします」",
@@ -1342,7 +1342,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sending back tamabito is an okuribito's livelihood.」",
 },
 },
 },
@@ -1350,7 +1350,7 @@ en={
 vo={
 {"vo",file="fem_twa_00259",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「では、なぜ送り還すと呼ぶのでしょう？」",
@@ -1358,7 +1358,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But why do we call it sending back?」",
 },
 },
 },
@@ -1366,7 +1366,7 @@ en={
 vo={
 {"vo",file="fem_twa_00260",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「送り人とは、もともとは納棺師のことを指しました」",
@@ -1374,7 +1374,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Okuribito was originally a term used to refer to morticians.」",
 },
 },
 },
@@ -1382,7 +1382,7 @@ en={
 vo={
 {"vo",file="fem_twa_00261",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「葬儀の前に遺体を整える納棺師は、死者を送り出すと呼んでいたのです」",
@@ -1390,7 +1390,7 @@ ja={
 },
 en={
 {
-"「」",
+"「They would clean and prepare the corpse before the funeral before sending them off.」",
 },
 },
 },
@@ -1398,7 +1398,7 @@ en={
 vo={
 {"vo",file="fem_twa_00262",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「ですが、裏稼業である私たち送り人は、いつしか送り還すと呼ぶようになったのです」",
@@ -1406,7 +1406,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But at some point, our work began to be called sending back.」",
 },
 },
 },
@@ -1414,7 +1414,7 @@ en={
 vo={
 {"vo",file="fem_twa_00263",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「送り出すことと、送り還すこと……」",
@@ -1422,7 +1422,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sending off, and sending back...」",
 },
 },
 },
@@ -1430,7 +1430,7 @@ en={
 vo={
 {"vo",file="fem_twa_00264",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「その違いはなにか……あなたは、わかりますか？」",
@@ -1438,7 +1438,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Tell me...do you know the difference between the two?」",
 },
 },
 },
@@ -1451,7 +1451,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Yes.」",
 },
 },
 },
@@ -1464,7 +1464,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I believe I have my own answer.」",
 },
 },
 },
@@ -1477,7 +1477,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Choosing how to live means choosing how to die.」",
 },
 },
 },
@@ -1490,7 +1490,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Choosing how to die means choosing how to live.」",
 },
 },
 },
@@ -1503,7 +1503,7 @@ ja={
 },
 en={
 {
-"「」",
+"「In other words, sending back is...」",
 },
 },
 },
@@ -1511,7 +1511,7 @@ en={
 vo={
 {"vo",file="fem_twa_00265",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「正しい答えがひとつ、と思っている間は、あなたの旅はまだまだ終わりませんね」",
@@ -1519,7 +1519,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Thinking there's one right answer proves that your journey is far from over.」",
 },
 },
 },
@@ -1540,7 +1540,7 @@ en={
 vo={
 {"vo",file="fem_twa_00266",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「答えに合わせて生きるのではなく、今の自分から、生きるための答えを見つけなさい」",
@@ -1548,7 +1548,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Don't live in accordance to an answer, find your own answer that lets you live.」",
 },
 },
 },
@@ -1556,7 +1556,7 @@ en={
 vo={
 {"vo",file="fem_twa_00267",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「これが、私の説法ですよ」",
@@ -1564,7 +1564,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That is my sermon.」",
 },
 },
 },
@@ -1576,7 +1576,7 @@ ja={
 },
 en={
 {
-"",
+"...Yeah, it most certainly is.",
 },
 },
 },
@@ -1588,7 +1588,7 @@ ja={
 },
 en={
 {
-"",
+"Round and round and back again, her sermons always go in circles.",
 },
 },
 },
@@ -1600,7 +1600,7 @@ ja={
 },
 en={
 {
-"",
+"That confusion is what it means to live.",
 },
 },
 },
@@ -1612,7 +1612,7 @@ ja={
 },
 en={
 {
-"",
+"That's what she taught me.",
 },
 },
 },
@@ -1624,7 +1624,7 @@ ja={
 },
 en={
 {
-"",
+"...Well, this sucks.",
 },
 },
 },
@@ -1636,7 +1636,7 @@ ja={
 },
 en={
 {
-"",
+"At this rate, my lousy sense of direction is only going to get worse.",
 },
 },
 },
@@ -1649,7 +1649,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Like teacher, like student...」",
 },
 },
 },
@@ -1657,7 +1657,7 @@ en={
 vo={
 {"vo",file="fem_twa_00268",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「なんのことでしょう？」",
@@ -1665,7 +1665,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What could you mean by that?」",
 },
 },
 },
@@ -1678,7 +1678,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Think it through by the day I come back. Consider it a homework assignment.」",
 },
 },
 },
@@ -1686,7 +1686,7 @@ en={
 vo={
 {"vo",file="fem_twa_00269",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「……意趣返しですか。言うようになりましたね」",
@@ -1694,7 +1694,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Payback, huh. You've grown.」",
 },
 },
 },
@@ -1702,7 +1702,7 @@ en={
 vo={
 {"vo",file="fem_twa_00270",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「もう、あなたを反抗期の子どもとは呼べないようです」",
@@ -1710,7 +1710,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can't call you a rebellious brat anymore.」",
 },
 },
 },
@@ -1718,7 +1718,7 @@ en={
 vo={
 {"vo",file="fem_twa_00271",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「代わりに、思春期の子どもと呼びましょう」",
@@ -1726,7 +1726,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll call you an adolescent brat instead.」",
 },
 },
 },
@@ -1739,7 +1739,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's no better!」",
 },
 },
 },
@@ -1747,7 +1747,7 @@ en={
 vo={
 {"vo",file="fem_twa_00272",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「過去に言いませんでしたか？　あなたが私の歳を越さない限り、あなたは私よりも子どもだと」",
@@ -1755,7 +1755,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Did you forgot? You'll always be a child so long as I'm older than you.」",
 },
 },
 },
@@ -1763,7 +1763,7 @@ en={
 vo={
 {"vo",file="fem_twa_00273",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「歳の差とは、時間の差」",
@@ -1771,7 +1771,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A difference in ages is a difference in time.」",
 },
 },
 },
@@ -1779,7 +1779,7 @@ en={
 vo={
 {"vo",file="fem_twa_00274",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「時間とは不可逆であり、覆ることのない運命です」",
@@ -1787,7 +1787,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Time cannot flow in reverse, it's an unassailable destiny.」",
 },
 },
 },
@@ -1795,7 +1795,7 @@ en={
 vo={
 {"vo",file="fem_twa_00275",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「だからあなたは、どんなに時が流れようとも、かけがえのない私の子どもなのですよ」",
@@ -1803,7 +1803,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So no matter how much time passes, you'll always be my irreplaceable child.」",
 },
 },
 },
@@ -1815,7 +1815,7 @@ ja={
 },
 en={
 {
-"",
+"After reuniting with Towa-sensei.",
 },
 },
 },
@@ -1827,7 +1827,7 @@ ja={
 },
 en={
 {
-"",
+"I paid Yuka-neesan's grave a visit.",
 },
 },
 },
@@ -1839,7 +1839,7 @@ ja={
 },
 en={
 {
-"",
+"She was the starting point of my journey.",
 },
 },
 },
@@ -1851,7 +1851,7 @@ ja={
 },
 en={
 {
-"",
+"My reason for living.",
 },
 },
 },
@@ -1863,7 +1863,7 @@ ja={
 },
 en={
 {
-"",
+"If not for her...if I hadn't chased after her, my life would have ended before reaching the starting line.",
 },
 },
 },
@@ -1875,7 +1875,7 @@ ja={
 },
 en={
 {
-"",
+"So, thank you.",
 },
 },
 },
@@ -1887,7 +1887,7 @@ ja={
 },
 en={
 {
-"",
+"I'm off.",
 },
 },
 },
@@ -1899,7 +1899,7 @@ ja={
 },
 en={
 {
-"",
+"I'll come again soon.",
 },
 },
 },
@@ -1911,7 +1911,7 @@ ja={
 },
 en={
 {
-"",
+"And when I do...",
 },
 },
 },
@@ -1923,7 +1923,7 @@ ja={
 },
 en={
 {
-"",
+"I'll introduce my special someone.",
 },
 },
 },
@@ -1935,7 +1935,7 @@ ja={
 },
 en={
 {
-"",
+"Next, I made my way to the town.",
 },
 },
 },
@@ -1947,7 +1947,7 @@ ja={
 },
 en={
 {
-"",
+"Ao and Shiroka's hometown.",
 },
 },
 },
@@ -1959,7 +1959,7 @@ ja={
 },
 en={
 {
-"",
+"It wasn't that far from Saika, so the scenery was very similar.",
 },
 },
 },
@@ -1971,7 +1971,7 @@ ja={
 },
 en={
 {
-"",
+"Shiroka's house is long gone.",
 },
 },
 },
@@ -1983,7 +1983,7 @@ ja={
 },
 en={
 {
-"",
+"Looks like it got torn down after losing its owner.",
 },
 },
 },
@@ -1995,7 +1995,7 @@ ja={
 },
 en={
 {
-"",
+"It's sad, but time flows on.",
 },
 },
 },
@@ -2007,7 +2007,7 @@ ja={
 },
 en={
 {
-"",
+"Its flow brings just as much happiness with it.",
 },
 },
 },
@@ -2019,7 +2019,7 @@ ja={
 },
 en={
 {
-"",
+"I couldn't be more grateful.",
 },
 },
 },
@@ -2031,7 +2031,7 @@ ja={
 },
 en={
 {
-"",
+"The Saika Girls Academy students have graduated and gone their separate ways, now living as full members of society.",
 },
 },
 },
@@ -2043,7 +2043,7 @@ ja={
 },
 en={
 {
-"",
+"I've been getting messages from them nonstop.",
 },
 },
 },
@@ -2055,7 +2055,7 @@ ja={
 },
 en={
 {
-"",
+"That communication network was a huge help.",
 },
 },
 },
@@ -2067,7 +2067,7 @@ ja={
 },
 en={
 {
-"",
+"All of them knew.",
 },
 },
 },
@@ -2079,7 +2079,7 @@ ja={
 },
 en={
 {
-"",
+"They knew the girl that always blew bubbles by the window of the infirmiry.",
 },
 },
 },
@@ -2091,7 +2091,7 @@ ja={
 },
 en={
 {
-"",
+"No doubt about it.",
 },
 },
 },
@@ -2103,7 +2103,7 @@ ja={
 },
 en={
 {
-"",
+"The time I spent working as health teacher came back around to lend me a hand.",
 },
 },
 },
@@ -2115,7 +2115,7 @@ ja={
 },
 en={
 {
-"",
+"I knew where to go.",
 },
 },
 },
@@ -2127,7 +2127,7 @@ ja={
 },
 en={
 {
-"",
+"I made my way to the endpoint of my journey, guided by the knowledge my dear students gave me.",
 },
 },
 },
@@ -2139,7 +2139,7 @@ ja={
 },
 en={
 {
-"",
+"I hike up the mountain path.",
 },
 },
 },
@@ -2151,7 +2151,7 @@ ja={
 },
 en={
 {
-"",
+"I thought of this as a long and steep path back when I lived as Ao.",
 },
 },
 },
@@ -2163,7 +2163,7 @@ ja={
 },
 en={
 {
-"",
+"But I've grown and my stride is longer, so this should be a piece of cake.",
 },
 },
 },
@@ -2175,7 +2175,7 @@ ja={
 },
 en={
 {
-"",
+"...Or so I thought.",
 },
 },
 },
@@ -2188,7 +2188,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Gotta learn from the past...」",
 },
 },
 },
@@ -2200,7 +2200,7 @@ ja={
 },
 en={
 {
-"",
+"My legs were screaming out in pain. I'm gasping for breath and sweating buckets.",
 },
 },
 },
@@ -2212,7 +2212,7 @@ ja={
 },
 en={
 {
-"",
+"And yet Ao carried Shiroka all the way to the top.",
 },
 },
 },
@@ -2224,7 +2224,7 @@ ja={
 },
 en={
 {
-"",
+"I'm genuinely impressed.",
 },
 },
 },
@@ -2237,7 +2237,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm not losing.」",
 },
 },
 },
@@ -2250,7 +2250,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Not to my past self.」",
 },
 },
 },
@@ -2263,7 +2263,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Time flows on so we can grow... Or else there's no point.」",
 },
 },
 },
@@ -2276,7 +2276,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So take a good look...Ao.」",
 },
 },
 },
@@ -2288,7 +2288,7 @@ ja={
 },
 en={
 {
-"",
+"My past self is the eternal rival of my current self.",
 },
 },
 },
@@ -2300,7 +2300,7 @@ ja={
 },
 en={
 {
-"",
+"I made it.",
 },
 },
 },
@@ -2312,7 +2312,7 @@ ja={
 },
 en={
 {
-"",
+"I've arrived at the cliff.",
 },
 },
 },
@@ -2324,7 +2324,7 @@ ja={
 },
 en={
 {
-"",
+"To that scenery I saw long ago.",
 },
 },
 },
@@ -2336,7 +2336,7 @@ ja={
 },
 en={
 {
-"",
+"An ocean of blue stretched out below me.",
 },
 },
 },
@@ -2348,7 +2348,7 @@ ja={
 },
 en={
 {
-"",
+"The sea breeze felt pleasant.",
 },
 },
 },
@@ -2360,7 +2360,7 @@ ja={
 },
 en={
 {
-"",
+"And I could see windmills in the distance.",
 },
 },
 },
@@ -2372,7 +2372,7 @@ ja={
 },
 en={
 {
-"",
+"Standing along the horizon.",
 },
 },
 },
@@ -2384,7 +2384,7 @@ ja={
 },
 en={
 {
-"",
+"Their blades slowly turning...",
 },
 },
 },
@@ -2396,7 +2396,7 @@ ja={
 },
 en={
 {
-"",
+"And there.",
 },
 },
 },
@@ -2408,7 +2408,7 @@ ja={
 },
 en={
 {
-"",
+"Stood a girl.",
 },
 },
 },
@@ -2424,7 +2424,7 @@ ja={
 },
 en={
 {
-"",
+"'Sending back' means to return them to the womb.",
 },
 },
 },
@@ -2436,7 +2436,7 @@ ja={
 },
 en={
 {
-"",
+"They leave the living world, and are sent to the future world...",
 },
 },
 },
@@ -2449,7 +2449,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I've finally found you.」",
 },
 },
 },
@@ -2462,7 +2462,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We meet again.」",
 },
 },
 },
@@ -2474,7 +2474,7 @@ ja={
 },
 en={
 {
-"",
+"I hand her a straw hat.",
 },
 },
 },
@@ -2486,7 +2486,7 @@ ja={
 },
 en={
 {
-"",
+"It flew off on that day.",
 },
 },
 },
@@ -2498,7 +2498,7 @@ ja={
 },
 en={
 {
-"",
+"Then it flew off again.",
 },
 },
 },
@@ -2510,7 +2510,7 @@ ja={
 },
 en={
 {
-"",
+"I lost it twice...",
 },
 },
 },
@@ -2522,7 +2522,7 @@ ja={
 },
 en={
 {
-"",
+"But even so.",
 },
 },
 },
@@ -2534,7 +2534,7 @@ ja={
 },
 en={
 {
-"",
+"I'll bring it back to you as many times as it takes.",
 },
 },
 },
@@ -2546,7 +2546,7 @@ ja={
 },
 en={
 {
-"",
+"She bashfully set it on her head.",
 },
 },
 },
@@ -2562,7 +2562,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It fits perfectly...」",
 },
 },
 },
@@ -2578,7 +2578,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You...must know me...」",
 },
 },
 },
@@ -2594,7 +2594,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No...that goes for me too...」",
 },
 },
 },
@@ -2610,7 +2610,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I feel like I know you...」",
 },
 },
 },
@@ -2623,7 +2623,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you don't mind...」",
 },
 },
 },
@@ -2636,7 +2636,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Could you...tell me your name?」",
 },
 },
 },
@@ -2652,7 +2652,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...It's rude to ask a lady to introduce herself first.」",
 },
 },
 },
@@ -2665,7 +2665,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Are you old enough to be a lady?」",
 },
 },
 },
@@ -2681,7 +2681,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're truly incompetent.」",
 },
 },
 },
@@ -2697,7 +2697,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm a respectable adult.」",
 },
 },
 },
@@ -2713,7 +2713,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My age hit the double-digits just the other day.」",
 },
 },
 },
@@ -2729,7 +2729,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Unless they're in the triple-digits, nobody can call me a kid.」",
 },
 },
 },
@@ -2745,7 +2745,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Get the picture?」",
 },
 },
 },
@@ -2761,7 +2761,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm an honest-to-goodness mature lady.」",
 },
 },
 },
@@ -2773,7 +2773,7 @@ ja={
 },
 en={
 {
-"",
+"I found myself smiling at those nostalgic words.",
 },
 },
 },
@@ -2786,7 +2786,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You haven't changed a bit...Shiro.」",
 },
 },
 },
@@ -2802,7 +2802,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...You got my name right.」",
 },
 },
 },
@@ -2810,7 +2810,7 @@ en={
 vo={
 {"vo",file="fem_shi_01905",ch="shi"},
 },
-name={name="シロバナ",ja="白"},
+name={name="シロバナ",ja="白",en="Shiro"},
 ja={
 {
 "「私は、",
@@ -2822,7 +2822,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah, I'm Shiro...」",
 },
 },
 },
@@ -2830,7 +2830,7 @@ en={
 vo={
 {"vo",file="fem_shi_01906",ch="shi"},
 },
-name={name="シロバナ",ja="白"},
+name={name="シロバナ",ja="白",en="Shiro"},
 ja={
 {
 "「授かった、新しい名前……」",
@@ -2838,7 +2838,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's the new name I was given...」",
 },
 },
 },
@@ -2846,7 +2846,7 @@ en={
 vo={
 {"vo",file="fem_shi_01907",ch="shi"},
 },
-name={name="シロバナ",ja="白"},
+name={name="シロバナ",ja="白",en="Shiro"},
 ja={
 {
 "「だけど、新しいと感じないのは……なぜかしら？」",
@@ -2854,7 +2854,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But for some reason...it doesn't actually feel new.」",
 },
 },
 },
@@ -2862,7 +2862,7 @@ en={
 vo={
 {"vo",file="fem_shi_01908",ch="shi"},
 },
-name={name="シロバナ",ja="白"},
+name={name="シロバナ",ja="白",en="Shiro"},
 ja={
 {
 "「ううん……そもそも名前には、過去も未来もないのに……そう感じるのは、なぜかしら？」",
@@ -2870,7 +2870,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Plus...there's no past or future with names...so why would I think that it's new?」",
 },
 },
 },
@@ -2878,7 +2878,7 @@ en={
 vo={
 {"vo",file="fem_shi_01909",ch="shi"},
 },
-name={name="シロバナ",ja="白"},
+name={name="シロバナ",ja="白",en="Shiro"},
 ja={
 {
 "「理由……教えてくれる？」",
@@ -2886,7 +2886,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Do you...know why?」",
 },
 },
 },
@@ -2899,7 +2899,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah, I sure do.」",
 },
 },
 },
@@ -2911,7 +2911,7 @@ ja={
 },
 en={
 {
-"",
+"It's a very long story though.",
 },
 },
 },
@@ -2923,7 +2923,7 @@ ja={
 },
 en={
 {
-"",
+"We'd have to go on a long journey for me to tell all of it.",
 },
 },
 },
@@ -2935,7 +2935,7 @@ ja={
 },
 en={
 {
-"",
+"This is my destination.",
 },
 },
 },
@@ -2947,7 +2947,7 @@ ja={
 },
 en={
 {
-"",
+"And a checkpoint.",
 },
 },
 },
@@ -2959,7 +2959,7 @@ ja={
 },
 en={
 {
-"",
+"It's both the living world and the future world.",
 },
 },
 },
@@ -2971,7 +2971,7 @@ ja={
 },
 en={
 {
-"",
+"Ao's future world was Shiroka's living world.",
 },
 },
 },
@@ -2983,7 +2983,7 @@ ja={
 },
 en={
 {
-"",
+"Shiroka's future world is my living world.",
 },
 },
 },
@@ -2995,7 +2995,7 @@ ja={
 },
 en={
 {
-"",
+"The two worlds have met.",
 },
 },
 },
@@ -3007,7 +3007,7 @@ ja={
 },
 en={
 {
-"",
+"A fated encounter.",
 },
 },
 },
@@ -3019,7 +3019,7 @@ ja={
 },
 en={
 {
-"",
+"If gods reside in all things.",
 },
 },
 },
@@ -3031,7 +3031,7 @@ ja={
 },
 en={
 {
-"",
+"Then they must exist within time as well.",
 },
 },
 },
@@ -3043,7 +3043,7 @@ ja={
 },
 en={
 {
-"",
+"It's what we call 'eternal return.'",
 },
 },
 },
@@ -3055,7 +3055,7 @@ ja={
 },
 en={
 {
-"",
+"It's an endless path for me to walk, with you by my side.",
 },
 },
 },
@@ -3068,7 +3068,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm on an endless journey...」",
 },
 },
 },
@@ -3081,7 +3081,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Would you like to come along with me?」",
 },
 },
 },
@@ -3089,7 +3089,7 @@ en={
 vo={
 {"vo",file="fem_shi_01910",ch="shi"},
 },
-name={name="シロバナ",ja="白"},
+name={name="シロバナ",ja="白",en="Shiro"},
 ja={
 {
 "「いいわ」",
@@ -3097,7 +3097,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sure.」",
 },
 },
 },
@@ -3105,7 +3105,7 @@ en={
 vo={
 {"vo",file="fem_shi_01911",ch="shi"},
 },
-name={name="シロバナ",ja="白"},
+name={name="シロバナ",ja="白",en="Shiro"},
 ja={
 {
 "「あなたの旅に、つき合ってあげる」",
@@ -3113,7 +3113,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can keep you company.」",
 },
 },
 },
@@ -3121,7 +3121,7 @@ en={
 vo={
 {"vo",file="fem_shi_01912",ch="shi"},
 },
-name={name="シロバナ",ja="白"},
+name={name="シロバナ",ja="白",en="Shiro"},
 ja={
 {
 "「でも……その前に、言わせて」",
@@ -3129,7 +3129,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But...there's something I have to say first.」",
 },
 },
 },
@@ -3137,7 +3137,7 @@ en={
 vo={
 {"vo",file="fem_shi_01913",ch="shi"},
 },
-name={name="シロバナ",ja="白"},
+name={name="シロバナ",ja="白",en="Shiro"},
 ja={
 {
 "「おかえりなさい……」",
@@ -3145,7 +3145,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Welcome back...」",
 },
 },
 },
@@ -3161,7 +3161,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No, correction...」",
 },
 },
 },
@@ -3169,7 +3169,7 @@ en={
 vo={
 {"vo",file="fem_shi_01915",ch="shi"},
 },
-name={name="シロバナ",ja="白"},
+name={name="シロバナ",ja="白",en="Shiro"},
 ja={
 {
 "「ただいま」",
@@ -3177,7 +3177,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm back.」",
 },
 },
 },
@@ -3185,7 +3185,7 @@ en={
 vo={
 {"vo",file="fem_shi_01916",ch="shi"},
 },
-name={name="シロバナ",ja="白"},
+name={name="シロバナ",ja="白",en="Shiro"},
 ja={
 {
 "「ただいま……蒼空」",
@@ -3193,7 +3193,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm back...Sora.」",
 },
 },
 },

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夕方・一輪のタンポポ",ja="夕方・一輪のタンポポ",en=""},
+{"savetitle",text="夕方・一輪のタンポポ",ja="夕方・一輪のタンポポ",en="Evening-A single dandelion"},
 {"bg",file="bg15b",path=":bg/",zone="even_out"},
 {"bgm",file="bgm02"},
 {"text"},
@@ -198,7 +198,7 @@ ja={
 },
 en={
 {
-"",
+"The sun is going down.",
 },
 },
 },
@@ -210,7 +210,7 @@ ja={
 },
 en={
 {
-"",
+"With the long health committee meeting over, Shiro and I set off on our patrol.",
 },
 },
 },
@@ -222,7 +222,7 @@ ja={
 },
 en={
 {
-"",
+"And stopping by the dandelion field near the end of it.",
 },
 },
 },
@@ -234,7 +234,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro'll probably be blowing the fluff off of dandelions like before.",
 },
 },
 },
@@ -246,7 +246,7 @@ ja={
 },
 en={
 {
-"",
+"As the thought crossed my mind, I spotted a single dot of yellow amidst the sea of white.",
 },
 },
 },
@@ -259,7 +259,7 @@ ja={
 },
 en={
 {
-"",
+"(Huh...?)",
 },
 },
 },
@@ -271,7 +271,7 @@ ja={
 },
 en={
 {
-"",
+"There's a dandelion still in bloom...?",
 },
 },
 },
@@ -283,7 +283,7 @@ ja={
 },
 en={
 {
-"",
+"The wind blew a moment later, hiding the dandelion within the fluff.",
 },
 },
 },
@@ -295,7 +295,7 @@ ja={
 },
 en={
 {
-"",
+"Did I imagine seeing it?",
 },
 },
 },
@@ -307,7 +307,7 @@ ja={
 },
 en={
 {
-"",
+"I made my way into the field, searching for that unnatural yellow flower.",
 },
 },
 },
@@ -335,7 +335,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro watched me in silence, unperturbed by my sudden impulse.",
 },
 },
 },
@@ -348,7 +348,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Found it...」",
 },
 },
 },
@@ -360,7 +360,7 @@ ja={
 },
 en={
 {
-"",
+"There it is.",
 },
 },
 },
@@ -372,7 +372,7 @@ ja={
 },
 en={
 {
-"",
+"So I wasn't seeing things.",
 },
 },
 },
@@ -384,7 +384,7 @@ ja={
 },
 en={
 {
-"",
+"There was single dandelion in bloom.",
 },
 },
 },
@@ -396,7 +396,7 @@ ja={
 },
 en={
 {
-"",
+"All alone...",
 },
 },
 },
@@ -408,7 +408,7 @@ ja={
 },
 en={
 {
-"",
+"It looked so frail and ethemeral as it swayed in the wind.",
 },
 },
 },
@@ -420,7 +420,7 @@ ja={
 },
 en={
 {
-"",
+"But it's pushing itself to live, all on its lonesome.",
 },
 },
 },
@@ -432,7 +432,7 @@ ja={
 },
 en={
 {
-"",
+"It possessed a definitive sacredness that let it bloom so beautifully.",
 },
 },
 },
@@ -444,7 +444,7 @@ ja={
 },
 en={
 {
-"",
+"Just like Shiroka did.",
 },
 },
 },
@@ -456,7 +456,7 @@ ja={
 },
 en={
 {
-"",
+"The girl I love.",
 },
 },
 },
@@ -468,7 +468,7 @@ ja={
 },
 en={
 {
-"",
+"The girl I once loved.",
 },
 },
 },
@@ -480,7 +480,7 @@ ja={
 },
 en={
 {
-"",
+"My first love.",
 },
 },
 },
@@ -492,7 +492,7 @@ ja={
 },
 en={
 {
-"",
+"That transcended gender.",
 },
 },
 },
@@ -504,7 +504,7 @@ ja={
 },
 en={
 {
-"",
+"That transcended life.",
 },
 },
 },
@@ -516,7 +516,7 @@ ja={
 },
 en={
 {
-"",
+"That transcended time...",
 },
 },
 },
@@ -528,7 +528,7 @@ ja={
 },
 en={
 {
-"",
+"Whom I wished to be with even after death----.",
 },
 },
 },

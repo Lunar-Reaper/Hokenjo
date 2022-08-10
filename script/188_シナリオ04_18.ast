@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="朝～昼・引き継ぎの準備",ja="朝～昼・引き継ぎの準備",en=""},
+{"savetitle",text="朝～昼・引き継ぎの準備",ja="朝～昼・引き継ぎの準備",en="Morning~Noon-Handoff"},
 {"ntclear"},
 {"bg",file="eyecatch03",path=":cg/",time=2000},
 {"sysvo",name="titlecall",com="shi"},
@@ -486,7 +486,7 @@ ja={
 },
 en={
 {
-"",
+"The first term was about to end.",
 },
 },
 },
@@ -498,7 +498,7 @@ ja={
 },
 en={
 {
-"",
+"And the school was entering summer break.",
 },
 },
 },
@@ -514,7 +514,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...are you sure about this?」",
 },
 },
 },
@@ -527,7 +527,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah, I've decided.」",
 },
 },
 },
@@ -540,7 +540,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll quit being the health teacher after this term.」",
 },
 },
 },
@@ -552,7 +552,7 @@ ja={
 },
 en={
 {
-"",
+"I was in the middle of setting things up for my successor.",
 },
 },
 },
@@ -564,7 +564,7 @@ ja={
 },
 en={
 {
-"",
+"Compiling and organizing my activities up to the present.",
 },
 },
 },
@@ -576,7 +576,7 @@ ja={
 },
 en={
 {
-"",
+"A single term wasn't a long time, but I mustn't be lazy with the handoff.",
 },
 },
 },
@@ -588,7 +588,7 @@ ja={
 },
 en={
 {
-"",
+"My successor has yet to be decided.",
 },
 },
 },
@@ -600,7 +600,7 @@ ja={
 },
 en={
 {
-"",
+"The previous nurse was still on maternity leave.",
 },
 },
 },
@@ -612,7 +612,7 @@ ja={
 },
 en={
 {
-"",
+"But knowing the principle, she'll keep the school running just fine even after I'm gone.",
 },
 },
 },
@@ -624,7 +624,7 @@ ja={
 },
 en={
 {
-"",
+"Since she has Otohime-san to lend a hand.",
 },
 },
 },
@@ -636,7 +636,7 @@ ja={
 },
 en={
 {
-"",
+"With school over, I began my last health committee meeting.",
 },
 },
 },
@@ -644,7 +644,7 @@ en={
 vo={
 {"vo",file="fem_y03_00003",ch="fem"},
 },
-name={name="保健委員Ａ"},
+name={name="保健委員Ａ",ja="保健委員Ａ",en="HC Member A"},
 ja={
 {
 "「う、ウソ……先生……」",
@@ -652,7 +652,7 @@ ja={
 },
 en={
 {
-"「」",
+"「N-no way...sensei...」",
 },
 },
 },
@@ -668,7 +668,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're quitting at the end of the term...?」",
 },
 },
 },
@@ -684,7 +684,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I...don't want you to...sob...」",
 },
 },
 },
@@ -696,7 +696,7 @@ ja={
 },
 en={
 {
-"",
+"I planned to announce my resignation during the closing ceremony, but I decided to first tell the health committee members.",
 },
 },
 },
@@ -712,7 +712,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Your stay at the inn was slated for one term...so I expected this...」",
 },
 },
 },
@@ -728,7 +728,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But...this wasn't on my schedule!」",
 },
 },
 },
@@ -744,7 +744,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei, how could you quit without your secretary's permission?!」",
 },
 },
 },
@@ -760,7 +760,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You have to go through the proper measures if you plan on quitting!」",
 },
 },
 },
@@ -773,7 +773,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I am. I intend to make the handoff as smooth and easy as possible.」",
 },
 },
 },
@@ -786,7 +786,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's why I need all of your help.」",
 },
 },
 },
@@ -799,7 +799,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's why I told you all before anyone else.」",
 },
 },
 },
@@ -815,7 +815,7 @@ ja={
 },
 en={
 {
-"「」",
+"「S-Sensei...」",
 },
 },
 },
@@ -828,7 +828,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Can you all give me a hand with my last job as health teacher?」",
 },
 },
 },
@@ -836,7 +836,7 @@ en={
 vo={
 {"vo",file="fem_y03_00004",ch="fem"},
 },
-name={name="保健委員Ａ"},
+name={name="保健委員Ａ",ja="保健委員Ａ",en="HC Member A"},
 ja={
 {
 "「ダメです！」",
@@ -844,7 +844,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No!」",
 },
 },
 },
@@ -852,7 +852,7 @@ en={
 vo={
 {"vo",file="fem_y04_00004",ch="fem"},
 },
-name={name="保健委員Ｂ"},
+name={name="保健委員Ｂ",ja="保健委員Ｂ",en="HC Member B"},,
 ja={
 {
 "「嫌です！」",
@@ -860,7 +860,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Uh uh!」",
 },
 },
 },
@@ -868,7 +868,7 @@ en={
 vo={
 {"vo",file="fem_y05_00004",ch="fem"},
 },
-name={name="保健委員Ｃ"},
+name={name="保健委員Ｃ",ja="保健委員Ｃ",en="HC Member C"},
 ja={
 {
 "「却下です！」",
@@ -876,7 +876,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Not happening!」",
 },
 },
 },
@@ -889,7 +889,7 @@ ja={
 },
 en={
 {
-"「」",
+"「C-Come on, isn't this where you're supposed to tearfully accept?」",
 },
 },
 },
@@ -905,7 +905,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't have 'third-rate performance' listed in my schedule.」",
 },
 },
 },
@@ -918,7 +918,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Then what should I do?」",
 },
 },
 },
@@ -934,7 +934,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The prevailing opinion of the health committee is that you continue working here.」",
 },
 },
 },
@@ -950,7 +950,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But I know you have your personal circumstances to consider.」",
 },
 },
 },
@@ -966,7 +966,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So, we don't want you to think this is the last time we meet.」",
 },
 },
 },
@@ -974,7 +974,7 @@ en={
 vo={
 {"vo",file="fem_y03_00005",ch="fem"},
 },
-name={name="保健委員Ａ"},
+name={name="保健委員Ａ",ja="保健委員Ａ",en="HC Member A"},
 ja={
 {
 "「先生。最後なんて言われたら、もう会えないみたいじゃないですか」",
@@ -982,7 +982,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei. Saying 'last job' and whatnot makes it sound like we'll never see you again.」",
 },
 },
 },
@@ -990,7 +990,7 @@ en={
 vo={
 {"vo",file="fem_y04_00005",ch="fem"},
 },
-name={name="保健委員Ｂ"},
+name={name="保健委員Ｂ",ja="保健委員Ｂ",en="HC Member B"},,
 ja={
 {
 "「先生が辞めちゃっても、また会うことはできるんです」",
@@ -998,7 +998,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Even after you quit, we want to see you again.」",
 },
 },
 },
@@ -1006,7 +1006,7 @@ en={
 vo={
 {"vo",file="fem_y05_00005",ch="fem"},
 },
-name={name="保健委員Ｃ"},
+name={name="保健委員Ｃ",ja="保健委員Ｃ",en="HC Member C"},
 ja={
 {
 "「最近、転校した友だちもいますけど……いつかどこかで必ず会えるって、そう思っていたいんです」",
@@ -1014,7 +1014,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Like how one of my friends transferred recently...but I believe I'll see her again. 」",
 },
 },
 },
@@ -1026,7 +1026,7 @@ ja={
 },
 en={
 {
-"",
+"The human students believe that the tamabito ones transferred out.",
 },
 },
 },
@@ -1038,7 +1038,7 @@ ja={
 },
 en={
 {
-"",
+"So they believe they'll see them again.",
 },
 },
 },
@@ -1050,7 +1050,7 @@ ja={
 },
 en={
 {
-"",
+"There's no basis for their belief, but they can't move forward without it. That's just how the world works.",
 },
 },
 },
@@ -1062,7 +1062,7 @@ ja={
 },
 en={
 {
-"",
+"Taking action without a strong frame of mind doesn't lead to anything.",
 },
 },
 },
@@ -1074,7 +1074,7 @@ ja={
 },
 en={
 {
-"",
+"...And the same goes for me.",
 },
 },
 },
@@ -1090,7 +1090,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora. You lose this round.」",
 },
 },
 },
@@ -1106,7 +1106,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You couldn't predict what everyone thought about you quitting.」",
 },
 },
 },
@@ -1122,7 +1122,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're doing fine with the job handoff, but you forgot about the emotional side.」",
 },
 },
 },
@@ -1138,7 +1138,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Well, that's what you get for being an unknowing womanizer.」",
 },
 },
 },
@@ -1154,7 +1154,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So Sora. How about you change your phrasing and try again?」",
 },
 },
 },
@@ -1166,7 +1166,7 @@ ja={
 },
 en={
 {
-"",
+"...Like you have to tell me.",
 },
 },
 },
@@ -1179,7 +1179,7 @@ ja={
 },
 en={
 {
-"「」",
+"「There's something I want to say to you all.」",
 },
 },
 },
@@ -1192,7 +1192,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I may be resigning as health teacher, but you'll always be my students.」",
 },
 },
 },
@@ -1205,7 +1205,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll be sure to visit Saika...and this school.」",
 },
 },
 },
@@ -1218,7 +1218,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't know when that will be...maybe in a future class reunion.」",
 },
 },
 },
@@ -1231,7 +1231,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But I won't forget any of you.」",
 },
 },
 },
@@ -1244,7 +1244,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm so glad...you were all part of my first health committee...」",
 },
 },
 },
@@ -1257,7 +1257,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Thank you so much...for everything.」",
 },
 },
 },
@@ -1269,7 +1269,7 @@ ja={
 },
 en={
 {
-"",
+"I bowed to them.",
 },
 },
 },
@@ -1281,7 +1281,7 @@ ja={
 },
 en={
 {
-"",
+"My eyes started burning up partway through, so this let me hide my tears.",
 },
 },
 },
@@ -1289,7 +1289,7 @@ en={
 vo={
 {"vo",file="fem_y03_00006",ch="fem"},
 },
-name={name="保健委員Ａ"},
+name={name="保健委員Ａ",ja="保健委員Ａ",en="HC Member A"},
 ja={
 {
 "「せ、先生……ぐすっ」",
@@ -1297,7 +1297,7 @@ ja={
 },
 en={
 {
-"「」",
+"「S-Sensei...sob.」",
 },
 },
 },
@@ -1305,7 +1305,7 @@ en={
 vo={
 {"vo",file="fem_y04_00006",ch="fem"},
 },
-name={name="保健委員Ｂ"},
+name={name="保健委員Ｂ",ja="保健委員Ｂ",en="HC Member B"},,
 ja={
 {
 "「絶対絶対っ、また会いに来てくださいね……！」",
@@ -1313,7 +1313,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You absolutely, positively have to come visit...!」",
 },
 },
 },
@@ -1321,7 +1321,7 @@ en={
 vo={
 {"vo",file="fem_y05_00006",ch="fem"},
 },
-name={name="保健委員Ｃ"},
+name={name="保健委員Ｃ",ja="保健委員Ｃ",en="HC Member C"},
 ja={
 {
 "「約束破ったら、幽霊になって祟ってやりますよ……！」",
@@ -1329,7 +1329,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you don't, we'll become ghosts and haunt you...!」",
 },
 },
 },
@@ -1345,7 +1345,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fufu. How terrifying.」",
 },
 },
 },
@@ -1361,7 +1361,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora. It looks like Saika will be the hub of our new journey.」",
 },
 },
 },
@@ -1374,7 +1374,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah... It's like my second hometown.」",
 },
 },
 },
@@ -1390,7 +1390,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And when you come back, be sure to stay at our inn.」",
 },
 },
 },
@@ -1406,7 +1406,7 @@ ja={
 },
 en={
 {
-"「」",
+"「As a waitress, I'll be happy to welcome you.」",
 },
 },
 },
@@ -1422,7 +1422,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And I'll say...welcome home.」",
 },
 },
 },
@@ -1434,7 +1434,7 @@ ja={
 },
 en={
 {
-"",
+"Sakiha...",
 },
 },
 },
@@ -1450,7 +1450,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...As a waitress? Don't you mean secretary?」",
 },
 },
 },
@@ -1466,7 +1466,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm assigning that job to you.」",
 },
 },
 },
@@ -1482,7 +1482,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shirobana-chan...take good care of him.」",
 },
 },
 },
@@ -1498,7 +1498,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Hmph.」",
 },
 },
 },

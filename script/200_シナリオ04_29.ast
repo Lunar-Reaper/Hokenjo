@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼～夕方・旅の終着点",ja="昼～夕方・旅の終着点",en=""},
+{"savetitle",text="昼～夕方・旅の終着点",ja="昼～夕方・旅の終着点",en="Noon~Evening-End of the journey"},
 {"bg",file="bg16a",path=":bg/"},
 {"bgm",file="bgm02"},
 {"text"},
@@ -821,7 +821,7 @@ ja={
 },
 en={
 {
-"",
+"I walk through the hot spring district.",
 },
 },
 },
@@ -833,7 +833,7 @@ ja={
 },
 en={
 {
-"",
+"Alongside Shiro.",
 },
 },
 },
@@ -845,7 +845,7 @@ ja={
 },
 en={
 {
-"",
+"She's always been by my side, but her form was fading.",
 },
 },
 },
@@ -858,7 +858,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro...?」",
 },
 },
 },
@@ -874,7 +874,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Munch munch.」",
 },
 },
 },
@@ -886,7 +886,7 @@ ja={
 },
 en={
 {
-"",
+"...She's eating the souvenir shop's samples.",
 },
 },
 },
@@ -899,7 +899,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What do you think you're doing...」",
 },
 },
 },
@@ -915,7 +915,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Having hot spring manju.」",
 },
 },
 },
@@ -928,7 +928,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can see that...」",
 },
 },
 },
@@ -944,7 +944,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I remember a tamabito working here before.」",
 },
 },
 },
@@ -956,7 +956,7 @@ ja={
 },
 en={
 {
-"",
+"Back then, the tamabito working the shop had given her some hot spring manju.",
 },
 },
 },
@@ -968,7 +968,7 @@ ja={
 },
 en={
 {
-"",
+"But they're gone now.",
 },
 },
 },
@@ -980,7 +980,7 @@ ja={
 },
 en={
 {
-"",
+"Instead, Shiro got her manju from a human worker.",
 },
 },
 },
@@ -996,7 +996,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Munch munch, gulp.」",
 },
 },
 },
@@ -1012,7 +1012,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's a good manju.」",
 },
 },
 },
@@ -1028,7 +1028,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It was delicious.」",
 },
 },
 },
@@ -1044,7 +1044,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll have another next time we visit.」",
 },
 },
 },
@@ -1060,7 +1060,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We'll pay for them too...」",
 },
 },
 },
@@ -1073,7 +1073,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...So this won't be the last time?」",
 },
 },
 },
@@ -1089,7 +1089,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nope.」",
 },
 },
 },
@@ -1101,7 +1101,7 @@ ja={
 },
 en={
 {
-"",
+"She'll eat those manju again someday.",
 },
 },
 },
@@ -1113,7 +1113,7 @@ ja={
 },
 en={
 {
-"",
+"I'll buy them for her.",
 },
 },
 },
@@ -1125,7 +1125,7 @@ ja={
 },
 en={
 {
-"",
+"Yeah...that day will come.",
 },
 },
 },
@@ -1137,7 +1137,7 @@ ja={
 },
 en={
 {
-"",
+"We passed through to the road leading to the school.",
 },
 },
 },
@@ -1149,7 +1149,7 @@ ja={
 },
 en={
 {
-"",
+"We could see several students returning home.",
 },
 },
 },
@@ -1161,7 +1161,7 @@ ja={
 },
 en={
 {
-"",
+"A few days ago, I would have waved and called out to them.",
 },
 },
 },
@@ -1173,7 +1173,7 @@ ja={
 },
 en={
 {
-"",
+"But now.",
 },
 },
 },
@@ -1185,7 +1185,7 @@ ja={
 },
 en={
 {
-"",
+"See you later, sensei.",
 },
 },
 },
@@ -1197,7 +1197,7 @@ ja={
 },
 en={
 {
-"",
+"One called out to me.",
 },
 },
 },
@@ -1209,7 +1209,7 @@ ja={
 },
 en={
 {
-"",
+"So I answered.",
 },
 },
 },
@@ -1221,7 +1221,7 @@ ja={
 },
 en={
 {
-"",
+"See you later.",
 },
 },
 },
@@ -1233,7 +1233,7 @@ ja={
 },
 en={
 {
-"",
+"And Shiro...",
 },
 },
 },
@@ -1249,7 +1249,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yep...see you.」",
 },
 },
 },
@@ -1261,7 +1261,7 @@ ja={
 },
 en={
 {
-"",
+"We passed through to the land bridge.",
 },
 },
 },
@@ -1273,7 +1273,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro and I, hand in hand.",
 },
 },
 },
@@ -1285,7 +1285,7 @@ ja={
 },
 en={
 {
-"",
+"The dandelion field lay ahead, bereft of cotton.",
 },
 },
 },
@@ -1297,7 +1297,7 @@ ja={
 },
 en={
 {
-"",
+"All of it had scattered to the winds.",
 },
 },
 },
@@ -1309,7 +1309,7 @@ ja={
 },
 en={
 {
-"",
+"They had returned to the heavens.",
 },
 },
 },
@@ -1321,7 +1321,7 @@ ja={
 },
 en={
 {
-"",
+"Along with the dream I had of Yuka-neesan the other night...",
 },
 },
 },
@@ -1334,7 +1334,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Listen, Shiro.」",
 },
 },
 },
@@ -1347,7 +1347,7 @@ ja={
 },
 en={
 {
-"「」",
+"「How about we pay home a visit?」",
 },
 },
 },
@@ -1363,7 +1363,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Home?」",
 },
 },
 },
@@ -1376,7 +1376,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah. The town where we were born.」",
 },
 },
 },
@@ -1389,7 +1389,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Our hometown.」",
 },
 },
 },
@@ -1402,7 +1402,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Where Ao and Shiroka used to live...」",
 },
 },
 },
@@ -1431,7 +1431,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We can...go see the windmills again.」",
 },
 },
 },
@@ -1444,7 +1444,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If the wind's good...they should be turning.」",
 },
 },
 },
@@ -1456,7 +1456,7 @@ ja={
 },
 en={
 {
-"",
+"Destiny circles around.",
 },
 },
 },
@@ -1468,7 +1468,7 @@ ja={
 },
 en={
 {
-"",
+"And comes back, in the cycle of samsara.",
 },
 },
 },
@@ -1480,7 +1480,7 @@ ja={
 },
 en={
 {
-"",
+"It's a belief estranged from Shinto teachings with its emphasis on the living world.",
 },
 },
 },
@@ -1492,7 +1492,7 @@ ja={
 },
 en={
 {
-"",
+"And what lay beyond it...",
 },
 },
 },
@@ -1507,7 +1507,7 @@ ja={
 },
 en={
 {
-"",
+"I something that goes beyond the Way of the Kami...",
 },
 },
 },
@@ -1535,7 +1535,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro smiled softly.",
 },
 },
 },
@@ -1547,7 +1547,7 @@ ja={
 },
 en={
 {
-"",
+"She didn't say a thing.",
 },
 },
 },
@@ -1559,7 +1559,7 @@ ja={
 },
 en={
 {
-"",
+"She didn't nod along with my suggestion.",
 },
 },
 },
@@ -1571,7 +1571,7 @@ ja={
 },
 en={
 {
-"",
+"She simply gripped my hand tightly.",
 },
 },
 },
@@ -1583,7 +1583,7 @@ ja={
 },
 en={
 {
-"",
+"We approached the dandelion field.",
 },
 },
 },
@@ -1595,7 +1595,7 @@ ja={
 },
 en={
 {
-"",
+"This is where we've always turned around and gone back to the inn.",
 },
 },
 },
@@ -1607,7 +1607,7 @@ ja={
 },
 en={
 {
-"",
+"But, we kept going.",
 },
 },
 },
@@ -1619,7 +1619,7 @@ ja={
 },
 en={
 {
-"",
+"Without looking back.",
 },
 },
 },
@@ -1631,7 +1631,7 @@ ja={
 },
 en={
 {
-"",
+"Facing forward.",
 },
 },
 },
@@ -1643,7 +1643,7 @@ ja={
 },
 en={
 {
-"",
+"And leaving Saika behind us.",
 },
 },
 },
@@ -1655,7 +1655,7 @@ ja={
 },
 en={
 {
-"",
+"Before long, light and darkness mixed in the sky above us, dying it red.",
 },
 },
 },
@@ -1668,7 +1668,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro...」",
 },
 },
 },
@@ -1681,7 +1681,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Are you still...good on walking...?」",
 },
 },
 },
@@ -1694,7 +1694,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Tell me if you aren't...」",
 },
 },
 },
@@ -1707,7 +1707,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll carry you, like usual...」",
 },
 },
 },
@@ -1720,7 +1720,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll give you a bridal carry...」",
 },
 },
 },
@@ -1736,7 +1736,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nah...」",
 },
 },
 },
@@ -1752,7 +1752,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm good...」",
 },
 },
 },
@@ -1768,7 +1768,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You've given me plenty...」",
 },
 },
 },
@@ -1784,7 +1784,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My wish was granted...」",
 },
 },
 },
@@ -1800,7 +1800,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It was my dream...」",
 },
 },
 },
@@ -1816,7 +1816,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My regret is long gone...」",
 },
 },
 },
@@ -1832,7 +1832,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But I still wanted to walk alongside you...」",
 },
 },
 },
@@ -1848,7 +1848,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Side by side...」",
 },
 },
 },
@@ -1864,7 +1864,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Together...」",
 },
 },
 },
@@ -1880,7 +1880,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Always...no matter where we go...」",
 },
 },
 },
@@ -1896,7 +1896,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I wanted...to walk with you...」",
 },
 },
 },
@@ -1908,7 +1908,7 @@ ja={
 },
 en={
 {
-"",
+"She tightens her grip on me.",
 },
 },
 },
@@ -1920,7 +1920,7 @@ ja={
 },
 en={
 {
-"",
+"And yet, the feel of her hand was fading...",
 },
 },
 },
@@ -1933,7 +1933,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro...」",
 },
 },
 },
@@ -1946,7 +1946,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Are you tired...?」",
 },
 },
 },
@@ -1962,7 +1962,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No...」",
 },
 },
 },
@@ -1975,7 +1975,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Should we take a breather...?」",
 },
 },
 },
@@ -1991,7 +1991,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No...」",
 },
 },
 },
@@ -2004,7 +2004,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Let's keeping walking then...」",
 },
 },
 },
@@ -2020,7 +2020,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah...」",
 },
 },
 },
@@ -2033,7 +2033,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Let's...walk tomorrow too...」",
 },
 },
 },
@@ -2049,7 +2049,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah...」",
 },
 },
 },
@@ -2062,7 +2062,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And the next day...and the next...」",
 },
 },
 },
@@ -2075,7 +2075,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We're leaving Saika...」",
 },
 },
 },
@@ -2088,7 +2088,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And going home...」",
 },
 },
 },
@@ -2101,7 +2101,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But let's go on another journey together...」",
 },
 },
 },
@@ -2114,7 +2114,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No matter where or when...」",
 },
 },
 },
@@ -2127,7 +2127,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We'll always...walk together...」",
 },
 },
 },
@@ -2143,7 +2143,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...」",
 },
 },
 },
@@ -2159,7 +2159,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah...」",
 },
 },
 },
@@ -2175,7 +2175,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll...be with you...」",
 },
 },
 },
@@ -2191,7 +2191,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Anytime...anywhere...with you...」",
 },
 },
 },
@@ -2204,7 +2204,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Is there...a place you to go...?」",
 },
 },
 },
@@ -2220,7 +2220,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Anywhere's fine...」",
 },
 },
 },
@@ -2233,7 +2233,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You have a destination in mind...?」",
 },
 },
 },
@@ -2249,7 +2249,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm good with wherever...」",
 },
 },
 },
@@ -2265,7 +2265,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because, the whole world is open to us...」",
 },
 },
 },
@@ -2281,7 +2281,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If I'm with you...anywhere's good...」",
 },
 },
 },
@@ -2297,7 +2297,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Even if the path...」",
 },
 },
 },
@@ -2313,7 +2313,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Even if the sky...」",
 },
 },
 },
@@ -2329,7 +2329,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Breaks apart...like a bubble...」",
 },
 },
 },
@@ -2345,7 +2345,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And fades away...so we can't see ahead...」",
 },
 },
 },
@@ -2361,7 +2361,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll, be with you...」",
 },
 },
 },
@@ -2377,7 +2377,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Right by your side...」",
 },
 },
 },
@@ -2393,7 +2393,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Smiling...」",
 },
 },
 },
@@ -2409,7 +2409,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because I...」",
 },
 },
 },
@@ -2425,7 +2425,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I...will die in order to live...」",
 },
 },
 },
@@ -2441,7 +2441,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So...」",
 },
 },
 },
@@ -2457,7 +2457,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Go on...」",
 },
 },
 },
@@ -2473,7 +2473,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Live on...Ao...」",
 },
 },
 },
@@ -2489,7 +2489,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Live on...Sora...」",
 },
 },
 },
@@ -2502,7 +2502,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah...」",
 },
 },
 },
@@ -2515,7 +2515,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll live...」",
 },
 },
 },
@@ -2528,7 +2528,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll live...so we can meet...」",
 },
 },
 },
@@ -2540,7 +2540,7 @@ ja={
 },
 en={
 {
-"",
+"At this very moment, I...",
 },
 },
 },
@@ -2552,7 +2552,7 @@ ja={
 },
 en={
 {
-"",
+"Took all the power I've developed up until now.",
 },
 },
 },
@@ -2567,7 +2567,7 @@ ja={
 },
 en={
 {
-"",
+"The power I gained while walking the Way of the Kami.",
 },
 },
 },
@@ -2579,7 +2579,7 @@ ja={
 },
 en={
 {
-"",
+"The power I learned from and was given by everyone.",
 },
 },
 },
@@ -2591,7 +2591,7 @@ ja={
 },
 en={
 {
-"",
+"I imbued all of it into my kotodama and spoke.",
 },
 },
 },
@@ -2604,7 +2604,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Let's meet again...Shiroka.」",
 },
 },
 },
@@ -2621,7 +2621,7 @@ ja={
 },
 en={
 {
-"「」",
+"「LET'S LIVE AGAIN...Shiro.」",
 },
 },
 },
@@ -2633,7 +2633,7 @@ ja={
 },
 en={
 {
-"",
+"Her straw hat danced through the wind.",
 },
 },
 },
@@ -2645,7 +2645,7 @@ ja={
 },
 en={
 {
-"",
+"Spinning, spinning, round and round.",
 },
 },
 },
@@ -2657,7 +2657,7 @@ ja={
 },
 en={
 {
-"",
+"Alongside an orb of light resembling a bubble..",
 },
 },
 },
@@ -2669,7 +2669,7 @@ ja={
 },
 en={
 {
-"",
+"Taking Shiroka's...and Shirobana's soul with it.",
 },
 },
 },
@@ -2681,7 +2681,7 @@ ja={
 },
 en={
 {
-"",
+"Returning her memories to the heavens.",
 },
 },
 },
@@ -2693,7 +2693,7 @@ ja={
 },
 en={
 {
-"",
+"To the madder red sky.",
 },
 },
 },
@@ -2705,7 +2705,7 @@ ja={
 },
 en={
 {
-"",
+"The sky that brings red dandelions to mind.",
 },
 },
 },
@@ -2717,7 +2717,7 @@ ja={
 },
 en={
 {
-"",
+"But.",
 },
 },
 },
@@ -2729,7 +2729,7 @@ ja={
 },
 en={
 {
-"",
+"The red sky was shining white with the light of her soul.",
 },
 },
 },
@@ -2741,7 +2741,7 @@ ja={
 },
 en={
 {
-"",
+"Thank you, Shiro...",
 },
 },
 },
@@ -2753,7 +2753,7 @@ ja={
 },
 en={
 {
-"",
+"I did it.",
 },
 },
 },
@@ -2765,7 +2765,7 @@ ja={
 },
 en={
 {
-"",
+"I've finally...come to love dandelions.",
 },
 },
 },

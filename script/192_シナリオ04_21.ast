@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夕方・外来種のタンポポ",ja="夕方・外来種のタンポポ",en=""},
+{"savetitle",text="夕方・外来種のタンポポ",ja="夕方・外来種のタンポポ",en="Evening-Non-native dandelions"},
 {"msg",no=1},
 {"cgdel",id=-1},
 {"bg",file="black",path=":bg/",time=1000},
@@ -340,7 +340,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hey, Sora...」",
 },
 },
 },
@@ -356,7 +356,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Look over here...」",
 },
 },
 },
@@ -372,7 +372,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A dandelion, blooming out of season...」",
 },
 },
 },
@@ -384,7 +384,7 @@ ja={
 },
 en={
 {
-"",
+"The dandelion in her hand was dyed by the setting sun.",
 },
 },
 },
@@ -396,7 +396,7 @@ ja={
 },
 en={
 {
-"",
+"It's so red, like light and darkness mashed together.",
 },
 },
 },
@@ -408,7 +408,7 @@ ja={
 },
 en={
 {
-"",
+"It brought to mind the dandelion field of that day...",
 },
 },
 },
@@ -424,7 +424,7 @@ ja={
 },
 en={
 {
-"「」",
+"「This one is...not a native species like the others.」",
 },
 },
 },
@@ -440,7 +440,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's a non-native dandelion...」",
 },
 },
 },
@@ -452,7 +452,7 @@ ja={
 },
 en={
 {
-"",
+"Non-native dandelions bloom several times each year.",
 },
 },
 },
@@ -464,7 +464,7 @@ ja={
 },
 en={
 {
-"",
+"It can be in spring, summer, or fall...",
 },
 },
 },
@@ -476,7 +476,7 @@ ja={
 },
 en={
 {
-"",
+"So on that day.",
 },
 },
 },
@@ -488,7 +488,7 @@ ja={
 },
 en={
 {
-"",
+"When Shiroka lost her life.",
 },
 },
 },
@@ -500,7 +500,7 @@ ja={
 },
 en={
 {
-"",
+"Those dandelions were blooming during the rainy season, in summer.",
 },
 },
 },
@@ -512,7 +512,7 @@ ja={
 },
 en={
 {
-"",
+"Because they too were a non-native species...",
 },
 },
 },
@@ -528,7 +528,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Non-native species are also called invasive species...」",
 },
 },
 },
@@ -544,7 +544,7 @@ ja={
 },
 en={
 {
-"「」",
+"「For how they invade and take the lives of the native ones...」",
 },
 },
 },
@@ -560,7 +560,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I...hate dandelions.」",
 },
 },
 },
@@ -576,7 +576,7 @@ ja={
 },
 en={
 {
-"「」",
+"「They spread their fluff everywhere, trying to make more of themselves...」",
 },
 },
 },
@@ -592,7 +592,7 @@ ja={
 },
 en={
 {
-"「」",
+"「They go through so many partings...」",
 },
 },
 },
@@ -608,7 +608,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But...that's not the main reason.」",
 },
 },
 },
@@ -624,7 +624,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I hate them because they remind me of when you died...」",
 },
 },
 },
@@ -644,7 +644,7 @@ ja={
 },
 en={
 {
-"「」",
+"「They remind me of when we parted...Ao.」",
 },
 },
 },
@@ -669,7 +669,7 @@ ja={
 },
 en={
 {
-"",
+"Now I get it...",
 },
 },
 },
@@ -681,7 +681,7 @@ ja={
 },
 en={
 {
-"",
+"On that day long ago.",
 },
 },
 },
@@ -693,7 +693,7 @@ ja={
 },
 en={
 {
-"",
+"I too...lost my life.",
 },
 },
 },
@@ -705,7 +705,7 @@ ja={
 },
 en={
 {
-"",
+"There...right next to Shiroka, I...",
 },
 },
 },
@@ -721,7 +721,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That was the day I became a tamabito.」",
 },
 },
 },
@@ -737,7 +737,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because of my regrets.」",
 },
 },
 },
@@ -753,7 +753,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because of what I did to you.」",
 },
 },
 },
@@ -769,7 +769,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But tamabito lose their memories...so I forgot who I was for a while.」",
 },
 },
 },
@@ -785,7 +785,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I got my memories back eventually, and immediately searched for you.」",
 },
 },
 },
@@ -801,7 +801,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And despaired.」",
 },
 },
 },
@@ -817,7 +817,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I discovered you died in a fall.」",
 },
 },
 },
@@ -833,7 +833,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The same one I died from...」",
 },
 },
 },
@@ -849,7 +849,7 @@ ja={
 },
 en={
 {
-"「」",
+"「On...that very same day.」",
 },
 },
 },
@@ -878,7 +878,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hey, Ao...」",
 },
 },
 },
@@ -894,7 +894,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No, Sora.」",
 },
 },
 },
@@ -910,7 +910,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Do you...resent me?」",
 },
 },
 },
@@ -926,7 +926,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Do you hate me for dragging you to your death?」",
 },
 },
 },
@@ -942,7 +942,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you do, hit me with it. With all your anger.」",
 },
 },
 },
@@ -958,7 +958,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Unload your suffering onto me.」",
 },
 },
 },
@@ -974,7 +974,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll...take your suffering with me back to the heavens so you can be happy.」",
 },
 },
 },

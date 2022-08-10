@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夕方・蒼空の想い",ja="夕方・蒼空の想い",en=""},
+{"savetitle",text="夕方・蒼空の想い",ja="夕方・蒼空の想い",en="Evening-Sora's feelings"},
 {"cgdel",id=-1},
 {"bg",file="black",path=":bg/",time=1000},
 {"se",file="se811",id=1},
@@ -397,7 +397,7 @@ ja={
 },
 en={
 {
-"",
+"Two years have passed since the day I met Shiro.",
 },
 },
 },
@@ -409,7 +409,7 @@ ja={
 },
 en={
 {
-"",
+"I used to call her Shirobana, but since then I've come to affectionately call her Shiro.",
 },
 },
 },
@@ -421,7 +421,7 @@ ja={
 },
 en={
 {
-"",
+"Affection may be too weak a word.",
 },
 },
 },
@@ -433,7 +433,7 @@ ja={
 },
 en={
 {
-"",
+"Our bonds have become far deeper than I could have imagined.",
 },
 },
 },
@@ -449,7 +449,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I searched high and low for you after I died.」",
 },
 },
 },
@@ -465,7 +465,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I didn't know whether or not you became a tamabito...」",
 },
 },
 },
@@ -481,7 +481,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I kept searching for a miracle too slim to call a possibility.」",
 },
 },
 },
@@ -493,7 +493,7 @@ ja={
 },
 en={
 {
-"",
+"She never gave up.",
 },
 },
 },
@@ -505,7 +505,7 @@ ja={
 },
 en={
 {
-"",
+"And neither did I.",
 },
 },
 },
@@ -517,7 +517,7 @@ ja={
 },
 en={
 {
-"",
+"I made a wish during my final moments.",
 },
 },
 },
@@ -529,7 +529,7 @@ ja={
 },
 en={
 {
-"",
+"To never give up on living...",
 },
 },
 },
@@ -545,7 +545,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I nearly gave up so many times...」",
 },
 },
 },
@@ -561,7 +561,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I nearly broke down countless times...」",
 },
 },
 },
@@ -577,7 +577,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But...I finally found you.」",
 },
 },
 },
@@ -593,7 +593,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kazami Sora, the person that inherited the soul of Konohana Ao...」",
 },
 },
 },
@@ -609,7 +609,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You were living, not as a tamabito, but as a human being...」",
 },
 },
 },
@@ -625,7 +625,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You were reborn, and we reunited...」",
 },
 },
 },
@@ -637,7 +637,7 @@ ja={
 },
 en={
 {
-"",
+"Reincarnation.",
 },
 },
 },
@@ -649,7 +649,7 @@ ja={
 },
 en={
 {
-"",
+"Life being born anew.",
 },
 },
 },
@@ -661,7 +661,7 @@ ja={
 },
 en={
 {
-"",
+"But I'd lost my memories of my previous life.",
 },
 },
 },
@@ -673,7 +673,7 @@ ja={
 },
 en={
 {
-"",
+"And Shiro didn't tell me about them.",
 },
 },
 },
@@ -685,7 +685,7 @@ ja={
 },
 en={
 {
-"",
+"She must have been torn.",
 },
 },
 },
@@ -697,7 +697,7 @@ ja={
 },
 en={
 {
-"",
+"Going back and forth on whether she should've told me.",
 },
 },
 },
@@ -709,7 +709,7 @@ ja={
 },
 en={
 {
-"",
+"Because she knew that if I got them back...",
 },
 },
 },
@@ -721,7 +721,7 @@ ja={
 },
 en={
 {
-"",
+"Our journey together would end...",
 },
 },
 },
@@ -737,7 +737,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I have one more regret...」",
 },
 },
 },
@@ -753,7 +753,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So before I return, I want you to hear me out.」",
 },
 },
 },
@@ -769,7 +769,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Now that you remember your life as Konohana Ao...do you resent me?」",
 },
 },
 },
@@ -785,7 +785,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Do you hate me...?」",
 },
 },
 },
@@ -797,7 +797,7 @@ ja={
 },
 en={
 {
-"",
+"I give her my answer without a moment of hesitation.",
 },
 },
 },
@@ -810,7 +810,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm grateful.」",
 },
 },
 },
@@ -823,7 +823,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Even after recalling everything, my feelings are the same as they've always been.」",
 },
 },
 },
@@ -836,7 +836,7 @@ ja={
 },
 en={
 {
-"「」",
+"「To keep living, and to keep loving you...」",
 },
 },
 },
@@ -849,7 +849,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My soul hasn't changed...and neither has my love.」",
 },
 },
 },
@@ -862,7 +862,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So thank you, Shiro.」",
 },
 },
 },
@@ -878,7 +878,7 @@ ja={
 },
 en={
 {
-"",
+""----Thank you, Shiroka.,
 },
 },
 },
@@ -891,7 +891,7 @@ ja={
 },
 en={
 {
-"「」",
+"「For finding me.」",
 },
 },
 },
@@ -907,7 +907,7 @@ ja={
 },
 en={
 {
-"",
+"----For reuniting with me.",
 },
 },
 },
@@ -923,7 +923,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ao...」",
 },
 },
 },
@@ -939,7 +939,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...」",
 },
 },
 },
@@ -952,7 +952,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's why...」",
 },
 },
 },
@@ -965,7 +965,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If and when you return...you won't be taking my resentment or hatred with you.」",
 },
 },
 },
@@ -978,7 +978,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It'll be my love.」",
 },
 },
 },
@@ -991,7 +991,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Take my love with you when you go...」",
 },
 },
 },
@@ -1007,7 +1007,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Does that mean...you'll forget your love for me?」",
 },
 },
 },
@@ -1023,7 +1023,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You'll forget the time we spent together...?」",
 },
 },
 },
@@ -1036,7 +1036,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Heck no.」",
 },
 },
 },
@@ -1049,7 +1049,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You might return, but I don't want to forget my love for you.」",
 },
 },
 },
@@ -1062,7 +1062,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I mean, with how immense my love is, there's no way you can take it all back with you.」",
 },
 },
 },
@@ -1075,7 +1075,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What with how small you are.」",
 },
 },
 },
@@ -1091,7 +1091,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Dummy...you incompetent...」",
 },
 },
 },
@@ -1107,7 +1107,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I love you...so much...」",
 },
 },
 },
@@ -1123,7 +1123,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm...so glad I fell in love with you...」",
 },
 },
 },
@@ -1139,7 +1139,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm so glad you were the one I fell for----.」",
 },
 },
 },

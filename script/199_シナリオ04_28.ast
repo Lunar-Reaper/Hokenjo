@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼・旅立ち",ja="昼・旅立ち",en="Noon-"},
+{"savetitle",text="昼・旅立ち",ja="昼・旅立ち",en="Noon-Departure"},
 {"ntclear"},
 {"bg",file="eyecatch03",path=":cg/",time=2000},
 {"sysvo",name="titlecall",com="shi"},
@@ -1243,7 +1243,7 @@ ja={
 },
 en={
 {
-"",
+"I sat through the closing ceremony for the first term.",
 },
 },
 },
@@ -1255,7 +1255,7 @@ ja={
 },
 en={
 {
-"",
+"I'm relieved of my duties as of today.",
 },
 },
 },
@@ -1267,7 +1267,7 @@ ja={
 },
 en={
 {
-"",
+"With the ceremony over, I dropped by the principal's office for one last farewell.",
 },
 },
 },
@@ -1280,7 +1280,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Madam principal.」",
 },
 },
 },
@@ -1293,7 +1293,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Oh...I guess I shouldn't be calling you that anymore.」",
 },
 },
 },
@@ -1306,7 +1306,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Tsukimori-san. Thank you for everything you've done for me.」",
 },
 },
 },
@@ -1318,7 +1318,7 @@ ja={
 },
 en={
 {
-"",
+"I recalled the various things that happened during my time in this school and bowed my head.",
 },
 },
 },
@@ -1330,7 +1330,7 @@ ja={
 },
 en={
 {
-"",
+"My memories were numerous and all of them were precious. I really have spent a long while here.",
 },
 },
 },
@@ -1342,7 +1342,7 @@ ja={
 },
 en={
 {
-"",
+"I raised my head to see Tsukimori-san wearing an impish smirk.",
 },
 },
 },
@@ -1354,7 +1354,7 @@ ja={
 },
 en={
 {
-"",
+"She was the spitting image of her daughter Rin.",
 },
 },
 },
@@ -1370,7 +1370,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Forget formalities and use my first name.」",
 },
 },
 },
@@ -1386,7 +1386,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Otherwise, you'll mix me up with my daughter.」",
 },
 },
 },
@@ -1402,7 +1402,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Or do you think this will be the last time you'll be seeing us?」",
 },
 },
 },
@@ -1418,7 +1418,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Think about how upset Rin would be. You kow how she hates one time meetings.」",
 },
 },
 },
@@ -1434,7 +1434,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And anyone that upsets my daughter will answer to me.」",
 },
 },
 },
@@ -1450,7 +1450,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Just so you know, I have the authority to annul your resignation.」",
 },
 },
 },
@@ -1462,7 +1462,7 @@ ja={
 },
 en={
 {
-"",
+"...That doesn't sound like a joke coming from her.",
 },
 },
 },
@@ -1475,7 +1475,7 @@ ja={
 },
 en={
 {
-"「」",
+"「From start to finish, I never did figure out how to handle you.」",
 },
 },
 },
@@ -1491,7 +1491,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Heh. I've had my fair share of fights with your mentor Homare you know.」",
 },
 },
 },
@@ -1504,7 +1504,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll be sure to stop by when I'm in the area.」",
 },
 },
 },
@@ -1517,7 +1517,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Thank you for everything...Reiko-san.」",
 },
 },
 },
@@ -1533,7 +1533,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kazami. Likewise.」",
 },
 },
 },
@@ -1549,7 +1549,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You've been...a huge help.」",
 },
 },
 },
@@ -1565,7 +1565,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I've learned so much because of you.」",
 },
 },
 },
@@ -1581,7 +1581,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I've done my job as this school's principal.」",
 },
 },
 },
@@ -1597,7 +1597,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Although, there's still more work to be done.」",
 },
 },
 },
@@ -1613,7 +1613,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So long as I'm an okuribito, I'll likely need your help again in the future. I'll be counting on you when the time comes.」",
 },
 },
 },
@@ -1629,7 +1629,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So...I won't be saying goodbye to you.」",
 },
 },
 },
@@ -1645,7 +1645,7 @@ ja={
 },
 en={
 {
-"「」",
+"「With so many tamabito gone, I've no more to give...」",
 },
 },
 },
@@ -1661,7 +1661,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If nothing else...you'll have to settle for this.」",
 },
 },
 },
@@ -1673,7 +1673,7 @@ ja={
 },
 en={
 {
-"",
+"Reiko-san raised her hand.",
 },
 },
 },
@@ -1685,7 +1685,7 @@ ja={
 },
 en={
 {
-"",
+"And I tightly clasped it.",
 },
 },
 },
@@ -1697,7 +1697,7 @@ ja={
 },
 en={
 {
-"",
+"Our handshake lasted much longer than the one we had the day I arrived.",
 },
 },
 },
@@ -1713,7 +1713,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kazami-sensei.」",
 },
 },
 },
@@ -1725,7 +1725,7 @@ ja={
 },
 en={
 {
-"",
+"Tokino-sensei was lying in wait just outside the office.",
 },
 },
 },
@@ -1741,7 +1741,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm sure madam principal said the same, but please drop by anytime.」",
 },
 },
 },
@@ -1754,7 +1754,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Thank you. You've done so much for me here too.」",
 },
 },
 },
@@ -1770,7 +1770,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Oh, hardly. I've learned far more from you.」",
 },
 },
 },
@@ -1786,7 +1786,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The next time you see me...I'll be a top-notch educator!」",
 },
 },
 },
@@ -1798,7 +1798,7 @@ ja={
 },
 en={
 {
-"",
+"She gave a charming fist pump and a bitter smile.",
 },
 },
 },
@@ -1811,7 +1811,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're top-notch as you are. I'll lose face if you get any better.」",
 },
 },
 },
@@ -1827,7 +1827,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Geez...you know how to embarrass a lady.」",
 },
 },
 },
@@ -1843,7 +1843,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Speaking of which, this is where Shirobana-san would blow bubbles at you...」",
 },
 },
 },
@@ -1856,7 +1856,7 @@ ja={
 },
 en={
 {
-"「」",
+"「She's back at the inn.」",
 },
 },
 },
@@ -1868,7 +1868,7 @@ ja={
 },
 en={
 {
-"",
+"I still have to check-out of there.",
 },
 },
 },
@@ -1881,7 +1881,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I wish you the best, Tokino-sensei.」",
 },
 },
 },
@@ -1897,7 +1897,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yes... Stay well, Kazami-sensei.」",
 },
 },
 },
@@ -1913,7 +1913,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So cute so cute I'm not letting you go! Gonna take you home!」",
 },
 },
 },
@@ -1929,7 +1929,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mugyuu...」",
 },
 },
 },
@@ -1941,7 +1941,7 @@ ja={
 },
 en={
 {
-"",
+"I arrived at the gates to find Shiro buried in Rin's chest.",
 },
 },
 },
@@ -1953,7 +1953,7 @@ ja={
 },
 en={
 {
-"",
+"...She's done a good job avoiding her, but it looks like her luck's run out.",
 },
 },
 },
@@ -1969,7 +1969,7 @@ ja={
 },
 en={
 {
-"「」",
+"「S...save me...I'm dying...」",
 },
 },
 },
@@ -1985,7 +1985,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No farewells! Goodbyes can screw off!」",
 },
 },
 },
@@ -2001,7 +2001,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mugyuu...」",
 },
 },
 },
@@ -2017,7 +2017,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm gonna suffocate you, stuff you full of cotton, and put you in the student council room with the other plushies so you don't have to go!」",
 },
 },
 },
@@ -2029,7 +2029,7 @@ ja={
 },
 en={
 {
-"",
+"...Holy crap, that's terrifying.",
 },
 },
 },
@@ -2045,7 +2045,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Rin-senpai, I know how you feel, but you have to let her go.」",
 },
 },
 },
@@ -2057,7 +2057,7 @@ ja={
 },
 en={
 {
-"",
+"Sakiha grabbed Rin by the lapel and pulled her away.",
 },
 },
 },
@@ -2073,7 +2073,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kuh...I let my guard down in the final assault...」",
 },
 },
 },
@@ -2089,7 +2089,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shirobana-chan, you were waiting for Kazami-sensei here, weren't you!」",
 },
 },
 },
@@ -2101,7 +2101,7 @@ ja={
 },
 en={
 {
-"",
+"And Mizumi makes three.",
 },
 },
 },
@@ -2113,7 +2113,7 @@ ja={
 },
 en={
 {
-"",
+"She was well enough to take part in the closing ceremony today.",
 },
 },
 },
@@ -2125,7 +2125,7 @@ ja={
 },
 en={
 {
-"",
+"She forced herself to come, but as I'm no longer the school nurse, I didn't have the authority to stop her.",
 },
 },
 },
@@ -2141,7 +2141,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Sensei, aren't you going to scold me?」",
 },
 },
 },
@@ -2154,7 +2154,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's not my job anymore.」",
 },
 },
 },
@@ -2170,7 +2170,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sakiha-chan can do it instead.」",
 },
 },
 },
@@ -2186,7 +2186,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I think she wants you to scold her.」",
 },
 },
 },
@@ -2202,7 +2202,7 @@ ja={
 },
 en={
 {
-"「」",
+"「O-Of course not.」",
 },
 },
 },
@@ -2218,7 +2218,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, sensei! I'm glad I caught you before you left!」",
 },
 },
 },
@@ -2230,7 +2230,7 @@ ja={
 },
 en={
 {
-"",
+"And now Nana's here.",
 },
 },
 },
@@ -2242,7 +2242,7 @@ ja={
 },
 en={
 {
-"",
+"Everyone I've spent the most time with has gathered here.",
 },
 },
 },
@@ -2258,7 +2258,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What took you so long?」",
 },
 },
 },
@@ -2274,7 +2274,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I was doing the last of the student council work with everyone. Except for you, who bailed!」",
 },
 },
 },
@@ -2290,7 +2290,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I had some more important work to do. Namely, taking Shiro-chan home...」",
 },
 },
 },
@@ -2306,7 +2306,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll be taking sensei home too.」",
 },
 },
 },
@@ -2318,7 +2318,7 @@ ja={
 },
 en={
 {
-"",
+"...Why me?",
 },
 },
 },
@@ -2334,7 +2334,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei. If you try and run, I'll suffocate you in my breasts too.」",
 },
 },
 },
@@ -2350,7 +2350,7 @@ ja={
 },
 en={
 {
-"「」",
+"「S-Shirobana-chan is one thing, but he's out of the question! That goes against public morals.」",
 },
 },
 },
@@ -2363,7 +2363,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...There you have it.」",
 },
 },
 },
@@ -2379,7 +2379,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei, are you going back to the inn to check-out?」",
 },
 },
 },
@@ -2392,7 +2392,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah...」",
 },
 },
 },
@@ -2408,7 +2408,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Come to our farewell party before you do!」",
 },
 },
 },
@@ -2420,7 +2420,7 @@ ja={
 },
 en={
 {
-"",
+"Farewell party...?",
 },
 },
 },
@@ -2436,7 +2436,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei. I'm not letting you check-out unless you attend.」",
 },
 },
 },
@@ -2452,7 +2452,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mom, Sakiha, and I all decided on it.」",
 },
 },
 },
@@ -2468,7 +2468,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Refuse and it's a breast burial for you.」",
 },
 },
 },
@@ -2484,7 +2484,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Not happening!」",
 },
 },
 },
@@ -2513,7 +2513,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I knew that was coming!」",
 },
 },
 },
@@ -2529,7 +2529,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Still as childish as always.」",
 },
 },
 },
@@ -2561,7 +2561,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Stop! My eyes are burning!」",
 },
 },
 },
@@ -2577,7 +2577,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I was saving my tears for the goodbyes...」",
 },
 },
 },
@@ -2593,7 +2593,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You've got all wrong.」",
 },
 },
 },
@@ -2609,7 +2609,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The point of our farewell party isn't to say goodbye...」",
 },
 },
 },
@@ -2625,7 +2625,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's to send sensei off so we'll see him again.」",
 },
 },
 },
@@ -2637,7 +2637,7 @@ ja={
 },
 en={
 {
-"",
+"...I get it.",
 },
 },
 },
@@ -2649,7 +2649,7 @@ ja={
 },
 en={
 {
-"",
+"I get why everyone was here waiting for us.",
 },
 },
 },
@@ -2661,7 +2661,7 @@ ja={
 },
 en={
 {
-"",
+"Not because they were sad at us leaving.",
 },
 },
 },
@@ -2673,7 +2673,7 @@ ja={
 },
 en={
 {
-"",
+"But because they're looking forward to the next time we meet...",
 },
 },
 },
@@ -2686,7 +2686,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Guess I have to go then.」",
 },
 },
 },
@@ -2702,7 +2702,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No duh!」",
 },
 },
 },
@@ -2718,7 +2718,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're coming too, right Shiro-chan?」",
 },
 },
 },
@@ -2734,7 +2734,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Fine, guess I have to..」",
 },
 },
 },
@@ -2750,7 +2750,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I...don't want this to be the last time we see each other either.」",
 },
 },
 },
@@ -2766,7 +2766,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll definitely...regret it if I do.」",
 },
 },
 },
@@ -2778,7 +2778,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro...",
 },
 },
 },
@@ -2790,7 +2790,7 @@ ja={
 },
 en={
 {
-"",
+"I know what you're trying to say, Shiro.",
 },
 },
 },
@@ -2802,7 +2802,7 @@ ja={
 },
 en={
 {
-"",
+"You want us to reunite with everyone someday.",
 },
 },
 },
@@ -2814,7 +2814,7 @@ ja={
 },
 en={
 {
-"",
+"But that's not all.",
 },
 },
 },
@@ -2826,7 +2826,7 @@ ja={
 },
 en={
 {
-"",
+"There's another meaning to those words...",
 },
 },
 },
@@ -2842,7 +2842,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Alright, let's start our farewell party and send them off with a bang.」",
 },
 },
 },
@@ -2858,7 +2858,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Before we make a toast, I'll be pouring you a glass, sensei!」",
 },
 },
 },
@@ -2874,7 +2874,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I know that you get drunk just off the scent, so no.」",
 },
 },
 },
@@ -2890,7 +2890,7 @@ ja={
 },
 en={
 {
-"「」",
+"「As a veteran in serving guests, I'll do the honors. Here you are.」",
 },
 },
 },
@@ -2906,7 +2906,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm a veteran too! Here you go, sensei.」",
 },
 },
 },
@@ -2922,7 +2922,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I've seen my dad have his nightcaps before so I know how it's done! I'll top you up!」",
 },
 },
 },
@@ -2938,7 +2938,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's like you have a harem.」",
 },
 },
 },
@@ -2954,7 +2954,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei! Who do you want pouring you drinks?! Answer loud and clear!」",
 },
 },
 },
@@ -2967,7 +2967,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I wasn't planning on drinking any alcohol...」",
 },
 },
 },
@@ -2983,7 +2983,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Are you saying you're not having my drinks?!」",
 },
 },
 },
@@ -2999,7 +2999,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Strippy strip.」",
 },
 },
 },
@@ -3015,7 +3015,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Keep your clothes on!」",
 },
 },
 },
@@ -3031,7 +3031,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Public morals are at risk!」",
 },
 },
 },
@@ -3047,7 +3047,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yep...Rin-senpai's a stripping drunk...」",
 },
 },
 },
@@ -3063,7 +3063,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I didn't know that was a category...」",
 },
 },
 },
@@ -3076,7 +3076,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Come on, Rin. We haven't had our toast yet.」",
 },
 },
 },
@@ -3092,7 +3092,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, I nearly forgot.」",
 },
 },
 },
@@ -3108,7 +3108,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Everyone, raise your glasses. Empty ones are fine too.」",
 },
 },
 },
@@ -3120,7 +3120,7 @@ ja={
 },
 en={
 {
-"",
+"How lax.",
 },
 },
 },
@@ -3136,7 +3136,7 @@ ja={
 },
 en={
 {
-"「」",
+"「To Sensei and Shiro-chan's new journey...」",
 },
 },
 },
@@ -3152,7 +3152,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Cheeers!」",
 },
 },
 },
@@ -3162,7 +3162,7 @@ vo={
 {"vo",file="fem_miz_00400",ch="miz"},
 {"vo",file="fem_nan_00565",ch="nan"},
 },
-name={name="仲間たち"},
+name={name="仲間たち",ja="仲間たち",en="Companions"},
 ja={
 {
 "「かんぱーい！」",
@@ -3170,7 +3170,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Cheeers!」",
 },
 },
 },
@@ -3186,7 +3186,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Strippy strip.」",
 },
 },
 },
@@ -3202,7 +3202,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I said keep your clothes on!」",
 },
 },
 },
@@ -3214,7 +3214,7 @@ ja={
 },
 en={
 {
-"",
+"...The party went on to be utter chaos.",
 },
 },
 },
@@ -3226,7 +3226,7 @@ ja={
 },
 en={
 {
-"",
+"The curtain fell on it once Rin conked out drunk.",
 },
 },
 },
@@ -3238,7 +3238,7 @@ ja={
 },
 en={
 {
-"",
+"Sakiha, Mizumi, and Nana were sad, but they smiled and nodded when I promised I would come see them all again.",
 },
 },
 },
@@ -3250,7 +3250,7 @@ ja={
 },
 en={
 {
-"",
+"I'm truly blessed.",
 },
 },
 },
@@ -3262,7 +3262,7 @@ ja={
 },
 en={
 {
-"",
+"My students went to all this to see me off with kindness.",
 },
 },
 },
@@ -3278,7 +3278,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sensei...」",
 },
 },
 },
@@ -3290,7 +3290,7 @@ ja={
 },
 en={
 {
-"",
+"I heard Rin sleeptalking just before leaving the room.",
 },
 },
 },
@@ -3306,7 +3306,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I...hate...goodbyes...」",
 },
 },
 },
@@ -3322,7 +3322,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So...」",
 },
 },
 },
@@ -3338,7 +3338,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Let's...have another wonderful encounter...」",
 },
 },
 },
@@ -3350,7 +3350,7 @@ ja={
 },
 en={
 {
-"",
+"Maiko-san handled our check-out.",
 },
 },
 },
@@ -3366,7 +3366,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kazami-sensei. Thank you for everything.」",
 },
 },
 },
@@ -3379,7 +3379,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm supposed to be thanking you for taking such good care of me.」",
 },
 },
 },
@@ -3395,7 +3395,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No, I need to express my gratitude.」",
 },
 },
 },
@@ -3411,7 +3411,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can keep living here with my family...with Mizumi and Sakiha thanks to you.」",
 },
 },
 },
@@ -3424,7 +3424,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You give me too much credit...」",
 },
 },
 },
@@ -3440,7 +3440,7 @@ ja={
 },
 en={
 {
-"「」",
+"「With how good you've been to us, I may lose faith.」",
 },
 },
 },
@@ -3456,7 +3456,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Faith that this inn is fit to be the home you can always come back to...」",
 },
 },
 },
@@ -3468,7 +3468,7 @@ ja={
 },
 en={
 {
-"",
+"Maiko-san...",
 },
 },
 },
@@ -3481,7 +3481,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Thank you. And I'm not saying it out of goodness or formality.」",
 },
 },
 },
@@ -3494,7 +3494,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm grateful from the bottom of my heart for you giving me a new home.」",
 },
 },
 },
@@ -3510,7 +3510,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kazami-sensei...」",
 },
 },
 },
@@ -3526,7 +3526,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hearing that makes me glad we threw that farewell party.」",
 },
 },
 },
@@ -3542,7 +3542,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Come back soon, Kazami-sensei.」",
 },
 },
 },
@@ -3558,7 +3558,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Come back soon, Shirobana-chan.」",
 },
 },
 },
@@ -3571,7 +3571,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah. See you later.」",
 },
 },
 },
@@ -3587,7 +3587,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yep. See you.」",
 },
 },
 },
@@ -3603,7 +3603,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll be awaiting the day I can see you two again.」",
 },
 },
 },
@@ -3619,7 +3619,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora, Shirobana.」",
 },
 },
 },
@@ -3631,7 +3631,7 @@ ja={
 },
 en={
 {
-"",
+"Upon leaving the inn following our check-out, we found Otohime-san waiting for us.",
 },
 },
 },
@@ -3647,7 +3647,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Goth loli, any last words?」",
 },
 },
 },
@@ -3663,7 +3663,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Heh heh, nice one. Being fellow tamabito makes that wisecrack all the more fitting.」",
 },
 },
 },
@@ -3679,7 +3679,7 @@ ja={
 },
 en={
 {
-"「」",
+"「In return, I'll send you off with a riddle.」",
 },
 },
 },
@@ -3695,7 +3695,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Romance is longing, love just happens.」",
 },
 },
 },
@@ -3711,7 +3711,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Huh?」",
 },
 },
 },
@@ -3727,7 +3727,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It means romance is desiring what you lack, while love is what you have.」",
 },
 },
 },
@@ -3743,7 +3743,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And Sora... I'll leave you with this.」",
 },
 },
 },
@@ -3759,7 +3759,7 @@ ja={
 },
 en={
 {
-"「」",
+"「To journey is to live.」",
 },
 },
 },
@@ -3775,7 +3775,7 @@ ja={
 },
 en={
 {
-"「」",
+"「To live is to have encounters.」",
 },
 },
 },
@@ -3791,7 +3791,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And seeking out encounters is what makes it a journey.」",
 },
 },
 },
@@ -3807,7 +3807,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Round and round and back again, in the cycle of samsara.」",
 },
 },
 },
@@ -3823,7 +3823,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I pray that your destinies are filled with happiness.」",
 },
 },
 },
@@ -3835,7 +3835,7 @@ ja={
 },
 en={
 {
-"",
+"Having said our farewells to our many friends, the two of us set off.",
 },
 },
 },
@@ -3847,7 +3847,7 @@ ja={
 },
 en={
 {
-"",
+"Now, let's begin.",
 },
 },
 },
@@ -3859,7 +3859,7 @@ ja={
 },
 en={
 {
-"",
+"Our new journey.",
 },
 },
 },

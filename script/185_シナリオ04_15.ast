@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼・シロバナのシャボン玉１",ja="昼・シロバナのシャボン玉１",en="Noon-"},
+{"savetitle",text="昼・シロバナのシャボン玉１",ja="昼・シロバナのシャボン玉１",en="Noon-Shirobana's bubbles 1"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg14g",path=":bg/",speed=120000,x=640,x2=-640,y=100,y2=100},
 {"bgm",file="bgm02"},
 {"se",vol=20,file="h703",id=1},
@@ -117,7 +117,7 @@ ja={
 },
 en={
 {
-"",
+We crossed the land bridge and arrived at the dandelion field.,
 },
 },
 },
@@ -129,7 +129,7 @@ ja={
 },
 en={
 {
-"",
+"Cotton as far as the eye can see...",
 },
 },
 },
@@ -141,7 +141,7 @@ ja={
 },
 en={
 {
-"",
+"Dwindling down, bit by bit.",
 },
 },
 },
@@ -153,7 +153,7 @@ ja={
 },
 en={
 {
-"",
+"The wind sends them dancing through the air, one after another.",
 },
 },
 },
@@ -165,7 +165,7 @@ ja={
 },
 en={
 {
-"",
+"But it's calm today, so the cotton stayed in place.",
 },
 },
 },
@@ -181,7 +181,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You didn't ask for it...but I'll give you a hand.」",
 },
 },
 },
@@ -193,7 +193,7 @@ ja={
 },
 en={
 {
-"",
+"Rather than bubbles, Shiro send cotton flying.",
 },
 },
 },
@@ -205,7 +205,7 @@ ja={
 },
 en={
 {
-"",
+"I sat down and watched her from a short distance away.",
 },
 },
 },
@@ -217,7 +217,7 @@ ja={
 },
 en={
 {
-"",
+"She seems to be using her miracle to send them off.",
 },
 },
 },
@@ -229,7 +229,7 @@ ja={
 },
 en={
 {
-"",
+"Tamabito can all control nature.",
 },
 },
 },
@@ -241,7 +241,7 @@ ja={
 },
 en={
 {
-"",
+"That's in line with the Shinto belief of gods inhabiting all things.",
 },
 },
 },
@@ -253,7 +253,7 @@ ja={
 },
 en={
 {
-"",
+"It shows how even tamabito seek coexistence with nature, just like humans.",
 },
 },
 },
@@ -265,7 +265,7 @@ ja={
 },
 en={
 {
-"",
+"And amongst all of nature, Shiro's connection to wind is especially strong.",
 },
 },
 },
@@ -277,7 +277,7 @@ ja={
 },
 en={
 {
-"",
+"A tamabito's miracle is tied to the strength of their desires. Shiro's wish in her past life should pertain to the wind.",
 },
 },
 },
@@ -289,7 +289,7 @@ ja={
 },
 en={
 {
-"",
+"But what could it be...?",
 },
 },
 },
@@ -301,7 +301,7 @@ ja={
 },
 en={
 {
-"",
+"I should already know the answer----.",
 },
 },
 },

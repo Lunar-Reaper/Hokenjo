@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="回想・過去編４",ja="回想・過去編４",en=""},
+{"savetitle",text="回想・過去編４",ja="回想・過去編４",en="Recollection-Past 4"},
 {"msg",no=3},
 {"cgdel",id=-1},
 {"bg",file="black",path=":bg/",time=1000},
@@ -2393,7 +2393,7 @@ ja={
 },
 en={
 {
-"",
+"These are the memories of a day long ago.",
 },
 },
 },
@@ -2405,7 +2405,7 @@ ja={
 },
 en={
 {
-"",
+"A tale of a girl and windmills.",
 },
 },
 },
@@ -2417,7 +2417,7 @@ ja={
 },
 en={
 {
-"",
+"Now that it's the weekend, I dropped by Shiroka's place to make good on my promise to help with her chores.",
 },
 },
 },
@@ -2425,7 +2425,7 @@ en={
 vo={
 {"vo",file="fem_z03_00238",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……ほんとに来た」",
@@ -2433,7 +2433,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...You're really here.」",
 },
 },
 },
@@ -2445,7 +2445,7 @@ ja={
 },
 en={
 {
-"",
+"She was already in front of the doorway.",
 },
 },
 },
@@ -2453,7 +2453,7 @@ en={
 vo={
 {"vo",file="fem_z02_00150",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「べつに、外で待たなくたっていいんだぞ？」",
@@ -2461,7 +2461,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You didn't have to wait outside.」",
 },
 },
 },
@@ -2469,7 +2469,7 @@ en={
 vo={
 {"vo",file="fem_z03_00239",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……そういうわけじゃない。単に郵便受けを確認してただけよ」",
@@ -2477,7 +2477,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Don't be silly. I was just checking my mailbox.」",
 },
 },
 },
@@ -2485,7 +2485,7 @@ en={
 vo={
 {"vo",file="fem_z02_00151",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「まあ、体調は悪くなさそうでよかったよ」",
@@ -2493,7 +2493,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You look healthy today. That's great.」",
 },
 },
 },
@@ -2501,7 +2501,7 @@ en={
 vo={
 {"vo",file="fem_z03_00240",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そ、そういう気遣いもいらないわ。次にやったら、手錠をかけるからね」",
@@ -2509,7 +2509,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I-I didn't ask for your concern. Do it again and I'll cuff you.」",
 },
 },
 },
@@ -2517,7 +2517,7 @@ en={
 vo={
 {"vo",file="fem_z02_00152",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……それは、家事がやりにくそうだ」",
@@ -2525,7 +2525,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I'd have a hard time doing chores with handcuffs on.」",
 },
 },
 },
@@ -2533,7 +2533,7 @@ en={
 vo={
 {"vo",file="fem_z03_00241",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「家事の手伝いをすることに変わりはないのね……」",
@@ -2541,7 +2541,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Still insisting on the chores thing, I see...」",
 },
 },
 },
@@ -2549,7 +2549,7 @@ en={
 vo={
 {"vo",file="fem_z02_00153",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「そりゃあ、そのために来たんだし」",
@@ -2557,7 +2557,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's what I came here for.」",
 },
 },
 },
@@ -2565,7 +2565,7 @@ en={
 vo={
 {"vo",file="fem_z03_00242",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 {"exfont",size="f2"},
@@ -2576,7 +2576,7 @@ ja={
 en={
 {
 {"exfont",size="f2"},
-"「」",
+"「...Thanks.」",
 {"exfont"},
 },
 },
@@ -2585,7 +2585,7 @@ en={
 vo={
 {"vo",file="fem_z02_00154",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「え？」",
@@ -2593,7 +2593,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You say something?」",
 },
 },
 },
@@ -2601,7 +2601,7 @@ en={
 vo={
 {"vo",file="fem_z03_00243",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「な、なんでもない」",
@@ -2609,7 +2609,7 @@ ja={
 },
 en={
 {
-"「」",
+"「N-Nope.」",
 },
 },
 },
@@ -2617,7 +2617,7 @@ en={
 vo={
 {"vo",file="fem_z03_00244",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「それじゃあ、ふたりで家事をしましょうか」",
@@ -2625,7 +2625,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ready to start?」",
 },
 },
 },
@@ -2633,7 +2633,7 @@ en={
 vo={
 {"vo",file="fem_z02_00155",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「いや、僕ひとりでいいぞ？　白花は休んでてくれ」",
@@ -2641,7 +2641,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll do it all on my own. You can take a breather.」",
 },
 },
 },
@@ -2649,7 +2649,7 @@ en={
 vo={
 {"vo",file="fem_z02_00156",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「ていうか、そのための手伝いでもあるんだからさ」",
@@ -2657,7 +2657,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm an all-purpose helper.」",
 },
 },
 },
@@ -2669,7 +2669,7 @@ ja={
 },
 en={
 {
-"",
+"Reducing the load on Shiroka is far more important than raising my houseworking skills.",
 },
 },
 },
@@ -2677,7 +2677,7 @@ en={
 vo={
 {"vo",file="fem_z02_00157",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「だから、白花は……」",
@@ -2685,7 +2685,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sit down and...」",
 },
 },
 },
@@ -2697,7 +2697,7 @@ ja={
 },
 en={
 {
-"",
+"Clink.",
 },
 },
 },
@@ -2709,7 +2709,7 @@ ja={
 },
 en={
 {
-"",
+"And now I'm handcuffed.",
 },
 },
 },
@@ -2717,7 +2717,7 @@ en={
 vo={
 {"vo",file="fem_z03_00245",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「聞こえなかったの？　気遣いは要らないって言ったわよね？　実に無能ね」",
@@ -2725,7 +2725,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Weren't you listening when I said I don't need your concern? You're truly incompetent.」",
 },
 },
 },
@@ -2733,7 +2733,7 @@ en={
 vo={
 {"vo",file="fem_z03_00246",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「あなたは牢屋の掃除でもしてなさい」",
@@ -2741,7 +2741,7 @@ ja={
 },
 en={
 {
-"「」",
+"「How would you like to clean a jail cell?」",
 },
 },
 },
@@ -2749,7 +2749,7 @@ en={
 vo={
 {"vo",file="fem_z02_00158",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「出過ぎた真似をしました！　申し訳ございません！」",
@@ -2757,7 +2757,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I went too far! Please forgive me!」",
 },
 },
 },
@@ -2765,7 +2765,7 @@ en={
 vo={
 {"vo",file="fem_z03_00247",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「反省したなら許してあげる」",
@@ -2773,7 +2773,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fine, you'd better mean that.」",
 },
 },
 },
@@ -2785,7 +2785,7 @@ ja={
 },
 en={
 {
-"",
+"She liberated me faster than I expected.",
 },
 },
 },
@@ -2797,7 +2797,7 @@ ja={
 },
 en={
 {
-"",
+"She's way nicer than when she did it the first time.",
 },
 },
 },
@@ -2809,7 +2809,7 @@ ja={
 },
 en={
 {
-"",
+"It must be because our relationship is different now.",
 },
 },
 },
@@ -2821,7 +2821,7 @@ ja={
 },
 en={
 {
-"",
+"I thought back to my kiss with her...",
 },
 },
 },
@@ -2829,7 +2829,7 @@ en={
 vo={
 {"vo",file="fem_z03_00248",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「蒼……顔が赤いわよ？」",
@@ -2837,7 +2837,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ao...your face is red.」",
 },
 },
 },
@@ -2845,7 +2845,7 @@ en={
 vo={
 {"vo",file="fem_z02_00159",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……今日はちょっと暑いから」",
@@ -2853,7 +2853,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...It's a bit hot today.」",
 },
 },
 },
@@ -2861,7 +2861,7 @@ en={
 vo={
 {"vo",file="fem_z03_00249",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そうね。梅雨が近くてじめっとしてるもの」",
@@ -2869,7 +2869,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No kidding. The rainy season's coming up, so it's getting humid.」",
 },
 },
 },
@@ -2881,7 +2881,7 @@ ja={
 },
 en={
 {
-"",
+"Shiroka on the other hand, didn't seem embarrassed by it at all.",
 },
 },
 },
@@ -2893,7 +2893,7 @@ ja={
 },
 en={
 {
-"",
+"Maybe she doesn't have any romantic feelings towards me either.",
 },
 },
 },
@@ -2905,7 +2905,7 @@ ja={
 },
 en={
 {
-"",
+"I shouldn't get worked up over over one kiss.",
 },
 },
 },
@@ -2913,7 +2913,7 @@ en={
 vo={
 {"vo",file="fem_z03_00250",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「それじゃあ、家の中に入って」",
@@ -2921,7 +2921,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Let's go inside.」",
 },
 },
 },
@@ -2929,7 +2929,7 @@ en={
 vo={
 {"vo",file="fem_z02_00160",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「あ、待った」",
@@ -2937,7 +2937,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, hold on.」",
 },
 },
 },
@@ -2945,7 +2945,7 @@ en={
 vo={
 {"vo",file="fem_z03_00251",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「なに？　まだ私に休んでろって言うの？」",
@@ -2953,7 +2953,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What? You'd better not tell me to sit out again.」",
 },
 },
 },
@@ -2961,7 +2961,7 @@ en={
 vo={
 {"vo",file="fem_z02_00161",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「休むっていうか、僕が家事をやってる間、白花にはほかのことをやってて欲しかったっていうか」",
@@ -2969,7 +2969,7 @@ ja={
 },
 en={
 {
-"「」",
+"「There's something I wanted you to try while I'm busy with the chores.」",
 },
 },
 },
@@ -2981,7 +2981,7 @@ ja={
 },
 en={
 {
-"",
+"I removed the contents of the bad I brought with me.",
 },
 },
 },
@@ -2989,7 +2989,7 @@ en={
 vo={
 {"vo",file="fem_z03_00252",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「それ……シャボン玉？」",
@@ -2997,7 +2997,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Bubbles?」",
 },
 },
 },
@@ -3005,7 +3005,7 @@ en={
 vo={
 {"vo",file="fem_z02_00162",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「ああ。ここに来る前に買ってきたんだ」",
@@ -3013,7 +3013,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah. I bought this before coming.」",
 },
 },
 },
@@ -3025,7 +3025,7 @@ ja={
 },
 en={
 {
-"",
+"It's all I could afford with my allowance.",
 },
 },
 },
@@ -3037,7 +3037,7 @@ ja={
 },
 en={
 {
-"",
+"It may be a children's toy, but it should help pass the time.",
 },
 },
 },
@@ -3045,7 +3045,7 @@ en={
 vo={
 {"vo",file="fem_z02_00163",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「白花、ちょっとやってみないか？」",
@@ -3053,7 +3053,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Want to give it a go?」",
 },
 },
 },
@@ -3061,7 +3061,7 @@ en={
 vo={
 {"vo",file="fem_z03_00253",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「…………」",
@@ -3077,7 +3077,7 @@ en={
 vo={
 {"vo",file="fem_z02_00164",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……お気に召さなかった？」",
@@ -3085,7 +3085,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Did I screw up?」",
 },
 },
 },
@@ -3093,7 +3093,7 @@ en={
 vo={
 {"vo",file="fem_z03_00254",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「ううん……シャボン玉で遊ぶなんて、初めてだから」",
@@ -3101,7 +3101,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No...it's just my first time playing with bubbles.」",
 },
 },
 },
@@ -3113,7 +3113,7 @@ ja={
 },
 en={
 {
-"",
+"...Really.",
 },
 },
 },
@@ -3125,7 +3125,7 @@ ja={
 },
 en={
 {
-"",
+"Most people would have done it in their childhoods.",
 },
 },
 },
@@ -3133,7 +3133,7 @@ en={
 vo={
 {"vo",file="fem_z02_00165",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「じゃあ、なおさらやってみないか？　このシャボン玉セットは白花にプレゼントするよ」",
@@ -3141,7 +3141,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No time like the present. Speaking of, this bubble set is for you.」",
 },
 },
 },
@@ -3149,7 +3149,7 @@ en={
 vo={
 {"vo",file="fem_z03_00255",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「プレゼント……」",
@@ -3157,7 +3157,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A present for me...」",
 },
 },
 },
@@ -3165,7 +3165,7 @@ en={
 vo={
 {"vo",file="fem_z03_00256",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そういうのも、初めてね」",
@@ -3173,7 +3173,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I've never gotten one before.」",
 },
 },
 },
@@ -3185,7 +3185,7 @@ ja={
 },
 en={
 {
-"",
+"Shiroka beamed and took her meager gift.",
 },
 },
 },
@@ -3197,7 +3197,7 @@ ja={
 },
 en={
 {
-"",
+"I was reminded of how I love her smile more than anything else.",
 },
 },
 },
@@ -3205,7 +3205,7 @@ en={
 vo={
 {"vo",file="fem_z03_00257",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「これ、どうやって使えばいいの？」",
@@ -3213,7 +3213,7 @@ ja={
 },
 en={
 {
-"「」",
+"「How do I use it?」",
 },
 },
 },
@@ -3221,7 +3221,7 @@ en={
 vo={
 {"vo",file="fem_z02_00166",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「えっと、まずはシャボン玉液を用意して……」",
@@ -3229,7 +3229,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Umm, first you put this in the bubble soap...」",
 },
 },
 },
@@ -3241,7 +3241,7 @@ ja={
 },
 en={
 {
-"",
+"I carefully explained how to use the bubble set.",
 },
 },
 },
@@ -3249,7 +3249,7 @@ en={
 vo={
 {"vo",file="fem_z03_00258",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「じゃあ……やってみる」",
@@ -3257,7 +3257,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Okay...I'll give it a whirl.」",
 },
 },
 },
@@ -3269,7 +3269,7 @@ ja={
 },
 en={
 {
-"",
+"She nervously moved the bubble wand to the front of her lips.",
 },
 },
 },
@@ -3277,7 +3277,7 @@ en={
 vo={
 {"vo",file="fem_z02_00167",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「間違って吸い込まないようにな」",
@@ -3285,7 +3285,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Don't suck it into your mouth.」",
 },
 },
 },
@@ -3293,7 +3293,7 @@ en={
 vo={
 {"vo",file="fem_z03_00259",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……わかってるってば」",
@@ -3301,7 +3301,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I know that, dummy.」",
 },
 },
 },
@@ -3309,7 +3309,7 @@ en={
 vo={
 {"vo",file="fem_z03_00260",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「ぷーっ」",
@@ -3317,7 +3317,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwoo.」",
 },
 },
 },
@@ -3329,7 +3329,7 @@ ja={
 },
 en={
 {
-"",
+"Shiroka blew out several soap bubbles.",
 },
 },
 },
@@ -3341,7 +3341,7 @@ ja={
 },
 en={
 {
-"",
+"The orbs of light swayed in the wind.",
 },
 },
 },
@@ -3353,7 +3353,7 @@ ja={
 },
 en={
 {
-"",
+"Climbing into the blue sky, and softly vanishing as they burst.",
 },
 },
 },
@@ -3361,7 +3361,7 @@ en={
 vo={
 {"vo",file="fem_z03_00261",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「綺麗……」",
@@ -3369,7 +3369,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So pretty...」",
 },
 },
 },
@@ -3377,7 +3377,7 @@ en={
 vo={
 {"vo",file="fem_z03_00262",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「ぷーっ」",
@@ -3385,7 +3385,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwoo.」",
 },
 },
 },
@@ -3397,7 +3397,7 @@ ja={
 },
 en={
 {
-"",
+"Shiroka continued to blow bubbles.",
 },
 },
 },
@@ -3409,7 +3409,7 @@ ja={
 },
 en={
 {
-"",
+"She was focused on making them fly as nicely as possible.",
 },
 },
 },
@@ -3421,7 +3421,7 @@ ja={
 },
 en={
 {
-"",
+"I'm glad she's so into them.",
 },
 },
 },
@@ -3433,7 +3433,7 @@ ja={
 },
 en={
 {
-"",
+"I should sneak off and do the chores.",
 },
 },
 },
@@ -3445,7 +3445,7 @@ ja={
 },
 en={
 {
-"",
+"I knew where the laundry machine and cleaning supplies are kept thanks to my numerous visits.",
 },
 },
 },
@@ -3453,7 +3453,7 @@ en={
 vo={
 {"vo",file="fem_z03_00263",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「蒼、どこいくの？」",
@@ -3461,7 +3461,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ao, where're you going?」",
 },
 },
 },
@@ -3473,7 +3473,7 @@ ja={
 },
 en={
 {
-"",
+"She caught sight of me before I could slip inside.",
 },
 },
 },
@@ -3481,7 +3481,7 @@ en={
 vo={
 {"vo",file="fem_z03_00264",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「待ちなさい。まだプレゼントのお礼をしてないわ」",
@@ -3489,7 +3489,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hold it. I need to reward you for the present.」",
 },
 },
 },
@@ -3497,7 +3497,7 @@ en={
 vo={
 {"vo",file="fem_z03_00265",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「あなたに、報酬をあげる……」",
@@ -3505,7 +3505,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's your payment...」",
 },
 },
 },
@@ -3513,7 +3513,7 @@ en={
 vo={
 {"vo",file="fem_z03_00266",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「ンっ……」",
@@ -3521,7 +3521,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mm...」",
 },
 },
 },
@@ -3533,7 +3533,7 @@ ja={
 },
 en={
 {
-"",
+"She kissed me.",
 },
 },
 },
@@ -3545,7 +3545,7 @@ ja={
 },
 en={
 {
-"",
+"I accepted it in a daze.",
 },
 },
 },
@@ -3557,7 +3557,7 @@ ja={
 },
 en={
 {
-"",
+"I feel like I'm in a dream...",
 },
 },
 },
@@ -3569,7 +3569,7 @@ ja={
 },
 en={
 {
-"",
+"Her warm, soft lips are heavenly.",
 },
 },
 },
@@ -3577,7 +3577,7 @@ en={
 vo={
 {"vo",file="fem_z03_00267",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……蒼」",
@@ -3585,7 +3585,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Ao.」",
 },
 },
 },
@@ -3597,7 +3597,7 @@ ja={
 },
 en={
 {
-"",
+"Her voice snapped me back to my senses.",
 },
 },
 },
@@ -3605,7 +3605,7 @@ en={
 vo={
 {"vo",file="fem_z03_00268",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「最初に言った通り、私も一緒に家事をやるわ」",
@@ -3613,7 +3613,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Like I said before, we're doing the chores together.」",
 },
 },
 },
@@ -3621,7 +3621,7 @@ en={
 vo={
 {"vo",file="fem_z03_00269",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「蒼には、部屋の掃除だけお願いする」",
@@ -3629,7 +3629,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You only have to clean my room.」",
 },
 },
 },
@@ -3637,7 +3637,7 @@ en={
 vo={
 {"vo",file="fem_z03_00270",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「洗濯は……任せられないもの」",
@@ -3645,7 +3645,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The laundry...is for me to do.」",
 },
 },
 },
@@ -3657,7 +3657,7 @@ ja={
 },
 en={
 {
-"",
+"...She's still doesn't want me touching her underwear.",
 },
 },
 },
@@ -3665,7 +3665,7 @@ en={
 vo={
 {"vo",file="fem_z02_00168",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「えっと……気にしなくていいぞ？」",
@@ -3673,7 +3673,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Umm...I don't mind doing the laundry either.」",
 },
 },
 },
@@ -3681,7 +3681,7 @@ en={
 vo={
 {"vo",file="fem_z03_00271",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……手錠が欲しいの？」",
@@ -3689,7 +3689,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...You wanna be cuffed?」",
 },
 },
 },
@@ -3697,7 +3697,7 @@ en={
 vo={
 {"vo",file="fem_z02_00169",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「い、いや、やましいことはしないから！」",
@@ -3705,7 +3705,7 @@ ja={
 },
 en={
 {
-"「」",
+"「C-Come on, I won't do anything I'd feel guilty about!」",
 },
 },
 },
@@ -3713,7 +3713,7 @@ en={
 vo={
 {"vo",file="fem_z03_00272",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……たとえしなくても、ダメ」",
@@ -3721,7 +3721,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...The answer's still no.」",
 },
 },
 },
@@ -3729,7 +3729,7 @@ en={
 vo={
 {"vo",file="fem_z03_00273",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「見られるだけでも……恥ずかしいじゃない」",
@@ -3737,7 +3737,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You seeing them...would be plenty embarrassing.」",
 },
 },
 },
@@ -3749,7 +3749,7 @@ ja={
 },
 en={
 {
-"",
+"...And kissing me isn't?",
 },
 },
 },
@@ -3761,7 +3761,7 @@ ja={
 },
 en={
 {
-"",
+"What am I saying...of course it is.",
 },
 },
 },
@@ -3773,7 +3773,7 @@ ja={
 },
 en={
 {
-"",
+"She's just bearing with it.",
 },
 },
 },
@@ -3785,7 +3785,7 @@ ja={
 },
 en={
 {
-"",
+"Does that mean her urge to kiss me overpowered her shame...?",
 },
 },
 },
@@ -3797,7 +3797,7 @@ ja={
 },
 en={
 {
-"",
+"If so, words wouldn't do the resulting sense of exhilaration justice...",
 },
 },
 },
@@ -3809,7 +3809,7 @@ ja={
 },
 en={
 {
-"",
+"After that, we split up the chores and got to it.",
 },
 },
 },
@@ -3821,7 +3821,7 @@ ja={
 },
 en={
 {
-"",
+"It was lunchtime when we finished, so we partook together.",
 },
 },
 },
@@ -3833,7 +3833,7 @@ ja={
 },
 en={
 {
-"",
+"We had the lunch Mom made for us.",
 },
 },
 },
@@ -3845,7 +3845,7 @@ ja={
 },
 en={
 {
-"",
+"She gave it to me when I told her I wanted to eat lunch at a friend's house.",
 },
 },
 },
@@ -3857,7 +3857,7 @@ ja={
 },
 en={
 {
-"",
+"I want to move Shiroka away from her packaged food diet a little bit.",
 },
 },
 },
@@ -3869,7 +3869,7 @@ ja={
 },
 en={
 {
-"",
+"With Mom's permission, I'd like to bring food for her every weekend.",
 },
 },
 },
@@ -3877,7 +3877,7 @@ en={
 vo={
 {"vo",file="fem_z03_00274",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「ごちそうさま。おいしかったわ」",
@@ -3885,7 +3885,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Thanks for the food. It was delicious.」",
 },
 },
 },
@@ -3893,7 +3893,7 @@ en={
 vo={
 {"vo",file="fem_z03_00275",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「あなたのお母さん、料理が得意なのね」",
@@ -3901,7 +3901,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're mom's a great cook.」",
 },
 },
 },
@@ -3909,7 +3909,7 @@ en={
 vo={
 {"vo",file="fem_z02_00170",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「得意かどうかは知らないけど、僕も母さんのご飯に文句を言ったことはないな」",
@@ -3917,7 +3917,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can't compare it to anything, but I've never complained about her cooking myself.」",
 },
 },
 },
@@ -3925,7 +3925,7 @@ en={
 vo={
 {"vo",file="fem_z03_00276",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そうでしょうね、マザコンだもの」",
@@ -3933,7 +3933,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Of course not, since you're a mother-lover.」",
 },
 },
 },
@@ -3941,7 +3941,7 @@ en={
 vo={
 {"vo",file="fem_z02_00171",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……違うんだって」",
@@ -3949,7 +3949,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I'm really not.」",
 },
 },
 },
@@ -3957,7 +3957,7 @@ en={
 vo={
 {"vo",file="fem_z03_00277",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「それじゃあ、食後の一服に」",
@@ -3965,7 +3965,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And an aftermeal puff.」",
 },
 },
 },
@@ -3973,7 +3973,7 @@ en={
 vo={
 {"vo",file="fem_z03_00278",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「ぷーっ」",
@@ -3981,7 +3981,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwoo.」",
 },
 },
 },
@@ -3993,7 +3993,7 @@ ja={
 },
 en={
 {
-"",
+"Shiroka began blowing bubbles by the window.",
 },
 },
 },
@@ -4005,7 +4005,7 @@ ja={
 },
 en={
 {
-"",
+"At this rate, she'll run out bubble soap before the day is out.",
 },
 },
 },
@@ -4017,7 +4017,7 @@ ja={
 },
 en={
 {
-"",
+"I didn't expect her to be so into it.",
 },
 },
 },
@@ -4029,7 +4029,7 @@ ja={
 },
 en={
 {
-"",
+"I expected her to brush it aside, saying it's for children.",
 },
 },
 },
@@ -4041,7 +4041,7 @@ ja={
 },
 en={
 {
-"",
+"I wonder why it caught her fancy...",
 },
 },
 },
@@ -4049,7 +4049,7 @@ en={
 vo={
 {"vo",file="fem_z03_00279",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「シャボン玉……綺麗に飛ばすこと、難しい」",
@@ -4057,7 +4057,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's hard to make bubbles fly nicely.」",
 },
 },
 },
@@ -4069,7 +4069,7 @@ ja={
 },
 en={
 {
-"",
+"The wind sent the bubbles all over the place.",
 },
 },
 },
@@ -4081,7 +4081,7 @@ ja={
 },
 en={
 {
-"",
+"Maybe there's a trick to it? Not that I would know.",
 },
 },
 },
@@ -4089,7 +4089,7 @@ en={
 vo={
 {"vo",file="fem_z03_00280",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「…………」",
@@ -4109,7 +4109,7 @@ ja={
 },
 en={
 {
-"",
+"She gazed at the idly floating bubbles.",
 },
 },
 },
@@ -4121,7 +4121,7 @@ ja={
 },
 en={
 {
-"",
+"Even after they all popped, she kept staring.",
 },
 },
 },
@@ -4133,7 +4133,7 @@ ja={
 },
 en={
 {
-"",
+"At the end of her gaze was the blue sky.",
 },
 },
 },
@@ -4145,7 +4145,7 @@ ja={
 },
 en={
 {
-"",
+"A longing for the sky.",
 },
 },
 },
@@ -4157,7 +4157,7 @@ ja={
 },
 en={
 {
-"",
+"A gaze filled with envy...",
 },
 },
 },
@@ -4165,7 +4165,7 @@ en={
 vo={
 {"vo",file="fem_z02_00172",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "（そうか……）",
@@ -4173,7 +4173,7 @@ ja={
 },
 en={
 {
-"",
+"(I see...)",
 },
 },
 },
@@ -4185,7 +4185,7 @@ ja={
 },
 en={
 {
-"",
+"I think I get it.",
 },
 },
 },
@@ -4197,7 +4197,7 @@ ja={
 },
 en={
 {
-"",
+"Why she likes the bubbles so much.",
 },
 },
 },
@@ -4209,7 +4209,7 @@ ja={
 },
 en={
 {
-"",
+"Why she wants to make them fly nicely.",
 },
 },
 },
@@ -4221,7 +4221,7 @@ ja={
 },
 en={
 {
-"",
+"It's because she sees herself in them.",
 },
 },
 },
@@ -4233,7 +4233,7 @@ ja={
 },
 en={
 {
-"",
+"She longs to be like bubbles that fly nicely and freely...",
 },
 },
 },
@@ -4241,7 +4241,7 @@ en={
 vo={
 {"vo",file="fem_z03_00281",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……ねえ、蒼」",
@@ -4249,7 +4249,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Hey, Ao.」",
 },
 },
 },
@@ -4261,7 +4261,7 @@ ja={
 },
 en={
 {
-"",
+"She turned to me.",
 },
 },
 },
@@ -4269,7 +4269,7 @@ en={
 vo={
 {"vo",file="fem_z03_00282",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「シャボン玉液って、どこに売ってるの？」",
@@ -4277,7 +4277,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Where do you buy bubble soap?」",
 },
 },
 },
@@ -4285,7 +4285,7 @@ en={
 vo={
 {"vo",file="fem_z02_00173",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……えっと。僕が買ったのは駄菓子屋だけど、自分でも作れるみたいだよ」",
@@ -4293,7 +4293,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Umm. I bought it at the candy store, but you can make it on your own too.」",
 },
 },
 },
@@ -4301,7 +4301,7 @@ en={
 vo={
 {"vo",file="fem_z03_00283",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そうなの？　どうやって作るの？」",
@@ -4309,7 +4309,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ready? How do I do that?」",
 },
 },
 },
@@ -4317,7 +4317,7 @@ en={
 vo={
 {"vo",file="fem_z02_00174",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「ちょっとわからないから、母さんに聞いてみるよ」",
@@ -4325,7 +4325,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Not sure. I'll try asking Mom.」",
 },
 },
 },
@@ -4333,7 +4333,7 @@ en={
 vo={
 {"vo",file="fem_z03_00284",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「じゃあ今日中に聞いてきて」",
@@ -4341,7 +4341,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Do it today.」",
 },
 },
 },
@@ -4353,7 +4353,7 @@ ja={
 },
 en={
 {
-"",
+"Looks like she plans on blowing bubbles when there's nothing better to do.",
 },
 },
 },
@@ -4365,7 +4365,7 @@ ja={
 },
 en={
 {
-"",
+"All while holding onto her yearning for the sky...for freedom.",
 },
 },
 },
@@ -4373,7 +4373,7 @@ en={
 vo={
 {"vo",file="fem_z03_00285",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「あ、でも聞いてくるのは後でいいわ。まだあなたとおしゃべりしてないもの」",
@@ -4381,7 +4381,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, but not right now. We haven't talked yet.」",
 },
 },
 },
@@ -4389,7 +4389,7 @@ en={
 vo={
 {"vo",file="fem_z02_00175",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……今日は休日だし、学校のことは話せないぞ？」",
@@ -4397,7 +4397,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...It's the weekend, so I don't have any school stories.」",
 },
 },
 },
@@ -4405,7 +4405,7 @@ en={
 vo={
 {"vo",file="fem_z03_00286",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「話題なら、いくらでもあるじゃない。それとも蒼は、私と話したくないの？」",
@@ -4413,7 +4413,7 @@ ja={
 },
 en={
 {
-"「」",
+"「There's loads of things we can talk about. Or are you sick of talking with me?」",
 },
 },
 },
@@ -4421,7 +4421,7 @@ en={
 vo={
 {"vo",file="fem_z02_00176",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「話したいよ。白花のこと好きだから」",
@@ -4429,7 +4429,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Of course not. Because I like you.」",
 },
 },
 },
@@ -4437,7 +4437,7 @@ en={
 vo={
 {"vo",file="fem_z03_00287",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「す、ストレートに言わないでっ」",
@@ -4445,7 +4445,7 @@ ja={
 },
 en={
 {
-"「」",
+"「D-Don't say it so directly.」",
 },
 },
 },
@@ -4453,7 +4453,7 @@ en={
 vo={
 {"vo",file="fem_z03_00288",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「まったく……ほんとあなたって、天然のスケコマシね」",
@@ -4461,7 +4461,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I swear...you're a natural womanizer.」",
 },
 },
 },
@@ -4469,7 +4469,7 @@ en={
 vo={
 {"vo",file="fem_z02_00177",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「スケコマシ？」",
@@ -4477,7 +4477,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Womanizer?」",
 },
 },
 },
@@ -4485,7 +4485,7 @@ en={
 vo={
 {"vo",file="fem_z03_00289",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「言葉の意味がわからないなら、あなたの大好きなお母さんにでも聞きなさい」",
@@ -4493,7 +4493,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm not sure what it means, so ask your beloved mom.」",
 },
 },
 },
@@ -4501,7 +4501,7 @@ en={
 vo={
 {"vo",file="fem_z02_00178",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「そうするよ」",
@@ -4509,7 +4509,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Alright, I will.」",
 },
 },
 },
@@ -4517,7 +4517,7 @@ en={
 vo={
 {"vo",file="fem_z03_00290",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「マザコン……」",
@@ -4525,7 +4525,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mother-lover...」",
 },
 },
 },
@@ -4533,7 +4533,7 @@ en={
 vo={
 {"vo",file="fem_z02_00179",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「そっちが振ったんだろっ」",
@@ -4541,7 +4541,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You brought it up.」",
 },
 },
 },
@@ -4549,7 +4549,7 @@ en={
 vo={
 {"vo",file="fem_z03_00291",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「ていうか、私はこんな話がしたいんじゃなくて」",
@@ -4557,7 +4557,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Wait, this isn't what I wanted to talk about.」",
 },
 },
 },
@@ -4565,7 +4565,7 @@ en={
 vo={
 {"vo",file="fem_z02_00180",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「どんな話がしたいんだ？」",
@@ -4573,7 +4573,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What do you have in mind?」",
 },
 },
 },
@@ -4581,7 +4581,7 @@ en={
 vo={
 {"vo",file="fem_z03_00292",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「死について」",
@@ -4589,7 +4589,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Death.」",
 },
 },
 },
@@ -4601,7 +4601,7 @@ ja={
 },
 en={
 {
-"",
+"That got dark really fast!",
 },
 },
 },
@@ -4609,7 +4609,7 @@ en={
 vo={
 {"vo",file="fem_z03_00293",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「蒼って、死にたい？」",
@@ -4617,7 +4617,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ao, do you want to die?」",
 },
 },
 },
@@ -4629,7 +4629,7 @@ ja={
 },
 en={
 {
-"",
+"Why would you ask that?!",
 },
 },
 },
@@ -4637,7 +4637,7 @@ en={
 vo={
 {"vo",file="fem_z03_00294",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「どうなの？」",
@@ -4645,7 +4645,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Well?」",
 },
 },
 },
@@ -4653,7 +4653,7 @@ en={
 vo={
 {"vo",file="fem_z02_00181",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……率直に言って、死にたくないよ」",
@@ -4661,7 +4661,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Honestly speaking, no.」",
 },
 },
 },
@@ -4669,7 +4669,7 @@ en={
 vo={
 {"vo",file="fem_z03_00295",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「どうして？」",
@@ -4677,7 +4677,7 @@ ja={
 },
 en={
 {
-"「」",
+"「How come?」",
 },
 },
 },
@@ -4685,7 +4685,7 @@ en={
 vo={
 {"vo",file="fem_z02_00182",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「どうしてって……」",
@@ -4693,7 +4693,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hard to say...」",
 },
 },
 },
@@ -4701,7 +4701,7 @@ en={
 vo={
 {"vo",file="fem_z03_00296",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「理由もないのに、死にたくないの？」",
@@ -4709,7 +4709,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You can't think of a reason not to die?」",
 },
 },
 },
@@ -4717,7 +4717,7 @@ en={
 vo={
 {"vo",file="fem_z02_00183",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……あえて言うなら、死ぬのが怖いからだよ」",
@@ -4725,7 +4725,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...If anything, it's because dying is scary.」",
 },
 },
 },
@@ -4733,7 +4733,7 @@ en={
 vo={
 {"vo",file="fem_z03_00297",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「どうして怖いの？」",
@@ -4741,7 +4741,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What makes it scary?」",
 },
 },
 },
@@ -4749,7 +4749,7 @@ en={
 vo={
 {"vo",file="fem_z02_00184",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「それは……」",
@@ -4757,7 +4757,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Well...」",
 },
 },
 },
@@ -4769,7 +4769,7 @@ ja={
 },
 en={
 {
-"",
+"...I wonder.",
 },
 },
 },
@@ -4777,7 +4777,7 @@ en={
 vo={
 {"vo",file="fem_z03_00298",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「きっと、死んだら自分がどうなるかわからないから、怖いんじゃない？」",
@@ -4785,7 +4785,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Is is because it's scary not knowing what happens after you die?」",
 },
 },
 },
@@ -4793,7 +4793,7 @@ en={
 vo={
 {"vo",file="fem_z03_00299",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「死後の世界はあるのか、それとも完全な無に帰してしまうのか。誰にもわからないもの」",
@@ -4801,7 +4801,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nobody knows whether there's a world after death, or if you return to total nothingness.」",
 },
 },
 },
@@ -4809,7 +4809,7 @@ en={
 vo={
 {"vo",file="fem_z02_00185",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「たしかに……そうかも」",
@@ -4817,7 +4817,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You may be right.」",
 },
 },
 },
@@ -4825,7 +4825,7 @@ en={
 vo={
 {"vo",file="fem_z03_00300",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「じゃあ、死んだら幽霊になれるってわかっていれば、怖くない？」",
@@ -4833,7 +4833,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you knew you'd become a ghost after dying, would it be less scary?」",
 },
 },
 },
@@ -4845,7 +4845,7 @@ ja={
 },
 en={
 {
-"",
+"I gave it some thought.",
 },
 },
 },
@@ -4853,7 +4853,7 @@ en={
 vo={
 {"vo",file="fem_z02_00186",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……やっぱり、怖いかな」",
@@ -4861,7 +4861,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...No, it's still scary.」",
 },
 },
 },
@@ -4869,7 +4869,7 @@ en={
 vo={
 {"vo",file="fem_z03_00301",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「どうして？」",
@@ -4877,7 +4877,7 @@ ja={
 },
 en={
 {
-"「」",
+"「How come?」",
 },
 },
 },
@@ -4885,7 +4885,7 @@ en={
 vo={
 {"vo",file="fem_z02_00187",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「幽霊っていうのがどんな存在なのか、僕は知らないから。だから結局、怖いんだと思う」",
@@ -4893,7 +4893,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't know what ghosts are like, so becoming one would be scary.」",
 },
 },
 },
@@ -4901,7 +4901,7 @@ en={
 vo={
 {"vo",file="fem_z02_00188",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「でも……白花は知ってるのか？」",
@@ -4909,7 +4909,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But...what about you? Do you know for sure?」",
 },
 },
 },
@@ -4917,7 +4917,7 @@ en={
 vo={
 {"vo",file="fem_z03_00302",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そうね。私は幽霊と何度もおしゃべりしてるから」",
@@ -4925,7 +4925,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Well, I do often talk to ghosts.」",
 },
 },
 },
@@ -4933,7 +4933,7 @@ en={
 vo={
 {"vo",file="fem_z03_00303",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「それでわかったんだけど、幽霊には自分の死を自覚している人と、自覚していない人がいるわ」",
@@ -4941,7 +4941,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And one thing I've learned is that some of them know they're dead, and some of them don't.」",
 },
 },
 },
@@ -4949,7 +4949,7 @@ en={
 vo={
 {"vo",file="fem_z03_00304",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「だから私は、こう思ったの」",
@@ -4957,7 +4957,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So I had a lightbulb moment.」",
 },
 },
 },
@@ -4965,7 +4965,7 @@ en={
 vo={
 {"vo",file="fem_z03_00305",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「たとえ死んだあとでも、死を自覚せずに存在できるのなら、死は怖くないんじゃないかって」",
@@ -4973,7 +4973,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you exist without knowing that you're dead, then death might not be scary at all.」",
 },
 },
 },
@@ -4981,7 +4981,7 @@ en={
 vo={
 {"vo",file="fem_z03_00306",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「だけど自覚してしまえば、やっぱり死は怖いと思う」",
@@ -4989,7 +4989,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But the moment you realize you are, it becomes scary.」",
 },
 },
 },
@@ -4997,7 +4997,7 @@ en={
 vo={
 {"vo",file="fem_z03_00307",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「幽霊で言えば、成仏になるのかしら」",
@@ -5005,7 +5005,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I wonder if ghosts ascend.」",
 },
 },
 },
@@ -5013,7 +5013,7 @@ en={
 vo={
 {"vo",file="fem_z03_00308",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「さっきも言ったけど……死後の世界なんて、誰にもわからないものね」",
@@ -5021,7 +5021,7 @@ ja={
 },
 en={
 {
-"「」",
+"「As I said...nobody knows if there's a world after death.」",
 },
 },
 },
@@ -5033,7 +5033,7 @@ ja={
 },
 en={
 {
-"",
+"I listened to Shiroka without saying a word.",
 },
 },
 },
@@ -5041,7 +5041,7 @@ en={
 vo={
 {"vo",file="fem_z03_00309",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「ただ、死ぬことはたしかに怖いけど」",
@@ -5049,7 +5049,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Still, dying is totally scary.」",
 },
 },
 },
@@ -5057,7 +5057,7 @@ en={
 vo={
 {"vo",file="fem_z03_00310",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「それでも死は、誰にでも訪れる」",
@@ -5065,7 +5065,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yet death comes for everyone.」",
 },
 },
 },
@@ -5073,7 +5073,7 @@ en={
 vo={
 {"vo",file="fem_z03_00311",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「必ず訪れることがわかっていながら、人は生きていくしかない……」",
@@ -5081,7 +5081,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And humans need to live with the knowledge that they'll die someday...」",
 },
 },
 },
@@ -5089,7 +5089,7 @@ en={
 vo={
 {"vo",file="fem_z03_00312",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そう考えると、死ぬよりも生きることのほうが大変で、ずっと難しい行為なんじゃないかって、私は思うのよ」",
@@ -5097,7 +5097,7 @@ ja={
 },
 en={
 {
-"「」",
+"「When you think about it that way, living is much more trying and difficult than dying. That's my opinion.」",
 },
 },
 },
@@ -5109,7 +5109,7 @@ ja={
 },
 en={
 {
-"",
+"...Is she telling me this because of her weak constitution?",
 },
 },
 },
@@ -5121,7 +5121,7 @@ ja={
 },
 en={
 {
-"",
+"Does she think her life will be cut short?",
 },
 },
 },
@@ -5133,7 +5133,7 @@ ja={
 },
 en={
 {
-"",
+"Don't tell me a doctor said she doesn't have long to live...",
 },
 },
 },
@@ -5141,7 +5141,7 @@ en={
 vo={
 {"vo",file="fem_z03_00313",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「蒼。なに考えてる？」",
@@ -5149,7 +5149,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ao. What's going through your head?」",
 },
 },
 },
@@ -5157,7 +5157,7 @@ en={
 vo={
 {"vo",file="fem_z03_00314",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「よけいな気遣いをしてるなら、手錠をかけるわ」",
@@ -5165,7 +5165,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll cuff you if you're thinking something lame.」",
 },
 },
 },
@@ -5173,7 +5173,7 @@ en={
 vo={
 {"vo",file="fem_z03_00315",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そうじゃないなら、私の面倒な問答につき合ってくれているお礼として、キスしてあげる……」",
@@ -5181,7 +5181,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Otherwise, I'll reward you for going along with my annoying question with a kiss...」",
 },
 },
 },
@@ -5189,7 +5189,7 @@ en={
 vo={
 {"vo",file="fem_z03_00316",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「手錠とキス、どっちがいい？」",
@@ -5197,7 +5197,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Between handcuffs and a kiss, which would you prefer?」",
 },
 },
 },
@@ -5205,7 +5205,7 @@ en={
 vo={
 {"vo",file="fem_z02_00189",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……キスがいいな」",
@@ -5213,7 +5213,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...The kiss.」",
 },
 },
 },
@@ -5221,7 +5221,7 @@ en={
 vo={
 {"vo",file="fem_z03_00317",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そう。ホッとしたわ」",
@@ -5229,7 +5229,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's good to hear.」",
 },
 },
 },
@@ -5237,7 +5237,7 @@ en={
 vo={
 {"vo",file="fem_z03_00318",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「私のキスがあなたにとって手錠よりもうれしいことみたいで、よかったわ」",
@@ -5245,7 +5245,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm glad my kisses make you happier than being cuffed.」",
 },
 },
 },
@@ -5253,7 +5253,7 @@ en={
 vo={
 {"vo",file="fem_z02_00190",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「さすがに当たり前だろ！」",
@@ -5261,7 +5261,7 @@ ja={
 },
 en={
 {
-"「」",
+"「There's no comparison!」",
 },
 },
 },
@@ -5269,7 +5269,7 @@ en={
 vo={
 {"vo",file="fem_z03_00319",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……当たり前なの？　マゾなのに」",
@@ -5277,7 +5277,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...You sure? I thought you were a masochist.」",
 },
 },
 },
@@ -5285,7 +5285,7 @@ en={
 vo={
 {"vo",file="fem_z02_00191",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「誤解だ！」",
@@ -5293,7 +5293,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I am not!」",
 },
 },
 },
@@ -5301,7 +5301,7 @@ en={
 vo={
 {"vo",file="fem_z03_00320",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「どこが？　マゾマザコンのくせに」",
@@ -5309,7 +5309,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Lies. I know you're a maso-mother-lover.」",
 },
 },
 },
@@ -5321,7 +5321,7 @@ ja={
 },
 en={
 {
-"",
+"She just won't let this go.",
 },
 },
 },
@@ -5329,7 +5329,7 @@ en={
 vo={
 {"vo",file="fem_z03_00321",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「とりあえず、キスという名のお姉さんの手ほどきは、おしゃべりの時間が終わってからね」",
@@ -5337,7 +5337,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll show you how a true older lady kisses after we're done talking.」",
 },
 },
 },
@@ -5349,7 +5349,7 @@ ja={
 },
 en={
 {
-"",
+"...Looks like kisses are her way of asserting her maturity.",
 },
 },
 },
@@ -5357,7 +5357,7 @@ en={
 vo={
 {"vo",file="fem_z03_00322",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「もし人間が死んで、幽霊になって……その幽霊という存在が、人間と変わらずに暮らせるのなら」",
@@ -5365,7 +5365,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If people become ghosts after they die...and the ghosts can live like humans...」",
 },
 },
 },
@@ -5373,7 +5373,7 @@ en={
 vo={
 {"vo",file="fem_z03_00323",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「幽霊だって、ちゃんと生きているのだとしたら」",
@@ -5381,7 +5381,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then they can live a full life.」",
 },
 },
 },
@@ -5389,7 +5389,7 @@ en={
 vo={
 {"vo",file="fem_z03_00324",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「私は、旅に出てみたいと思ってるの」",
@@ -5397,7 +5397,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If I were in that position, I'd go on a journey.」",
 },
 },
 },
@@ -5405,7 +5405,7 @@ en={
 vo={
 {"vo",file="fem_z02_00192",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……旅？」",
@@ -5413,7 +5413,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...A journey?」",
 },
 },
 },
@@ -5421,7 +5421,7 @@ en={
 vo={
 {"vo",file="fem_z03_00325",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「うん、旅。今の私は自由に歩けない身体だから」",
@@ -5429,7 +5429,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yep, a journey. I can't walk around much with how I am.」",
 },
 },
 },
@@ -5437,7 +5437,7 @@ en={
 vo={
 {"vo",file="fem_z03_00326",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「でも、幽霊になれば、人間の頃の悪い病気も治ってるかもしれないじゃない」",
@@ -5445,7 +5445,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But if I became a ghost, any human diseases I had would likely be cured.」",
 },
 },
 },
@@ -5453,7 +5453,7 @@ en={
 vo={
 {"vo",file="fem_z03_00327",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「まるで、空を自由に飛ぶ鳥のように……私も、自分の足で自由に歩いてみたい」",
@@ -5461,7 +5461,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I could walk on my own two feet...like how birds fly freely through the sky.」",
 },
 },
 },
@@ -5469,7 +5469,7 @@ en={
 vo={
 {"vo",file="fem_z03_00328",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「ひとりで……ううん」",
@@ -5477,7 +5477,7 @@ ja={
 },
 en={
 {
-"「」",
+"「All on my own...no.」",
 },
 },
 },
@@ -5485,7 +5485,7 @@ en={
 vo={
 {"vo",file="fem_z03_00329",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「以前までは、ひとりで歩きたかったけど……」",
@@ -5493,7 +5493,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Before, I wanted to journey on my own...」",
 },
 },
 },
@@ -5501,7 +5501,7 @@ en={
 vo={
 {"vo",file="fem_z03_00330",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「私は……恋とか、知らなかったし……」",
@@ -5509,7 +5509,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But that was...before I learned what love is...」",
 },
 },
 },
@@ -5517,7 +5517,7 @@ en={
 vo={
 {"vo",file="fem_z03_00331",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「でも……今は……」",
@@ -5525,7 +5525,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But now...」",
 },
 },
 },
@@ -5533,7 +5533,7 @@ en={
 vo={
 {"vo",file="fem_z02_00193",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「今は違うんだ？」",
@@ -5541,7 +5541,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Things have changed?」",
 },
 },
 },
@@ -5549,7 +5549,7 @@ en={
 vo={
 {"vo",file="fem_z03_00332",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……そうよ」",
@@ -5557,7 +5557,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Yeah.」",
 },
 },
 },
@@ -5565,7 +5565,7 @@ en={
 vo={
 {"vo",file="fem_z03_00333",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「私は……誰かと一緒に、歩きたいわ」",
@@ -5573,7 +5573,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want...to journey with someone.」",
 },
 },
 },
@@ -5581,7 +5581,7 @@ en={
 vo={
 {"vo",file="fem_z02_00194",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「誰かって？」",
@@ -5589,7 +5589,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Like who?」",
 },
 },
 },
@@ -5601,7 +5601,7 @@ ja={
 },
 en={
 {
-"",
+"Clink.",
 },
 },
 },
@@ -5613,7 +5613,7 @@ ja={
 },
 en={
 {
-"",
+"The handcuffs come on.",
 },
 },
 },
@@ -5621,7 +5621,7 @@ en={
 vo={
 {"vo",file="fem_z03_00334",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……誰が聞き返していいと言ったの？」",
@@ -5629,7 +5629,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Don't answer with another question.」",
 },
 },
 },
@@ -5637,7 +5637,7 @@ en={
 vo={
 {"vo",file="fem_z02_00195",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「すみませんでした！！」",
@@ -5645,7 +5645,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm so sorry!!」",
 },
 },
 },
@@ -5653,7 +5653,7 @@ en={
 vo={
 {"vo",file="fem_z03_00335",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……しょうがなく、許してあげる」",
@@ -5661,7 +5661,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Fine, I'll forgive you.」",
 },
 },
 },
@@ -5673,7 +5673,7 @@ ja={
 },
 en={
 {
-"",
+"And they're off again.",
 },
 },
 },
@@ -5681,7 +5681,7 @@ en={
 vo={
 {"vo",file="fem_z03_00336",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「話を戻すけど」",
@@ -5689,7 +5689,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Continuing where I left off.」",
 },
 },
 },
@@ -5697,7 +5697,7 @@ en={
 vo={
 {"vo",file="fem_z03_00337",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「これは、死生観みたいな大それた話じゃなくて、ただの幼稚な願望よ」",
@@ -5705,7 +5705,7 @@ ja={
 },
 en={
 {
-"「」",
+"「This is just a silly wish of mine, not some grand view on life and death.」",
 },
 },
 },
@@ -5713,7 +5713,7 @@ en={
 vo={
 {"vo",file="fem_z03_00338",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「もし自分が生まれ変われるのなら、どうなりたいか……理想の自分を幽霊に当てはめているだけの妄想でしかないわ」",
@@ -5721,7 +5721,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Like asking what you would do if you could be reborn...or imagining your ideal self as a ghost.」",
 },
 },
 },
@@ -5729,7 +5729,7 @@ en={
 vo={
 {"vo",file="fem_z03_00339",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「でも、言葉遊びくらいにはなるはずよ」",
@@ -5737,7 +5737,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's just a bit of fun.」",
 },
 },
 },
@@ -5745,7 +5745,7 @@ en={
 vo={
 {"vo",file="fem_z03_00340",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そういうわけで、蒼。あなたはもし生まれ変われるとしたら、どんな自分になりたい？」",
@@ -5753,7 +5753,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So Ao. If you were reborn, what kind of person would you want to be?」",
 },
 },
 },
@@ -5761,7 +5761,7 @@ en={
 vo={
 {"vo",file="fem_z03_00341",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「生まれ変われるのは、自分だけに限らないわ。周囲を取り巻く環境だって含まれる」",
@@ -5769,7 +5769,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It doesn't just have to be you. Let's say the people around you are included.」",
 },
 },
 },
@@ -5777,7 +5777,7 @@ en={
 vo={
 {"vo",file="fem_z03_00342",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「あなたは、どんな世界で生きてみたい？」",
@@ -5785,7 +5785,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What kind of world would you want to live in?」",
 },
 },
 },
@@ -5797,7 +5797,7 @@ ja={
 },
 en={
 {
-"",
+"I tried imagining it.",
 },
 },
 },
@@ -5809,7 +5809,7 @@ ja={
 },
 en={
 {
-"",
+"The answer came surprisingly quickly.",
 },
 },
 },
@@ -5817,7 +5817,7 @@ en={
 vo={
 {"vo",file="fem_z02_00196",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「僕は、兄妹が欲しいかな。ひとりっ子だからさ」",
@@ -5825,7 +5825,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'd like a sibling, since I'm an only child.」",
 },
 },
 },
@@ -5833,7 +5833,7 @@ en={
 vo={
 {"vo",file="fem_z03_00343",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そうなんだ」",
@@ -5841,7 +5841,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I see.」",
 },
 },
 },
@@ -5849,7 +5849,7 @@ en={
 vo={
 {"vo",file="fem_z02_00197",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「母さんがいれば充分かもしれないけどさ」",
@@ -5857,7 +5857,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm fine with just having my mom though.」",
 },
 },
 },
@@ -5865,7 +5865,7 @@ en={
 vo={
 {"vo",file="fem_z03_00344",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……マザコン発言は置いといて」",
@@ -5873,7 +5873,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I'll ignore the mother-loving commentary.」",
 },
 },
 },
@@ -5881,7 +5881,7 @@ en={
 vo={
 {"vo",file="fem_z03_00345",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「じゃあ姉と妹、どっちが欲しい？」",
@@ -5889,7 +5889,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Would you prefer an older or younger sister?」",
 },
 },
 },
@@ -5897,7 +5897,7 @@ en={
 vo={
 {"vo",file="fem_z02_00198",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……女限定なのか？」",
@@ -5905,7 +5905,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Does it have to be a sister?」",
 },
 },
 },
@@ -5913,7 +5913,7 @@ en={
 vo={
 {"vo",file="fem_z03_00346",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「うん」",
@@ -5921,7 +5921,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yep.」",
 },
 },
 },
@@ -5933,7 +5933,7 @@ ja={
 },
 en={
 {
-"",
+"I delved back into my thoughts.",
 },
 },
 },
@@ -5941,7 +5941,7 @@ en={
 vo={
 {"vo",file="fem_z02_00199",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「姉かな」",
@@ -5949,7 +5949,7 @@ ja={
 },
 en={
 {
-"「」",
+"「An older one, probably.」",
 },
 },
 },
@@ -5957,7 +5957,7 @@ en={
 vo={
 {"vo",file="fem_z03_00347",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「どうして？」",
@@ -5965,7 +5965,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Why's that?」",
 },
 },
 },
@@ -5973,7 +5973,7 @@ en={
 vo={
 {"vo",file="fem_z02_00200",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「年上なら、頼りになりそうだから。いろいろ相談に乗ってくれそうだし」",
@@ -5981,7 +5981,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can depend on her if she's older. And we can discuss a bunch of things.」",
 },
 },
 },
@@ -5989,7 +5989,7 @@ en={
 vo={
 {"vo",file="fem_z03_00348",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「逆に、妹の相談に乗ってあげたりは？」",
@@ -5997,7 +5997,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Can't you do that with a younger sister?」",
 },
 },
 },
@@ -6005,7 +6005,7 @@ en={
 vo={
 {"vo",file="fem_z02_00201",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「妹を守ってあげるっていうのもやりがいがありそうだけど、僕はやっぱり……」",
@@ -6013,7 +6013,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Looking after a younger sister sounds nice too, but I...」",
 },
 },
 },
@@ -6021,7 +6021,7 @@ en={
 vo={
 {"vo",file="fem_z03_00349",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「守られるほうが好きなマゾ？」",
@@ -6029,7 +6029,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're a masochist that prefers being looked after?」",
 },
 },
 },
@@ -6037,7 +6037,7 @@ en={
 vo={
 {"vo",file="fem_z02_00202",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「マザコンもそうだけど、マゾからも離れてくれよ！」",
@@ -6045,7 +6045,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Enough with the masochist label! And the mother-lover one too!」",
 },
 },
 },
@@ -6053,7 +6053,7 @@ en={
 vo={
 {"vo",file="fem_z03_00350",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「じゃあ、なに？」",
@@ -6061,7 +6061,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So then, why?」",
 },
 },
 },
@@ -6069,7 +6069,7 @@ en={
 vo={
 {"vo",file="fem_z02_00203",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……僕は都会でひとり暮らしするのが夢って言ったよな？　そういうことだよ」",
@@ -6077,7 +6077,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Like I said before, my dream's to live in the city on my own. There's my reason.」",
 },
 },
 },
@@ -6085,7 +6085,7 @@ en={
 vo={
 {"vo",file="fem_z03_00351",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「都会に出たら、妹を守り続けることができない？」",
@@ -6093,7 +6093,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because if you move to the city, you can't look after your sister?」",
 },
 },
 },
@@ -6101,7 +6101,7 @@ en={
 vo={
 {"vo",file="fem_z02_00204",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「妹と別れることができなくなりそうってことだよ。そうなるくらいなら夢を捨てるかもしれない」",
@@ -6109,7 +6109,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't think I could bring myself to separate from her. I might have to give up on my dream.」",
 },
 },
 },
@@ -6117,7 +6117,7 @@ en={
 vo={
 {"vo",file="fem_z02_00205",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「妹のために都会に出られないなら、やっぱり姉のほうが欲しいって思ってしまうんだ」",
@@ -6125,7 +6125,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If having a younger sister keeps me from moving, I'd rather have an older one.」",
 },
 },
 },
@@ -6133,7 +6133,7 @@ en={
 vo={
 {"vo",file="fem_z03_00352",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……マザコンだけじゃなくて、シスコンの才能もありそうね」",
@@ -6141,7 +6141,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...You may have talent as a siscon.」",
 },
 },
 },
@@ -6153,7 +6153,7 @@ ja={
 },
 en={
 {
-"",
+"Since when is having a complex a talent?",
 },
 },
 },
@@ -6161,7 +6161,7 @@ en={
 vo={
 {"vo",file="fem_z03_00353",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「じゃあ、蒼はどんなお姉さんが欲しいの？」",
@@ -6169,7 +6169,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So, what kind of older sister would you want?」",
 },
 },
 },
@@ -6177,7 +6177,7 @@ en={
 vo={
 {"vo",file="fem_z02_00206",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「そうだな……」",
@@ -6185,7 +6185,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Lemme thing...」",
 },
 },
 },
@@ -6193,7 +6193,7 @@ en={
 vo={
 {"vo",file="fem_z02_00207",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「いつも笑顔を絶やさなくて……怒ったあとだって、季節外れの花のように笑顔を咲かせてくれる人かな」",
@@ -6201,7 +6201,7 @@ ja={
 },
 en={
 {
-"「」",
+"「One that's always smiling...a smile like unseasonal flowers in bloom, even after getting angry.」",
 },
 },
 },
@@ -6209,7 +6209,7 @@ en={
 vo={
 {"vo",file="fem_z03_00354",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「蒼は、笑顔が好きなの？」",
@@ -6217,7 +6217,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You like when people smile?」",
 },
 },
 },
@@ -6225,7 +6225,7 @@ en={
 vo={
 {"vo",file="fem_z02_00208",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「嫌いな人はいないんじゃないかな」",
@@ -6233,7 +6233,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm pretty sure everyone does.」",
 },
 },
 },
@@ -6241,7 +6241,7 @@ en={
 vo={
 {"vo",file="fem_z03_00355",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「苦笑や失笑、冷笑なんかもあるわよ」",
@@ -6249,7 +6249,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Smiling doesn't always mean they're happy.」",
 },
 },
 },
@@ -6257,7 +6257,7 @@ en={
 vo={
 {"vo",file="fem_z02_00209",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「僕が言った笑顔っていうのは、相手を傷つける笑顔じゃなくて、相手を思いやる笑顔だよ」",
@@ -6265,7 +6265,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't mean smiles that hurt people, but the thoughtful kind.」",
 },
 },
 },
@@ -6277,7 +6277,7 @@ ja={
 },
 en={
 {
-"",
+"My mom's were always like that.",
 },
 },
 },
@@ -6289,7 +6289,7 @@ ja={
 },
 en={
 {
-"",
+"Her smiles were filled with love for me.",
 },
 },
 },
@@ -6297,7 +6297,7 @@ en={
 vo={
 {"vo",file="fem_z02_00210",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「だから僕が好きなのは、笑顔が素敵な人だよ」",
@@ -6305,7 +6305,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So I like people with dazzling smiles.」",
 },
 },
 },
@@ -6313,7 +6313,7 @@ en={
 vo={
 {"vo",file="fem_z03_00356",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そう……」",
@@ -6321,7 +6321,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I see...」",
 },
 },
 },
@@ -6329,7 +6329,7 @@ en={
 vo={
 {"vo",file="fem_z03_00357",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「まるで……私みたいね」",
@@ -6337,7 +6337,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So...like me.」",
 },
 },
 },
@@ -6345,7 +6345,7 @@ en={
 vo={
 {"vo",file="fem_z02_00211",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「え、どこが？」",
@@ -6353,7 +6353,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Huh, was that a joke?」",
 },
 },
 },
@@ -6365,7 +6365,7 @@ ja={
 },
 en={
 {
-"",
+"Clink.",
 },
 },
 },
@@ -6373,7 +6373,7 @@ en={
 vo={
 {"vo",file="fem_z02_00212",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「白花の笑顔、素敵だよ。めったに見られないところがレアな感じがして喜びもひとしおだよ」",
@@ -6381,7 +6381,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Your smile is absolutely dazzling. The way I rarely see it makes me feel all the happier when I do.」",
 },
 },
 },
@@ -6389,7 +6389,7 @@ en={
 vo={
 {"vo",file="fem_z03_00358",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……ちょっと引っかかるけど、許してあげる」",
@@ -6397,7 +6397,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...A bit strained, but I'll take it.」",
 },
 },
 },
@@ -6409,7 +6409,7 @@ ja={
 },
 en={
 {
-"",
+"The handcuffs come off.",
 },
 },
 },
@@ -6417,7 +6417,7 @@ en={
 vo={
 {"vo",file="fem_z03_00359",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「じゃあ……そうね。私は今日からお姉さんよ」",
@@ -6425,7 +6425,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Okay then. I'll be your substitute older sister starting today.」",
 },
 },
 },
@@ -6433,7 +6433,7 @@ en={
 vo={
 {"vo",file="fem_z02_00213",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……誰の？」",
@@ -6441,7 +6441,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Whose?」",
 },
 },
 },
@@ -6449,7 +6449,7 @@ en={
 vo={
 {"vo",file="fem_z03_00360",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「あなたの」",
@@ -6457,7 +6457,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yours.」",
 },
 },
 },
@@ -6469,7 +6469,7 @@ ja={
 },
 en={
 {
-"",
+"...Is this because I said I wanted an older sister?",
 },
 },
 },
@@ -6477,7 +6477,7 @@ en={
 vo={
 {"vo",file="fem_z02_00214",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「でも白花は……どっちかって言うと、妹だと思う」",
@@ -6485,7 +6485,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But Shiroka...I think of you more like a younger one.」",
 },
 },
 },
@@ -6493,7 +6493,7 @@ en={
 vo={
 {"vo",file="fem_z03_00361",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「……どうしてよ。私のほうがあなたより年上よ？」",
@@ -6501,7 +6501,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Why? I'm older than you.」",
 },
 },
 },
@@ -6513,7 +6513,7 @@ ja={
 },
 en={
 {
-"",
+"Because she's small, in more ways than one.",
 },
 },
 },
@@ -6525,7 +6525,7 @@ ja={
 },
 en={
 {
-"",
+"...But she'll cuff me if I say that.",
 },
 },
 },
@@ -6533,7 +6533,7 @@ en={
 vo={
 {"vo",file="fem_z03_00362",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「蒼、いい？　私のほうがお姉さんなんだからね」",
@@ -6541,7 +6541,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Got it? I'm older than you, so I'm the big sister.」",
 },
 },
 },
@@ -6549,7 +6549,7 @@ en={
 vo={
 {"vo",file="fem_z02_00215",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「べつにいいけど……」",
@@ -6557,7 +6557,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you say so...」",
 },
 },
 },
@@ -6565,7 +6565,7 @@ en={
 vo={
 {"vo",file="fem_z03_00363",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「気のない返事ね。手錠とキス、どっちがいいの？」",
@@ -6573,7 +6573,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't like your tone. You want the handcuffs or a kiss?」",
 },
 },
 },
@@ -6581,7 +6581,7 @@ en={
 vo={
 {"vo",file="fem_z02_00216",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「キスがいいです」",
@@ -6589,7 +6589,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'd prefer the kiss.」",
 },
 },
 },
@@ -6597,7 +6597,7 @@ en={
 vo={
 {"vo",file="fem_z03_00364",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「素直ね、かわいいわ。ふふっ、あとでお姉さんがキスしてあげるわね？」",
@@ -6605,7 +6605,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're cute when you're honest. Fufu, as your big sister, I'll give you a nice kiss after this.」",
 },
 },
 },
@@ -6617,7 +6617,7 @@ ja={
 },
 en={
 {
-"",
+"She's way cuter than I am.",
 },
 },
 },
@@ -6629,7 +6629,7 @@ ja={
 },
 en={
 {
-"",
+"Even that devilish smile of hers is cute.",
 },
 },
 },
@@ -6637,7 +6637,7 @@ en={
 vo={
 {"vo",file="fem_z02_00217",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「なあ、白花」",
@@ -6645,7 +6645,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hey, Shiroka.」",
 },
 },
 },
@@ -6653,7 +6653,7 @@ en={
 vo={
 {"vo",file="fem_z02_00218",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「死とか生まれ変わりとか……白花がこんな話題を振ってきたのは、幽霊と話してるからだよな？」",
@@ -6661,7 +6661,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Did you bring up death and being reborn because you've been talking with ghosts?」",
 },
 },
 },
@@ -6669,7 +6669,7 @@ en={
 vo={
 {"vo",file="fem_z03_00365",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「キッカケなのは間違いないわね」",
@@ -6677,7 +6677,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That might've been the starting point.」",
 },
 },
 },
@@ -6685,7 +6685,7 @@ en={
 vo={
 {"vo",file="fem_z02_00219",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「僕も一度、幽霊と話してみたいな」",
@@ -6693,7 +6693,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'd like to try talking to one too.」",
 },
 },
 },
@@ -6701,7 +6701,7 @@ en={
 vo={
 {"vo",file="fem_z03_00366",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「ダメよ」",
@@ -6709,7 +6709,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Not happening.」",
 },
 },
 },
@@ -6721,7 +6721,7 @@ ja={
 },
 en={
 {
-"",
+"She shot me down immediately.",
 },
 },
 },
@@ -6729,7 +6729,7 @@ en={
 vo={
 {"vo",file="fem_z03_00367",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「あなたは、私の体調が気になっているのよね。ちょうどいい機会だから、話しておくわ」",
@@ -6737,7 +6737,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I know you're bothered about my health, so I may as well put it out there.」",
 },
 },
 },
@@ -6745,7 +6745,7 @@ en={
 vo={
 {"vo",file="fem_z03_00368",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「私の病気は、幽霊が原因なのよ」",
@@ -6753,7 +6753,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My disease is caused by ghosts.」",
 },
 },
 },
@@ -6765,7 +6765,7 @@ ja={
 },
 en={
 {
-"",
+"Say what...?",
 },
 },
 },
@@ -6773,7 +6773,7 @@ en={
 vo={
 {"vo",file="fem_z03_00369",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「どの医者からも、私の体調不良は原因不明と診断されるしかなかったわ」",
@@ -6781,7 +6781,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No doctor I've been to has figured out the cause of my poor health.」",
 },
 },
 },
@@ -6789,7 +6789,7 @@ en={
 vo={
 {"vo",file="fem_z03_00370",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「だからこそ、私の病気は人間にはわからないものなんだって、わかったの」",
@@ -6797,7 +6797,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So I reasoned that my disease is something unknown to humans.」",
 },
 },
 },
@@ -6805,7 +6805,7 @@ en={
 vo={
 {"vo",file="fem_z03_00371",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そう考えたら、原因は幽霊しかないわ」",
@@ -6813,7 +6813,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The only explanation is that ghosts caused it.」",
 },
 },
 },
@@ -6821,7 +6821,7 @@ en={
 vo={
 {"vo",file="fem_z03_00372",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「だけど……だとしても、私は幽霊を恨まない」",
@@ -6829,7 +6829,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But even so...I don't resent them.」",
 },
 },
 },
@@ -6837,7 +6837,7 @@ en={
 vo={
 {"vo",file="fem_z03_00373",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「だって、人間は私に寂しさを強要したけど、幽霊は逆に私の寂しさを癒やしてくれた」",
@@ -6845,7 +6845,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Humans isolated me, but ghosts helped me feel better.」",
 },
 },
 },
@@ -6853,7 +6853,7 @@ en={
 vo={
 {"vo",file="fem_z03_00374",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「私は、幽霊のおかげで、ひとりでも生きることができたのよ」",
@@ -6861,7 +6861,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's thanks to them that I've survived on my own.」",
 },
 },
 },
@@ -6869,7 +6869,7 @@ en={
 vo={
 {"vo",file="fem_z03_00375",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「ううん……違ったわね」",
@@ -6877,7 +6877,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No...scratch that.」",
 },
 },
 },
@@ -6885,7 +6885,7 @@ en={
 vo={
 {"vo",file="fem_z03_00376",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「私はもう、ひとりじゃない……」",
@@ -6893,7 +6893,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm not all on my own anymore...」",
 },
 },
 },
@@ -6901,7 +6901,7 @@ en={
 vo={
 {"vo",file="fem_z03_00377",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「ひとりじゃないって……そう思っていたい」",
@@ -6909,7 +6909,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's...what I want to believe.」",
 },
 },
 },
@@ -6917,7 +6917,7 @@ en={
 vo={
 {"vo",file="fem_z03_00378",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「実に無能ね……今の私は」",
@@ -6925,7 +6925,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm...truly incompetent.」",
 },
 },
 },
@@ -6933,7 +6933,7 @@ en={
 vo={
 {"vo",file="fem_z03_00379",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「好きな人ができた途端……ひとりでいることが、苦痛になるなんて」",
@@ -6941,7 +6941,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The moment I fell in love...I realized how painful being alone is. It's ridiculous.」",
 },
 },
 },
@@ -6949,7 +6949,7 @@ en={
 vo={
 {"vo",file="fem_z03_00380",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「あなたのいない時間を、寂しいと感じるなんて……」",
@@ -6957,7 +6957,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm so lonely when you're here...」",
 },
 },
 },
@@ -6965,7 +6965,7 @@ en={
 vo={
 {"vo",file="fem_z03_00381",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「ンっ……ちゅ……」",
@@ -6973,7 +6973,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mm...smooch...」",
 },
 },
 },
@@ -6985,7 +6985,7 @@ ja={
 },
 en={
 {
-"",
+"Shiroka...",
 },
 },
 },
@@ -6993,7 +6993,7 @@ en={
 vo={
 {"vo",file="fem_z03_00382",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「蒼……」",
@@ -7001,7 +7001,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ao...」",
 },
 },
 },
@@ -7009,7 +7009,7 @@ en={
 vo={
 {"vo",file="fem_z03_00383",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「私にとって……あなたにキスをしたのは、ファーストキスだったわ」",
@@ -7017,7 +7017,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I...gave you my first kiss.」",
 },
 },
 },
@@ -7025,7 +7025,7 @@ en={
 vo={
 {"vo",file="fem_z03_00384",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「だけど……あなたは、ノーカンにしてもいいのよ」",
@@ -7033,7 +7033,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But...you don't have to count it as your own first.」",
 },
 },
 },
@@ -7041,7 +7041,7 @@ en={
 vo={
 {"vo",file="fem_z03_00385",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「だって、これは……」",
@@ -7049,7 +7049,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because, you know...」",
 },
 },
 },
@@ -7057,7 +7057,7 @@ en={
 vo={
 {"vo",file="fem_z03_00386",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「男女のキスじゃないもの……」",
@@ -7065,7 +7065,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It wasn't a boy-to-girl kind of kiss...」",
 },
 },
 },
@@ -7073,7 +7073,7 @@ en={
 vo={
 {"vo",file="fem_z03_00387",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「女同士だもの……」",
@@ -7081,7 +7081,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because I'm a girl...」",
 },
 },
 },
@@ -7089,7 +7089,7 @@ en={
 vo={
 {"vo",file="fem_z03_00388",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「あなたは……",
@@ -7101,7 +7101,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And...so are you.」",
 },
 },
 },
@@ -7113,7 +7113,7 @@ ja={
 },
 en={
 {
-"",
+"...She's right.",
 },
 },
 },
@@ -7125,7 +7125,7 @@ ja={
 },
 en={
 {
-"",
+"I am a girl.",
 },
 },
 },
@@ -7137,7 +7137,7 @@ ja={
 },
 en={
 {
-"",
+"Konohana Ao is a girl.",
 },
 },
 },
@@ -7149,7 +7149,7 @@ ja={
 },
 en={
 {
-"",
+"My fondness for older women is purely out of admiration.",
 },
 },
 },
@@ -7161,7 +7161,7 @@ ja={
 },
 en={
 {
-"",
+"My dream is to be as awe-inspiring as they are.",
 },
 },
 },
@@ -7173,7 +7173,7 @@ ja={
 },
 en={
 {
-"",
+"I couldn't have a romantic interest in Shiroka because we're both girls.",
 },
 },
 },
@@ -7185,7 +7185,7 @@ ja={
 },
 en={
 {
-"",
+"My attraction to Shiroka was out of a desire to protect her, with how sickly she is.",
 },
 },
 },
@@ -7197,7 +7197,7 @@ ja={
 },
 en={
 {
-"",
+"I wanted to be a strong person that can protect others.",
 },
 },
 },
@@ -7209,7 +7209,7 @@ ja={
 },
 en={
 {
-"",
+"I'd rather people call me cool instead of cute.",
 },
 },
 },
@@ -7221,7 +7221,7 @@ ja={
 },
 en={
 {
-"",
+"I basically wanted to be seen as a mature woman.",
 },
 },
 },
@@ -7233,7 +7233,7 @@ ja={
 },
 en={
 {
-"",
+"I wanted to be a model student that could live on her own in the city.",
 },
 },
 },
@@ -7245,7 +7245,7 @@ ja={
 },
 en={
 {
-"",
+"So even if I were to fall for another girl, it wouldn't be actual love.",
 },
 },
 },
@@ -7257,7 +7257,7 @@ ja={
 },
 en={
 {
-"",
+"At least, that's what people would normally think...",
 },
 },
 },
@@ -7269,7 +7269,7 @@ ja={
 },
 en={
 {
-"",
+"But.",
 },
 },
 },
@@ -7281,7 +7281,7 @@ ja={
 },
 en={
 {
-"",
+"What is normal?",
 },
 },
 },
@@ -7293,7 +7293,7 @@ ja={
 },
 en={
 {
-"",
+"Things considered common sense?",
 },
 },
 },
@@ -7305,7 +7305,7 @@ ja={
 },
 en={
 {
-"",
+"Does Shiroka's unknown disease fall under that umbrella?",
 },
 },
 },
@@ -7317,7 +7317,7 @@ ja={
 },
 en={
 {
-"",
+"Does the existence of ghosts go against common sense...?",
 },
 },
 },
@@ -7325,7 +7325,7 @@ en={
 vo={
 {"vo",file="fem_z02_00220",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……白花」",
@@ -7333,7 +7333,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Shiroka.」",
 },
 },
 },
@@ -7341,7 +7341,7 @@ en={
 vo={
 {"vo",file="fem_z02_00221",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「僕は、白花のことが好きだよ」",
@@ -7349,7 +7349,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I do love you.」",
 },
 },
 },
@@ -7357,7 +7357,7 @@ en={
 vo={
 {"vo",file="fem_z02_00222",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「だけどこれは、恋じゃないかもしれない……」",
@@ -7365,7 +7365,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But not in the romantic sense, I think...」",
 },
 },
 },
@@ -7373,7 +7373,7 @@ en={
 vo={
 {"vo",file="fem_z03_00389",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「…………」",
@@ -7389,7 +7389,7 @@ en={
 vo={
 {"vo",file="fem_z02_00223",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「白花も、それがわかっているから、ファーストキスに数えなくていいって言ったのか……？」",
@@ -7397,7 +7397,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Is that why you don't want me to count that as my first kiss...?」",
 },
 },
 },
@@ -7405,7 +7405,7 @@ en={
 vo={
 {"vo",file="fem_z03_00390",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「実に無能ね」",
@@ -7413,7 +7413,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're truly incompetent.」",
 },
 },
 },
@@ -7425,7 +7425,7 @@ ja={
 },
 en={
 {
-"",
+"That stings.",
 },
 },
 },
@@ -7433,7 +7433,7 @@ en={
 vo={
 {"vo",file="fem_z03_00391",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「本人に聞き返さないで……まったく」",
@@ -7441,7 +7441,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can't believe you'd ask that...I swear.」",
 },
 },
 },
@@ -7449,7 +7449,7 @@ en={
 vo={
 {"vo",file="fem_z03_00392",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「あなたはスケコマシだけど、天然だからこそウブで、見方によってはヘタレよね」",
@@ -7457,7 +7457,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're a womanizer, but are so innocent you don't do it on purpose. I can even say you're a wuss.」",
 },
 },
 },
@@ -7465,7 +7465,7 @@ en={
 vo={
 {"vo",file="fem_z03_00393",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「そんなことで、本当に都会に出られるのかしら」",
@@ -7473,7 +7473,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Do you seriously think you can survive in the city like that?」",
 },
 },
 },
@@ -7481,7 +7481,7 @@ en={
 vo={
 {"vo",file="fem_z03_00394",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「",
@@ -7497,7 +7497,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Cities are hotbeds of malevolence.」",
 },
 },
 },
@@ -7505,7 +7505,7 @@ en={
 vo={
 {"vo",file="fem_z02_00224",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「……ちみもうりょう？　ばっこ？」",
@@ -7513,7 +7513,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Hotbeds? Malevolence?」",
 },
 },
 },
@@ -7521,7 +7521,7 @@ en={
 vo={
 {"vo",file="fem_z03_00395",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「あとでお母さんに聞きなさい」",
@@ -7529,7 +7529,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ask your mom what they mean.」",
 },
 },
 },
@@ -7537,7 +7537,7 @@ en={
 vo={
 {"vo",file="fem_z03_00396",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「とにかく、私は過去に親戚の家で暮らしていたけど、そこは都会だったわ。だから知っている」",
@@ -7545,7 +7545,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I lived with my relatives in the city, so I know from experience.」",
 },
 },
 },
@@ -7553,7 +7553,7 @@ en={
 vo={
 {"vo",file="fem_z03_00397",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「都会には、多様な人間が住んでいる。幽霊よりもずっと怖い人間だって住んでいる」",
@@ -7561,7 +7561,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Tons of people live there. Some of them are much much scarier than ghosts.」",
 },
 },
 },
@@ -7569,7 +7569,7 @@ en={
 vo={
 {"vo",file="fem_z03_00398",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「趣味だって、恋愛のかたちだって、魑魅魍魎なのよ」",
@@ -7577,7 +7577,7 @@ ja={
 },
 en={
 {
-"「」",
+"「They're even malevolent in their hobbies and how they show love.」",
 },
 },
 },
@@ -7585,7 +7585,7 @@ en={
 vo={
 {"vo",file="fem_z03_00399",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「要するに、人それぞれよ。人間の数だけ価値観があり、千差万別なのよ」",
@@ -7593,7 +7593,7 @@ ja={
 },
 en={
 {
-"「」",
+"「There's all sorts of people in the world and just as many value systems. They're innumerable.」",
 },
 },
 },
@@ -7601,7 +7601,7 @@ en={
 vo={
 {"vo",file="fem_z03_00400",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「まとまりがなく、混沌として、雑多で……」",
@@ -7609,7 +7609,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Incoherent, chaotic, unorganized...」",
 },
 },
 },
@@ -7617,7 +7617,7 @@ en={
 vo={
 {"vo",file="fem_z03_00401",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「無意味で、理不尽で、不条理で……」",
@@ -7625,7 +7625,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Meaningless, unreasonable, irrational...」",
 },
 },
 },
@@ -7633,7 +7633,7 @@ en={
 vo={
 {"vo",file="fem_z03_00402",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「人間とは、そういう生き物なのよ」",
@@ -7641,7 +7641,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's the kind of animals humans are.」",
 },
 },
 },
@@ -7649,7 +7649,7 @@ en={
 vo={
 {"vo",file="fem_z03_00403",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「常識なんてくだらないものに収まらないくらい、非常識なのよ……人間が生きるこの世界は」",
@@ -7657,7 +7657,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The world of humans is so off the rails that common sense has no place in it.」",
 },
 },
 },
@@ -7665,7 +7665,7 @@ en={
 vo={
 {"vo",file="fem_z03_00404",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「だからこそ、私にとって非常識だった、親戚の人たちの態度だって……ほかの人間からすれば、常識なのよ」",
@@ -7673,7 +7673,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So my relatives' attitude may have been irrational to me...but other people might see it as perfectly natural.」",
 },
 },
 },
@@ -7681,7 +7681,7 @@ en={
 vo={
 {"vo",file="fem_z02_00225",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「…………」",
@@ -7697,7 +7697,7 @@ en={
 vo={
 {"vo",file="fem_z03_00405",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「だとしても私は、周囲を恨まないし、今の自分にも後悔しない……したくない」",
@@ -7705,7 +7705,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But I don't begrudge others, and I don't regret how I am...I don't want to.」",
 },
 },
 },
@@ -7713,7 +7713,7 @@ en={
 vo={
 {"vo",file="fem_z03_00406",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「この命を誇り高く生きたいの」",
@@ -7721,7 +7721,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want to live a life I can be proud of.」",
 },
 },
 },
@@ -7729,7 +7729,7 @@ en={
 vo={
 {"vo",file="fem_z03_00407",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「だから私は、たとえあなたが女だとしても、愛することができる」",
@@ -7737,7 +7737,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's why I can love you even as a girl.」",
 },
 },
 },
@@ -7745,7 +7745,7 @@ en={
 vo={
 {"vo",file="fem_z03_00408",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「たとえあなたが人間じゃなくたって、たとえば幽霊なのだとしても、好きになれる」",
@@ -7753,7 +7753,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I could love you if you were a ghost instead of a human too.」",
 },
 },
 },
@@ -7761,7 +7761,7 @@ en={
 vo={
 {"vo",file="fem_z03_00409",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「だって私は、あなたという命そのものが、好きになったんだから」",
@@ -7769,7 +7769,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because...I love you as the person you are.」",
 },
 },
 },
@@ -7777,7 +7777,7 @@ en={
 vo={
 {"vo",file="fem_z02_00226",ch="fem"},
 },
-name={name="蒼"},
+name={name="蒼",ja="蒼",en="Ao"},
 ja={
 {
 "「白花……」",
@@ -7785,7 +7785,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiroka...」",
 },
 },
 },
@@ -7797,7 +7797,7 @@ ja={
 },
 en={
 {
-"",
+"I don't know what to say...",
 },
 },
 },
@@ -7805,7 +7805,7 @@ en={
 vo={
 {"vo",file="fem_z03_00410",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「でもね、勘違いはしないで。私はこの自分の価値観を、あなたに押しつけることはしない」",
@@ -7813,7 +7813,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But don't get the wrong idea. I'm not pushing my personal values onto you.」",
 },
 },
 },
@@ -7821,7 +7821,7 @@ en={
 vo={
 {"vo",file="fem_z03_00411",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「だからあなたは、自分で自分の価値観を養いなさい」",
@@ -7829,7 +7829,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You need to build up your own set of values.」",
 },
 },
 },
@@ -7837,7 +7837,7 @@ en={
 vo={
 {"vo",file="fem_z03_00412",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「私に恋をしているのかどうか……恋ができるのかどうか、自分で考え、自分で判断し、自分で決めなさい」",
@@ -7845,7 +7845,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Think, judge, and decide whether you love me...whether you can love someone, on your own.」",
 },
 },
 },
@@ -7853,7 +7853,7 @@ en={
 vo={
 {"vo",file="fem_z03_00413",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「それがあなた自身の手によるものなら、どんな答えだろうと、私は尊重するわ」",
@@ -7861,7 +7861,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll respect whatever answer you come to, so long as you've decided on it yourself.」",
 },
 },
 },
@@ -7869,7 +7869,7 @@ en={
 vo={
 {"vo",file="fem_z03_00414",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「だって……どんな答えだろうと、私はあなたが好き」",
@@ -7877,7 +7877,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because...no matter what you decide, I'll love you.」",
 },
 },
 },
@@ -7885,7 +7885,7 @@ en={
 vo={
 {"vo",file="fem_z03_00415",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「私の価値観は、変わらないんだもの」",
@@ -7893,7 +7893,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My own values won't change.」",
 },
 },
 },
@@ -7905,7 +7905,7 @@ ja={
 },
 en={
 {
-"",
+"...I realized something.",
 },
 },
 },
@@ -7917,7 +7917,7 @@ ja={
 },
 en={
 {
-"",
+"Shiroka is way cooler than me.",
 },
 },
 },
@@ -7929,7 +7929,7 @@ ja={
 },
 en={
 {
-"",
+"I feel silly for wanting to protect her...",
 },
 },
 },
@@ -7937,7 +7937,7 @@ en={
 vo={
 {"vo",file="fem_z03_00416",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「蒼。あなたは私が認めた、唯一の人間よ」",
@@ -7945,7 +7945,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ao. You're the one and only human I've acknowledged.」",
 },
 },
 },
@@ -7953,7 +7953,7 @@ en={
 vo={
 {"vo",file="fem_z03_00417",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「あなたがカッコいい女を目指しているなら、応援してあげるわ」",
@@ -7961,7 +7961,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If your goal is to be an awesome woman, I'll support you.」",
 },
 },
 },
@@ -7969,7 +7969,7 @@ en={
 vo={
 {"vo",file="fem_z03_00418",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「私もある意味、あなたに応援してもらったもの」",
@@ -7977,7 +7977,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Like how you've been supporting me.」",
 },
 },
 },
@@ -7985,7 +7985,7 @@ en={
 vo={
 {"vo",file="fem_z03_00419",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「孤独を好んでいたはずの私の心は、あなたの手によって、いつしか変えられてしまったんだもの」",
@@ -7993,7 +7993,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Thanks to you, I've changed from when I preferred being alone.」",
 },
 },
 },
@@ -8001,7 +8001,7 @@ en={
 vo={
 {"vo",file="fem_z03_00420",ch="shi"},
 },
-name={name="シロバナ",ja="白花"},
+name={name="シロバナ",ja="白花",en="Shiroka"},
 ja={
 {
 "「私は、あなたから初恋を教わったんだもの……」",
@@ -8009,7 +8009,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because you taught me what love is...」",
 },
 },
 },
@@ -8021,7 +8021,7 @@ ja={
 },
 en={
 {
-"",
+"And so, I...",
 },
 },
 },
@@ -8033,7 +8033,7 @@ ja={
 },
 en={
 {
-"",
+"I vowed I would never forget this kiss with her--what I'm feeling at this very moment.",
 },
 },
 },
@@ -8045,7 +8045,7 @@ ja={
 },
 en={
 {
-"",
+"No matter what happens, I'll never forget----.",
 },
 },
 },

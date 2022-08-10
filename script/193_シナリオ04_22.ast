@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="回想・蒼空とシロバナの出会い",ja="回想・蒼空とシロバナの出会い",en=""},
+{"savetitle",text="回想・蒼空とシロバナの出会い",ja="回想・蒼空とシロバナの出会い",en="Recollection-Sora and Shirobana meet"},
 {"cgdel",id=-1},
 {"bg",file="black",path=":bg/",time=1000},
 {"se",file="se811",id=1},
@@ -1091,7 +1091,7 @@ text={
 vo={
 {"vo",file="fem_twa_00001a",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「……行くのですね、蒼空」",
@@ -1099,7 +1099,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Are you prepared?」",
 },
 },
 },
@@ -1107,7 +1107,7 @@ en={
 vo={
 {"vo",file="fem_twa_00002a",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「この、",
@@ -1119,7 +1119,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You will be following the Way of the Kami.」",
 },
 },
 },
@@ -1127,7 +1127,7 @@ en={
 vo={
 {"vo",file="fem_twa_00003a",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「あなたの旅は、長いものとなるでしょう。見聞を広める良い機会にもなると思います」",
@@ -1135,7 +1135,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Your journey is bound to be a long one. It should be a good opportunity to expand your horizons.」",
 },
 },
 },
@@ -1143,7 +1143,7 @@ en={
 vo={
 {"vo",file="fem_twa_00004a",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「餞別として、私からこの言葉を贈りましょう」",
@@ -1151,7 +1151,7 @@ ja={
 },
 en={
 {
-"「」",
+"「As a parting gift, I'll leave you these words.」",
 },
 },
 },
@@ -1159,7 +1159,7 @@ en={
 vo={
 {"vo",file="fem_twa_00005a",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「一つ、送り人は研究者であれ」",
@@ -1167,7 +1167,7 @@ ja={
 },
 en={
 {
-"「」",
+"「One, okuribito are researchers.」",
 },
 },
 },
@@ -1175,7 +1175,7 @@ en={
 vo={
 {"vo",file="fem_twa_00006a",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「二つ、送り人は芸術家であれ」",
@@ -1183,7 +1183,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Two, okuribito are artists.」",
 },
 },
 },
@@ -1191,7 +1191,7 @@ en={
 vo={
 {"vo",file="fem_twa_00007a",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「三つ、送り人は勝負師であれ」",
@@ -1199,7 +1199,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Three, okuribito are challengers.」",
 },
 },
 },
@@ -1207,7 +1207,7 @@ en={
 vo={
 {"vo",file="fem_twa_00008a",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「この三つの言葉の意味を、旅の中で考えなさい」",
@@ -1215,7 +1215,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want you to consider the meaning of these three over the course of your journey.」",
 },
 },
 },
@@ -1223,7 +1223,7 @@ en={
 vo={
 {"vo",file="fem_twa_00009a",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「長い旅の果てに、あなたがなにを得ているか……」",
@@ -1231,7 +1231,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And once it comes to its end...」",
 },
 },
 },
@@ -1239,7 +1239,7 @@ en={
 vo={
 {"vo",file="fem_twa_00010a",ch="fem"},
 },
-name={name="永遠",jp="永遠",en="Towa"},
+name={name="永遠",ja="永遠",en="Towa"},
 ja={
 {
 "「私は、楽しみに待っていますよ」",
@@ -1247,7 +1247,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll look forward to seeing what you've gained.」",
 },
 },
 },
@@ -1259,7 +1259,7 @@ ja={
 },
 en={
 {
-"",
+"Towa-sensei watched as I, Kazami Sora set off.",
 },
 },
 },
@@ -1271,7 +1271,7 @@ ja={
 },
 en={
 {
-"",
+"Having finished my schooling, I've finally gotten permission to search for my sister.",
 },
 },
 },
@@ -1283,7 +1283,7 @@ ja={
 },
 en={
 {
-"",
+"My destination is north.",
 },
 },
 },
@@ -1295,7 +1295,7 @@ ja={
 },
 en={
 {
-"",
+"If memory serves, that's the direction she went after becoming a tamabito.",
 },
 },
 },
@@ -1307,7 +1307,7 @@ ja={
 },
 en={
 {
-"",
+"I chased after her with everything I had, but lost sight of her.",
 },
 },
 },
@@ -1319,7 +1319,7 @@ ja={
 },
 en={
 {
-"",
+"I left the shrine and proceeded down the path.",
 },
 },
 },
@@ -1331,7 +1331,7 @@ ja={
 },
 en={
 {
-"",
+"I'm not heading for the station. I don't plan on using public transportation.",
 },
 },
 },
@@ -1343,7 +1343,7 @@ ja={
 },
 en={
 {
-"",
+"I don't have a clue where she is and there are less obstructions if I travel on foot, making it easier to sense the spiritual energy of tamabito.",
 },
 },
 },
@@ -1355,7 +1355,7 @@ ja={
 },
 en={
 {
-"",
+"Without no clues to go on, all I can do is hoof it.",
 },
 },
 },
@@ -1367,7 +1367,7 @@ ja={
 },
 en={
 {
-"",
+"Towa-sensei has thoroughly trained me up both physically and mentally.",
 },
 },
 },
@@ -1379,7 +1379,7 @@ ja={
 },
 en={
 {
-"",
+"The only problem...is my crappy sense of direction.",
 },
 },
 },
@@ -1392,7 +1392,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...So.」",
 },
 },
 },
@@ -1405,7 +1405,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Who are you?」",
 },
 },
 },
@@ -1421,7 +1421,7 @@ ja={
 },
 en={
 {
-"「」",
+"「?!」",
 },
 },
 },
@@ -1433,7 +1433,7 @@ ja={
 },
 en={
 {
-"",
+"I turned around and the girl jumped in surprise, darting her eyes around for a place to hide.",
 },
 },
 },
@@ -1445,7 +1445,7 @@ ja={
 },
 en={
 {
-"",
+"...Talk about a lousy attempt at tailing.",
 },
 },
 },
@@ -1461,7 +1461,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Umm...errrm...」",
 },
 },
 },
@@ -1477,7 +1477,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwoo!」",
 },
 },
 },
@@ -1489,7 +1489,7 @@ ja={
 },
 en={
 {
-"",
+"She ultimately tried to act natural by blowing bubbles.",
 },
 },
 },
@@ -1501,7 +1501,7 @@ ja={
 },
 en={
 {
-"",
+"...What a lousy actress.",
 },
 },
 },
@@ -1514,7 +1514,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm sorry to say this, but I know you've been following me this whole time.」",
 },
 },
 },
@@ -1530,7 +1530,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kuh...Ao shouldn't be this sharp.」",
 },
 },
 },
@@ -1542,7 +1542,7 @@ ja={
 },
 en={
 {
-"",
+"...Who's Ao?",
 },
 },
 },
@@ -1558,7 +1558,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You were so honest, airheaded, lovably dumb, and cute as a kid.」",
 },
 },
 },
@@ -1570,7 +1570,7 @@ ja={
 },
 en={
 {
-"",
+"...What's she talking about?",
 },
 },
 },
@@ -1583,7 +1583,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I think you have the wrong person.」",
 },
 },
 },
@@ -1599,7 +1599,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Oh, right.」",
 },
 },
 },
@@ -1615,7 +1615,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Your memories are gone.」",
 },
 },
 },
@@ -1631,7 +1631,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You don't remember...what happened that day...」",
 },
 },
 },
@@ -1644,7 +1644,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Umm, hello?」",
 },
 },
 },
@@ -1660,7 +1660,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Just monologuing.」",
 },
 },
 },
@@ -1673,7 +1673,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Just so you know...my name's Sora.」",
 },
 },
 },
@@ -1689,7 +1689,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I know.」",
 },
 },
 },
@@ -1705,7 +1705,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I heard that wicked, hypocritical adult call you by that name.」",
 },
 },
 },
@@ -1717,7 +1717,7 @@ ja={
 },
 en={
 {
-"",
+"...Is she talking about Towa-sensei?",
 },
 },
 },
@@ -1733,7 +1733,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hmm...what should I do about mine?」",
 },
 },
 },
@@ -1749,7 +1749,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiroka...if I change the reading...」",
 },
 },
 },
@@ -1765,7 +1765,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Okay, I'll go with Shirobana.」",
 },
 },
 },
@@ -1777,7 +1777,7 @@ ja={
 },
 en={
 {
-"",
+"I already knew she was a tamabito.",
 },
 },
 },
@@ -1789,7 +1789,7 @@ ja={
 },
 en={
 {
-"",
+"Towa-sensei told me about the tamabito girl loitering outside the shrine.",
 },
 },
 },
@@ -1801,7 +1801,7 @@ ja={
 },
 en={
 {
-"",
+"She also said something else.",
 },
 },
 },
@@ -1813,7 +1813,7 @@ ja={
 },
 en={
 {
-"",
+"That it may become my job to send her back.",
 },
 },
 },
@@ -1825,7 +1825,7 @@ ja={
 },
 en={
 {
-"",
+"Having been recognized as a full-fledged okuribito, my role from now on is to send tamabito back.",
 },
 },
 },
@@ -1837,7 +1837,7 @@ ja={
 },
 en={
 {
-"",
+"I musn't focus solely on Yuka-neesan.",
 },
 },
 },
@@ -1849,7 +1849,7 @@ ja={
 },
 en={
 {
-"",
+"In which case, I can't ignore this Shirobana girl.",
 },
 },
 },
@@ -1862,7 +1862,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hey, Shirobana.」",
 },
 },
 },
@@ -1875,7 +1875,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Just so you know, I'm an okuribito.」",
 },
 },
 },
@@ -1891,7 +1891,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What's that?」",
 },
 },
 },
@@ -1904,7 +1904,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Someone who sends back tamabito.」",
 },
 },
 },
@@ -1920,7 +1920,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What're tamabito?」",
 },
 },
 },
@@ -1933,7 +1933,7 @@ ja={
 },
 en={
 {
-"「」",
+"「People like you.」",
 },
 },
 },
@@ -1949,7 +1949,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Did you...call me a person?」",
 },
 },
 },
@@ -1965,7 +1965,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But I'm a ghost...」",
 },
 },
 },
@@ -1978,7 +1978,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That doesn't change the fact that you're a person.」",
 },
 },
 },
@@ -1991,7 +1991,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So I'll treat you like one.」",
 },
 },
 },
@@ -2004,7 +2004,7 @@ ja={
 },
 en={
 {
-"「」",
+"「On that note, Shirobana. I would like to send you back happily, if you want me to.」",
 },
 },
 },
@@ -2020,7 +2020,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...You hypocrite.」",
 },
 },
 },
@@ -2033,7 +2033,7 @@ ja={
 },
 en={
 {
-"「」",
+"「'Hypocrite' comes from the Greek word for 'actor.' It's better to put on an act and do good than do none at all.」",
 },
 },
 },
@@ -2049,7 +2049,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Grr, you and your sophistry.」",
 },
 },
 },
@@ -2062,7 +2062,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I have to be good with words to use kotodama.」",
 },
 },
 },
@@ -2078,7 +2078,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...So what, you want me to ascend?」",
 },
 },
 },
@@ -2094,7 +2094,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Is it because you resent me?」",
 },
 },
 },
@@ -2110,7 +2110,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because you hate me...?」",
 },
 },
 },
@@ -2123,7 +2123,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Of course not.」",
 },
 },
 },
@@ -2139,7 +2139,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You mean it...?」",
 },
 },
 },
@@ -2152,7 +2152,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Absolutely.」",
 },
 },
 },
@@ -2168,7 +2168,7 @@ ja={
 },
 en={
 {
-"「」",
+"「T-Then...what do you think of me?」",
 },
 },
 },
@@ -2181,7 +2181,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What do I think?」",
 },
 },
 },
@@ -2197,7 +2197,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Do you l-like...or love me...?」",
 },
 },
 },
@@ -2210,7 +2210,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can't speak to that, but as an okuribito I would like to send you back happily.」",
 },
 },
 },
@@ -2239,7 +2239,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What's with the bubble assault?!」",
 },
 },
 },
@@ -2255,7 +2255,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hmph!」",
 },
 },
 },
@@ -2267,7 +2267,7 @@ ja={
 },
 en={
 {
-"",
+"...Guess I said something that didn't sit well with her.",
 },
 },
 },
@@ -2280,7 +2280,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Errm, I won't do it by force, of course. I'm not doing a thing without your okay.」",
 },
 },
 },
@@ -2296,7 +2296,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...What will you do with me then?」",
 },
 },
 },
@@ -2309,7 +2309,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Leave you alone, so long as you don't cause any trouble.」",
 },
 },
 },
@@ -2322,7 +2322,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll be getting back to my travels now. Bye.」",
 },
 },
 },
@@ -2351,7 +2351,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Again?!」",
 },
 },
 },
@@ -2367,7 +2367,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hmph!」",
 },
 },
 },
@@ -2379,7 +2379,7 @@ ja={
 },
 en={
 {
-"",
+"...I think I know what she wants from me.",
 },
 },
 },
@@ -2392,7 +2392,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hey, do you want to stick around with me?」",
 },
 },
 },
@@ -2408,7 +2408,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I-I never said I wanted that.」",
 },
 },
 },
@@ -2421,7 +2421,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Was that a roundabout way of saying yes?」",
 },
 },
 },
@@ -2437,7 +2437,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Grr...you're still the same old straightforward, natural womanizer.」",
 },
 },
 },
@@ -2453,7 +2453,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No...everything about you's the same. You look different, but you're the same inside.」",
 },
 },
 },
@@ -2469,7 +2469,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Maybe it's cuz I'm a tamabito now...but I can see the shape of your soul.」",
 },
 },
 },
@@ -2482,7 +2482,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Hello?」",
 },
 },
 },
@@ -2498,7 +2498,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Just monologuing.」",
 },
 },
 },
@@ -2514,7 +2514,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But who do you think you are, going off traveling? Don't you have a beef with me?」",
 },
 },
 },
@@ -2530,7 +2530,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You should be unloading your resentment and hatred onto me.」",
 },
 },
 },
@@ -2543,7 +2543,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...And why would I do that?」",
 },
 },
 },
@@ -2562,7 +2562,7 @@ ja={
 en={
 {
 {"exfont",size="f2"},
-"「」",
+"「Figures you wouldn't remember that easily...」",
 {"exfont"},
 },
 },
@@ -2582,7 +2582,7 @@ ja={
 en={
 {
 {"exfont",size="f2"},
-"「」",
+"「It took me years too...」",
 {"exfont"},
 },
 },
@@ -2595,7 +2595,7 @@ ja={
 },
 en={
 {
-"",
+"...She's muttering to herself.",
 },
 },
 },
@@ -2611,7 +2611,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It doesn't matter. I can wait.」",
 },
 },
 },
@@ -2627,7 +2627,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm used to waiting for things.」",
 },
 },
 },
@@ -2646,7 +2646,7 @@ ja={
 en={
 {
 {"exfont",size="f2"},
-"「」",
+"「It took me 37 years to find you.」",
 {"exfont"},
 },
 },
@@ -2659,7 +2659,7 @@ ja={
 },
 en={
 {
-"",
+"She's muttering again.",
 },
 },
 },
@@ -2675,7 +2675,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Anyway, you said you're traveling?」",
 },
 },
 },
@@ -2691,7 +2691,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I overheard you talking about searching for your ghost sister.」",
 },
 },
 },
@@ -2707,7 +2707,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm coming with you.」",
 },
 },
 },
@@ -2723,7 +2723,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I've been waiting outside the shrine for this opportunity.」",
 },
 },
 },
@@ -2739,7 +2739,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I won't slow you down, not anymore...」",
 },
 },
 },
@@ -2755,7 +2755,7 @@ ja={
 },
 en={
 {
-"「」",
+"「In fact, I can protect you.」",
 },
 },
 },
@@ -2771,7 +2771,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Leave it to this older lady to ensure your safe travels. Ehen.」",
 },
 },
 },
@@ -2783,7 +2783,7 @@ ja={
 },
 en={
 {
-"",
+"Her childish behaviorisms were far from what I'd expect an actual older lady like Yuka-neesan to have...",
 },
 },
 },
@@ -2796,7 +2796,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Hey, Shirobana.」",
 },
 },
 },
@@ -2809,7 +2809,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I told you, I'm an okuribito.」",
 },
 },
 },
@@ -2822,7 +2822,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you stay with me, I'll end up sending you back someday...」",
 },
 },
 },
@@ -2835,7 +2835,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Do you still want to come along?」",
 },
 },
 },
@@ -2851,7 +2851,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That goes without question.」",
 },
 },
 },
@@ -2867,7 +2867,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want you to send me back.」",
 },
 },
 },
@@ -2883,7 +2883,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No way am I letting any other loser do it.」",
 },
 },
 },
@@ -2895,7 +2895,7 @@ ja={
 },
 en={
 {
-"",
+"How come?",
 },
 },
 },
@@ -2907,7 +2907,7 @@ ja={
 },
 en={
 {
-"",
+"Why is she so fixated on me...?",
 },
 },
 },
@@ -2920,7 +2920,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...To send back a tamabito, I have to absolve them of their regret.」",
 },
 },
 },
@@ -2933,7 +2933,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So...what's your regret?」",
 },
 },
 },
@@ -2962,7 +2962,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you really want me to send you back...then would you mind telling me?」",
 },
 },
 },
@@ -2975,7 +2975,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll do everything in my power to relieve you of it.」",
 },
 },
 },
@@ -2991,7 +2991,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...You mean that?」",
 },
 },
 },
@@ -3004,7 +3004,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah. I don't lie.」",
 },
 },
 },
@@ -3017,7 +3017,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm part of an okuribito faction that values words above all else.」",
 },
 },
 },
@@ -3030,7 +3030,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If you sincerely tell me about your worries, I'll sincerely hear you out.」",
 },
 },
 },
@@ -3043,7 +3043,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I won't make light of them.」",
 },
 },
 },
@@ -3056,7 +3056,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll accept and help you with whatever's bothering you.」",
 },
 },
 },
@@ -3084,7 +3084,7 @@ ja={
 },
 en={
 {
-"",
+"...Why're you blushing?",
 },
 },
 },
@@ -3100,7 +3100,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm...a real coward.」",
 },
 },
 },
@@ -3116,7 +3116,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A part of me knew that you wouldn't resent me anymore...」",
 },
 },
 },
@@ -3132,7 +3132,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yet, I feel so relieved hearing that...」",
 },
 },
 },
@@ -3148,7 +3148,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm totally incompetent...」",
 },
 },
 },
@@ -3160,7 +3160,7 @@ ja={
 },
 en={
 {
-"",
+"She turned her eyes towards the ground.",
 },
 },
 },
@@ -3172,7 +3172,7 @@ ja={
 },
 en={
 {
-"",
+"It looks like her thoughts are jumbled up.",
 },
 },
 },
@@ -3184,7 +3184,7 @@ ja={
 },
 en={
 {
-"",
+"Then she raised her head as though resolving herself.",
 },
 },
 },
@@ -3196,7 +3196,7 @@ ja={
 },
 en={
 {
-"",
+"She gazed at me with eyes filled with willpower.",
 },
 },
 },
@@ -3212,7 +3212,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll tell you what my regret is...」",
 },
 },
 },
@@ -3228,7 +3228,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want you to take me.」",
 },
 },
 },
@@ -3253,7 +3253,7 @@ ja={
 },
 en={
 {
-"",
+"...Say what?",
 },
 },
 },
@@ -3269,7 +3269,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I said, I want you to take me...」",
 },
 },
 },
@@ -3285,7 +3285,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...」",
 },
 },
 },
@@ -3301,7 +3301,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Take me.」",
 },
 },
 },
@@ -3314,7 +3314,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Is there some place you want to go?」",
 },
 },
 },
@@ -3330,7 +3330,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You know what I mean.」",
 },
 },
 },
@@ -3342,7 +3342,7 @@ ja={
 },
 en={
 {
-"",
+"She enunciated her words.",
 },
 },
 },
@@ -3358,7 +3358,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want you, to take me, as a woman.」",
 },
 },
 },
@@ -3374,7 +3374,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then my regret will disappear.」",
 },
 },
 },
@@ -3390,7 +3390,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That'll send me back happily, like you promised.」",
 },
 },
 },
@@ -3419,7 +3419,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You should be honored...」",
 },
 },
 },
@@ -3435,7 +3435,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You got my first kiss.」",
 },
 },
 },
@@ -3451,7 +3451,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And you get to have my virginity too.」",
 },
 },
 },
@@ -3463,7 +3463,7 @@ ja={
 },
 en={
 {
-"",
+"...What's going on?",
 },
 },
 },
@@ -3475,7 +3475,7 @@ ja={
 },
 en={
 {
-"",
+"I can't bring myself to say no.",
 },
 },
 },
@@ -3487,7 +3487,7 @@ ja={
 },
 en={
 {
-"",
+"I did say I would earnestly accept whatever she asked of me, but that isn't the reason.",
 },
 },
 },
@@ -3499,7 +3499,7 @@ ja={
 },
 en={
 {
-"",
+"It's like I'm being guided onto my destined path.",
 },
 },
 },
@@ -3511,7 +3511,7 @@ ja={
 },
 en={
 {
-"",
+"Like my soul is calling out to me.",
 },
 },
 },
@@ -3523,7 +3523,7 @@ ja={
 },
 en={
 {
-"",
+"Like an instinctual desire.",
 },
 },
 },
@@ -3535,7 +3535,7 @@ ja={
 },
 en={
 {
-"",
+"I want to make love with her----.",
 },
 },
 },

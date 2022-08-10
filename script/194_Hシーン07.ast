@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="回想・７回目Ｈ",ja="回想・７回目Ｈ",en=""},
+{"savetitle",text="回想・７回目Ｈ",ja="回想・７回目Ｈ",en="Recollection-7th H"},
 {"cgdel",id=-1},
 {"bg",file="white",path=":bg/",time=1000},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zev_shi_24a",path=":ev/ev_shi_24/",set="ev_shi_24",speed=15000,x=600,x2=100,y=350,y2=-150},
@@ -1641,7 +1641,7 @@ ja={
 },
 en={
 {
-"",
+"I found a hidden spot behind the trees and laid her down.",
 },
 },
 },
@@ -1653,7 +1653,7 @@ ja={
 },
 en={
 {
-"",
+"The grass was lush and soft given the season, making for a good blanket.",
 },
 },
 },
@@ -1666,7 +1666,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shirobana...」",
 },
 },
 },
@@ -1679,7 +1679,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Are you...sure about this?」",
 },
 },
 },
@@ -1695,7 +1695,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Yeah. I already told you I was.」",
 },
 },
 },
@@ -1711,7 +1711,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And you said it yourself.」",
 },
 },
 },
@@ -1727,7 +1727,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That you'd absolve my regrets...」",
 },
 },
 },
@@ -1739,7 +1739,7 @@ ja={
 },
 en={
 {
-"",
+"What does me having sex with her have to do with her regret?",
 },
 },
 },
@@ -1751,7 +1751,7 @@ ja={
 },
 en={
 {
-"",
+"I can't imagine she just wants to have sex in general.",
 },
 },
 },
@@ -1767,7 +1767,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I'll call you a wuss if you chicken out now.」",
 },
 },
 },
@@ -1783,7 +1783,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I asked you for this, so stop worrying so much.」",
 },
 },
 },
@@ -1799,7 +1799,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Or were you lying when you said you'd deal with my regret?」",
 },
 },
 },
@@ -1812,7 +1812,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I wasn't. I don't go back on my word.」",
 },
 },
 },
@@ -1824,7 +1824,7 @@ ja={
 },
 en={
 {
-"",
+"As a kotodama user, telling lies to hurt others is the worst thing I could do.",
 },
 },
 },
@@ -1840,7 +1840,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then there's nothing to worry about.」",
 },
 },
 },
@@ -1856,7 +1856,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Unless...you don't fine me attractive?」",
 },
 },
 },
@@ -1872,7 +1872,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Are you disappointed by how unappealing I am?」",
 },
 },
 },
@@ -1885,7 +1885,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...No way.」",
 },
 },
 },
@@ -1897,7 +1897,7 @@ ja={
 },
 en={
 {
-"",
+"I'd have turned her down from the get-go if I was.",
 },
 },
 },
@@ -1909,7 +1909,7 @@ ja={
 },
 en={
 {
-"",
+"I absolutely am attracted to her.",
 },
 },
 },
@@ -1921,7 +1921,7 @@ ja={
 },
 en={
 {
-"",
+"I'm attracted to this young girl, Shirobana.",
 },
 },
 },
@@ -1933,7 +1933,7 @@ ja={
 },
 en={
 {
-"",
+"I don't know the reason why.",
 },
 },
 },
@@ -1945,7 +1945,7 @@ ja={
 },
 en={
 {
-"",
+"But I could feel it.",
 },
 },
 },
@@ -1957,7 +1957,7 @@ ja={
 },
 en={
 {
-"",
+"It was inevitable for us to come together.",
 },
 },
 },
@@ -1969,7 +1969,7 @@ ja={
 },
 en={
 {
-"",
+"Though I don't know what course of events had led to it...",
 },
 },
 },
@@ -1982,7 +1982,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shirobana...you're really charming.」",
 },
 },
 },
@@ -1995,7 +1995,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And cute.」",
 },
 },
 },
@@ -2011,7 +2011,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Thanks.」",
 },
 },
 },
@@ -2027,7 +2027,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Did you...stop being a wuss?」",
 },
 },
 },
@@ -2040,7 +2040,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah. Thanks to you getting rid of my doubts.」",
 },
 },
 },
@@ -2053,7 +2053,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Can I...kiss you?」",
 },
 },
 },
@@ -2069,7 +2069,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah...」",
 },
 },
 },
@@ -2085,7 +2085,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mm...mwah....」",
 },
 },
 },
@@ -2097,7 +2097,7 @@ ja={
 },
 en={
 {
-"",
+"My lips overlapped with hers.",
 },
 },
 },
@@ -2109,7 +2109,7 @@ ja={
 },
 en={
 {
-"",
+"In a light, feathery kiss.",
 },
 },
 },
@@ -2121,7 +2121,7 @@ ja={
 },
 en={
 {
-"",
+"That was all it took to light a burning flame within me.",
 },
 },
 },
@@ -2133,7 +2133,7 @@ ja={
 },
 en={
 {
-"",
+"I'd only just met her, but a painful yearning took form within me.",
 },
 },
 },
@@ -2145,7 +2145,7 @@ ja={
 },
 en={
 {
-"",
+"I wanted more of her.",
 },
 },
 },
@@ -2157,7 +2157,7 @@ ja={
 },
 en={
 {
-"",
+"Our shallow kiss became a deep one.",
 },
 },
 },
@@ -2173,7 +2173,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mwah, mm...slurp...mwaah...haah...mm...chu...smooch...chu...slurp...」",
 },
 },
 },
@@ -2185,7 +2185,7 @@ ja={
 },
 en={
 {
-"",
+"Our tongue intertwined as we shared heat through our saliva.",
 },
 },
 },
@@ -2201,7 +2201,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwaah...haah...」",
 },
 },
 },
@@ -2213,7 +2213,7 @@ ja={
 },
 en={
 {
-"",
+"Our long kiss ended and Shirobana let out a sigh as sweet as flower nectar.",
 },
 },
 },
@@ -2229,7 +2229,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're...too good at kissing.」",
 },
 },
 },
@@ -2245,7 +2245,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Did someone teach you...?」",
 },
 },
 },
@@ -2258,7 +2258,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Not as far as I know.」",
 },
 },
 },
@@ -2271,7 +2271,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But...maybe you taught me.」",
 },
 },
 },
@@ -2287,7 +2287,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...What makes you say that?」",
 },
 },
 },
@@ -2300,7 +2300,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It felt familiar somehow.」",
 },
 },
 },
@@ -2316,7 +2316,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Familiar, huh...」",
 },
 },
 },
@@ -2332,7 +2332,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then...make love to me.」",
 },
 },
 },
@@ -2348,7 +2348,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Not just this once...I want us to do it more in the future too.」",
 },
 },
 },
@@ -2360,7 +2360,7 @@ ja={
 },
 en={
 {
-"",
+"Would we be doing this more often if she became my travel companion?",
 },
 },
 },
@@ -2372,7 +2372,7 @@ ja={
 },
 en={
 {
-"",
+"No...if her regret is to have sex, she'll return once we're finished.",
 },
 },
 },
@@ -2384,7 +2384,7 @@ ja={
 },
 en={
 {
-"",
+"And I need to focus on the present instead of the future.",
 },
 },
 },
@@ -2396,7 +2396,7 @@ ja={
 },
 en={
 {
-"",
+"I should focus solely on our lovemaking.",
 },
 },
 },
@@ -2408,7 +2408,7 @@ ja={
 },
 en={
 {
-"",
+"Or else she'll call me a wuss.",
 },
 },
 },
@@ -2420,7 +2420,7 @@ ja={
 },
 en={
 {
-"",
+"I reached out and squeezed her breasts.",
 },
 },
 },
@@ -2436,7 +2436,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwaah...mm...ah...」",
 },
 },
 },
@@ -2448,7 +2448,7 @@ ja={
 },
 en={
 {
-"",
+"They're small, but I can feel how soft they are.",
 },
 },
 },
@@ -2461,7 +2461,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Your heart's beating a mile a minute.」",
 },
 },
 },
@@ -2477,7 +2477,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah...haah...I'm super nervous...」",
 },
 },
 },
@@ -2493,7 +2493,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Since...it's my first time...」",
 },
 },
 },
@@ -2509,7 +2509,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I feel...like I'll go crazy...」",
 },
 },
 },
@@ -2521,7 +2521,7 @@ ja={
 },
 en={
 {
-"",
+"I caressed her adorable little mounds.",
 },
 },
 },
@@ -2537,7 +2537,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah...ngh...haah...」",
 },
 },
 },
@@ -2549,7 +2549,7 @@ ja={
 },
 en={
 {
-"",
+"Shirobana let out muffled moans as I did.",
 },
 },
 },
@@ -2565,7 +2565,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're so gentle...it's kind of annoying.」",
 },
 },
 },
@@ -2578,7 +2578,7 @@ ja={
 },
 en={
 {
-"「」",
+"「How come?」",
 },
 },
 },
@@ -2594,7 +2594,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It feels like you're taking the lead...」",
 },
 },
 },
@@ -2610,7 +2610,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But I'm older, so I should be the one in charge...」",
 },
 },
 },
@@ -2622,7 +2622,7 @@ ja={
 },
 en={
 {
-"",
+"As a tamabito, she's probably right.",
 },
 },
 },
@@ -2635,7 +2635,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But I'm the guy here.」",
 },
 },
 },
@@ -2648,7 +2648,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That's reason enough for me to take the lead.」",
 },
 },
 },
@@ -2664,7 +2664,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah...you're a boy now.」",
 },
 },
 },
@@ -2680,7 +2680,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Your wish...in your final moments...must've been granted....」",
 },
 },
 },
@@ -2704,7 +2704,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Your hope was given form when you gave your life up as an offering and descended from the spirit world to the living world...」",
 },
 },
 },
@@ -2720,7 +2720,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's the one miracle that humans are capable of performing...」",
 },
 },
 },
@@ -2733,7 +2733,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...What does that mean?」",
 },
 },
 },
@@ -2749,7 +2749,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It means you've become really cool.」",
 },
 },
 },
@@ -2761,7 +2761,7 @@ ja={
 },
 en={
 {
-"",
+"...I don't get what she's talking about.",
 },
 },
 },
@@ -2774,7 +2774,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Does that mean you won't be calling me a wuss?」",
 },
 },
 },
@@ -2790,7 +2790,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fufu...we'll see.」",
 },
 },
 },
@@ -2802,7 +2802,7 @@ ja={
 },
 en={
 {
-"",
+"Our exchange seems to have calmed her down a bit.",
 },
 },
 },
@@ -2814,7 +2814,7 @@ ja={
 },
 en={
 {
-"",
+"I went ahead and undressed her.",
 },
 },
 },
@@ -2830,7 +2830,7 @@ ja={
 },
 en={
 {
-"「」",
+"「!...」",
 },
 },
 },
@@ -2842,7 +2842,7 @@ ja={
 },
 en={
 {
-"",
+"Bereft of her layers, Shirobana's pale, white skin come into view.",
 },
 },
 },
@@ -2854,7 +2854,7 @@ ja={
 },
 en={
 {
-"",
+"The twin peaks of her mounds are as beautiful as sakura buds.",
 },
 },
 },
@@ -2867,7 +2867,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're not wearing underwear.」",
 },
 },
 },
@@ -2883,7 +2883,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I don't wear a bra, but I have panties on.」",
 },
 },
 },
@@ -2899,7 +2899,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Or...would you prefer if I go around braless and pantyless?」",
 },
 },
 },
@@ -2912,7 +2912,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I'm don't have that kind of kink.」",
 },
 },
 },
@@ -2928,7 +2928,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You sure about that?」",
 },
 },
 },
@@ -2940,7 +2940,7 @@ ja={
 },
 en={
 {
-"",
+"Oh good, she's calm enough to joke around.",
 },
 },
 },
@@ -2952,7 +2952,7 @@ ja={
 },
 en={
 {
-"",
+"I reach out towards her soft, white skin.",
 },
 },
 },
@@ -2968,7 +2968,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mm...ah...」",
 },
 },
 },
@@ -2980,7 +2980,7 @@ ja={
 },
 en={
 {
-"",
+"I can tell now that I'm touching it directly..",
 },
 },
 },
@@ -2992,7 +2992,7 @@ ja={
 },
 en={
 {
-"",
+"Her flawless, white skin and mounds are as perfect as a sculpture made of glass.",
 },
 },
 },
@@ -3004,7 +3004,7 @@ ja={
 },
 en={
 {
-"",
+"Feeling that they would break if I handle them roughly, I caress them as gently as possible.",
 },
 },
 },
@@ -3020,7 +3020,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, ah...mm...hoo...haah...fwaaah.」",
 },
 },
 },
@@ -3032,7 +3032,7 @@ ja={
 },
 en={
 {
-"",
+"Enrapturing, captivating, and sinful.",
 },
 },
 },
@@ -3044,7 +3044,7 @@ ja={
 },
 en={
 {
-"",
+"The feel of her body is out of this world.",
 },
 },
 },
@@ -3056,7 +3056,7 @@ ja={
 },
 en={
 {
-"",
+"There's no words to describe it, but my excitement kept me going.",
 },
 },
 },
@@ -3072,7 +3072,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Aaah...mm...mmf...hoo...fwaah...」",
 },
 },
 },
@@ -3088,7 +3088,7 @@ ja={
 },
 en={
 {
-"「」",
+"「What do you...think about...my breasts?」",
 },
 },
 },
@@ -3101,7 +3101,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...There nothing for me to say.」",
 },
 },
 },
@@ -3117,7 +3117,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because of how small they are...?」",
 },
 },
 },
@@ -3130,7 +3130,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because they're so captivating there's no point in discussing size.」",
 },
 },
 },
@@ -3142,7 +3142,7 @@ ja={
 },
 en={
 {
-"",
+"I can't believe how turned on I am right now.",
 },
 },
 },
@@ -3154,7 +3154,7 @@ ja={
 },
 en={
 {
-"",
+"Seeking more than just her breasts, I relished her skin to the fullest.",
 },
 },
 },
@@ -3166,7 +3166,7 @@ ja={
 },
 en={
 {
-"",
+"I stroked her cheeks, nape, shoulders, and collarbone.",
 },
 },
 },
@@ -3182,7 +3182,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mmn...nf...t-that tickles...」",
 },
 },
 },
@@ -3194,7 +3194,7 @@ ja={
 },
 en={
 {
-"",
+"I caress her thighs...",
 },
 },
 },
@@ -3210,7 +3210,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah...nn...nff...!」",
 },
 },
 },
@@ -3222,7 +3222,7 @@ ja={
 },
 en={
 {
-"",
+"I want to keep feeling her as long as I can.",
 },
 },
 },
@@ -3234,7 +3234,7 @@ ja={
 },
 en={
 {
-"",
+"I could actually do this forever.",
 },
 },
 },
@@ -3250,7 +3250,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...you keep touching me all over...」",
 },
 },
 },
@@ -3263,7 +3263,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You don't like it?」",
 },
 },
 },
@@ -3279,7 +3279,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I...do.」",
 },
 },
 },
@@ -3295,7 +3295,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Your hands...are warm. They make me feel safe...」",
 },
 },
 },
@@ -3311,7 +3311,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I also want...to keep doing this forever...」",
 },
 },
 },
@@ -3323,7 +3323,7 @@ ja={
 },
 en={
 {
-"",
+"As she spoke, my hand inched further and further up her thigh.",
 },
 },
 },
@@ -3339,7 +3339,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah...t-that's...nn...! Oooh...!」",
 },
 },
 },
@@ -3351,7 +3351,7 @@ ja={
 },
 en={
 {
-"",
+"Sure enough, I felt underwear there.",
 },
 },
 },
@@ -3363,7 +3363,7 @@ ja={
 },
 en={
 {
-"",
+"I stroked her through the cloth and felt something moist that wasn't sweat.",
 },
 },
 },
@@ -3379,7 +3379,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwaaa...! Ah...mm...! Ahn...!」",
 },
 },
 },
@@ -3391,7 +3391,7 @@ ja={
 },
 en={
 {
-"",
+"With each touch, Shirobana gave a jump.",
 },
 },
 },
@@ -3407,7 +3407,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwaah, aah...mm...! Ah...aah...auu...aah...hah...hau...mm, ngh...!」",
 },
 },
 },
@@ -3419,7 +3419,7 @@ ja={
 },
 en={
 {
-"",
+"Her cute, sensual voiced was drawing me further in.",
 },
 },
 },
@@ -3431,7 +3431,7 @@ ja={
 },
 en={
 {
-"",
+"I caressed her special place as I grabbed her breast with my free hand and gave her pink nipple a kiss.",
 },
 },
 },
@@ -3447,7 +3447,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwaah...?! Ah, aahn...! Auu...!」",
 },
 },
 },
@@ -3459,7 +3459,7 @@ ja={
 },
 en={
 {
-"",
+"I ran my tongue over her mounds and tip, and she reacted with a high shriek.",
 },
 },
 },
@@ -3475,7 +3475,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Aah...ah...! Sora...aah...! Ah, ah...! Ah, ah, ah, haaah...!」",
 },
 },
 },
@@ -3487,7 +3487,7 @@ ja={
 },
 en={
 {
-"",
+"Her skin shone following my licks, wet with saliva.",
 },
 },
 },
@@ -3499,7 +3499,7 @@ ja={
 },
 en={
 {
-"",
+"I was filled with a sense of possession and guilt from having defiled her.",
 },
 },
 },
@@ -3511,7 +3511,7 @@ ja={
 },
 en={
 {
-"",
+"My chaotic emotions further fanned the flames of desire.",
 },
 },
 },
@@ -3523,7 +3523,7 @@ ja={
 },
 en={
 {
-"",
+"Finished with her breasts, I rolled my tongue over the rest of her.",
 },
 },
 },
@@ -3535,7 +3535,7 @@ ja={
 },
 en={
 {
-"",
+"To her cheeks, nape, shoulders, and collarbone that my hands fondled earlier.",
 },
 },
 },
@@ -3551,7 +3551,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Auu...ah...aah...haaah...! Ngh, ooh...fwaa...haaaah...Soraa...!」",
 },
 },
 },
@@ -3563,7 +3563,7 @@ ja={
 },
 en={
 {
-"",
+"Shirobana let out saccharine sighs as she turned to me with moistened eyes.",
 },
 },
 },
@@ -3575,7 +3575,7 @@ ja={
 },
 en={
 {
-"",
+"After savoring her with my hands and tongue, I felt hot enough to melt myself.",
 },
 },
 },
@@ -3591,7 +3591,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Aah...Sora...kiss...」",
 },
 },
 },
@@ -3607,7 +3607,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Please...kiss me...」",
 },
 },
 },
@@ -3623,7 +3623,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nn...chu, smooch...mmf...mwah...chuu...mf...slurp...chu, chuu...」",
 },
 },
 },
@@ -3635,7 +3635,7 @@ ja={
 },
 en={
 {
-"",
+"We kissed over and over, longer than ever before, passionately to the verge of suffocation.",
 },
 },
 },
@@ -3651,7 +3651,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwaaaaa...haaaah...」",
 },
 },
 },
@@ -3663,7 +3663,7 @@ ja={
 },
 en={
 {
-"",
+"We eventually separated, forming several threads of saliva.",
 },
 },
 },
@@ -3679,7 +3679,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...」",
 },
 },
 },
@@ -3691,7 +3691,7 @@ ja={
 },
 en={
 {
-"",
+"She weakly called my name.",
 },
 },
 },
@@ -3703,7 +3703,7 @@ ja={
 },
 en={
 {
-"",
+"Hearing that told me everything I needed to know.",
 },
 },
 },
@@ -3715,7 +3715,7 @@ ja={
 },
 en={
 {
-"",
+"That's how intimate we were.",
 },
 },
 },
@@ -3731,7 +3731,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Aah...Sora...」",
 },
 },
 },
@@ -3744,7 +3744,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shirobana...」",
 },
 },
 },
@@ -3760,7 +3760,7 @@ ja={
 },
 en={
 {
-"",
+"We spoke each other's names and gazed at each other as though having drifted off into the dream world.",
 },
 },
 },
@@ -3772,7 +3772,7 @@ ja={
 },
 en={
 {
-"",
+"We both yearned for that connection.",
 },
 },
 },
@@ -3784,7 +3784,7 @@ ja={
 },
 en={
 {
-"",
+"I embraced her from behind and indulged in our long-awaited connection.",
 },
 },
 },
@@ -3800,7 +3800,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah...kh, uuu, aaaaaaaahh...!!」",
 },
 },
 },
@@ -3812,7 +3812,7 @@ ja={
 },
 en={
 {
-"",
+"She's way narrower than I expected.",
 },
 },
 },
@@ -3824,7 +3824,7 @@ ja={
 },
 en={
 {
-"",
+"We did plenty of foreplay, but I can hardly get it in.",
 },
 },
 },
@@ -3836,7 +3836,7 @@ ja={
 },
 en={
 {
-"",
+"She's a tamabito, but her body is young and undeveloped.",
 },
 },
 },
@@ -3848,7 +3848,7 @@ ja={
 },
 en={
 {
-"",
+"It's easy to imagine how hard this must be for her.",
 },
 },
 },
@@ -3864,7 +3864,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, haah, haaah...! Mmn, kuh...!」",
 },
 },
 },
@@ -3876,7 +3876,7 @@ ja={
 },
 en={
 {
-"",
+"Her many pained moans reached my ears.",
 },
 },
 },
@@ -3888,7 +3888,7 @@ ja={
 },
 en={
 {
-"",
+"I had to stop moving.",
 },
 },
 },
@@ -3904,7 +3904,7 @@ ja={
 },
 en={
 {
-"「」",
+"「S-Sora...what's the matter...?」",
 },
 },
 },
@@ -3917,7 +3917,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Shirobana. Does it hurt?」",
 },
 },
 },
@@ -3933,7 +3933,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Well...of course it does...」",
 },
 },
 },
@@ -3945,7 +3945,7 @@ ja={
 },
 en={
 {
-"",
+"Despite being a tamabito, the place where we were connected was colored red by her chastity.",
 },
 },
 },
@@ -3958,7 +3958,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sorry... I know you still feel pain as a tamabito.」",
 },
 },
 },
@@ -3974,7 +3974,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...It's alright.」",
 },
 },
 },
@@ -3990,7 +3990,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It would suck even more if you quit before seeing this through.」",
 },
 },
 },
@@ -4006,7 +4006,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So...hurry up and go.」",
 },
 },
 },
@@ -4022,7 +4022,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Please...do it to the end...」",
 },
 },
 },
@@ -4035,7 +4035,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shirobana...」",
 },
 },
 },
@@ -4047,7 +4047,7 @@ ja={
 },
 en={
 {
-"",
+"My only choice is to force myself in.",
 },
 },
 },
@@ -4059,7 +4059,7 @@ ja={
 },
 en={
 {
-"",
+"But her body being so young, I felt myself hesitating...",
 },
 },
 },
@@ -4075,7 +4075,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Don't get cold feet now...」",
 },
 },
 },
@@ -4091,7 +4091,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You said yourself...that my breasts are so captivating that size didn't matter.」",
 },
 },
 },
@@ -4107,7 +4107,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So my childish body shouldn't matter either...」",
 },
 },
 },
@@ -4119,7 +4119,7 @@ ja={
 },
 en={
 {
-"",
+"Shirobana...",
 },
 },
 },
@@ -4135,7 +4135,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And you don't want me calling you a wuss, do you...?」",
 },
 },
 },
@@ -4147,7 +4147,7 @@ ja={
 },
 en={
 {
-"",
+"...Good point.",
 },
 },
 },
@@ -4160,7 +4160,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shirobana...are you sure you can make it to the end?」",
 },
 },
 },
@@ -4176,7 +4176,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I knew it, you are a wuss...」",
 },
 },
 },
@@ -4192,7 +4192,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Didn't you...want to grow into a cool adult?」",
 },
 },
 },
@@ -4208,7 +4208,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Then you have to please the woman you're making love to.」",
 },
 },
 },
@@ -4224,7 +4224,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm not a kid...」",
 },
 },
 },
@@ -4240,7 +4240,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm...a full grown adult...」",
 },
 },
 },
@@ -4252,7 +4252,7 @@ ja={
 },
 en={
 {
-"",
+"Her feelings came through loud and clear. Even moreso with how tightly I was holding her.",
 },
 },
 },
@@ -4264,7 +4264,7 @@ ja={
 },
 en={
 {
-"",
+"I realized that there was no point in worrying.",
 },
 },
 },
@@ -4277,7 +4277,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm going for it.」",
 },
 },
 },
@@ -4293,7 +4293,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah...come on...」",
 },
 },
 },
@@ -4305,7 +4305,7 @@ ja={
 },
 en={
 {
-"",
+"I embraced her once more and pushed myself in.",
 },
 },
 },
@@ -4321,7 +4321,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Guh...!」",
 },
 },
 },
@@ -4333,7 +4333,7 @@ ja={
 },
 en={
 {
-"",
+"She stiffened up with beads of sweat forming on her skin.",
 },
 },
 },
@@ -4345,7 +4345,7 @@ ja={
 },
 en={
 {
-"",
+"I shook off the last of my hesitation.",
 },
 },
 },
@@ -4357,7 +4357,7 @@ ja={
 },
 en={
 {
-"",
+"And forecefully, yet carefully wrenched my way into her so as not hurt her.",
 },
 },
 },
@@ -4373,7 +4373,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Aah...! Fwaah, ah...! Nnaah...!」",
 },
 },
 },
@@ -4385,7 +4385,7 @@ ja={
 },
 en={
 {
-"",
+"Her voice was tinged with pain.",
 },
 },
 },
@@ -4397,7 +4397,7 @@ ja={
 },
 en={
 {
-"",
+"But out of consideration for me, she clenched her teeth and forced herself not to shriek.",
 },
 },
 },
@@ -4413,7 +4413,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nngk...nnff...uu...!」",
 },
 },
 },
@@ -4425,7 +4425,7 @@ ja={
 },
 en={
 {
-"",
+"My chest tightened at seeing her enduring the pain.",
 },
 },
 },
@@ -4437,7 +4437,7 @@ ja={
 },
 en={
 {
-"",
+"Then I felt myself tear through something.",
 },
 },
 },
@@ -4453,7 +4453,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fkuh...!」",
 },
 },
 },
@@ -4465,7 +4465,7 @@ ja={
 },
 en={
 {
-"",
+"Shirobana arched back.",
 },
 },
 },
@@ -4477,7 +4477,7 @@ ja={
 },
 en={
 {
-"",
+"The added blood was proof that I'd broken through her hymen.",
 },
 },
 },
@@ -4489,7 +4489,7 @@ ja={
 },
 en={
 {
-"",
+"And reached the very end.",
 },
 },
 },
@@ -4501,7 +4501,7 @@ ja={
 },
 en={
 {
-"",
+"We were now fully connected.",
 },
 },
 },
@@ -4517,7 +4517,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Haah...ooh...uu...」",
 },
 },
 },
@@ -4529,7 +4529,7 @@ ja={
 },
 en={
 {
-"",
+"Shirobana was still fighting against the pain of her defloration.",
 },
 },
 },
@@ -4541,7 +4541,7 @@ ja={
 },
 en={
 {
-"",
+"Peeking at her face, I saw her eyes filling with tears moments from falling.",
 },
 },
 },
@@ -4553,7 +4553,7 @@ ja={
 },
 en={
 {
-"",
+"She must be in serious pain.",
 },
 },
 },
@@ -4565,7 +4565,7 @@ ja={
 },
 en={
 {
-"",
+"But she didn't try to stop me.",
 },
 },
 },
@@ -4577,7 +4577,7 @@ ja={
 },
 en={
 {
-"",
+"Not a single shriek made it past her lips.",
 },
 },
 },
@@ -4590,7 +4590,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shirobana...you can tell me if it hurts...」",
 },
 },
 },
@@ -4606,7 +4606,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No...」",
 },
 },
 },
@@ -4619,7 +4619,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Don't be stupid...there's no point in forcing it...」",
 },
 },
 },
@@ -4635,7 +4635,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You're the one that's stupid...」",
 },
 },
 },
@@ -4651,7 +4651,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Did you hear me complain about it hurting...?」",
 },
 },
 },
@@ -4667,7 +4667,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I...like this pain...」",
 },
 },
 },
@@ -4683,7 +4683,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It reminds me that I'm living...」",
 },
 },
 },
@@ -4699,7 +4699,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Living alongside you...」",
 },
 },
 },
@@ -4715,7 +4715,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That even as a tamabito, I can be together with you...」",
 },
 },
 },
@@ -4727,7 +4727,7 @@ ja={
 },
 en={
 {
-"",
+"Shirobana...I don't know what to say...",
 },
 },
 },
@@ -4743,7 +4743,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Honestly...do you want me to call you a wuss that badly...?」",
 },
 },
 },
@@ -4756,7 +4756,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I get it.」",
 },
 },
 },
@@ -4769,7 +4769,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm none talking nonsense.」",
 },
 },
 },
@@ -4781,7 +4781,7 @@ ja={
 },
 en={
 {
-"",
+"We don't need any more words coming between us.",
 },
 },
 },
@@ -4794,7 +4794,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll take your first time...all of it.」",
 },
 },
 },
@@ -4810,7 +4810,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah...go for it, Sora...」",
 },
 },
 },
@@ -4822,7 +4822,7 @@ ja={
 },
 en={
 {
-"",
+"I hug her tightly, overcome by emotion.",
 },
 },
 },
@@ -4834,7 +4834,7 @@ ja={
 },
 en={
 {
-"",
+"And sought out an even deeper connection.",
 },
 },
 },
@@ -4850,7 +4850,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, ngh...!」",
 },
 },
 },
@@ -4862,7 +4862,7 @@ ja={
 },
 en={
 {
-"",
+"I moved my hips back and forth.",
 },
 },
 },
@@ -4874,7 +4874,7 @@ ja={
 },
 en={
 {
-"",
+"The proof of her defloration mixed with her love fluids and spilled out.",
 },
 },
 },
@@ -4890,7 +4890,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kh, aah...nnah...oh...wah...!」",
 },
 },
 },
@@ -4902,7 +4902,7 @@ ja={
 },
 en={
 {
-"",
+"Her voice was pained.",
 },
 },
 },
@@ -4914,7 +4914,7 @@ ja={
 },
 en={
 {
-"",
+"In an effort to put her at ease, I wrapped my arms around her front and caressed her breasts.",
 },
 },
 },
@@ -4930,7 +4930,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, haah! Ooh, ngh, ah...Soraa...」",
 },
 },
 },
@@ -4942,7 +4942,7 @@ ja={
 },
 en={
 {
-"",
+"The pain in her voice now had a tinge of eroticism.",
 },
 },
 },
@@ -4954,7 +4954,7 @@ ja={
 },
 en={
 {
-"",
+"I could feel her tense body loosening up too.",
 },
 },
 },
@@ -4966,7 +4966,7 @@ ja={
 },
 en={
 {
-"",
+"She might be starting to enjoy it a bit.",
 },
 },
 },
@@ -4978,7 +4978,7 @@ ja={
 },
 en={
 {
-"",
+"I continued pistoning while hoping I'm right.",
 },
 },
 },
@@ -4994,7 +4994,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwaa...ngh...oh, haah, ah...aah...」",
 },
 },
 },
@@ -5006,7 +5006,7 @@ ja={
 },
 en={
 {
-"",
+"I slowly hit the back, then slowly pulled myself back out.",
 },
 },
 },
@@ -5018,7 +5018,7 @@ ja={
 },
 en={
 {
-"",
+"Repeated, gentle strokes.",
 },
 },
 },
@@ -5034,7 +5034,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mnn...Sora...it's alright... I got used to it, so it doesn't hurt anymore...」",
 },
 },
 },
@@ -5046,7 +5046,7 @@ ja={
 },
 en={
 {
-"",
+"I know she's bluffing.",
 },
 },
 },
@@ -5058,7 +5058,7 @@ ja={
 },
 en={
 {
-"",
+"I could tell by the sweat on her skin how much she's enduring.",
 },
 },
 },
@@ -5070,7 +5070,7 @@ ja={
 },
 en={
 {
-"",
+"So I comforted her with gentle pets and kissed her nape.",
 },
 },
 },
@@ -5086,7 +5086,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ahn...」",
 },
 },
 },
@@ -5098,7 +5098,7 @@ ja={
 },
 en={
 {
-"",
+"I sucked in, leaving a mark on her skin.",
 },
 },
 },
@@ -5114,7 +5114,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...did you kiss me...?」",
 },
 },
 },
@@ -5127,7 +5127,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yeah. I gave you a hickey.」",
 },
 },
 },
@@ -5143,7 +5143,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hick-ee...?」",
 },
 },
 },
@@ -5156,7 +5156,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's a mark left after a kiss. It lasts for a little while.」",
 },
 },
 },
@@ -5172,7 +5172,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A mark from a kiss...」",
 },
 },
 },
@@ -5188,7 +5188,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I didn't know...」",
 },
 },
 },
@@ -5204,7 +5204,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That means...I'm yours now.」",
 },
 },
 },
@@ -5216,7 +5216,7 @@ ja={
 },
 en={
 {
-"",
+"Those words had an tremendous impact.",
 },
 },
 },
@@ -5228,7 +5228,7 @@ ja={
 },
 en={
 {
-"",
+"My pistoning increased in speed.",
 },
 },
 },
@@ -5244,7 +5244,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, fwaa...! S-So fast...intense...auu, ooh...! Ah, ah, ah, aah...!」",
 },
 },
 },
@@ -5256,7 +5256,7 @@ ja={
 },
 en={
 {
-"",
+"Salacious wet sounds rang out.",
 },
 },
 },
@@ -5268,7 +5268,7 @@ ja={
 },
 en={
 {
-"",
+"I easily moved in and out of her once-tight pussy.",
 },
 },
 },
@@ -5280,7 +5280,7 @@ ja={
 },
 en={
 {
-"",
+"Her excessive love fluids made for plenty of lubricant.",
 },
 },
 },
@@ -5292,7 +5292,7 @@ ja={
 },
 en={
 {
-"",
+"It's proof that Shirobana had gone past the pain into pleasure.",
 },
 },
 },
@@ -5308,7 +5308,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, aah, haaah...! I-I...fwaaa! Feeling weird...going crazy...!」",
 },
 },
 },
@@ -5320,7 +5320,7 @@ ja={
 },
 en={
 {
-"",
+"Love fluids kept pouring out.",
 },
 },
 },
@@ -5332,7 +5332,7 @@ ja={
 },
 en={
 {
-"",
+"And the tightness of her pussy is out of this world.",
 },
 },
 },
@@ -5344,7 +5344,7 @@ ja={
 },
 en={
 {
-"",
+"Her words were now indistinguishable from moans.",
 },
 },
 },
@@ -5360,7 +5360,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ngaa, ah, ah, ah, hot...! So, ah, ah, hot, aaah, melting...!」",
 },
 },
 },
@@ -5372,7 +5372,7 @@ ja={
 },
 en={
 {
-"",
+"Her skin used to be as white as a winter day, but now it's completely covered in the pink of spring.",
 },
 },
 },
@@ -5384,7 +5384,7 @@ ja={
 },
 en={
 {
-"",
+"And she might even be hotter than summer.",
 },
 },
 },
@@ -5396,7 +5396,7 @@ ja={
 },
 en={
 {
-"",
+"I'm scared just thinking about how much more she can heat up.",
 },
 },
 },
@@ -5408,7 +5408,7 @@ ja={
 },
 en={
 {
-"",
+"I could instinctively feel the pinnacle of pleasure awaiting us beyond this sinful sense of fear.",
 },
 },
 },
@@ -5424,7 +5424,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm...losing...it... aaah! You're driving...me crazy...aaaahh, I'm losing my mind!」",
 },
 },
 },
@@ -5436,7 +5436,7 @@ ja={
 },
 en={
 {
-"",
+"Same here.",
 },
 },
 },
@@ -5448,7 +5448,7 @@ ja={
 },
 en={
 {
-"",
+"Shirobana's making me lose my mind.",
 },
 },
 },
@@ -5464,7 +5464,7 @@ ja={
 },
 en={
 {
-"",
+"We're both drowning in the pleasure of the dream world.",
 },
 },
 },
@@ -5480,7 +5480,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ah, ah, ah, au! No, no, I can't...aaaahh! Sora, Sora, Soraa...!」",
 },
 },
 },
@@ -5492,7 +5492,7 @@ ja={
 },
 en={
 {
-"",
+"She twisted around and shook her hips.",
 },
 },
 },
@@ -5504,7 +5504,7 @@ ja={
 },
 en={
 {
-"",
+"The momentum causing sweat, tears, and love fluids to scatter.",
 },
 },
 },
@@ -5516,7 +5516,7 @@ ja={
 },
 en={
 {
-"",
+"In spite of her youth, her drenched body was obscene, enchanting, and stunningly beautiful.",
 },
 },
 },
@@ -5528,7 +5528,7 @@ ja={
 },
 en={
 {
-"",
+"It drove my everything into a frenzy.",
 },
 },
 },
@@ -5541,7 +5541,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shirobana...I love you.」",
 },
 },
 },
@@ -5557,7 +5557,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora, Sora, me too...haaah, I love...fwaaa, I love you, Sora...!」",
 },
 },
 },
@@ -5569,7 +5569,7 @@ ja={
 },
 en={
 {
-"",
+"Our declarations of love brought our ecstasy to greater heights, and we approached our limits.",
 },
 },
 },
@@ -5585,7 +5585,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I love you...so muuuch...!」",
 },
 },
 },
@@ -5598,7 +5598,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Me too...I love you...!」",
 },
 },
 },
@@ -5614,7 +5614,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Soraa...! Fwaaaaaaaaaahhh!!!」",
 },
 },
 },
@@ -5626,7 +5626,7 @@ ja={
 },
 en={
 {
-"",
+"I let out everything I had.",
 },
 },
 },
@@ -5638,7 +5638,7 @@ ja={
 },
 en={
 {
-"",
+"Filling Shirobana's immature pussy to the brim and causing it to overflow.",
 },
 },
 },
@@ -5650,7 +5650,7 @@ ja={
 },
 en={
 {
-"",
+"It embodied my overflowing feelings for her.",
 },
 },
 },
@@ -5662,7 +5662,7 @@ ja={
 },
 en={
 {
-"",
+"The intense emotions that were too great for me to bear...",
 },
 },
 },
@@ -5678,7 +5678,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Nnaaa, ah, fwaa...! Haah, haah...」",
 },
 },
 },
@@ -5694,7 +5694,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mm...oh...haah...ooh...mmm...haah...」",
 },
 },
 },
@@ -5710,7 +5710,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Hot...so warm...」",
 },
 },
 },
@@ -5726,7 +5726,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We've...become one...」",
 },
 },
 },
@@ -5742,7 +5742,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We made love...we became one...」",
 },
 },
 },
@@ -5754,7 +5754,7 @@ ja={
 },
 en={
 {
-"",
+"Shirobana fingered our adjoined regions in a trance.",
 },
 },
 },
@@ -5766,7 +5766,7 @@ ja={
 },
 en={
 {
-"",
+"She scooped up some of the spilt semen.",
 },
 },
 },
@@ -5782,7 +5782,7 @@ ja={
 },
 en={
 {
-"「」",
+"「This...is your...semen...」",
 },
 },
 },
@@ -5798,7 +5798,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Thank you...」",
 },
 },
 },
@@ -5814,7 +5814,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Thank you, for feeling good...」",
 },
 },
 },
@@ -5826,7 +5826,7 @@ ja={
 },
 en={
 {
-"",
+"...Why're you thanking me?",
 },
 },
 },
@@ -5838,7 +5838,7 @@ ja={
 },
 en={
 {
-"",
+"I should be the one doing the thanking.",
 },
 },
 },
@@ -5851,7 +5851,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shirobana...did that feel good for you?」",
 },
 },
 },
@@ -5867,7 +5867,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You wuss...」",
 },
 },
 },
@@ -5883,7 +5883,7 @@ ja={
 },
 en={
 {
-"「」",
+"「There's no way having sex with you would...not feel good.」",
 },
 },
 },
@@ -5899,7 +5899,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Cuz you're the only person that can make me feel like this...」",
 },
 },
 },
@@ -5915,7 +5915,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The only person that can claim me...」",
 },
 },
 },
@@ -5931,7 +5931,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The one and only person...that took my first time.」",
 },
 },
 },
@@ -5943,7 +5943,7 @@ ja={
 },
 en={
 {
-"",
+"And so, Shirobana and I...",
 },
 },
 },
@@ -5955,7 +5955,7 @@ ja={
 },
 en={
 {
-"",
+"Spent a long while indulging in a mutual warmth that went beyond what words could express.",
 },
 },
 },

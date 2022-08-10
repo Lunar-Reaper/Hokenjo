@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夕方・シロバナのシャボン玉２",ja="夕方・シロバナのシャボン玉２",en=""},
+{"savetitle",text="夕方・シロバナのシャボン玉２",ja="夕方・シロバナのシャボン玉２",en="Evening-Shirobana's bubbles 2"},
 {"msg",no=1},
 {"cgdel",id=-1},
 {"bg",file="black",path=":bg/",time=1000},
@@ -347,7 +347,7 @@ ja={
 },
 en={
 {
-"",
+"When I came to, the sky was bathed in orange.",
 },
 },
 },
@@ -363,7 +363,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora. You awake?」",
 },
 },
 },
@@ -375,7 +375,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro cut across my field of vision, peering down at me.",
 },
 },
 },
@@ -387,7 +387,7 @@ ja={
 },
 en={
 {
-"",
+"I was originally sitting, but now I'm lying down in the field.",
 },
 },
 },
@@ -399,7 +399,7 @@ ja={
 },
 en={
 {
-"",
+"My was was atop Shiro's lap.",
 },
 },
 },
@@ -412,7 +412,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Did I...fall asleep?」",
 },
 },
 },
@@ -428,7 +428,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yep. You napped the whole time.」",
 },
 },
 },
@@ -444,7 +444,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Here's some bubbles to wake you up.」",
 },
 },
 },
@@ -460,7 +460,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fwoo.」",
 },
 },
 },
@@ -472,7 +472,7 @@ ja={
 },
 en={
 {
-"",
+"She deftly blew out a stream of bubbles.",
 },
 },
 },
@@ -484,7 +484,7 @@ ja={
 },
 en={
 {
-"",
+"The miracle of wind, born of her wish for freedom...",
 },
 },
 },
@@ -496,7 +496,7 @@ ja={
 },
 en={
 {
-"",
+"She couldn't walk around outside much when she lived as Shiroka...",
 },
 },
 },
@@ -508,7 +508,7 @@ ja={
 },
 en={
 {
-"",
+"So I...",
 },
 },
 },
@@ -520,7 +520,7 @@ ja={
 },
 en={
 {
-"",
+"I wanted to be her legs.",
 },
 },
 },
@@ -532,7 +532,7 @@ ja={
 },
 en={
 {
-"",
+"We wanted to see the windmills together.",
 },
 },
 },
@@ -544,7 +544,7 @@ ja={
 },
 en={
 {
-"",
+"We set our sights on those symbols of freedom----.",
 },
 },
 },
@@ -556,7 +556,7 @@ ja={
 },
 en={
 {
-"",
+"I stood up as though following after the windswept bubbles.",
 },
 },
 },
@@ -569,7 +569,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Shiro. Thanks for lending me your lap.」",
 },
 },
 },
@@ -585,7 +585,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It was nothing.」",
 },
 },
 },
@@ -598,7 +598,7 @@ ja={
 },
 en={
 {
-"「」",
+"「As thanks, I'll be your legs.」",
 },
 },
 },
@@ -614,7 +614,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I knew you were a maso-mother-lover.」",
 },
 },
 },
@@ -643,7 +643,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Correction. You're a maso-sister-lover now.」",
 },
 },
 },
@@ -655,7 +655,7 @@ ja={
 },
 en={
 {
-"",
+"My memories of the past and those of the present linked together.",
 },
 },
 },
@@ -667,7 +667,7 @@ ja={
 },
 en={
 {
-"",
+"Like pieces of a puzzle.",
 },
 },
 },
@@ -679,7 +679,7 @@ ja={
 },
 en={
 {
-"",
+"So I knew that bits of my memory were still missing.",
 },
 },
 },
@@ -695,7 +695,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Where should we go next?」",
 },
 },
 },
@@ -711,7 +711,7 @@ ja={
 },
 en={
 {
-"「」",
+"「The dandelion lady says there's some secret in the lavender field. Wanna check it out?」",
 },
 },
 },
@@ -727,7 +727,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Anywhere's fine by me, as long as it's with you.」",
 },
 },
 },
@@ -743,7 +743,7 @@ ja={
 },
 en={
 {
-"「」",
+"「If I can't walk anymore, you can be my legs...」",
 },
 },
 },
@@ -759,7 +759,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And once we get to the inn...to our home, let's kiss.」",
 },
 },
 },
@@ -775,7 +775,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No...we can do more than that now.」",
 },
 },
 },
@@ -791,7 +791,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And not just because...you're a guy now.」",
 },
 },
 },
@@ -807,7 +807,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You know...what I'm saying?」",
 },
 },
 },
@@ -820,7 +820,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I sure do.」",
 },
 },
 },
@@ -832,7 +832,7 @@ ja={
 },
 en={
 {
-"",
+"I nodded.",
 },
 },
 },
@@ -844,7 +844,7 @@ ja={
 },
 en={
 {
-"",
+"I understood what she meant.",
 },
 },
 },
@@ -856,7 +856,7 @@ ja={
 },
 en={
 {
-"",
+"I'm the same as I've always been.",
 },
 },
 },
@@ -868,7 +868,7 @@ ja={
 },
 en={
 {
-"",
+"Whether I'm with Shiro or Shiroka, nothing has changed.",
 },
 },
 },
@@ -880,7 +880,7 @@ ja={
 },
 en={
 {
-"",
+"My appearance may have changed.",
 },
 },
 },
@@ -892,7 +892,7 @@ ja={
 },
 en={
 {
-"",
+"But my life hasn't.",
 },
 },
 },
@@ -904,7 +904,7 @@ ja={
 },
 en={
 {
-"",
+"My soul is still the same.",
 },
 },
 },
@@ -916,7 +916,7 @@ ja={
 },
 en={
 {
-"",
+"Once we arrived at Nakatomino and beheld the lavender field...",
 },
 },
 },
@@ -928,7 +928,7 @@ ja={
 },
 en={
 {
-"",
+"My affirmation grew even stronger.",
 },
 },
 },
@@ -940,7 +940,7 @@ ja={
 },
 en={
 {
-"",
+"Because even with their appearance having changed...",
 },
 },
 },
@@ -952,7 +952,7 @@ ja={
 },
 en={
 {
-"",
+"The lavenders were blooming just as beautifully as they did in the past.",
 },
 },
 },

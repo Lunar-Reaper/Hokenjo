@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夜・シロバナの想い",ja="夜・シロバナの想い",en="Night-"},
+{"savetitle",text="夜・シロバナの想い",ja="夜・シロバナの想い",en="Night-Shirobana's feelings"},
 {"msg",no=2},
 {"bg",file="bg22d",path=":bg/",time=2000,zone="night"},
 {"text"},
@@ -572,7 +572,7 @@ ja={
 },
 en={
 {
-"",
+"----That night.",
 },
 },
 },
@@ -584,7 +584,7 @@ ja={
 },
 en={
 {
-"",
+"Shirobana shared a futon with Sora.",
 },
 },
 },
@@ -596,7 +596,7 @@ ja={
 },
 en={
 {
-"",
+"Snuggling up to her beloved.",
 },
 },
 },
@@ -608,7 +608,7 @@ ja={
 },
 en={
 {
-"",
+"Enveloped by his warmth, and hoping to never part from him again...",
 },
 },
 },
@@ -624,7 +624,7 @@ ja={
 },
 en={
 {
-"「」",
+"「He...fell asleep.」",
 },
 },
 },
@@ -640,7 +640,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's...fine now...」",
 },
 },
 },
@@ -656,7 +656,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can...let it out...」",
 },
 },
 },
@@ -672,7 +672,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Uu...kuh...」",
 },
 },
 },
@@ -688,7 +688,7 @@ ja={
 },
 en={
 {
-"「」",
+"「How...why...?」",
 },
 },
 },
@@ -704,7 +704,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't want to leave him...」",
 },
 },
 },
@@ -720,7 +720,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Not again...」",
 },
 },
 },
@@ -736,7 +736,7 @@ ja={
 },
 en={
 {
-"「」",
+"「One time was more than enough...」",
 },
 },
 },
@@ -752,7 +752,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Why...do I have to go through it again...」",
 },
 },
 },
@@ -768,7 +768,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I hate this...」",
 },
 },
 },
@@ -784,7 +784,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I can't stand it...」",
 },
 },
 },
@@ -800,7 +800,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't want to go back...」",
 },
 },
 },
@@ -816,7 +816,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want...to travel with you forever...」",
 },
 },
 },
@@ -832,7 +832,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...I want to stay by your side...」",
 },
 },
 },
@@ -844,7 +844,7 @@ ja={
 },
 en={
 {
-"",
+"Shirobana thought back.",
 },
 },
 },
@@ -856,7 +856,7 @@ ja={
 },
 en={
 {
-"",
+"After she died, she felt herself wandering in a dream.",
 },
 },
 },
@@ -868,7 +868,7 @@ ja={
 },
 en={
 {
-"",
+"Her memories and existence were hazy, like that of a lost child.",
 },
 },
 },
@@ -880,7 +880,7 @@ ja={
 },
 en={
 {
-"",
+"And yet, she instinctively made her way to that spot.",
 },
 },
 },
@@ -892,7 +892,7 @@ ja={
 },
 en={
 {
-"",
+"When she came to, she was standing in the dandelion field at the base of the cliff where they fell.",
 },
 },
 },
@@ -904,7 +904,7 @@ ja={
 },
 en={
 {
-"",
+"That was when she finally regained her lost memories.",
 },
 },
 },
@@ -916,7 +916,7 @@ ja={
 },
 en={
 {
-"",
+"Including how she pulled Ao down with her.",
 },
 },
 },
@@ -928,7 +928,7 @@ ja={
 },
 en={
 {
-"",
+"The depth of her regret was immeasurable. No amount of apologizing could atone for it.",
 },
 },
 },
@@ -940,7 +940,7 @@ ja={
 },
 en={
 {
-"",
+"Shirobana did not have three regrets.",
 },
 },
 },
@@ -952,7 +952,7 @@ ja={
 },
 en={
 {
-"",
+"Nor did she have four.",
 },
 },
 },
@@ -964,7 +964,7 @@ ja={
 },
 en={
 {
-"",
+"She has always had just one.",
 },
 },
 },
@@ -976,7 +976,7 @@ ja={
 },
 en={
 {
-"",
+"That being.",
 },
 },
 },
@@ -988,7 +988,7 @@ ja={
 },
 en={
 {
-"",
+"For Konohana Ao to live happily----.",
 },
 },
 },
@@ -1004,7 +1004,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm so sorry...Ao...」",
 },
 },
 },
@@ -1016,7 +1016,7 @@ ja={
 },
 en={
 {
-"",
+"She made love with Sora purely out of self-indulgence, telling him it was her regret.",
 },
 },
 },
@@ -1028,7 +1028,7 @@ ja={
 },
 en={
 {
-"",
+"It was her selfish desire.",
 },
 },
 },
@@ -1040,7 +1040,7 @@ ja={
 },
 en={
 {
-"",
+"A dream she forced him to fulfill...",
 },
 },
 },
@@ -1056,7 +1056,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'm...weak...」",
 },
 },
 },
@@ -1072,7 +1072,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I was so...pathetically weak...」",
 },
 },
 },
@@ -1084,7 +1084,7 @@ ja={
 },
 en={
 {
-"",
+"It took her decades to find the reincarnated Sora.",
 },
 },
 },
@@ -1096,7 +1096,7 @@ ja={
 },
 en={
 {
-"",
+"She was grasping at straws.",
 },
 },
 },
@@ -1108,19 +1108,19 @@ ja={
 },
 en={
 {
-"",
+"But she succeeded thanks to Sora possessing a strong spiritual sense.",
 },
 },
 },
 [41]={
 ja={
 {
-"霊気には、その者の魂が色濃く顕れる。",
+"霊気には、その者の魂が顕れる。",
 },
 },
 en={
 {
-"",
+"A person's soul manifests through their spiritual energy.",
 },
 },
 },
@@ -1132,7 +1132,7 @@ ja={
 },
 en={
 {
-"",
+"And as Shirobana searched for the human possessing Ao's soul...",
 },
 },
 },
@@ -1144,7 +1144,7 @@ ja={
 },
 en={
 {
-"",
+"She found Sora living at a temple.",
 },
 },
 },
@@ -1156,7 +1156,7 @@ ja={
 },
 en={
 {
-"",
+"To be precise, he lived in a residency on the shrine grounds, but it was all the same to her.",
 },
 },
 },
@@ -1168,7 +1168,7 @@ ja={
 },
 en={
 {
-"",
+"The torii gates and komainu formed a barrier around the grounds that prevented tamabito such as herself from entering.",
 },
 },
 },
@@ -1180,7 +1180,7 @@ ja={
 },
 en={
 {
-"",
+"Sora left the grounds regularly to attend school.",
 },
 },
 },
@@ -1192,7 +1192,7 @@ ja={
 },
 en={
 {
-"",
+"But Shirobana couldn't bring herself to call out to him.",
 },
 },
 },
@@ -1204,7 +1204,7 @@ ja={
 },
 en={
 {
-"",
+"What would she do if he resented her?",
 },
 },
 },
@@ -1216,7 +1216,7 @@ ja={
 },
 en={
 {
-"",
+"What would she do if he begrudged her?",
 },
 },
 },
@@ -1228,7 +1228,7 @@ ja={
 },
 en={
 {
-"",
+"What if he hated her...?",
 },
 },
 },
@@ -1240,7 +1240,7 @@ ja={
 },
 en={
 {
-"",
+"Thinking about it caused the blood to drain from her face and her knees to tremble, so she couldn't approach him.",
 },
 },
 },
@@ -1252,7 +1252,7 @@ ja={
 },
 en={
 {
-"",
+"...What a joke.",
 },
 },
 },
@@ -1264,7 +1264,7 @@ ja={
 },
 en={
 {
-"",
+"How utterly incompetent.",
 },
 },
 },
@@ -1276,7 +1276,7 @@ ja={
 },
 en={
 {
-"",
+"She knew he had every right to hate her.",
 },
 },
 },
@@ -1288,7 +1288,7 @@ ja={
 },
 en={
 {
-"",
+"Being berated, abused, and sent back by her beloved was just what she deserved.",
 },
 },
 },
@@ -1300,7 +1300,7 @@ ja={
 },
 en={
 {
-"",
+"If that would lighten his burden a little...if that would bring him happiness.",
 },
 },
 },
@@ -1312,7 +1312,7 @@ ja={
 },
 en={
 {
-"",
+"Then her own regret would also be absolved, and yet...",
 },
 },
 },
@@ -1324,7 +1324,7 @@ ja={
 },
 en={
 {
-"",
+"On the day Sora set off to search for his sister.",
 },
 },
 },
@@ -1336,7 +1336,7 @@ ja={
 },
 en={
 {
-"",
+"Shirobana hesitantly followed after him.",
 },
 },
 },
@@ -1348,7 +1348,7 @@ ja={
 },
 en={
 {
-"",
+"She wanted to run up and hug him from behind.",
 },
 },
 },
@@ -1360,7 +1360,7 @@ ja={
 },
 en={
 {
-"",
+"She wanted to bury her face in his chest and cry.",
 },
 },
 },
@@ -1372,7 +1372,7 @@ ja={
 },
 en={
 {
-"",
+"But she couldn't.",
 },
 },
 },
@@ -1384,7 +1384,7 @@ ja={
 },
 en={
 {
-"",
+"There's no way she could...",
 },
 },
 },
@@ -1396,7 +1396,7 @@ ja={
 },
 en={
 {
-"",
+"She wanted to meet him so badly too.",
 },
 },
 },
@@ -1408,7 +1408,7 @@ ja={
 },
 en={
 {
-"",
+"Then Sora called out to her and unable to run away, Shirobana realized.",
 },
 },
 },
@@ -1420,7 +1420,7 @@ ja={
 },
 en={
 {
-"",
+"Her affection was too strong to suppress.",
 },
 },
 },
@@ -1432,7 +1432,7 @@ ja={
 },
 en={
 {
-"",
+"She alone couldn't bear the weight of her love----.",
 },
 },
 },
@@ -1444,7 +1444,7 @@ ja={
 },
 en={
 {
-"",
+"They made love.",
 },
 },
 },
@@ -1456,7 +1456,7 @@ ja={
 },
 en={
 {
-"",
+"And at the peak of her happiness, she thought to herself.",
 },
 },
 },
@@ -1468,7 +1468,7 @@ ja={
 },
 en={
 {
-"",
+"I'll return.",
 },
 },
 },
@@ -1480,7 +1480,7 @@ ja={
 },
 en={
 {
-"",
+"I have to, and he has to be there when I do.",
 },
 },
 },
@@ -1492,7 +1492,7 @@ ja={
 },
 en={
 {
-"",
+"That is my purpose.",
 },
 },
 },
@@ -1504,7 +1504,7 @@ ja={
 },
 en={
 {
-"",
+"That is the entire reason why I returned to life as a tamabito----.",
 },
 },
 },
@@ -1520,7 +1520,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No...」",
 },
 },
 },
@@ -1536,7 +1536,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Please no...」",
 },
 },
 },
@@ -1552,7 +1552,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't want to go back...」",
 },
 },
 },
@@ -1568,7 +1568,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I don't want to die...」",
 },
 },
 },
@@ -1584,7 +1584,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I want to be with you...」",
 },
 },
 },
@@ -1600,7 +1600,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Together...forever...」",
 },
 },
 },
@@ -1616,7 +1616,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Together...everywhere we go...」",
 },
 },
 },
@@ -1632,7 +1632,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Me...and Sora...」",
 },
 },
 },
@@ -1648,7 +1648,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But...」",
 },
 },
 },
@@ -1664,7 +1664,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll return...」",
 },
 },
 },
@@ -1680,7 +1680,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll tell him...we'll part ways...」",
 },
 },
 },
@@ -1696,7 +1696,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So he won't give up...」",
 },
 },
 },
@@ -1712,7 +1712,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So he won't...give up on living...」",
 },
 },
 },
@@ -1728,7 +1728,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Tamabito...are the deceased...」",
 },
 },
 },
@@ -1744,7 +1744,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Deceased existences...」",
 },
 },
 },
@@ -1760,7 +1760,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So...we go back...」",
 },
 },
 },
@@ -1776,7 +1776,7 @@ ja={
 },
 en={
 {
-"「」",
+"「We return...so we can live...」",
 },
 },
 },
@@ -1788,7 +1788,7 @@ ja={
 },
 en={
 {
-"",
+"All that's left for her to do...",
 },
 },
 },
@@ -1800,7 +1800,7 @@ ja={
 },
 en={
 {
-"",
+"Is find the courage.",
 },
 },
 },
@@ -1812,7 +1812,7 @@ ja={
 },
 en={
 {
-"",
+"To seize the conviction that she found happiness.",
 },
 },
 },
@@ -1828,7 +1828,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Ao...」",
 },
 },
 },
@@ -1844,7 +1844,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...」",
 },
 },
 },
@@ -1860,7 +1860,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll...do what you did...」",
 },
 },
 },
@@ -1876,7 +1876,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You...showed me the path...」",
 },
 },
 },
@@ -1892,7 +1892,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Everything you are...is my path...」",
 },
 },
 },
@@ -1908,7 +1908,7 @@ ja={
 },
 en={
 {
-"「」",
+"「To the future...」",
 },
 },
 },
@@ -1924,7 +1924,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll seize the resolve to walk towards it...」",
 },
 },
 },
@@ -1940,7 +1940,7 @@ ja={
 },
 en={
 {
-"「」",
+"「No more living in the past, I'll be brave and live in the future----.」",
 },
 },
 },

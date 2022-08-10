@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夜・夢歌の夢",ja="夜・夢歌の夢",en="Night-"},
+{"savetitle",text="夜・夢歌の夢",ja="夜・夢歌の夢",en="Night-Dreaming of Yuka"},
 {"msg",no=1},
 {"bg",file="white",path=":bg/",time=2000},
 {"fg",ch="ゆか",face="a0002",file="yuk_z1a0000",head="yuk_z1a",id=20,lv=3,mode=1,mx=0,my=0,path=":fg/yuk/z1/"},
@@ -645,7 +645,7 @@ text={
 vo={
 {"vo",file="fem_yuk_00443",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「起きなさい」",
@@ -653,7 +653,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Wake up.」",
 },
 },
 },
@@ -661,7 +661,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00444",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「蒼空……起きなさい」",
@@ -669,7 +669,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Sora...wake up.」",
 },
 },
 },
@@ -677,7 +677,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00445",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「いつまで寝ているの。また笑顔でたたき起こされたいのかしら？」",
@@ -685,7 +685,7 @@ ja={
 },
 en={
 {
-"「」",
+"「How long do you plan on sleeping? Do you want me to whack you awake with a smile like I used to do?」",
 },
 },
 },
@@ -693,7 +693,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00446",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「本当、あなたはマゾなんだから」",
@@ -701,7 +701,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You really are a masochist.」",
 },
 },
 },
@@ -709,7 +709,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00447",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「やっと、起きたわね」",
@@ -717,7 +717,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Took you long enough.」",
 },
 },
 },
@@ -725,7 +725,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00448",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「おはよう、蒼空」",
@@ -733,7 +733,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Good morning, Sora.」",
 },
 },
 },
@@ -745,7 +745,7 @@ ja={
 },
 en={
 {
-"",
+"Yuka-neesan...",
 },
 },
 },
@@ -757,7 +757,7 @@ ja={
 },
 en={
 {
-"",
+"I'm dreaming.",
 },
 },
 },
@@ -769,7 +769,7 @@ ja={
 },
 en={
 {
-"",
+"But I know I'm dreaming...a lucid dream.",
 },
 },
 },
@@ -788,7 +788,7 @@ ja={
 },
 en={
 {
-"",
+"I'm seeing my sister because of how the dream world is connected to the spirit world.",
 },
 },
 },
@@ -800,7 +800,7 @@ ja={
 },
 en={
 {
-"",
+"The dead sometimes show themselves in the dreams of the living...",
 },
 },
 },
@@ -808,7 +808,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00449",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私が今、あなたの夢枕に立っている理由……」",
@@ -816,7 +816,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I came to visit you in your dreams.」",
 },
 },
 },
@@ -824,7 +824,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00450",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私の自慢の弟であるあなたなら、わかるでしょう？」",
@@ -832,7 +832,7 @@ ja={
 },
 en={
 {
-"「」",
+"「As my little brother, I'm sure you can guess why I'm here.」",
 },
 },
 },
@@ -844,7 +844,7 @@ ja={
 },
 en={
 {
-"",
+"Sis...",
 },
 },
 },
@@ -856,7 +856,7 @@ ja={
 },
 en={
 {
-"",
+"You raised me in place of our mother...",
 },
 },
 },
@@ -868,7 +868,7 @@ ja={
 },
 en={
 {
-"",
+"I know now...",
 },
 },
 },
@@ -880,7 +880,7 @@ ja={
 },
 en={
 {
-"",
+"She's not just Kazami Sora's mother figure.",
 },
 },
 },
@@ -892,7 +892,7 @@ ja={
 },
 en={
 {
-"",
+"She was my mother when I lived as Konohana Ao...",
 },
 },
 },
@@ -905,7 +905,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Mom...」",
 },
 },
 },
@@ -913,7 +913,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00451",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「……こら。そこは、お姉ちゃんでしょう？」",
@@ -921,7 +921,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Stop it. I'm your big sister, not your mom.」",
 },
 },
 },
@@ -934,7 +934,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Yuka-oneechan...」",
 },
 },
 },
@@ -942,7 +942,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00452",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「ふふ。懐かしいわね」",
@@ -950,7 +950,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Fufu. That brings me back.」",
 },
 },
 },
@@ -958,7 +958,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00453",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたがまだ子どもだった頃は、お姉ちゃんって呼んでいたものね」",
@@ -966,7 +966,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You always called me onee-chan when you were little.」",
 },
 },
 },
@@ -974,7 +974,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00454",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「だけどあなたは、成長したわ」",
@@ -982,7 +982,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But you've gotten big.」",
 },
 },
 },
@@ -990,7 +990,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00455",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「そして力を手に入れた」",
@@ -998,7 +998,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And strong.」",
 },
 },
 },
@@ -1006,7 +1006,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00456",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「愛する彼女を、守れる力……」",
@@ -1014,7 +1014,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Strong enough to protect the one you love...」",
 },
 },
 },
@@ -1022,7 +1022,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00457",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「そんなあなたを、私も姉として……母としても、応援するわ」",
@@ -1030,7 +1030,7 @@ ja={
 },
 en={
 {
-"「」",
+"「As your big sister...and mother, I'll be supporting you.」",
 },
 },
 },
@@ -1042,7 +1042,7 @@ ja={
 },
 en={
 {
-"",
+"I suppressed my urge to beg her for words of comfort.",
 },
 },
 },
@@ -1054,7 +1054,7 @@ ja={
 },
 en={
 {
-"",
+"If I do, onee-chan...nee-san won't rest easy up there.",
 },
 },
 },
@@ -1062,7 +1062,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00458",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私は、あなたを応援したい……助けになりたいと、生前から思っていたわ」",
@@ -1070,7 +1070,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I wanted to support and take care of you since before you were born.」",
 },
 },
 },
@@ -1078,7 +1078,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00459",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「その気持ちが、花を咲かせる奇跡につながった……」",
@@ -1086,7 +1086,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Those feelings became my miracle to make flowers bloom...」",
 },
 },
 },
@@ -1094,7 +1094,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00460",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたは、タンポポに興味を持っていたから」",
@@ -1102,7 +1102,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You were always fascinated with dandelions.」",
 },
 },
 },
@@ -1110,7 +1110,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00461",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「子どもの頃から……生まれたときから」",
@@ -1118,7 +1118,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Back when you were a child...since the day you were born.」",
 },
 },
 },
@@ -1126,7 +1126,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00462",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「もしかしたら、生まれる前から」",
@@ -1134,7 +1134,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Maybe even before that.」",
 },
 },
 },
@@ -1142,7 +1142,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00463",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「花には興味がないくせに、タンポポだけは意識を惹かれているようだったわ」",
@@ -1150,7 +1150,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You didn't care about flowers, but dandelions alone drew your attention.」",
 },
 },
 },
@@ -1158,7 +1158,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00464",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「開花時期を覚えて」",
@@ -1166,7 +1166,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You remember when they bloom.」",
 },
 },
 },
@@ -1174,7 +1174,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00465",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「花言葉を覚えて……」",
@@ -1182,7 +1182,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And what they mean in flower language...」",
 },
 },
 },
@@ -1190,7 +1190,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00466",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「だけどそれは、タンポポが好きだからじゃない……」",
@@ -1198,7 +1198,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But you didn't learn all that because you liked them...」",
 },
 },
 },
@@ -1206,7 +1206,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00467",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたは、タンポポが嫌いだった」",
@@ -1214,7 +1214,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You hated dandelions.」",
 },
 },
 },
@@ -1222,7 +1222,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00468",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「タンポポを恐れていた」",
@@ -1230,7 +1230,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You were frightened of them.」",
 },
 },
 },
@@ -1238,7 +1238,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00469",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「だからこそ、知識をつけて、理論武装をしていたのよ」",
@@ -1246,7 +1246,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So you armed yourself with knowledge.」",
 },
 },
 },
@@ -1254,7 +1254,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00470",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「自分が傷つかないために……」",
@@ -1262,7 +1262,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So they wouldn't hurt you...」",
 },
 },
 },
@@ -1283,7 +1283,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00471",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「好きな対象も、嫌いな対象も、意識をしているという点においては同質……」",
@@ -1291,7 +1291,7 @@ ja={
 },
 en={
 {
-"「」",
+"「People are conscious about both the things they like and dislike...」",
 },
 },
 },
@@ -1299,7 +1299,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00472",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「好きと嫌いは、表裏一体……」",
@@ -1307,7 +1307,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Love and hate are two halves of one whole...」",
 },
 },
 },
@@ -1315,7 +1315,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00473",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私は……そんなあなたのために、タンポポ畑を満開にしたいと思った」",
@@ -1323,7 +1323,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I...had you in mind when I was making the dandelion field bloom.」",
 },
 },
 },
@@ -1331,7 +1331,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00474",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたの助けになりたいと願いながら、思い出して欲しいと願いながら、季節外れのタンポポを咲かせていた」",
@@ -1339,7 +1339,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I wanted to help you remember by making them bloom.」",
 },
 },
 },
@@ -1347,7 +1347,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00475",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「ただ、記憶を取り戻す以前の私は……間違ってラベンダー畑を満開にしちゃったけどね」",
@@ -1355,7 +1355,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But I messed up before getting my memories back...and caused the lavender field to bloom instead.」",
 },
 },
 },
@@ -1363,7 +1363,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00476",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私もあなたと一緒で、方向音痴だから」",
@@ -1371,7 +1371,7 @@ ja={
 },
 en={
 {
-"「」",
+"「My sense of direction is as bad as yours.」",
 },
 },
 },
@@ -1383,7 +1383,7 @@ ja={
 },
 en={
 {
-"",
+"She teasingly stuck her tongue out.",
 },
 },
 },
@@ -1391,7 +1391,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00477",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「でも……今思えば、ラベンダー畑を満開にしたことにも、理由があったんだと思う」",
@@ -1399,7 +1399,7 @@ ja={
 },
 en={
 {
-"「」",
+"「But thinking back...there might have been a reason I made that mistake.」",
 },
 },
 },
@@ -1407,7 +1407,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00478",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私は、無意識に予感していた」",
@@ -1415,7 +1415,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I had a hunch.」",
 },
 },
 },
@@ -1423,7 +1423,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00479",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたと出会えることを」",
@@ -1431,7 +1431,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That we would meet.」",
 },
 },
 },
@@ -1439,7 +1439,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00480",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「最愛の弟と再会できることを」",
@@ -1447,7 +1447,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That I would reunite with my dear baby brother.」",
 },
 },
 },
@@ -1455,7 +1455,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00481",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「だから、弟に知って欲しかった」",
@@ -1463,7 +1463,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So I wanted him to know.」",
 },
 },
 },
@@ -1471,7 +1471,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00482",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「姉はここにいる、と……」",
@@ -1479,7 +1479,7 @@ ja={
 },
 en={
 {
-"「」",
+"「That your big sis is here waiting...」",
 },
 },
 },
@@ -1487,7 +1487,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00483",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「花を咲かせることで、教えようとしていたの……」",
@@ -1495,7 +1495,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I made flowers bloom to send him a message...」",
 },
 },
 },
@@ -1507,7 +1507,7 @@ ja={
 },
 en={
 {
-"",
+"She smiled.",
 },
 },
 },
@@ -1519,7 +1519,7 @@ ja={
 },
 en={
 {
-"",
+"It was the smile I loved, and hated so dearly.",
 },
 },
 },
@@ -1531,7 +1531,7 @@ ja={
 },
 en={
 {
-"",
+"I loved when she smiled while pampering me.",
 },
 },
 },
@@ -1543,7 +1543,7 @@ ja={
 },
 en={
 {
-"",
+"I hated when she smiled while being forceful.",
 },
 },
 },
@@ -1555,7 +1555,7 @@ ja={
 },
 en={
 {
-"",
+"But strangely enough, I felt neither at the moment.",
 },
 },
 },
@@ -1567,7 +1567,7 @@ ja={
 },
 en={
 {
-"",
+"I'm simply...",
 },
 },
 },
@@ -1579,7 +1579,7 @@ ja={
 },
 en={
 {
-"",
+"Overjoyed at seeing her again.",
 },
 },
 },
@@ -1592,7 +1592,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...Nee-san.」",
 },
 },
 },
@@ -1605,7 +1605,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I'll tell you what the lavender field looks like now.」",
 },
 },
 },
@@ -1617,7 +1617,7 @@ ja={
 },
 en={
 {
-"",
+"Shiro and I paid it a visit once.",
 },
 },
 },
@@ -1629,7 +1629,7 @@ ja={
 },
 en={
 {
-"",
+"That's when we saw it.",
 },
 },
 },
@@ -1642,7 +1642,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It must be something your miracle did...」",
 },
 },
 },
@@ -1650,7 +1650,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00484",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「……ごめんね」",
@@ -1658,7 +1658,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I'm sorry.」",
 },
 },
 },
@@ -1670,7 +1670,7 @@ ja={
 },
 en={
 {
-"",
+"She cut me off with an apology.",
 },
 },
 },
@@ -1678,7 +1678,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00485",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「私が開花時期を早めたせいで……本来の開花時期に、ラベンダーは咲いてないのよね」",
@@ -1686,7 +1686,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I made them bloom too soon...so now they're not blooming when they're supposed to.」",
 },
 },
 },
@@ -1694,7 +1694,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00486",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「魂人の奇跡は、願望充足によるもの……。言い換えれば、独りよがり。自分勝手で、わがままな行為でしかない」",
@@ -1702,7 +1702,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A tamabito's miracle comes from their wishes... It's a selfish, egotistical power.」",
 },
 },
 },
@@ -1710,7 +1710,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00487",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「だから、人間の社会に、魂人は必要ない……」",
@@ -1718,7 +1718,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So tamabito aren't needed in human society...」",
 },
 },
 },
@@ -1730,7 +1730,7 @@ ja={
 },
 en={
 {
-"",
+"I shake my head.",
 },
 },
 },
@@ -1743,7 +1743,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You have the wrong idea.」",
 },
 },
 },
@@ -1756,7 +1756,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A new species of lavender has sprouted in the field.」",
 },
 },
 },
@@ -1769,7 +1769,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Kind of like blue roses...」",
 },
 },
 },
@@ -1782,7 +1782,7 @@ ja={
 },
 en={
 {
-"「」",
+"「A never-before-seen color of lavender plants are blooming like crazy, and right on season.」",
 },
 },
 },
@@ -1790,7 +1790,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00488",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「…………」",
@@ -1811,7 +1811,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's making big waves. There have been national news reports on it too.」",
 },
 },
 },
@@ -1824,7 +1824,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So there's more tourists this year than ever before.」",
 },
 },
 },
@@ -1837,7 +1837,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And plenty of them have trickled over to Saika too.」",
 },
 },
 },
@@ -1850,7 +1850,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So you can't say your miracle is selfish.」",
 },
 },
 },
@@ -1863,7 +1863,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's doing a major service.」",
 },
 },
 },
@@ -1876,7 +1876,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's saved me too.」",
 },
 },
 },
@@ -1889,7 +1889,7 @@ ja={
 },
 en={
 {
-"「」",
+"「It's thanks to those unseasonal dandelions you bloomed that I got my memories back.」",
 },
 },
 },
@@ -1902,7 +1902,7 @@ ja={
 },
 en={
 {
-"「」",
+"「I remember my past with Shiroka.」",
 },
 },
 },
@@ -1910,7 +1910,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00489",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「……そっか」",
@@ -1918,7 +1918,7 @@ ja={
 },
 en={
 {
-"「」",
+"「...I see.」",
 },
 },
 },
@@ -1930,7 +1930,7 @@ ja={
 },
 en={
 {
-"",
+"She smiled.",
 },
 },
 },
@@ -1942,7 +1942,7 @@ ja={
 },
 en={
 {
-"",
+"Her eyes were filled with tears that shone like stars.",
 },
 },
 },
@@ -1950,7 +1950,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00490",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「タンポポは……生命力の強い花なのよ」",
@@ -1958,7 +1958,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Dandelions...have strong vitality for flowers.」",
 },
 },
 },
@@ -1966,7 +1966,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00491",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「アスファルトの裂目から生えることすらあるくらいに」",
@@ -1974,7 +1974,7 @@ ja={
 },
 en={
 {
-"「」",
+"「They can grow in the cracks in asphalt.」",
 },
 },
 },
@@ -1982,7 +1982,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00492",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたも、タンポポのように強く成長してくれたわ」",
@@ -1990,7 +1990,7 @@ ja={
 },
 en={
 {
-"「」",
+"「You've grown up to be as strong as a dandelion.」",
 },
 },
 },
@@ -1998,7 +1998,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00493",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「もう、手放さないでね」",
@@ -2006,7 +2006,7 @@ ja={
 },
 en={
 {
-"「」",
+"「So don't let go of her.」",
 },
 },
 },
@@ -2014,7 +2014,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00494",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたが愛した彼女のそばに、いてあげてね」",
@@ -2022,7 +2022,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Stay by her side.」",
 },
 },
 },
@@ -2030,7 +2030,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00495",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「彼女を幸せにしてあげてね」",
@@ -2038,7 +2038,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Give her happiness.」",
 },
 },
 },
@@ -2046,7 +2046,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00496",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「そして、あなたも幸せになりなさい」",
@@ -2054,7 +2054,7 @@ ja={
 },
 en={
 {
-"「」",
+"「And find happiness yourself.」",
 },
 },
 },
@@ -2062,7 +2062,7 @@ en={
 vo={
 {"vo",file="fem_yuk_00497",ch="yuk"},
 },
-name={name="ゆか",ja="夢歌"},
+name={name="ゆか",ja="夢歌",en="Yuka"},
 ja={
 {
 "「あなたが幸せであることが、姉さんの幸せなんだから」",
@@ -2070,7 +2070,7 @@ ja={
 },
 en={
 {
-"「」",
+"「Because your happiness is mine.」",
 },
 },
 },
@@ -2082,7 +2082,7 @@ ja={
 },
 en={
 {
-"",
+"Dandelion cotton danced through the air.",
 },
 },
 },
@@ -2094,7 +2094,7 @@ ja={
 },
 en={
 {
-"",
+"Riding the wind, flying freely into the night sky.",
 },
 },
 },
@@ -2106,7 +2106,7 @@ ja={
 },
 en={
 {
-"",
+"They scatter all at once.",
 },
 },
 },
@@ -2118,7 +2118,7 @@ ja={
 },
 en={
 {
-"",
+"Alongside her tears----.",
 },
 },
 },
