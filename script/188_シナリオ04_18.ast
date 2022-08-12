@@ -660,7 +660,7 @@ en={
 vo={
 {"vo",file="fem_y04_00003",ch="fem"},
 },
-name={name="保健委員Ｂ"},
+name={name="保健委員Ｂ",ja="保健委員Ｂ",en="HC Member B"},
 ja={
 {
 "「今学期限りで、先生を辞めちゃうんですか……？」",
@@ -676,7 +676,7 @@ en={
 vo={
 {"vo",file="fem_y05_00003",ch="fem"},
 },
-name={name="保健委員Ｃ"},
+name={name="保健委員Ｃ",ja="保健委員Ｃ",en="HC Member C"},
 ja={
 {
 "「私……辞めて欲しくないです……ぐすっ……」",
@@ -852,7 +852,7 @@ en={
 vo={
 {"vo",file="fem_y04_00004",ch="fem"},
 },
-name={name="保健委員Ｂ",ja="保健委員Ｂ",en="HC Member B"},,
+name={name="保健委員Ｂ",ja="保健委員Ｂ",en="HC Member B"},
 ja={
 {
 "「嫌です！」",
@@ -990,7 +990,7 @@ en={
 vo={
 {"vo",file="fem_y04_00005",ch="fem"},
 },
-name={name="保健委員Ｂ",ja="保健委員Ｂ",en="HC Member B"},,
+name={name="保健委員Ｂ",ja="保健委員Ｂ",en="HC Member B"},
 ja={
 {
 "「先生が辞めちゃっても、また会うことはできるんです」",
@@ -1305,7 +1305,7 @@ en={
 vo={
 {"vo",file="fem_y04_00006",ch="fem"},
 },
-name={name="保健委員Ｂ",ja="保健委員Ｂ",en="HC Member B"},,
+name={name="保健委員Ｂ",ja="保健委員Ｂ",en="HC Member B"},
 ja={
 {
 "「絶対絶対っ、また会いに来てくださいね……！」",

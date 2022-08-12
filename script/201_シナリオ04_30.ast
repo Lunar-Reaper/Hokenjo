@@ -2079,7 +2079,7 @@ ja={
 },
 en={
 {
-"They knew the girl that always blew bubbles by the window of the infirmiry.",
+"They knew the girl that always blew bubbles by the window of the infirmary.",
 },
 },
 },
@@ -3153,7 +3153,7 @@ en={
 vo={
 {"vo",file="fem_shi_01914",ch="shi"},
 },
-name={name="シロバナ",ja="白"},
+name={name="シロバナ",ja="白",en="Shiro"},
 ja={
 {
 "「ううん、間違ったわね……」",
