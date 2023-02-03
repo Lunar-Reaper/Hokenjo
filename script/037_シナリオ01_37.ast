@@ -382,7 +382,7 @@ ja={
 },
 en={
 {
-"Awayuki Sakiha and her twin sister Mizuma were eating their lunches in the classroom.",
+"Awayuki Sakiha and her twin sister Mizumi were eating their lunches in the classroom.",
 },
 },
 },
@@ -702,7 +702,7 @@ ja={
 },
 en={
 {
-"「I admit it, I was thinking about sensei...」",
+"「I admit it, I was thinking about Sensei...」",
 },
 },
 },
@@ -982,7 +982,7 @@ en={
 vo={
 {"vo",file="fem_y09_00006",ch="fem"},
 },
-name={name="女子生徒Ｄ"},
+name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Student D"},
 ja={
 {
 "「で、でも……保健の先生って、男の人だよね？」",
