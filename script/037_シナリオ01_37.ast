@@ -838,7 +838,7 @@ en={
 vo={
 {"vo",file="fem_y09_00001",ch="fem"},
 },
-name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Student D"},
+name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Female student D"},
 ja={
 {
 "「あの、咲ちゃん。ちょっといい？」",
@@ -870,7 +870,7 @@ en={
 vo={
 {"vo",file="fem_y09_00002",ch="fem"},
 },
-name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Student D"},
+name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Female student D"},
 ja={
 {
 "「えっとね。絆創膏、持ってないかなって」",
@@ -902,7 +902,7 @@ en={
 vo={
 {"vo",file="fem_y09_00003",ch="fem"},
 },
-name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Student D"},
+name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Female student D"},
 ja={
 {
 "「うん。ルーズリーフで、ちょっと指を切っちゃって」",
@@ -918,7 +918,7 @@ en={
 vo={
 {"vo",file="fem_y09_00004",ch="fem"},
 },
-name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Student D"},
+name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Female student D"},
 ja={
 {
 "「保健委員の咲ちゃんなら、絆創膏を持ってそうかなって思ったんだけど……」",
@@ -950,7 +950,7 @@ en={
 vo={
 {"vo",file="fem_y09_00005",ch="fem"},
 },
-name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Student D"},
+name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Female student D"},
 ja={
 {
 "「あ、そっか。一年のときにそうだったから、イメージがついてたっていうか」",
@@ -982,7 +982,7 @@ en={
 vo={
 {"vo",file="fem_y09_00006",ch="fem"},
 },
-name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Student D"},
+name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Female student D"},
 ja={
 {
 "「で、でも……保健の先生って、男の人だよね？」",
@@ -998,7 +998,7 @@ en={
 vo={
 {"vo",file="fem_y09_00007",ch="fem"},
 },
-name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Student D"},
+name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Female student D"},
 ja={
 {
 "「ちょっと怖いっていうか……近寄りがたいっていうか」",
@@ -1062,7 +1062,7 @@ en={
 vo={
 {"vo",file="fem_y09_00008",ch="fem"},
 },
-name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Student D"},
+name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Female student D"},
 ja={
 {
 "「ありがと！　さすが保健委員の咲ちゃん！」",
@@ -1174,7 +1174,7 @@ en={
 vo={
 {"vo",file="fem_y09_00009",ch="fem"},
 },
-name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Student D"},
+name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Female student D"},
 ja={
 {
 "「あ……行っちゃった」",
@@ -1190,7 +1190,7 @@ en={
 vo={
 {"vo",file="fem_y09_00010",ch="fem"},
 },
-name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Student D"},
+name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Female student D},
 ja={
 {
 "「ちょっとしたケガだし、お昼を食べてからでもよかったのにな」",
@@ -1222,7 +1222,7 @@ en={
 vo={
 {"vo",file="fem_y09_00011",ch="fem"},
 },
-name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Student D"},
+name={name="女子生徒Ｄ",ja="女子生徒Ｄ",en="Female student D"},
 ja={
 {
 "「じゃあまた、保健委員になるのかな？」",

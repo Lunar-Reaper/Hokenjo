@@ -1592,7 +1592,7 @@ en={
 vo={
 {"vo",file="fem_y06_00001",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Girl Student A"},
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「か、風見先生……さようなら」",
@@ -1645,7 +1645,7 @@ en={
 vo={
 {"vo",file="fem_y07_00001",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Girl Student B"},
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「風見先生……さようなら」",
@@ -1674,7 +1674,7 @@ en={
 vo={
 {"vo",file="fem_y07_00002",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Girl Student B"},
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「キャー！」",
@@ -1690,7 +1690,7 @@ en={
 vo={
 {"vo",file="fem_y08_00001",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Girl Student C"},
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「風見先生……さようなら」",
@@ -1719,7 +1719,7 @@ en={
 vo={
 {"vo",file="fem_y08_00002",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Girl Student C"},
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「キャー！」",

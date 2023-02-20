@@ -190,7 +190,7 @@ en={
 vo={
 {"vo",file="fem_y06_00002",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Girl Student A"},
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「…………」",
@@ -206,7 +206,7 @@ en={
 vo={
 {"vo",file="fem_y07_00003",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Girl Student B"},
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「…………」",
@@ -222,7 +222,7 @@ en={
 vo={
 {"vo",file="fem_y08_00003",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Girl Student C"},
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「…………」",
@@ -274,7 +274,7 @@ en={
 vo={
 {"vo",file="fem_y06_00003",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Girl Student A"},
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「風見先生……こんにちは」",
@@ -303,7 +303,7 @@ en={
 vo={
 {"vo",file="fem_y06_00004",ch="fem"},
 },
-name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Girl Student A"},
+name={name="女子生徒Ａ",ja="女子生徒Ａ",en="Female student A"},
 ja={
 {
 "「キャー！」",
@@ -331,7 +331,7 @@ en={
 vo={
 {"vo",file="fem_y07_00004",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Girl Student B"},
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「あ、あの、先生」",
@@ -359,7 +359,7 @@ en={
 vo={
 {"vo",file="fem_y07_00005",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Girl Student B"},
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「私……もしなにか困ったことが起きたら、保健室を訪ねてもいいですか？」",
@@ -400,7 +400,7 @@ en={
 vo={
 {"vo",file="fem_y07_00006",ch="fem"},
 },
-name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Girl Student B"},
+name={name="女子生徒Ｂ",ja="女子生徒Ｂ",en="Female student B"},
 ja={
 {
 "「キャー！　ありがとうございます！」",
@@ -428,7 +428,7 @@ en={
 vo={
 {"vo",file="fem_y08_00004",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Girl Student C"},
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「先生！　私もなにか悩み事ができたら、先生を頼ってもいいですか？」",
@@ -457,7 +457,7 @@ en={
 vo={
 {"vo",file="fem_y08_00005",ch="fem"},
 },
-name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Girl Student C"},
+name={name="女子生徒Ｃ",ja="女子生徒Ｃ",en="Female student C"},
 ja={
 {
 "「ありがとうございます！」",
