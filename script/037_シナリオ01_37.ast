@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="昼・絆創膏をもらいに",ja="昼・絆創膏をもらいに",en="Noon-Receiving a bandaid"},
+{"savetitle",text="昼・絆創膏をもらいに",ja="昼・絆創膏をもらいに",en="Noon-Receiving a band aid"},
 {"msg",no=2},
 {"bg",file="bg09a",path=":bg/",rule="wipe_10",vague=40},
 {"bgm",file="bgm01"},
@@ -878,7 +878,7 @@ ja={
 },
 en={
 {
-"「Umm. I was wondering if you have a bandaid.」",
+"「Umm. I was wondering if you have a band aid.」",
 },
 },
 },
@@ -974,7 +974,7 @@ ja={
 },
 en={
 {
-"「You can go to the infirmary if you need a bandaid.」",
+"「You can go to the infirmary if you need a band aid.」",
 },
 },
 },
@@ -1038,7 +1038,7 @@ ja={
 },
 en={
 {
-"「Saki-chan. How about you get the bandaid for her?」",
+"「Saki-chan. How about you get the band aid for her?」",
 },
 },
 },
@@ -1166,7 +1166,7 @@ ja={
 },
 en={
 {
-"「Anyways, I'm going. But just to get a bandaid.」",
+"「Anyways, I'm going. But just to get a band aid.」",
 },
 },
 },
