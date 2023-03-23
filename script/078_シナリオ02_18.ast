@@ -892,7 +892,7 @@ ja={
 },
 en={
 {
-"Shiro hasn't been saying a thing.",
+"Shiro hasn't said a thing.",
 },
 },
 },
@@ -904,7 +904,7 @@ ja={
 },
 en={
 {
-"I couldn't tell whether her face was red from anger or shame.",
+"I can't tell whether her face is red from anger or shame.",
 },
 },
 },
@@ -1003,7 +1003,7 @@ ja={
 en={
 {
 {"exfont",size="f2"},
-"「...I didn't mind.」",
+"「...I don't mind.」",
 {"exfont"},
 },
 },
@@ -1172,7 +1172,7 @@ ja={
 },
 en={
 {
-"I desire her as intensely as I do because my feelings for her were boundless.",
+"I desire her as intensely as I do because my feelings for her are boundless.",
 },
 },
 },
@@ -1611,7 +1611,7 @@ ja={
 },
 en={
 {
-"There aren't any other guests in the lobby. Sakiha, Mizumi, and Maiko weren't around.",
+"There aren't any other guests in the lobby. Sakiha, Mizumi, and Maiko are likewise absent.",
 },
 },
 },
@@ -2550,7 +2550,7 @@ ja={
 },
 en={
 {
-"「Nobody around me had become an okuribito for a reason like that.」",
+"「Nobody around me became an okuribito for a reason like that.」",
 },
 },
 },
@@ -2642,7 +2642,7 @@ ja={
 },
 en={
 {
-"「You did't hide things from me. And you're not involved with this case either.」",
+"「You didn't hide things from me. And you're not involved with this case either.」",
 },
 },
 },
@@ -2858,7 +2858,7 @@ ja={
 },
 en={
 {
-"「Ya said you're looking for your tamabito sister. If an order from the top prevents ya from doin' so, what would ya do?」",
+"「You said you're looking for your tamabito sister. If an order from the top prevents that, what would you do?」",
 },
 },
 },
